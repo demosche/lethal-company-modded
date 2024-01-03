@@ -24,6 +24,11 @@ Contact me on modding discord if you found bugs or suspected incompatibility wit
 
 ## Changelog
 
+**v0.1.601**
+- Changed version number naming format.
+- Fixed compatibility issue with MirrorDecor by quackandcheese.
+- Added a config option for visor breaking SFX volume.
+
 **v0.1.6**
 - Fixed version number and some typos.
 - Using emote won't cycle through cracks anymore.

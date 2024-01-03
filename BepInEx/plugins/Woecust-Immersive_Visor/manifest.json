@@ -1,6 +1,6 @@
 {
     "name": "Immersive_Visor",
-    "version_number": "0.1.6",
+    "version_number": "0.1.601",
     "website_url": "",
     "description": "Make the visor reactive to the environment and heath. Currently in BETA",
     "dependencies": [
