@@ -1,0 +1,11 @@
+{
+  "name": "SellBodies",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Malcolm-Q/LC-CleaningCompany",
+  "description": "Sell the bodies of dead enemies",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-0.10.0",
+    "Evaisa-HookGenPatcher-0.0.5"
+  ]
+}

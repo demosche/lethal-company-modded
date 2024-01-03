@@ -1,0 +1,155 @@
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\icon.png
+- manifestVersion: 1
+  name: GameMasterDevs-GameMaster
+  authorName: GameMasterDevs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/GameMasterDevs/GameMaster/
+  displayName: GameMaster
+  description: In game mod menu. Also can be compared to minecraft commands.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\GameMasterDevs-GameMaster\icon.png
+- manifestVersion: 1
+  name: Evaisa-HookGenPatcher
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+  displayName: HookGenPatcher
+  description: Generates MonoMod.RuntimeDetour.HookGen's MMHOOK file during the
+    BepInEx preloader phase.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
+- manifestVersion: 1
+  name: Evaisa-LethalLib
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+  displayName: LethalLib
+  description: My modding tools for Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 10
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Evaisa-LethalLib\icon.png
+- manifestVersion: 1
+  name: malco-SellBodies
+  authorName: malco
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/malco/SellBodies/
+  displayName: SellBodies
+  description: Sell the bodies of dead enemies
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.10.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\malco-SellBodies\icon.png
+- manifestVersion: 1
+  name: Woecust-Immersive_Visor
+  authorName: Woecust
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/
+  displayName: Immersive_Visor
+  description: Make the visor reactive to the environment and heath. Currently in BETA
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 6
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Woecust-Immersive_Visor\icon.png
+- manifestVersion: 1
+  name: Thorlar-HealthStation
+  authorName: Thorlar
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation/
+  displayName: HealthStation
+  description: Will heal the player to max health when using the charger station
+    to charge an item.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Thorlar-HealthStation\1.0.1\icon.png
