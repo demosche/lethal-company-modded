@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.2.0
+- Different Masked now spawn with different skins. They no longer all wear the same skin
+
 ## v2.1.0
 - Adjusted default spawn rates as the masked were spawning a tad too often on the small moons
 - Added a true vanilla spawn rate option to the config
