@@ -1,4 +1,6 @@
 # Changelog
+## v2.2.1
+- Fixed typo in readme
 
 ## v2.2.0
 - Different Masked now spawn with different skins. They no longer all wear the same skin

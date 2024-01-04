@@ -17,7 +17,6 @@
 
 ## Known Issues
 + Has several issues with MoreCompany cosmetics. Can not be fixed by me.
-+ Someone has said that the zombie apocalypse random event, once activated, stays on forever until lobby/game restart.
 
 ## Multiplayer
 This mod works in both solo and multiplayer lobbies. Everyone download it.
