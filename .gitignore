@@ -1,4 +1,6 @@
-*
+/*
+/*/
 !/.gitignore
-!*/Test/**
+!Test
+!Test/**
 *.log
