@@ -4,4 +4,4 @@
 !Test
 !Test/**
 **/*.log
-/BepInEx/cache/**
+**/cache/**
