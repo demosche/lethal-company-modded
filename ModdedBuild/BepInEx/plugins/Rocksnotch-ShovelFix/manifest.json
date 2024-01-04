@@ -1,0 +1,10 @@
+{
+    "name": "ShovelFix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Rocksnotch/shovelFix",
+    "description": "Attemps to fix the shovel hitting a wall next to you rather than what you're looking at",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-HookGenPatcher-0.0.5"
+    ]
+}

@@ -926,4 +926,27 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\tinyhoot-ShipLoot\1.0.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\tinyhoot-ShipLoot\icon.png
+- manifestVersion: 1
+  name: Rocksnotch-ShovelFix
+  authorName: Rocksnotch
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rocksnotch/ShovelFix/
+  displayName: ShovelFix
+  description: Attemps to fix the shovel hitting a wall next to you rather than
+    what you're looking at
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Rocksnotch-ShovelFix\1.0.0\icon.png
