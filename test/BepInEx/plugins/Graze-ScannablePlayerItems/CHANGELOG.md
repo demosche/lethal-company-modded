@@ -1,0 +1,1 @@
+Made it so the items arent scannable when the items are in the ship to not intefere or be annoying

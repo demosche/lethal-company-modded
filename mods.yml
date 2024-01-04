@@ -1,0 +1,1054 @@
+- manifestVersion: 1
+  name: 2018-LC_API
+  authorName: "2018"
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
+  displayName: LC_API
+  description: Multipurpose modding API for Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 2
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\2018-LC_API\icon.png
+- manifestVersion: 1
+  name: BepInEx-BepInExPack
+  authorName: BepInEx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
+  displayName: BepInExPack
+  description: BepInEx pack for Mono Unity games. Preconfigured and ready to use.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 4
+    patch: 2100
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\icon.png
+- manifestVersion: 1
+  name: bizzlemip-BiggerLobby
+  authorName: bizzlemip
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/bizzlemip/BiggerLobby/
+  displayName: BiggerLobby
+  description: The original lobby expansion mod! Now with up to 40 players!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - 2018-LC_API-1.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 6
+    patch: 0
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\bizzlemip-BiggerLobby\2.6.0\icon.png
+- manifestVersion: 1
+  name: sqbi_q-LethalLanFixFix
+  authorName: sqbi_q
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/sqbi_q/LethalLanFixFix/
+  displayName: LethalLanFixFix
+  description: Recreation of LethalLanFix, allowing to specify IP address for LAN Sessions
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\sqbi_q-LethalLanFixFix\icon.png
+- manifestVersion: 1
+  name: 5Bit-VoiceHUD
+  authorName: 5Bit
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/
+  displayName: VoiceHUD
+  description: Displays the ingame push-to-talk icon, when detecting voice activity
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\5Bit-VoiceHUD\icon.png
+- manifestVersion: 1
+  name: RugbugRedfern-Skinwalkers
+  authorName: RugbugRedfern
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/
+  displayName: Skinwalkers
+  description: The monsters have learned how to mimic the voices of your friends.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+- manifestVersion: 1
+  name: FlipMods-ReservedItemSlotCore
+  authorName: FlipMods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
+  displayName: ReservedItemSlotCore
+  description: The core mod for all ReservedItemSlot mods. Adds functionality for
+    my ReservedItemSlot mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 6
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
+- manifestVersion: 1
+  name: FlipMods-ReservedFlashlightSlot
+  authorName: FlipMods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
+  displayName: ReservedFlashlightSlot
+  description: Gives a free, dedicated Flashlight slot on the right side of your
+    screen. Can be toggled with [F] to activate the Flashlight at anytime.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - FlipMods-ReservedItemSlotCore-1.7.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
+- manifestVersion: 1
+  name: RickArg-Helmet_Cameras
+  authorName: RickArg
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
+  displayName: Helmet_Cameras
+  description: For monitoring first person cameras on player's helmets. For best
+    "Camera Man" experience.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\RickArg-Helmet_Cameras\icon.png
+- manifestVersion: 1
+  name: tinyhoot-ShipLoot
+  authorName: tinyhoot
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
+  displayName: ShipLoot
+  description: Reliably shows the total value of all scrap in your ship.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\tinyhoot-ShipLoot\1.0.0\icon.png
+- manifestVersion: 1
+  name: Rune580-LethalCompany_InputUtils
+  authorName: Rune580
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
+  displayName: LethalCompany_InputUtils
+  description: Utilities for creating InputActions and having them be accessible in game
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 4
+    patch: 4
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
+- manifestVersion: 1
+  name: Suskitech-AlwaysHearActiveWalkies
+  authorName: Suskitech
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/
+  displayName: AlwaysHearActiveWalkies
+  description: Allows you to hear active walkies even when you're not holding them.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Suskitech-AlwaysHearActiveWalkies\icon.png
+- manifestVersion: 1
+  name: AllToasters-QuickRestart
+  authorName: AllToasters
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AllToasters/QuickRestart/
+  displayName: QuickRestart
+  description: Allows you to easily restart your game via a command.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\AllToasters-QuickRestart\icon.png
+- manifestVersion: 1
+  name: Blorb-WeatherMultipliers
+  authorName: Blorb
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/
+  displayName: WeatherMultipliers
+  description: Moons with active weather will contain scrap with higher value
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Blorb-WeatherMultipliers\icon.png
+- manifestVersion: 1
+  name: NotAtomicBomb-TerminalApi
+  authorName: NotAtomicBomb
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/
+  displayName: TerminalApi
+  description: A Terminal Api
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
+- manifestVersion: 1
+  name: EliteMasterEric-Coroner
+  authorName: EliteMasterEric
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/
+  displayName: Coroner
+  description: Rework the Performance Report with new info, including cause of death.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
+- manifestVersion: 1
+  name: Sakura-LandminesForAll
+  authorName: Sakura
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sakura/LandminesForAll/
+  displayName: LandminesForAll
+  description: Monsters trigger landmines too.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Sakura-LandminesForAll\icon.png
+- manifestVersion: 1
+  name: LethalOrg-ProgressiveDeadline
+  authorName: LethalOrg
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/LethalOrg/ProgressiveDeadline/
+  displayName: ProgressiveDeadline
+  description: Deadline scales with quotas
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 0
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\LethalOrg-ProgressiveDeadline\2.0.0\icon.png
+- manifestVersion: 1
+  name: Evaisa-HookGenPatcher
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
+  displayName: HookGenPatcher
+  description: Generates MonoMod.RuntimeDetour.HookGen's MMHOOK file during the
+    BepInEx preloader phase.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
+- manifestVersion: 1
+  name: Evaisa-LethalLib
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/
+  displayName: LethalLib
+  description: My modding tools for Lethal Company
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 10
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Evaisa-LethalLib\icon.png
+- manifestVersion: 1
+  name: Electric131-OuijaBoard
+  authorName: Electric131
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Electric131/OuijaBoard/
+  displayName: OuijaBoard
+  description: Give the dead the ability to communicate through a Ouija Board.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.6.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Electric131-OuijaBoard\icon.png
+- manifestVersion: 1
+  name: Thorlar-HealthStation
+  authorName: Thorlar
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation/
+  displayName: HealthStation
+  description: Will heal the player to max health when using the charger station
+    to charge an item.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Thorlar-HealthStation\icon.png
+- manifestVersion: 1
+  name: SirTyler-BetterTeleporter
+  authorName: SirTyler
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SirTyler/BetterTeleporter/
+  displayName: BetterTeleporter
+  description: Better Teleporters for Lethal Company.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\SirTyler-BetterTeleporter\icon.png
+- manifestVersion: 1
+  name: ATK-UnlimitedTZP
+  authorName: ATK
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ATK/UnlimitedTZP/
+  displayName: UnlimitedTZP
+  description: Tired of running out of inhalent? Look no further!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 9
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\ATK-UnlimitedTZP\icon.png
+- manifestVersion: 1
+  name: rooni-BetterTerminal
+  authorName: rooni
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/rooni/BetterTerminal/
+  displayName: BetterTerminal
+  description: A lethal company mod for quality of life improvements on the terminal.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\rooni-BetterTerminal\icon.png
+- manifestVersion: 1
+  name: darmuh-ghostCodes
+  authorName: darmuh
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/
+  displayName: ghostCodes
+  description: There's a ghost in the terminal and it's sending random broadcast
+    codes to open and close doors!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\darmuh-ghostCodes\icon.png
+- manifestVersion: 1
+  name: Evaisa-LethalThings
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
+  displayName: LethalThings
+  description: Adds 9 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
+    game mechanic.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.7.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 8
+    patch: 8
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Evaisa-LethalThings\icon.png
+- manifestVersion: 1
+  name: NavarroTech-MoreTerminalCommands
+  authorName: NavarroTech
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NavarroTech/MoreTerminalCommands/
+  displayName: MoreTerminalCommands
+  description: Adds new terminal commands like teleport and lights
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - NotAtomicBomb-TerminalApi-1.3.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\NavarroTech-MoreTerminalCommands\icon.png
+- manifestVersion: 1
+  name: Graze-ScannablePlayerItems
+  authorName: Graze
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Graze/ScannablePlayerItems/
+  displayName: ScannablePlayerItems
+  description: Makes Prevoisly Unscanbale Items Scanbale
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Graze-ScannablePlayerItems\icon.png
+- manifestVersion: 1
+  name: TheBeeTeam-LandmineFix
+  authorName: TheBeeTeam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TheBeeTeam/LandmineFix/
+  displayName: LandmineFix
+  description: Fixes landmine behaviour in v45
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\TheBeeTeam-LandmineFix\icon.png
+- manifestVersion: 1
+  name: AllToasters-SpectateEnemies
+  authorName: AllToasters
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/
+  displayName: SpectateEnemies
+  description: Allows you to spectate enemies when dead.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.4.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+- manifestVersion: 1
+  name: doggosuki-Huntdown
+  authorName: doggosuki
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/
+  displayName: Huntdown
+  description: Each day a mission is given to hunt down a specific monster, which
+    drops a scrap reward when hunted. Reward values are configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\doggosuki-Huntdown\icon.png
+- manifestVersion: 1
+  name: Ryokune-CompatibilityChecker
+  authorName: Ryokune
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker/
+  displayName: CompatibilityChecker
+  description: Enhances your multiplayer experience by notifying you of the
+    required mods when failing to join modded servers.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 6
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Ryokune-CompatibilityChecker\1.1.6\icon.png
+- manifestVersion: 1
+  name: HomelessGinger-MaskedEnemyOverhaul
+  authorName: HomelessGinger
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
+  displayName: MaskedEnemyOverhaul
+  description: Removes the mask from the mimic enemy, wears a suit of a random
+    player (even modded ones), allows spawning on all moons without needing the
+    mask items, and a zombie apocalypse?
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
+- manifestVersion: 1
+  name: tinyhoot-ShipLobby
+  authorName: tinyhoot
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/
+  displayName: ShipLobby
+  description: Let people join late whenever you're in orbit in between missions.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\tinyhoot-ShipLobby\icon.png
+- manifestVersion: 1
+  name: kuba6000-LC_Masked_Fix
+  authorName: kuba6000
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/
+  displayName: LC_Masked_Fix
+  description: Fixes mimic / masked bug where you can't look around after the kill
+    is interrupted.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
+- manifestVersion: 1
+  name: Monkeytype-HidePlayerNames
+  authorName: Monkeytype
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Monkeytype/HidePlayerNames/
+  displayName: HidePlayerNames
+  description: Simple mod to hide player names
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Monkeytype-HidePlayerNames\icon.png
+- manifestVersion: 1
+  name: boxofbiscuits97-QuotaRollover
+  authorName: boxofbiscuits97
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/
+  displayName: QuotaRollover
+  description: Anti-hoarding technology that only removes required credits for the
+    quota instead of setting progress to 0
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\boxofbiscuits97-QuotaRollover\icon.png
+- manifestVersion: 1
+  name: Hamunii-JetpacksCarryBigItems
+  authorName: Hamunii
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hamunii/JetpacksCarryBigItems/
+  displayName: JetpacksCarryBigItems
+  description: Allows the use of the jetpack while holding a two handed item.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Hamunii-JetpacksCarryBigItems\icon.png
+- manifestVersion: 1
+  name: Piggy-JesterStompShake
+  authorName: Piggy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Piggy/JesterStompShake/
+  displayName: JesterStompShake
+  description: Shake the screen when the Jester chases you.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 8
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Piggy-JesterStompShake\icon.png
+- manifestVersion: 1
+  name: Jamil-Corporate_Restructure
+  authorName: Jamil
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/
+  displayName: Corporate_Restructure
+  description: A QoL Overhaul for Corporate Executives
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\Jamil-Corporate_Restructure\icon.png
+- manifestVersion: 1
+  name: MrHydralisk-EnhancedRadarBooster
+  authorName: MrHydralisk
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedRadarBooster/
+  displayName: EnhancedRadarBooster
+  description: Mod for Lethal Company, that enhance Radar Booster
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
+- manifestVersion: 1
+  name: saint_kendrick-Lethal_Doors
+  authorName: saint_kendrick
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/saint_kendrick/Lethal_Doors/
+  displayName: Lethal_Doors
+  description: The ships hangar doors become deadly If you're too close while
+    closing. You & enemies end up terminated or severely injured if caught in
+    the door. The hanger doors in the Ship should be just as Lethal as
+    everything else...
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\saint_kendrick-Lethal_Doors\icon.png
+- manifestVersion: 1
+  name: taffyko-BetterSprayPaint
+  authorName: taffyko
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/
+  displayName: BetterSprayPaint
+  description: Infinite spray paint, significantly more responsive and reliable
+    painting, longer range, quieter sounds, and an erase feature
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
+- manifestVersion: 1
+  name: JunLethalCompany-GamblingMachineAtTheCompany
+  authorName: JunLethalCompany
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/JunLethalCompany/GamblingMachineAtTheCompany/
+  displayName: GamblingMachineAtTheCompany
+  description: Adds a gambling machine to gamble your scraps at The Company moon.
+    A great last ditch effort to not get ejected... or maybe you're just a
+    gambling addict. Clients automatically sync with hosts gambling
+    configuration when they join. Good luck!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png
+- manifestVersion: 1
+  name: FlipMods-ReservedSprayPaintSlot
+  authorName: FlipMods
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/
+  displayName: ReservedSprayPaintSlot
+  description: Gives a free, dedicated SprayPaint slot on the right side of your
+    screen! Required ReservedItemSlotCore mod.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - FlipMods-ReservedItemSlotCore-1.7.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\test
+    mods\BepInEx\plugins\FlipMods-ReservedSprayPaintSlot\icon.png
+- manifestVersion: 1
+  name: Woecust-Immersive_Visor
+  authorName: Woecust
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Woecust/Immersive_Visor/
+  displayName: Immersive_Visor
+  description: Make the visor reactive to the environment and heath. Currently in BETA
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 601
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Woecust-Immersive_Visor\0.1.601\icon.png
