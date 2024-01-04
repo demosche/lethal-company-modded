@@ -974,27 +974,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
 - manifestVersion: 1
-  name: Mom_Llama-Lethal_Company_Enhancer
-  authorName: Mom_Llama
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer/
-  displayName: Lethal_Company_Enhancer
-  description: A tweaks mod to enhance small group or solo play
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 1
-    patch: 10
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Mom_Llama-Lethal_Company_Enhancer\icon.png
-- manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb
   websiteUrl: https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/Terminal_Clock/
@@ -1081,4 +1060,4 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RickArg-Helmet_Cameras\2.1.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RickArg-Helmet_Cameras\icon.png

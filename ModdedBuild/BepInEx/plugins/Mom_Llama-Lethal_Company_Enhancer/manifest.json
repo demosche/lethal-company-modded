@@ -1,9 +1,0 @@
-{
-  "name": "Lethal_Company_Enhancer",
-  "version_number": "0.1.10",
-  "website_url": "https://github.com/Crunchepillar/Lethal-Company-Enhancer",
-  "description": "A tweaks mod to enhance small group or solo play",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
-}
