@@ -1,0 +1,9 @@
+{
+    "name": "JetpackHandling",
+    "version_number": "1.0.3",
+    "website_url": "https://www.startingtownstudio.com",
+    "description": "Improves handling of jetpack. Alters gravity and damage conditions when equipped to keep you safer when the jetpack is equipped. Makes hovering with a jetpack far easier.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
