@@ -148,28 +148,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
 - manifestVersion: 1
-  name: RickArg-Helmet_Cameras
-  authorName: RickArg
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
-  displayName: Helmet_Cameras
-  description: For monitoring first person cameras on player's helmets. For best
-    "Camera Man" experience.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 1
-    patch: 5
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RickArg-Helmet_Cameras\icon.png
-- manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
@@ -1081,4 +1059,26 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sligili-More_Emotes\1.2.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sligili-More_Emotes\icon.png
+- manifestVersion: 1
+  name: RickArg-Helmet_Cameras
+  authorName: RickArg
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
+  displayName: Helmet_Cameras
+  description: For monitoring first person cameras on player's helmets. For best
+    "Camera Man" experience.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RickArg-Helmet_Cameras\2.1.5\icon.png
