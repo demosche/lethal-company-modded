@@ -883,3 +883,47 @@
     patch: 601
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Woecust-Immersive_Visor\icon.png
+- manifestVersion: 1
+  name: TwinDimensionalProductions-CoilHeadStare
+  authorName: TwinDimensionalProductions
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/
+  displayName: CoilHeadStare
+  description: Makes the Coilhead slowly turn and face you even while you are
+    looking directly at it. Reminding you that it only needs you to falter for a
+    single moment.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TwinDimensionalProductions-CoilHeadStare\icon.png
+- manifestVersion: 1
+  name: tinyhoot-ShipLoot
+  authorName: tinyhoot
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/
+  displayName: ShipLoot
+  description: Reliably shows the total value of all scrap in your ship.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\tinyhoot-ShipLoot\1.0.0\icon.png
