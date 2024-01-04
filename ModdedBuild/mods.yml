@@ -949,4 +949,26 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Rocksnotch-ShovelFix\1.0.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rocksnotch-ShovelFix\icon.png
+- manifestVersion: 1
+  name: Nebulaetrix-ScanFix
+  authorName: Nebulaetrix
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nebulaetrix/ScanFix/
+  displayName: ScanFix
+  description: Fixes the scan command in the terminal to display the total true
+    value of scrap as well as adding an inside scan for when you're in orbit
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Nebulaetrix-ScanFix\1.0.3\icon.png
