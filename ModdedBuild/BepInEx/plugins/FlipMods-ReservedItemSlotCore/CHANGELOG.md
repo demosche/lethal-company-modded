@@ -1,3 +1,5 @@
+# 1.7.7
++ Potential fix for the infamous de-sync issue.
 # 1.7.6
 + Gave internal assembly access to LuckE's ReservedPersonalBoomboxSlot mod.
 # 1.7.5

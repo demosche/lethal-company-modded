@@ -1,6 +1,17 @@
+### 1.3.0
+
+- Added a new mission, "The Bug Mafia", along with their config options. Don't mess with them
+- Added a config option to change the % chance of receiving a mission in general (for people who don't want a mission every single time they land)
+- Added the terminal command 'target' to remind you of your mission if it has been drowned out in the chat (this feature is host only for now). Doesn't work if display target is off in the config
+- Added a config option to 'display target' to prevent any message popping up when a mission is received in case you want that (thank you Moroxide for the suggestion)
+- If you do not complete your mission, and 'display target' was set to off, then when you leave the moon it will tell you what your target was (thank you Dnische for the suggestion)
+- Ordered the config correctly
+- Updated README with more up to date information
+- Rewrote code to allow for missions involving multiple enemies, if you have any fun ideas for this let me know in the modding discord linked at the bottom :D
+
 ### 1.2.1
 
-- Re-added lunge to the Good Boy, it was just causing more problems removing it than keeping it Lowered the default reward a bit to reflect the change
+- Re-added lunge to the Good Boy, it was just causing more problems removing it than keeping it. Lowered the default reward a bit to reflect the change
 - Fixed a bug which prevented outdoor dogs from lunging too
 
 ### 1.2.0
