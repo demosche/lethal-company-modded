@@ -1,7 +1,7 @@
 /*
 /*/
 !/.gitignore
-!Test
-!Test/**
+!ModdedBuild
+!ModdedBuild/**
 **/*.log
 **/cache/**
