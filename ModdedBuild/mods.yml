@@ -18,7 +18,7 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
@@ -38,7 +38,7 @@
     minor: 4
     patch: 2100
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BepInEx-BepInExPack\5.4.2100\icon.png
 - manifestVersion: 1
   name: sqbi_q-LethalLanFixFix
   authorName: sqbi_q
@@ -59,7 +59,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\sqbi_q-LethalLanFixFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\sqbi_q-LethalLanFixFix\icon.png
 - manifestVersion: 1
   name: 5Bit-VoiceHUD
   authorName: 5Bit
@@ -80,7 +80,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\5Bit-VoiceHUD\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\5Bit-VoiceHUD\icon.png
 - manifestVersion: 1
   name: RugbugRedfern-Skinwalkers
   authorName: RugbugRedfern
@@ -101,7 +101,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -123,7 +123,7 @@
     minor: 7
     patch: 7
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\1.7.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -146,7 +146,7 @@
     minor: 5
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
 - manifestVersion: 1
   name: RickArg-Helmet_Cameras
   authorName: RickArg
@@ -168,7 +168,7 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RickArg-Helmet_Cameras\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RickArg-Helmet_Cameras\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -189,7 +189,7 @@
     minor: 4
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
 - manifestVersion: 1
   name: Suskitech-AlwaysHearActiveWalkies
   authorName: Suskitech
@@ -210,7 +210,7 @@
     minor: 4
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Suskitech-AlwaysHearActiveWalkies\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Suskitech-AlwaysHearActiveWalkies\icon.png
 - manifestVersion: 1
   name: AllToasters-QuickRestart
   authorName: AllToasters
@@ -231,7 +231,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-QuickRestart\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-QuickRestart\icon.png
 - manifestVersion: 1
   name: Blorb-WeatherMultipliers
   authorName: Blorb
@@ -252,7 +252,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Blorb-WeatherMultipliers\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Blorb-WeatherMultipliers\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-TerminalApi
   authorName: NotAtomicBomb
@@ -273,7 +273,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-Coroner
   authorName: EliteMasterEric
@@ -294,7 +294,7 @@
     minor: 5
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -315,7 +315,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-HookGenPatcher\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalLib
   authorName: Evaisa
@@ -337,7 +337,7 @@
     minor: 10
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
@@ -359,7 +359,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Electric131-OuijaBoard\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Electric131-OuijaBoard\icon.png
 - manifestVersion: 1
   name: Thorlar-HealthStation
   authorName: Thorlar
@@ -381,7 +381,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Thorlar-HealthStation\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Thorlar-HealthStation\icon.png
 - manifestVersion: 1
   name: SirTyler-BetterTeleporter
   authorName: SirTyler
@@ -402,7 +402,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SirTyler-BetterTeleporter\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SirTyler-BetterTeleporter\icon.png
 - manifestVersion: 1
   name: ATK-UnlimitedTZP
   authorName: ATK
@@ -423,7 +423,7 @@
     minor: 9
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ATK-UnlimitedTZP\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ATK-UnlimitedTZP\icon.png
 - manifestVersion: 1
   name: rooni-BetterTerminal
   authorName: rooni
@@ -444,7 +444,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\rooni-BetterTerminal\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\rooni-BetterTerminal\icon.png
 - manifestVersion: 1
   name: darmuh-ghostCodes
   authorName: darmuh
@@ -466,7 +466,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -490,7 +490,7 @@
     minor: 8
     patch: 8
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalThings\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalThings\icon.png
 - manifestVersion: 1
   name: NavarroTech-MoreTerminalCommands
   authorName: NavarroTech
@@ -512,7 +512,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NavarroTech-MoreTerminalCommands\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NavarroTech-MoreTerminalCommands\icon.png
 - manifestVersion: 1
   name: Graze-ScannablePlayerItems
   authorName: Graze
@@ -533,7 +533,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Graze-ScannablePlayerItems\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Graze-ScannablePlayerItems\icon.png
 - manifestVersion: 1
   name: TheBeeTeam-LandmineFix
   authorName: TheBeeTeam
@@ -554,7 +554,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheBeeTeam-LandmineFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheBeeTeam-LandmineFix\icon.png
 - manifestVersion: 1
   name: AllToasters-SpectateEnemies
   authorName: AllToasters
@@ -576,7 +576,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
 - manifestVersion: 1
   name: doggosuki-Huntdown
   authorName: doggosuki
@@ -598,7 +598,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\doggosuki-Huntdown\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\doggosuki-Huntdown\icon.png
 - manifestVersion: 1
   name: HomelessGinger-MaskedEnemyOverhaul
   authorName: HomelessGinger
@@ -620,7 +620,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
@@ -641,7 +641,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\tinyhoot-ShipLobby\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\tinyhoot-ShipLobby\icon.png
 - manifestVersion: 1
   name: kuba6000-LC_Masked_Fix
   authorName: kuba6000
@@ -662,7 +662,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
 - manifestVersion: 1
   name: Monkeytype-HidePlayerNames
   authorName: Monkeytype
@@ -683,7 +683,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Monkeytype-HidePlayerNames\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Monkeytype-HidePlayerNames\icon.png
 - manifestVersion: 1
   name: boxofbiscuits97-QuotaRollover
   authorName: boxofbiscuits97
@@ -705,7 +705,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\boxofbiscuits97-QuotaRollover\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\boxofbiscuits97-QuotaRollover\icon.png
 - manifestVersion: 1
   name: Hamunii-JetpacksCarryBigItems
   authorName: Hamunii
@@ -726,7 +726,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Hamunii-JetpacksCarryBigItems\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Hamunii-JetpacksCarryBigItems\icon.png
 - manifestVersion: 1
   name: Piggy-JesterStompShake
   authorName: Piggy
@@ -747,7 +747,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Piggy-JesterStompShake\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Piggy-JesterStompShake\icon.png
 - manifestVersion: 1
   name: MrHydralisk-EnhancedRadarBooster
   authorName: MrHydralisk
@@ -768,7 +768,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
 - manifestVersion: 1
   name: saint_kendrick-Lethal_Doors
   authorName: saint_kendrick
@@ -792,7 +792,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\saint_kendrick-Lethal_Doors\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\saint_kendrick-Lethal_Doors\icon.png
 - manifestVersion: 1
   name: taffyko-BetterSprayPaint
   authorName: taffyko
@@ -814,7 +814,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
 - manifestVersion: 1
   name: JunLethalCompany-GamblingMachineAtTheCompany
   authorName: JunLethalCompany
@@ -838,7 +838,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedSprayPaintSlot
   authorName: FlipMods
@@ -861,7 +861,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedSprayPaintSlot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedSprayPaintSlot\icon.png
 - manifestVersion: 1
   name: Woecust-Immersive_Visor
   authorName: Woecust
@@ -882,7 +882,7 @@
     minor: 1
     patch: 601
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Woecust-Immersive_Visor\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Woecust-Immersive_Visor\icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-CoilHeadStare
   authorName: TwinDimensionalProductions
@@ -905,7 +905,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TwinDimensionalProductions-CoilHeadStare\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TwinDimensionalProductions-CoilHeadStare\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLoot
   authorName: tinyhoot
@@ -926,7 +926,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\tinyhoot-ShipLoot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\tinyhoot-ShipLoot\icon.png
 - manifestVersion: 1
   name: Rocksnotch-ShovelFix
   authorName: Rocksnotch
@@ -949,7 +949,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rocksnotch-ShovelFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rocksnotch-ShovelFix\icon.png
 - manifestVersion: 1
   name: Nebulaetrix-ScanFix
   authorName: Nebulaetrix
@@ -971,4 +971,27 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Nebulaetrix-ScanFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Nebulaetrix-ScanFix\icon.png
+- manifestVersion: 1
+  name: TheFluff-FairAI
+  authorName: TheFluff
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/
+  displayName: FairAI
+  description: Mod To Make Entities Less Racist. Everyone that can die will die by
+    stepping on mines, boombas, turrets, and config support. Now with more
+    config options!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.2.5\icon.png
