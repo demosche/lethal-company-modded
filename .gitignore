@@ -7,3 +7,4 @@
 **/cache/**
 !/modListGenerator.ps1
 !/README.md
+!/.gitattributes
