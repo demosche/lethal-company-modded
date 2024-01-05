@@ -36,3 +36,6 @@ if ($reader -ne $null) {
 }
 $lines | Out-File -FilePath $PSScriptRoot"\README.md"
 Write-Host "The mod list is updated." "Number of mods is"$c
+Start-Sleep -Seconds 15
+exit
+Write-Host Script End
