@@ -54,5 +54,5 @@ List of mods:<br>
  HideChat  1.0.0<br>
  LethalAutocomplete  0.3.0<br>
  HoarderBugUseItems  1.0.3<br>
- ItemDropCycler  1.1.0<br>
+ LCLightsStartOffMod  2.0.5<br>
 
