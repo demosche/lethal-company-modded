@@ -51,4 +51,5 @@ List of mods:<br>
  More_Emotes  1.2.2<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.0.0<br>
+ HideChat  1.0.0<br>
 
