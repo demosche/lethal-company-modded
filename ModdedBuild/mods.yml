@@ -1192,4 +1192,26 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\joejoejoe-LCLightsStartOffMod\2.0.5\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\joejoejoe-LCLightsStartOffMod\icon.png
+- manifestVersion: 1
+  name: boxofbiscuits97-ItemDropCycler
+  authorName: boxofbiscuits97
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/ItemDropCycler/
+  displayName: ItemDropCycler
+  description: Dropping Items shifts the selected slot over to the next. Good for
+    fast dropping and the item counter.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-ItemDropCycler\1.1.0\icon.png

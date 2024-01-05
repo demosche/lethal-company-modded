@@ -56,4 +56,5 @@ List of mods:<br>
  LethalAutocomplete  0.3.0<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>
+ ItemDropCycler  1.1.0<br>
 
