@@ -55,4 +55,5 @@ List of mods:<br>
  InfiniteEmote  1.2.1<br>
  LethalAutocomplete  0.3.0<br>
  HoarderBugUseItems  1.0.3<br>
+ LCLightsStartOffMod  2.0.5<br>
 
