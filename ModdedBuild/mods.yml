@@ -532,7 +532,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheBeeTeam-LandmineFix\1.0.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheBeeTeam-LandmineFix\icon.png
 - manifestVersion: 1
   name: AllToasters-SpectateEnemies
   authorName: AllToasters
@@ -1104,29 +1104,6 @@
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Monkeytype-HideChat\icon.png
 - manifestVersion: 1
-  name: KlutzyBubbles-InfiniteEmote
-  authorName: KlutzyBubbles
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/
-  displayName: InfiniteEmote
-  description: "[Configurable] Loosens the CheckConditionsForEmote to allow
-    emoting while running and jumping"
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Rune580-LethalCompany_InputUtils-0.4.2
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 1
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KlutzyBubbles-InfiniteEmote\icon.png
-- manifestVersion: 1
   name: red_eye-LethalAutocomplete
   authorName: red_eye
   websiteUrl: https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/
@@ -1170,29 +1147,6 @@
     patch: 3
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mattplays-HoarderBugUseItems\icon.png
-- manifestVersion: 1
-  name: joejoejoe-LCLightsStartOffMod
-  authorName: joejoejoe
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/joejoejoe/LCLightsStartOffMod/
-  displayName: LCLightsStartOffMod
-  description: The factory lights start off! Find the breaker box to turn them
-    back on. Alternatively, choose a custom chance for the lights to turn off.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - NotAtomicBomb-TerminalApi-1.4.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 0
-    patch: 5
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\joejoejoe-LCLightsStartOffMod\icon.png
 - manifestVersion: 1
   name: boxofbiscuits97-ItemDropCycler
   authorName: boxofbiscuits97
