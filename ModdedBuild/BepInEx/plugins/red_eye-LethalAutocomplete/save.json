@@ -1,138 +1,2796 @@
 {
-  "Words": {
-    "Buy": 10,
-    "ProFlashlight": 10,
-    "Money": 7,
-    "Confirm": 100,
-    "Deny": 100,
-    "Help": 10,
-    "Info": 10,
-    "Store": 12,
-    "SurvivalKit": 8,
-    "Flashlight": 10,
-    "Lockpicker": 10,
-    "Mapper": 10,
-    "Shovel": 10,
-    "Jetpack": 10,
-    "BoomBox": 10,
-    "Bestiary": 10,
-    "StunGrenade": 10,
-    "CheatResetCredits": 0,
-    "View": 10,
-    "InsideShipCam": 10,
-    "Moons": 12,
-    "56-Vow": 10,
-    "41-Experimentation": 10,
-    "220-Assurance": 10,
-    "21-Offense": 10,
-    "Route": 10,
-    "Television": 10,
-    "Teleporter": 10,
-    "85-Rend": 10,
-    "61-March": 10,
-    "7-Dine": 10,
-    "8-Titan": 10,
-    "CompanyMoon": 10,
-    "WalkieTalkie": 10,
-    "Spray paint": 10,
-    "Bracken": 10,
-    "ForestGiant": 10,
-    "EarthLeviathan": 10,
-    "LassoMan": 10,
-    "Puffer": 10,
-    "Snare flea": 10,
-    "EyelessDog": 10,
-    "Hoarding bug": 10,
-    "BunkerSpider": 10,
-    "Hygrodere": 10,
-    "CoilHead": 10,
-    "Manticoil": 10,
-    "Baboon hawk": 10,
-    "Nutcracker": 10,
-    "Circuit bee": 10,
-    "Locusts": 10,
-    "Thumper": 10,
-    "Jester": 10,
-    "Suits": 8,
-    "Upgrades": 10,
-    "TZPInhalant": 10,
-    "GreenSuit": 10,
-    "HazardSuit": 10,
-    "PajamaSuit": 10,
-    "CozyLights": 10,
-    "Sigurd": 10,
-    "SignalTranslator": 10,
-    "Toilet": 10,
-    "RecordPlayer": 10,
-    "Shower": 10,
-    "Table": 10,
-    "RomanticTable": 10,
-    "FileCabinetDefault": 10,
-    "CupboardDefault": 10,
-    "Bunkbeds": 10,
-    "Storage": 11,
-    "Other": 10,
-    "Scan": 10,
-    "B3": 8,
-    "C1": 8,
-    "C2": 8,
-    "C7": 8,
-    "D6": 8,
-    "F2": 8,
-    "H5": 8,
-    "I1": 8,
-    "J6": 8,
-    "K9": 8,
-    "L0": 8,
-    "M6": 8,
-    "M9": 8,
-    "O5": 8,
-    "P1": 8,
-    "R2": 8,
-    "R4": 8,
-    "T2": 8,
-    "U2": 8,
-    "U9": 8,
-    "V0": 8,
-    "X8": 8,
-    "Y9": 8,
-    "Z3": 8,
-    "LogFile1Keyword": 0,
-    "LogFile2Keyword": 0,
-    "LogFile3Keyword": 0,
-    "LogFile4Keyword": 0,
-    "LogFile5Keyword": 0,
-    "LogFile6Keyword": 0,
-    "LogFile7Keyword": 0,
-    "LogFile8Keyword": 0,
-    "LogFile9Keyword": 0,
-    "LogFile10Keyword": 0,
-    "LogFile11Keyword": 0,
-    "LogFile12Keyword": 0,
-    "ZapGun": 10,
-    "monitor": 10,
-    "Switch": 10,
-    "Loud horn": 10,
-    "ExtensionLadder": 10,
-    "Inverse teleporter": 10,
-    "JackOLantern": 10,
-    "RadarBooster": 10,
-    "Eject": 10,
-    "WelcomeMat": 10,
-    "Goldfish": 10,
-    "PlushiePajamaMan": 10,
-    "Experimentation": 10,
-    "Assurance": 10,
-    "Vow": 10,
-    "Offense": 10,
-    "March": 10,
-    "Rend": 10,
-    "Dine": 10,
-    "Titan": 10,
-    "ouija-board": 10,
-    "": 10,
-    "boombas": 10
-  },
+  "Words": [
+    {
+      "Word": "Buy",
+      "Children": [
+        {
+          "Word": "ProFlashlight",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Flashlight",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Lockpicker",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Mapper",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "ZapGun",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Shovel",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "BoomBox",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "WalkieTalkie",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "SurvivalKit",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "GreenSuit",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "HazardSuit",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "PajamaSuit",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "CozyLights",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "StunGrenade",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Jetpack",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Television",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Teleporter",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Shower",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Toilet",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "RecordPlayer",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Table",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "RomanticTable",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "FileCabinetDefault",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "CupboardDefault",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Bunkbeds",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "TZPInhalant",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Loud",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "ExtensionLadder",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Inverse",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "JackOLantern",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "RadarBooster",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "WelcomeMat",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Goldfish",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "PlushiePajamaMan",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "SignalTranslator",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        },
+        {
+          "Word": "Spray",
+          "Children": [
+            {
+              "Word": "1",
+              "Children": [],
+              "Weight": 9
+            },
+            {
+              "Word": "2",
+              "Children": [],
+              "Weight": 8
+            },
+            {
+              "Word": "3",
+              "Children": [],
+              "Weight": 7
+            },
+            {
+              "Word": "4",
+              "Children": [],
+              "Weight": 6
+            },
+            {
+              "Word": "5",
+              "Children": [],
+              "Weight": 5
+            },
+            {
+              "Word": "6",
+              "Children": [],
+              "Weight": 4
+            },
+            {
+              "Word": "7",
+              "Children": [],
+              "Weight": 3
+            },
+            {
+              "Word": "8",
+              "Children": [],
+              "Weight": 2
+            },
+            {
+              "Word": "9",
+              "Children": [],
+              "Weight": 1
+            }
+          ],
+          "Weight": 10
+        }
+      ],
+      "Weight": 15
+    },
+    {
+      "Word": "ProFlashlight",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Money",
+      "Children": [],
+      "Weight": 5
+    },
+    {
+      "Word": "Confirm",
+      "Children": [],
+      "Weight": 20
+    },
+    {
+      "Word": "Deny",
+      "Children": [],
+      "Weight": 20
+    },
+    {
+      "Word": "Help",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Store",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "SurvivalKit",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Flashlight",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Lockpicker",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Mapper",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Shovel",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Jetpack",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "BoomBox",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Bestiary",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "StunGrenade",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "CheatResetCredits",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "View",
+      "Children": [
+        {
+          "Word": "LogFile1Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile2Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile3Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile4Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile5Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile6Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile7Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile8Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile9Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile10Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile11Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "LogFile12Keyword",
+          "Children": [],
+          "Weight": 0
+        },
+        {
+          "Word": "monitor",
+          "Children": [],
+          "Weight": 10
+        }
+      ],
+      "Weight": 10
+    },
+    {
+      "Word": "InsideShipCam",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Moons",
+      "Children": [],
+      "Weight": 20
+    },
+    {
+      "Word": "56-Vow",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "41-Experimentation",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "220-Assurance",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "21-Offense",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Route",
+      "Children": [
+        {
+          "Word": "experimentation",
+          "Children": [],
+          "Weight": 45
+        },
+        {
+          "Word": "assurance",
+          "Children": [],
+          "Weight": 44
+        },
+        {
+          "Word": "vow",
+          "Children": [],
+          "Weight": 43
+        },
+        {
+          "Word": "company",
+          "Children": [],
+          "Weight": 50
+        },
+        {
+          "Word": "march",
+          "Children": [],
+          "Weight": 42
+        },
+        {
+          "Word": "rend",
+          "Children": [],
+          "Weight": 41
+        },
+        {
+          "Word": "dine",
+          "Children": [],
+          "Weight": 40
+        },
+        {
+          "Word": "offense",
+          "Children": [],
+          "Weight": 39
+        },
+        {
+          "Word": "dine",
+          "Children": [],
+          "Weight": 38
+        },
+        {
+          "Word": "titan",
+          "Children": [],
+          "Weight": 37
+        }
+      ],
+      "Weight": 15
+    },
+    {
+      "Word": "Television",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Teleporter",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "85-Rend",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "61-March",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "7-Dine",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "8-Titan",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "CompanyMoon",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "WalkieTalkie",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Spray paint",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Bracken",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "ForestGiant",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "EarthLeviathan",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "LassoMan",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Puffer",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Snare flea",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "EyelessDog",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Hoarding bug",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "BunkerSpider",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Hygrodere",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "CoilHead",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Manticoil",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Baboon hawk",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Nutcracker",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Circuit bee",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Locusts",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Thumper",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Jester",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Suits",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Upgrades",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "TZPInhalant",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "GreenSuit",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "HazardSuit",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "PajamaSuit",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "CozyLights",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Sigurd",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "SignalTranslator",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Toilet",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "RecordPlayer",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Shower",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Table",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "RomanticTable",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "FileCabinetDefault",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "CupboardDefault",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Bunkbeds",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Storage",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Other",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Scan",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "B3",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "C1",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "C2",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "C7",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "D6",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "F2",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "H5",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "I1",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "J6",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "K9",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "L0",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "M6",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "M9",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "O5",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "P1",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "R2",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "R4",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "T2",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "U2",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "U9",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "V0",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "X8",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Y9",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Z3",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "LogFile1Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile2Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile3Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile4Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile5Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile6Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile7Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile8Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile9Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile10Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile11Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "LogFile12Keyword",
+      "Children": [],
+      "Weight": 0
+    },
+    {
+      "Word": "ZapGun",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "monitor",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Switch",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Loud horn",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "ExtensionLadder",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Inverse teleporter",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "JackOLantern",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "RadarBooster",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Eject",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "WelcomeMat",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Goldfish",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "PlushiePajamaMan",
+      "Children": [],
+      "Weight": 10
+    },
+    {
+      "Word": "Info",
+      "Children": [
+        {
+          "Word": "pro flashlight",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "mapper",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "flashlight",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "shovel",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "zap gun",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "lockpicker",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "experimentation",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "assurance",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "vow",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "company",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "walkie-talkie",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "snare fleas",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "brackens",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "hoarding bugs",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "hygroderes",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "thumpers",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "eyeless dogs",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "survival kit",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "boombox",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "march",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "rend",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "dine",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "offense",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "jetpack",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "forest keeper",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "lasso",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "earth leviathan",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "teleporter",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "coil-heads",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "jetpack",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "flashlight",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "tzp",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "spore lizards",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "bunker spiders",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "jester",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "manticoils",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "circuit bees",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "locusts",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "loud horn",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "titan",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "extension ladder",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "radarr",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "baboon hawks",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "inverse teleporter",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "signal",
+          "Children": [],
+          "Weight": 10
+        },
+        {
+          "Word": "nutcracker",
+          "Children": [],
+          "Weight": 10
+        }
+      ],
+      "Weight": 10
+    }
+  ],
   "History": {
     "value": []
   }

@@ -23,17 +23,29 @@ Commands with weight equal to 0 won't be suggested for autocomplete.
 
 ```json
 {
-  "Words": {
-    "Buy": 10,
-    "ProFlashlight": 10,
-    "Confirm": 10,
-    "Deny": 10,
-    "Store": 10
-  }
+  "Words": [
+    {
+      "Word":"Buy",
+      "Weight":10
+    },
+    {
+      "Word":"ProFlashlight",
+      "Weight":10
+    },
+    {
+      "Word":"Confirm",
+      "Weight":10
+    }
+  ]
 }
 ```
 
 ## Change Log
+
+### [0.4.0]
+
+- Added autocomplete for commands containing several words, such as: buy, route, info, view.
+- Added count option autocomplete for buy command
 
 ### [0.3.0]
 
