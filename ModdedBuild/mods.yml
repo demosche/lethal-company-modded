@@ -1102,4 +1102,71 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Monkeytype-HideChat\1.0.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Monkeytype-HideChat\icon.png
+- manifestVersion: 1
+  name: KlutzyBubbles-InfiniteEmote
+  authorName: KlutzyBubbles
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/InfiniteEmote/
+  displayName: InfiniteEmote
+  description: "[Configurable] Loosens the CheckConditionsForEmote to allow
+    emoting while running and jumping"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KlutzyBubbles-InfiniteEmote\icon.png
+- manifestVersion: 1
+  name: red_eye-LethalAutocomplete
+  authorName: red_eye
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/red_eye/LethalAutocomplete/
+  displayName: LethalAutocomplete
+  description: Autocomplete terminal commands + history
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - NotAtomicBomb-TerminalApi-1.4.0
+    - Rune580-LethalCompany_InputUtils-0.4.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\red_eye-LethalAutocomplete\icon.png
+- manifestVersion: 1
+  name: mattplays-HoarderBugUseItems
+  authorName: mattplays
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mattplays/HoarderBugUseItems/
+  displayName: HoarderBugUseItems
+  description: Allows the HoarderBug to use certain items
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mattplays-HoarderBugUseItems\1.0.3\icon.png

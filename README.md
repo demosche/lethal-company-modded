@@ -52,4 +52,7 @@ List of mods:<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.0.0<br>
  HideChat  1.0.0<br>
+ InfiniteEmote  1.2.1<br>
+ LethalAutocomplete  0.3.0<br>
+ HoarderBugUseItems  1.0.3<br>
 
