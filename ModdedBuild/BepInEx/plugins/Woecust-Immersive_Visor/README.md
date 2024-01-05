@@ -4,8 +4,6 @@ This mod aims to create more immersive experience by making the visor reactive t
 Contact me on modding discord if you found bugs or suspected incompatibility with certain mods.
 
 # Configs
-- UseAlternateCrack : Use Vertical Crack instead of Circular Crack. This is true by default.
-- UseRandomCrack : Choose randomly between Vertical and Circular when each round starts. This overrides UseAlternateCrack.
 - RepairOnNewDay : Repair the visor on new day.
 - RepairOnDeath : Repair the visor when respawning.
 - RepairOnQuotaFulfilled : Rapair the visor when the quota has been fulfilled.
@@ -13,7 +11,7 @@ Contact me on modding discord if you found bugs or suspected incompatibility wit
 ## Features
 
 # Current Featuers
-- Screen Crack : 2 Levels of visor cracking. Has Circular/Vertical Variants that can be set through config.
+- Screen Crack : 2 Levels of visor cracking.
 
 # Planned Features (by priority)
 - Raindrop Effect : Default one is a barely visible image. It's going to change that.
@@ -23,6 +21,16 @@ Contact me on modding discord if you found bugs or suspected incompatibility wit
 - Death Cam : View stays in first person a bit more after death instead of going straight to spectate.
 
 ## Changelog
+
+**0.2.1**
+- Fixed post-process effect not showing.
+
+**v0.2.0**
+- Version number naming reverted
+- Fixed visor not checking if it was the local player was getting attacked.
+- Fixed visor not repairing for non-host when quota was fulfilled.
+- Adjusted glass shader to be less noisy.
+- Circular crack pattern removed temporarily.
 
 **v0.1.601**
 - Changed version number naming format.
