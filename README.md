@@ -25,7 +25,7 @@ List of mods:<br>
  LethalThings  0.8.8<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
- LandmineFix  1.0.0<br>
+ LandmineFix  1.0.1<br>
  SpectateEnemies  2.1.1<br>
  Huntdown  1.3.1<br>
  MaskedEnemyOverhaul  2.2.1<br>
@@ -50,7 +50,7 @@ List of mods:<br>
  JetpackHandling  1.0.3<br>
  More_Emotes  1.2.2<br>
  Helmet_Cameras  2.1.5<br>
- SaveOurLoot  1.0.0<br>
+ SaveOurLoot  1.1.0<br>
  HideChat  1.0.0<br>
  InfiniteEmote  1.2.1<br>
  LethalAutocomplete  0.3.0<br>
