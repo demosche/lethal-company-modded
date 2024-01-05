@@ -5,3 +5,4 @@
 !ModdedBuild/**
 **/*.log
 **/cache/**
+!/modListGenerator.ps1
