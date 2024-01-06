@@ -60,4 +60,5 @@ List of mods:<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
  Quick_Drop  1.0.1<br>
+ ItemQuickSwitch  1.1.0<br>
 
