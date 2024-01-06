@@ -1,0 +1,7 @@
+{
+  "name": "Quick_Drop",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/ness77/Quick_Drop",
+  "description": "This handy mod enhances item dropping for those high-pressure moments. Simply spam the drop item button (default: 'G') to swiftly discard all items, allowing you to react fast in panic situations and to delay ending up as a titan meal.",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

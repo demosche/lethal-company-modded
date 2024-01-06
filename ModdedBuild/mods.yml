@@ -1257,4 +1257,28 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Midge-PushCompany\1.2.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Midge-PushCompany\icon.png
+- manifestVersion: 1
+  name: Nases-Quick_Drop
+  authorName: Nases
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nases/Quick_Drop/
+  displayName: Quick_Drop
+  description: "This handy mod enhances item dropping for those high-pressure
+    moments. Simply spam the drop item button (default: 'G') to swiftly discard
+    all items, allowing you to react fast in panic situations and to delay
+    ending up as a titan meal."
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Nases-Quick_Drop\1.0.1\icon.png
