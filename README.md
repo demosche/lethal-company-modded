@@ -57,4 +57,5 @@ List of mods:<br>
  LCLightsStartOffMod  2.0.5<br>
  MaskTheDead  1.0.5<br>
  Possessed_Masks  1.1.2<br>
+ DissonanceLagFix  1.0.0<br>
 
