@@ -58,4 +58,5 @@ List of mods:<br>
  MaskTheDead  1.0.5<br>
  Possessed_Masks  1.1.2<br>
  DissonanceLagFix  1.0.0<br>
+ PushCompany  1.2.0<br>
 
