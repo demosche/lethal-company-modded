@@ -52,7 +52,6 @@ List of mods:<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.3.0<br>
  HideChat  1.0.0<br>
- LethalAutocomplete  0.4.1<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>
  MaskTheDead  1.0.5<br>
