@@ -45,12 +45,12 @@ List of mods:<br>
  ShipLoot  1.0.0<br>
  ShovelFix  1.0.0<br>
  ScanFix  1.0.3<br>
- FairAI  1.2.6<br>
+ FairAI  1.2.7<br>
  Terminal_Clock  1.0.5<br>
  JetpackHandling  1.0.3<br>
  More_Emotes  1.2.2<br>
  Helmet_Cameras  2.1.5<br>
- SaveOurLoot  1.2.0<br>
+ SaveOurLoot  1.3.0<br>
  HideChat  1.0.0<br>
  LethalAutocomplete  0.4.1<br>
  HoarderBugUseItems  1.0.3<br>

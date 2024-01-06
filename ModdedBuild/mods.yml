@@ -970,9 +970,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 6
+    patch: 7
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.2.7\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb
@@ -1078,7 +1078,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
+    minor: 3
     patch: 0
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-SaveOurLoot\icon.png
@@ -1302,4 +1302,4 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\vasanex-ItemQuickSwitch\1.1.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\vasanex-ItemQuickSwitch\icon.png
