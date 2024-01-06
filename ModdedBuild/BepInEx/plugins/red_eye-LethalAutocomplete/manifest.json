@@ -1,6 +1,6 @@
 {
     "name": "LethalAutocomplete",
-    "version_number": "0.4.0",
+    "version_number": "0.4.1",
     "website_url": "https://github.com/IlyaChichkov/LethalAutocompleteMod",
     "description": "Autocomplete terminal commands + history",
     "dependencies": [
