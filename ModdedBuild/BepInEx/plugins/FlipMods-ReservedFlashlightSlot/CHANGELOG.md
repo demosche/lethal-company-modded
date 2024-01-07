@@ -1,3 +1,7 @@
+# 1.5.7
++ Actually fixed laser pointer this time.
+# 1.5.6
++ Fixed laser pointer having a red square around it.
 # 1.5.5
 + Fixed a specific issue causing an error about index out of range.
 # 1.5.4

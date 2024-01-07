@@ -7,7 +7,7 @@ List of mods:<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  2.0.1<br>
  ReservedItemSlotCore  1.7.7<br>
- ReservedFlashlightSlot  1.5.5<br>
+ ReservedFlashlightSlot  1.5.7<br>
  LethalCompany_InputUtils  0.4.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
@@ -35,7 +35,7 @@ List of mods:<br>
  QuotaRollover  2.1.0<br>
  JetpacksCarryBigItems  1.0.1<br>
  JesterStompShake  1.0.8<br>
- EnhancedRadarBooster  1.5.0<br>
+ EnhancedRadarBooster  1.5.1<br>
  Lethal_Doors  1.0.3<br>
  BetterSprayPaint  1.1.0<br>
  GamblingMachineAtTheCompany  1.1.2<br>
@@ -50,7 +50,7 @@ List of mods:<br>
  JetpackHandling  1.0.3<br>
  More_Emotes  1.2.2<br>
  Helmet_Cameras  2.1.5<br>
- SaveOurLoot  1.3.0<br>
+ SaveOurLoot  1.4.0<br>
  HideChat  1.0.0<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>

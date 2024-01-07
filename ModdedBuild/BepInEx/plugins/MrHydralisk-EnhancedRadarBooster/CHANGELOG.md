@@ -1,3 +1,7 @@
+**1.5.1**
+- Description Updated
+- Asset file now part of .dll
+
 **1.5.0**
 - Addition of Config.
 

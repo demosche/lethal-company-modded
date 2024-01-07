@@ -144,9 +144,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 5
+    patch: 7
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedFlashlightSlot\1.5.7\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -744,7 +744,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
 - manifestVersion: 1
@@ -1078,7 +1078,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
+    minor: 4
     patch: 0
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-SaveOurLoot\icon.png
