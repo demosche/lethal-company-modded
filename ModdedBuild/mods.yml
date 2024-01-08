@@ -595,10 +595,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 3
+    minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HomelessGinger-MaskedEnemyOverhaul\2.4.0\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
@@ -1300,4 +1300,4 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BudgetAirpods-InsanityRemastered\1.0.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png

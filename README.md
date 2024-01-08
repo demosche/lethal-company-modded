@@ -28,7 +28,7 @@ List of mods:<br>
  LandmineFix  1.0.1<br>
  SpectateEnemies  2.1.1<br>
  Huntdown  1.3.1<br>
- MaskedEnemyOverhaul  2.3.0<br>
+ MaskedEnemyOverhaul  2.4.0<br>
  ShipLobby  1.0.2<br>
  LC_Masked_Fix  0.0.1<br>
  HidePlayerNames  1.0.2<br>
@@ -60,4 +60,5 @@ List of mods:<br>
  PushCompany  1.2.0<br>
  Quick_Drop  1.0.1<br>
  ItemQuickSwitch  1.1.0<br>
+ InsanityRemastered  1.0.5<br>
 

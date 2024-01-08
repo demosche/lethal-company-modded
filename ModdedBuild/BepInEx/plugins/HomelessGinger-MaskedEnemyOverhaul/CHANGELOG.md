@@ -1,4 +1,7 @@
 # Changelog
+## v2.4.0 
+- Added MoreCompanyCosmetic support
+
 ## v2.3.0
 - Added config option to hide mask until the Masked is about to attack
 ## v2.2.1
