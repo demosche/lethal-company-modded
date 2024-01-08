@@ -1,3 +1,6 @@
+**1.4.1**
+- Description Updated
+
 **1.4.0**
 This update was provided to you by Bug Mafia, which will protect you from danger in space for a little part of your loot.
 - Your Ship is infested with Hoarding Bugs, which steal your loot while you sleep between missions.
