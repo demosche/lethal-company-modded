@@ -5,7 +5,7 @@ List of mods:<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  2.0.1<br>
+ Skinwalkers  2.0.3<br>
  ReservedItemSlotCore  1.7.7<br>
  ReservedFlashlightSlot  1.5.7<br>
  LethalCompany_InputUtils  0.4.4<br>
@@ -28,7 +28,7 @@ List of mods:<br>
  LandmineFix  1.0.1<br>
  SpectateEnemies  2.1.1<br>
  Huntdown  1.3.1<br>
- MaskedEnemyOverhaul  2.2.1<br>
+ MaskedEnemyOverhaul  2.3.0<br>
  ShipLobby  1.0.2<br>
  LC_Masked_Fix  0.0.1<br>
  HidePlayerNames  1.0.2<br>
@@ -50,7 +50,7 @@ List of mods:<br>
  JetpackHandling  1.0.3<br>
  More_Emotes  1.2.2<br>
  Helmet_Cameras  2.1.5<br>
- SaveOurLoot  1.4.0<br>
+ SaveOurLoot  1.4.1<br>
  HideChat  1.0.0<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>
