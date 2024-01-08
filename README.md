@@ -1,7 +1,7 @@
 Drop this profile here<br>C:\Users\{USERNAME}\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\
 
 List of mods:<br>
-> LC_API  3.3.0<br>
+> LC_API  3.3.1<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
@@ -28,7 +28,7 @@ List of mods:<br>
  LandmineFix  1.0.1<br>
  SpectateEnemies  2.1.1<br>
  Huntdown  1.3.1<br>
- MaskedEnemyOverhaul  2.4.0<br>
+ MaskedEnemyOverhaul  2.4.1<br>
  ShipLobby  1.0.2<br>
  LC_Masked_Fix  0.0.1<br>
  HidePlayerNames  1.0.2<br>
