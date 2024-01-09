@@ -1,3 +1,5 @@
+# 1.8.1
++ Added debug logs and dumps when errors occur when certain functions are called with incorrect values. Hopefully people share these with me on the Lethal Company Modding Discord!
 # 1.8.0
 + Support for v47.
 + Slight code structure revamp.
