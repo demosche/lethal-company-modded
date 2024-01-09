@@ -1,4 +1,4 @@
-# Spectate Enemies v2.1.1
+# Spectate Enemies v2.2
 ## by alltoasters
 https://github.com/EBro912/SpectateEnemies
 
@@ -11,12 +11,16 @@ When dead, pressing your "Swap" key (default: E) will swap between spectating pl
 
 Pressing your "Flashlight" key (default: RMB) will toggle a flashlight on your spectator camera to see enemies and players better in the dark.
 
+Pressing the "Zoom Out/Zoom In" keys (default: Scroll Wheel) while spectating an enemy will zoom the camera in and out. This can help with bigger enemies that are hard to see at default zoom.
+
 ### Keybinds
 You can set your keybinds in the in-game keybind menu. The following SpectateEnemies keybinds correspond to these default controls:
 
 "Swap between Players/Enemies" : E
 "Open Config Menu" : Insert
 "Toggle Flashlight" : Right Button
+"Zoom Out" : Scroll Wheel Down
+"Zoom In" : Scroll Wheel Up
 
 ### Config Menu
 Pressing your "Menu" key (default: Insert) will open the config menu. Clicking the box next to an enemy's name will enable/disable spectating that enemy.
@@ -45,3 +49,6 @@ if (SpectateEnemiesAPI.IsSpectatingEnemies) {
 }
 // Prints: Flowerman
 ```
+
+#### Custom Enemies
+If you are creating custom enemies in your mod, they **MUST** have an `EnemyType` for SpectateEnemies to be able to find it. Otherwise, the mod will be unable to spectate your enemy. If you do not want your enemy to be spectatable, ensure they do not have an associated `EnemyType`. (A better solution for stopping enemies from being spectated is planned for the future)

@@ -1,5 +1,21 @@
 # Changelog
 
+## v2.2
+(Big thanks to @A13 for helping with this update!)
+- Updated to support v47
+- Added support for modded enemies!
+   - Note for developers, your enemy MUST have an `EnemyType` for it to be picked up by SpectateEnemies
+- Added zooming while spectating enemies, allows zooming from 1x to 10x zoom
+   - Uses the scroll wheel by default, can be changed in the keybind settings
+   - The current zoom level is displayed next to the `(Spectating: ...)` text
+- Enlarged the config menu box a little to allow more room for modded enemy entries
+- Shortened the controls text on the sidebar to be neater/less cluttered
+- The mod will no longer attempt to spectate dead enemies
+- The mod will no longer collect enemies disabled in the config as spectate targets
+   - This should fix the issue where the first enemy spectated was sometimes a disabled enemy
+- The list of spectate targets will now refresh when moving to the next enemy
+- Improved some internal checks that were throwing errors in the console
+
 ## v2.1.1 (Hotfix)
 - ACTUALLY fixed the issue where masked enemies could not be spectated
 

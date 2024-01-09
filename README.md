@@ -5,8 +5,8 @@ List of mods:<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  2.0.3<br>
- ReservedItemSlotCore  1.7.7<br>
+ Skinwalkers  2.0.5<br>
+ ReservedItemSlotCore  1.8.0<br>
  ReservedFlashlightSlot  1.5.7<br>
  LethalCompany_InputUtils  0.4.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
@@ -26,7 +26,7 @@ List of mods:<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
  LandmineFix  1.0.1<br>
- SpectateEnemies  2.1.1<br>
+ SpectateEnemies  2.2.0<br>
  Huntdown  1.3.1<br>
  MaskedEnemyOverhaul  2.4.1<br>
  ShipLobby  1.0.2<br>
@@ -35,22 +35,22 @@ List of mods:<br>
  QuotaRollover  2.1.0<br>
  JetpacksCarryBigItems  1.0.1<br>
  JesterStompShake  1.0.8<br>
- EnhancedRadarBooster  1.5.1<br>
+ EnhancedRadarBooster  1.5.2<br>
  Lethal_Doors  1.0.3<br>
  BetterSprayPaint  1.1.0<br>
- GamblingMachineAtTheCompany  1.1.2<br>
+ GamblingMachineAtTheCompany  1.1.3<br>
  ReservedSprayPaintSlot  1.0.5<br>
  Immersive_Visor  0.2.1<br>
  CoilHeadStare  1.0.3<br>
  ShipLoot  1.0.0<br>
  ShovelFix  1.0.0<br>
  ScanFix  1.0.3<br>
- FairAI  1.2.7<br>
+ FairAI  1.2.8<br>
  Terminal_Clock  1.0.5<br>
  JetpackHandling  1.0.3<br>
  More_Emotes  1.2.2<br>
  Helmet_Cameras  2.1.5<br>
- SaveOurLoot  1.4.1<br>
+ SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>

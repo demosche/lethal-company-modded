@@ -1,3 +1,8 @@
+# 1.8.0
++ Support for v47.
++ Slight code structure revamp.
++ Add compatibility between other mods that may change players' inventory size dynamically, such as LethalThings' utility belt. Not guaranteed for all mods.
++ Maybe added some bugs, idk.
 # 1.7.7
 + Potential fix for the infamous de-sync issue.
 # 1.7.6
