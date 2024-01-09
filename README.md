@@ -25,12 +25,10 @@ List of mods:<br>
  LethalThings  0.8.8<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
- LandmineFix  1.0.1<br>
  SpectateEnemies  2.2.0<br>
  Huntdown  1.3.1<br>
  MaskedEnemyOverhaul  2.4.1<br>
  ShipLobby  1.0.2<br>
- LC_Masked_Fix  0.0.1<br>
  HidePlayerNames  1.0.2<br>
  QuotaRollover  2.1.0<br>
  JetpacksCarryBigItems  1.0.1<br>
@@ -43,7 +41,6 @@ List of mods:<br>
  Immersive_Visor  0.2.1<br>
  CoilHeadStare  1.0.3<br>
  ShipLoot  1.0.0<br>
- ShovelFix  1.0.0<br>
  ScanFix  1.0.3<br>
  FairAI  1.2.8<br>
  Terminal_Clock  1.0.5<br>
