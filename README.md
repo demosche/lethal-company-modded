@@ -33,7 +33,7 @@ List of mods:<br>
  QuotaRollover  2.1.0<br>
  JetpacksCarryBigItems  1.0.1<br>
  JesterStompShake  1.0.8<br>
- EnhancedRadarBooster  1.5.3<br>
+ EnhancedRadarBooster  1.5.4<br>
  Lethal_Doors  1.0.3<br>
  BetterSprayPaint  1.1.0<br>
  GamblingMachineAtTheCompany  1.2.3<br>
@@ -44,7 +44,7 @@ List of mods:<br>
  ScanFix  1.0.3<br>
  FairAI  1.2.8<br>
  Terminal_Clock  1.0.5<br>
- More_Emotes  1.3.1<br>
+ More_Emotes  1.3.2<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>
