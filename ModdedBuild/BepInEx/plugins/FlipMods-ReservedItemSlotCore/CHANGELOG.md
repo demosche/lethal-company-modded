@@ -1,3 +1,6 @@
+# 1.8.3
++ Fixed typo in bug.
++ Forgot to re-edit a line of code I changed that prevented the server from getting hotbar swap updates from the clients.
 # 1.8.2
 + Fixed some bugs.
 + Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu. (will do the same for the individual reserved mods soon)

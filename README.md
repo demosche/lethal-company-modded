@@ -6,7 +6,7 @@ List of mods:<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  2.0.5<br>
- ReservedItemSlotCore  1.8.2<br>
+ ReservedItemSlotCore  1.8.3<br>
  ReservedFlashlightSlot  1.5.7<br>
  LethalCompany_InputUtils  0.4.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
