@@ -1,4 +1,4 @@
-# More Emotes V1.3.1 - Sligili
+# More Emotes V1.3.2 - Sligili
 
 ## MANUAL INSTALLATION 🛠
 Extract into the main game folder (where ```Lethal Company.exe``` is located). Ensure you have [BepInEx](https://github.com/BepInEx/BepInEx) and [RuntimeNetcodePatcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/) installed.
@@ -39,6 +39,10 @@ Use either the in-game **More Emotes** menu found under **Settings** or the conf
 
 Join the [LC Modding](https://discord.gg/XeyYqRdRGC) server to report bugs or incompatibilities on the More Emotes thread. 
 
+- ***v1.3.2:***
+     - Corrected an issue where emote wheel keybinds couldn't be left blank
+     - Corrected the default controller emote wheel key, which was set to 'V' by accident
+     - Converted alternative emotes into positive values to prevent conflicts with other mods
 - ***v1.3.1:***
      - Disabled debug logs 😶
 - ***v1.3.0:***
