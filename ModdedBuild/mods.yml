@@ -1232,4 +1232,25 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\kuba6000-LC_Masked_Fix\0.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
+- manifestVersion: 1
+  name: Nelerion-InfinityFlashlightMod
+  authorName: Nelerion
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Nelerion/InfinityFlashlightMod/
+  displayName: InfinityFlashlightMod
+  description: The mod adds an endless flashlight battery
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Nelerion-InfinityFlashlightMod\1.0.0\icon.png

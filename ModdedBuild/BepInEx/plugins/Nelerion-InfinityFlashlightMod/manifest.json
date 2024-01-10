@@ -1,0 +1,9 @@
+{
+    "name": "InfinityFlashlightMod",
+    "version_number": "1.0.0",
+    "website_url": "https://t.me/keragors",
+    "description": "The mod adds an endless flashlight battery",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
