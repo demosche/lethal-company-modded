@@ -55,7 +55,6 @@ List of mods:<br>
  Possessed_Masks  1.1.2<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
- Quick_Drop  1.0.1<br>
  ItemQuickSwitch  1.1.0<br>
  InsanityRemastered  1.0.5<br>
 
