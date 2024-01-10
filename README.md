@@ -57,4 +57,5 @@ List of mods:<br>
  ItemQuickSwitch  1.1.0<br>
  InsanityRemastered  1.0.5<br>
  Runtime_Netcode_Patcher  0.2.5<br>
+ LC_Masked_Fix  0.0.2<br>
 

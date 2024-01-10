@@ -704,7 +704,7 @@
     minor: 5
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-EnhancedRadarBooster\1.5.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
 - manifestVersion: 1
   name: saint_kendrick-Lethal_Doors
   authorName: saint_kendrick
@@ -1211,3 +1211,25 @@
     patch: 5
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Ozone-Runtime_Netcode_Patcher\icon.png
+- manifestVersion: 1
+  name: kuba6000-LC_Masked_Fix
+  authorName: kuba6000
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/
+  displayName: LC_Masked_Fix
+  description: "[V47/V48/V49] Fixes a bug where the red screen overlay / vomit
+    animation is not removed until you die. [V45] Fixes mimic / masked bug where
+    you can't look around after the kill is interrupted."
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\kuba6000-LC_Masked_Fix\0.0.2\icon.png
