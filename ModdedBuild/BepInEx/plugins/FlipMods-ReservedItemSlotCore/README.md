@@ -29,6 +29,7 @@ This can also help with sending custom reserved item slots to other clients from
 ## Mod compatibility
 + HotbarPlus is compatible!
 + LethalThings Utility Belt is now compatible!
++ <strong>This mod is NOT compatible with AdvancedCompany. Sorry!</strong>
 + Other mods that can add hotbar slots are not guaranteed to work.
 + Other mods that might re-arrange the hotbar slots (HUD) are not guaranteed to play nicely with these mods, but <i>might</i> technically work.
 <br>

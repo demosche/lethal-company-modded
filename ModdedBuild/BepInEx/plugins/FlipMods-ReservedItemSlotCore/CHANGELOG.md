@@ -1,3 +1,5 @@
+# 1.8.4
++ Removed old code that had methods being called before they were instantiated. Hopefully fixes some errors people are getting.
 # 1.8.3
 + Fixed typo in bug.
 + Forgot to re-edit a line of code I changed that prevented the server from getting hotbar swap updates from the clients.

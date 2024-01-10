@@ -6,7 +6,7 @@ List of mods:<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  2.0.5<br>
- ReservedItemSlotCore  1.8.3<br>
+ ReservedItemSlotCore  1.8.4<br>
  ReservedFlashlightSlot  1.5.7<br>
  LethalCompany_InputUtils  0.4.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
@@ -45,7 +45,7 @@ List of mods:<br>
  FairAI  1.2.8<br>
  Terminal_Clock  1.0.5<br>
  JetpackHandling  1.0.3<br>
- More_Emotes  1.2.2<br>
+ More_Emotes  1.3.0<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>
@@ -57,4 +57,5 @@ List of mods:<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>
  InsanityRemastered  1.0.5<br>
+ Runtime_Netcode_Patcher  0.2.5<br>
 
