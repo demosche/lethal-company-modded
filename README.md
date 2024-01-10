@@ -44,7 +44,6 @@ List of mods:<br>
  ScanFix  1.0.3<br>
  FairAI  1.2.8<br>
  Terminal_Clock  1.0.5<br>
- JetpackHandling  1.0.3<br>
  More_Emotes  1.3.1<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.4.2<br>
