@@ -16,9 +16,9 @@
   versionNumber:
     major: 3
     minor: 3
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.3.2\icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
@@ -121,9 +121,9 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\1.8.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -312,8 +312,8 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 10
-    patch: 1
+    minor: 11
+    patch: 0
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
@@ -531,7 +531,7 @@
   versionNumber:
     major: 2
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
 - manifestVersion: 1
@@ -540,7 +540,7 @@
   websiteUrl: https://thunderstore.io/c/lethal-company/p/doggosuki/Huntdown/
   displayName: Huntdown
   description: Each day a mission is given to hunt down a specific monster, which
-    drops a scrap reward when hunted. Reward values are configurable.
+    drops a scrap reward when hunted. Missions are configurable and toggleable.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -552,8 +552,8 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 1
+    minor: 4
+    patch: 0
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\doggosuki-Huntdown\icon.png
 - manifestVersion: 1
@@ -702,7 +702,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 2
+    patch: 3
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
 - manifestVersion: 1
@@ -771,7 +771,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 3
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png

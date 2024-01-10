@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.2.1 (Hotfix)
+- Fixed a crash caused by the only enemy alive being killed
+
 ## v2.2
 (Big thanks to @A13 for helping with this update!)
 - Updated to support v47

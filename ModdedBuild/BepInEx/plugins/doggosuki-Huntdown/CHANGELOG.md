@@ -1,6 +1,18 @@
+### 1.4.0
+
+- Added a new mission, "Infestation", along with their config options
+- Added a new mission, "Last Month's Interns", along with their config options
+- Added a new mission, "Blunderbug", along with their config options (currently WIP, disabled by default)
+- Useable items can now be dropped as rewards instead of just scrap (including the Map Device which is usually not obtainable in vanilla, but only dropped as an extreme reward)
+- Enemies spawned by missions will no longer be able to spawn at vents close to the main entrance (thank you Ake for the suggestion)
+- Multiple enemies, including enemies of different types, can now be assigned during a single mission
+- Added an indicator which shows you how many targets you have killed for your current mission
+- Config options and their default values have been edited (sorry if it makes you change them again lol)
+- Updated README to reflect the changes
+
 ### 1.3.1
 
-- Attempted to fix a bug where if you had your "chance of mission &" config set to below 100%, and you received a mission, then next time you did not receive a mission, loot would drop for a non-existent target (thank you Dnische for reporting it)
+- Attempted to fix a bug where if you had your "chance of mission %" config set to below 100%, and you received a mission, then next time you did not receive a mission, loot would drop for a non-existent target (thank you Dnische for reporting it)
 
 ### 1.3.0
 

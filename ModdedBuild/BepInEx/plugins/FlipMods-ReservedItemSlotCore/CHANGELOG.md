@@ -1,3 +1,10 @@
+# 1.8.2
++ Fixed some bugs.
++ Added support for InputUtils, as a soft dependency. If this mod is enabled, you will be able to access any relevant hotkeys within the game's keybind menu. (will do the same for the individual reserved mods soon)
++ Added to the compatibility logic for other mods that increase inventory size. (may need more testing)
++ The reserved hotbar scroll direction should now match the mouse, regardless of inverted scroll settings.
++ (Readded) Swapping between reserved hotbar slots will now skip empty slots.
++ Attempted to refix compat with AdvancedCompany, but the mod now specifically blocks mine out when loading both mods. Sad day. This will be reverted.
 # 1.8.1
 + Added debug logs and dumps when errors occur when certain functions are called with incorrect values. Hopefully people share these with me on the Lethal Company Modding Discord!
 # 1.8.0
