@@ -1,3 +1,6 @@
+# LethalLib 0.11.1
+- Added check to RegisterNetworkPrefab, to prevent a prefab from being registered multiple times.
+
 # LethalLib 0.11.0
 - Added module: PrefabUtils
 	- Added method: ClonePrefab()
