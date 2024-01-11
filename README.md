@@ -58,5 +58,4 @@ List of mods:<br>
  InsanityRemastered  1.0.7<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LC_Masked_Fix  0.0.2<br>
- InfinityFlashlightMod  1.0.0<br>
 
