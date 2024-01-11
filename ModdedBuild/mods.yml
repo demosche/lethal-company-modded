@@ -1342,4 +1342,26 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Nases-Quick_Drop\1.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Nases-Quick_Drop\icon.png
+- manifestVersion: 1
+  name: OrangeSoft-Unlimited_Sell_Mod
+  authorName: OrangeSoft
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/OrangeSoft/Unlimited_Sell_Mod/
+  displayName: Unlimited_Sell_Mod
+  description: A small mod to remove the 12-item limit on the item selling desk at
+    the company moon.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\OrangeSoft-Unlimited_Sell_Mod\1.0.0\icon.png
