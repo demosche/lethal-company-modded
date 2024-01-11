@@ -1,3 +1,6 @@
+# 1.8.6
++ Some compat tweaks.
++ Focus reserved hotbar tooltip now changes when keybind is updated in game. (with InputUtils)
 # 1.8.5
 + Fixed the bug preventing you from swapping hotbars that I created in 1.8.4 (sorry!)
 # 1.8.4
