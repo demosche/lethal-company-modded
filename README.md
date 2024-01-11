@@ -22,7 +22,7 @@ List of mods:<br>
  UnlimitedTZP  0.9.0<br>
  BetterTerminal  0.1.1<br>
  ghostCodes  1.1.0<br>
- LethalThings  0.9.1<br>
+ LethalThings  0.9.2<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>

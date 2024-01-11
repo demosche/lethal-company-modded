@@ -1,3 +1,7 @@
+# Lethal Things 0.9.2
+- Updated used NetcodePatcher version to v3.3.3  
+- Removed unfinished content from config, accidental leak moment lmao  
+
 # Lethal Things 0.9.1
 **Bugfixes**
 - Fixed crash to desktop on launch, caused by NetcodePatcher update.
