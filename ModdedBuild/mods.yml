@@ -146,7 +146,7 @@
     minor: 5
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedFlashlightSlot\1.5.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -1233,3 +1233,89 @@
     patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
+- manifestVersion: 1
+  name: ShaosilGaming-FlashlightFix
+  authorName: ShaosilGaming
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/
+  displayName: FlashlightFix
+  description: Fixes annoying flashlight bugs like being toggled when it shouldn't be.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-FlashlightFix\icon.png
+- manifestVersion: 1
+  name: itsmeowdev-DoorFix
+  authorName: itsmeowdev
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/
+  displayName: DoorFix
+  description: Fixes the hitbox of doors so items can be picked up through open
+    doors more easily.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\itsmeowdev-DoorFix\icon.png
+- manifestVersion: 1
+  name: Owen3H-IntroTweaks
+  authorName: Owen3H
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/
+  displayName: IntroTweaks
+  description: Seamless skipping of intro/menu screens. Includes various fixes and
+    useful options.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Owen3H-IntroTweaks\icon.png
+- manifestVersion: 1
+  name: MiffyL-Kill_It_With_Shovel
+  authorName: MiffyL
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MiffyL/Kill_It_With_Shovel/
+  displayName: Kill_It_With_Shovel
+  description: Let you disable a turret by shoveling it.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MiffyL-Kill_It_With_Shovel\1.0.1\icon.png
