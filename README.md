@@ -5,8 +5,8 @@ List of mods:<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  2.0.5<br>
- ReservedItemSlotCore  1.8.4<br>
+ Skinwalkers  2.0.6<br>
+ ReservedItemSlotCore  1.8.5<br>
  ReservedFlashlightSlot  1.5.7<br>
  LethalCompany_InputUtils  0.4.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
@@ -55,7 +55,7 @@ List of mods:<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>
- InsanityRemastered  1.0.5<br>
+ InsanityRemastered  1.0.7<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LC_Masked_Fix  0.0.2<br>
  InfinityFlashlightMod  1.0.0<br>

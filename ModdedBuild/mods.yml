@@ -99,9 +99,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\2.0.6\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -121,7 +121,7 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
@@ -1187,7 +1187,7 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 5
+    patch: 7
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png
 - manifestVersion: 1
@@ -1253,4 +1253,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Nelerion-InfinityFlashlightMod\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Nelerion-InfinityFlashlightMod\icon.png

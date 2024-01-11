@@ -1,3 +1,18 @@
+# V 1.0.7 Update 2
+
+- Added compatability with Advanced Company's night vision goggles to reduce sanity loss. If any other mods implement something similar to this, please do let me know of them.
+- Fake items now have a scrap value.
+- Added insanity loss scaling with bigger player lobbies. This is the first iteration of it right now, and will most likely be changed. You can change the amount of players to take into account when scaling in the config file. Setting it to 1 disables it.
+- Reworked how Skinwalker mod is integrated. (Before it literally just copied the way skinwalker loads sound files, basically running skinwalker mod twice.)
+- Added more configurable settings in the config.
+- Added a tooltip to the pills to indicate that they can be used now. (I somehow forgot to add this.)
+- Added the ability for player hallucinations to play skinwalker sound files.
+
+- Fixed panic attack audio/visual effects happening instantly rather than gradually over time.
+- Fixed Skinwalker mod clips "playing" when playing solo.
+
+I'm sorry for the lack of major content updates and the frequency of updates in general. I'm not the best at coding, and don't have a lof of time to work on this mod in my free time.
+
 # V1.0.5 Update 1
 Before I get into the changes/fixes, I want to say I am very sorry for the wait on this patch.
 

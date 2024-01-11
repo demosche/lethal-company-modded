@@ -35,7 +35,12 @@ No, audio clips are automatically deleted.
 
 ## Changelog
 
+### 2.0.6
+- Improved clarity of some log messages
+- Fixed an issue that may have been caused by other mods adding enemies
+
 ### 2.0.5
+- Updated for Lethal Company v48
 - Added an option to the config to disable voices from modded enemies.
 
 ### 2.0.4

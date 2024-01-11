@@ -1,3 +1,5 @@
+# 1.8.5
++ Fixed the bug preventing you from swapping hotbars that I created in 1.8.4 (sorry!)
 # 1.8.4
 + Removed old code that had methods being called before they were instantiated. Hopefully fixes some errors people are getting.
 # 1.8.3
@@ -9,7 +11,7 @@
 + Added to the compatibility logic for other mods that increase inventory size. (may need more testing)
 + The reserved hotbar scroll direction should now match the mouse, regardless of inverted scroll settings.
 + (Readded) Swapping between reserved hotbar slots will now skip empty slots.
-+ Attempted to refix compat with AdvancedCompany, but the mod now specifically blocks mine out when loading both mods. Sad day. This will be reverted.
++ Attempted to refix compat with AdvancedCompany. May or may not work? No promises!
 # 1.8.1
 + Added debug logs and dumps when errors occur when certain functions are called with incorrect values. Hopefully people share these with me on the Lethal Company Modding Discord!
 # 1.8.0
