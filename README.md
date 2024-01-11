@@ -26,7 +26,7 @@ List of mods:<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>
- Huntdown  1.4.0<br>
+ Huntdown  1.4.1<br>
  MaskedEnemyOverhaul  2.4.1<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>

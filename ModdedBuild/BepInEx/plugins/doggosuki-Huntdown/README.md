@@ -20,7 +20,7 @@ Your mission will be displayed to all members of your team in the chat once you 
 - <details><summary>The Bug Mafia (Spoiler)</summary>A bunch of Hoarding Bugs with shovels</details>
 - <details><summary>Blunderbug (Spoiler)</summary>A Hoarding Bug with a shotgun (WIP)</details>
 - <details><summary>Infestation (Spoiler)</summary>A bunch of bugs (1 Bunker Spider, 2 Hoarding Bugs and 2 Snare Fleas in the same area)</details>
-- <details><summary>Last Month's Interns(Spoiler)</summary>Four Masked men coming to kill you</details>
+- <details><summary>Last Month's Interns (Spoiler)</summary>Four Masked men coming to kill you</details>
 
 **A few minor features are host only due to the base game not networking them:**
 - Scanning the hunt target with right click only displays 'TARGET' label for the host

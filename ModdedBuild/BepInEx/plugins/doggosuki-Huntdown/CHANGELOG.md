@@ -1,3 +1,8 @@
+### 1.4.1
+
+- Fixed a bug which sometimes allowed non-mission enemies to spawn on moons they shouldn't have been able to, like after getting a Good Boy mission on a moon, they would start to spawn naturally on that moon afterwards... oops. (thank you Alecksword for the bug report)
+- Fixed an issue where your current mission would not reset if you quit the game while a mission was active and then started a new game afterwards (thank you AGuyNamedSparre for the bug report)
+
 ### 1.4.0
 
 - Added a new mission, "Infestation", along with their config options
