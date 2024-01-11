@@ -58,4 +58,8 @@ List of mods:<br>
  InsanityRemastered  1.0.7<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LC_Masked_Fix  0.0.2<br>
+ FlashlightFix  1.0.5<br>
+ DoorFix  1.0.0<br>
+ IntroTweaks  1.4.2<br>
+ Kill_It_With_Shovel  1.0.1<br>
 
