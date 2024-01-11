@@ -1,3 +1,38 @@
+# Lethal Things 0.9.1
+**Bugfixes**
+- Fixed crash to desktop on launch, caused by NetcodePatcher update.
+
+# Lethal Things 0.9.0
+**Content**
+- Added Shop Item: Pinger
+- Added Scrap: Gnarpy Plush
+
+**Systems**
+- Completely rewrite of Content Loader and Config system.
+- Config files are now synced between host and client.  
+- Changed how utility belt adds slots for potential compatibility improvement.  
+
+**Bugfixes**
+- Lethal Things content should now spawn on modded moons  
+- Boomba improvements.  
+- Power outlet stun damage config is now working.  
+- Added null check to tracking point which should fix one of the dartboard errors.  
+- Fixed flare desync  
+- Rocket launcher laser turns off when pocketed.  
+- Evil maxwell desync.  
+- Flare gun client aim issue.  
+- Remote radar was able to switch target while turned off.  
+- Toy hammer was broken because of lethal company v47 update.  
+- Darts are no longer pingable while held.
+- Maxwell becomes evil sometimes when loading a save :(
+
+**Changes**
+- Toyhammer is now a scrap item by default  
+	- Added config option to add Toyhammer to store.  
+	- Added config option to make Toyhammer spawn as scrap.  
+- Cookie is now throwable.  
+	- Note: Batteries may spontaneously combust  
+
 # Lethal Things 0.8.8
 - Glizzy is no longer called "Training Manual" (idk how the heck that happened because it was called glizzy before.)
 - Custom items / scraps no longer receive decals from spraypaint, in order to fix a transparency bug.

@@ -450,7 +450,7 @@
   authorName: Evaisa
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/LethalThings/
   displayName: LethalThings
-  description: Adds 9 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
+  description: Adds 11 scrap, 6 store items, 1 enemy, 4 decor, 1 map hazard, and 1
     game mechanic.
   gameVersion: "0"
   networkMode: both
@@ -465,10 +465,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 8
-    patch: 8
+    minor: 9
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalThings\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalThings\0.9.1\icon.png
 - manifestVersion: 1
   name: NavarroTech-MoreTerminalCommands
   authorName: NavarroTech
@@ -1364,4 +1364,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\OrangeSoft-Unlimited_Sell_Mod\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\OrangeSoft-Unlimited_Sell_Mod\icon.png
