@@ -1,3 +1,10 @@
+# 1.8.8
++ Added more checks, and prevented some more issues if host does not have mod. (Again, use with caution!)
+# 1.8.7
++ Fixed bug with controllers not being able to scroll through reserved hotbar slots with d-pad. (or another keybind)
++ Added some compatibility checks.
++ Reallowed use of reserved slot mods even if host doesn't have them. Use with caution!
++ Automatically changes any relevant control tooltips if player is using a controller or not.
 # 1.8.6
 + Some compat tweaks.
 + Focus reserved hotbar tooltip now changes when keybind is updated in game. (with InputUtils)

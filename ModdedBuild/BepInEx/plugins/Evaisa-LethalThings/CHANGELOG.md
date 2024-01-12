@@ -1,3 +1,12 @@
+# LethalThings 0.9.4
+**Bugfixes**  
+- Pinger was breaking the escape menu while turned on.  
+- Pinger ping animation was not playing.  
+  
+# Lethal Things 0.9.3  
+- Updated dependency version of LethalLib to 0.11.2  
+	- If you want to LethalThings to work please update LethalLib to that version.  
+  
 # Lethal Things 0.9.2
 - Updated used NetcodePatcher version to v3.3.3  
 - Removed unfinished content from config, accidental leak moment lmao  

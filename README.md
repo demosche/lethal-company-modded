@@ -6,7 +6,7 @@ List of mods:<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  2.0.6<br>
- ReservedItemSlotCore  1.8.6<br>
+ ReservedItemSlotCore  1.8.8<br>
  ReservedFlashlightSlot  1.5.8<br>
  LethalCompany_InputUtils  0.4.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
@@ -15,14 +15,14 @@ List of mods:<br>
  TerminalApi  1.5.0<br>
  Coroner  1.5.3<br>
  HookGenPatcher  0.0.5<br>
- LethalLib  0.11.1<br>
+ LethalLib  0.11.2<br>
  OuijaBoard  1.5.1<br>
  HealthStation  1.0.1<br>
  BetterTeleporter  1.2.2<br>
  UnlimitedTZP  0.9.0<br>
  BetterTerminal  0.1.1<br>
  ghostCodes  1.1.0<br>
- LethalThings  0.9.2<br>
+ LethalThings  0.9.4<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>
