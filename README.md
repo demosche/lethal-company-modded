@@ -21,7 +21,7 @@ List of mods:<br>
  BetterTeleporter  1.2.2<br>
  UnlimitedTZP  0.9.0<br>
  BetterTerminal  0.1.1<br>
- ghostCodes  1.1.0<br>
+ ghostCodes  1.5.0<br>
  LethalThings  0.9.4<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
@@ -44,7 +44,7 @@ List of mods:<br>
  ScanFix  1.0.3<br>
  FairAI  1.2.8<br>
  Terminal_Clock  1.0.5<br>
- More_Emotes  1.3.2<br>
+ More_Emotes  1.3.3<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>

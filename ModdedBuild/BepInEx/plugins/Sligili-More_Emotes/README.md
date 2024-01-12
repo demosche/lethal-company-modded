@@ -1,4 +1,4 @@
-# More Emotes V1.3.2 - Sligili
+# More Emotes V1.3.3 - Sligili
 
 ## MANUAL INSTALLATION 🛠
 Extract into the main game folder (where ```Lethal Company.exe``` is located). Ensure you have [BepInEx](https://github.com/BepInEx/BepInEx) and [RuntimeNetcodePatcher](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/) installed.
@@ -7,8 +7,9 @@ Extract into the main game folder (where ```Lethal Company.exe``` is located). E
 ## DESCRIPTION 📝
 ### - Compatible with all versions up to **v49** -
 
-Seamlessly integrates with the vanilla game. Certain emotes produce sounds (no songs), such as footsteps, that enemies can hear as well, so be careful where you clap. All emotes play on first person. Supports controller.
+Seamlessly integrates with the vanilla game. Certain emotes produce sounds (no songs), such as footsteps, that enemies can hear as well, so be careful where you clap. All emotes play on first person. Supports controller and should work with any LethalEmotesAPI mod and TooManyEmotes.
 
+> The host needs to have the mod installed for the sign emote to work
 
 ## CONFIGURATION ⚙
 Use either the in-game **More Emotes** menu found under **Settings** or the configuration file (open ```BepInEx/config/MoreEmotes.cfg``` with a text editor if manually installed, otherwise use the **r2modman // thunderstore** config editor). Ensure to set ```Use Config File``` to true if opting for the latter.
@@ -39,6 +40,10 @@ Use either the in-game **More Emotes** menu found under **Settings** or the conf
 
 Join the [LC Modding](https://discord.gg/XeyYqRdRGC) server to report bugs or incompatibilities on the More Emotes thread. 
 
+- ***v1.3.3:***
+     - You should now be unable to emote while performing an emote from TooManyEmotes.
+     - RuntimeControllers are now OverrideControllers (Previous versions are not going to work with newer versions of TooManyEmotes anymore)
+     - Fixed current emote not updating for others on 'StopPerformingEmote'
 - ***v1.3.2:***
      - Corrected an issue where emote wheel keybinds couldn't be left blank
      - Corrected the default controller emote wheel key, which was set to 'V' by accident
@@ -94,7 +99,5 @@ Join the [LC Modding](https://discord.gg/XeyYqRdRGC) server to report bugs or in
      - You can disable keybinds now
 - ***v1.0.0:*** 
      - Initial release 😎
-
-
 
 
