@@ -1,6 +1,14 @@
+# V 1.0.8 Minor update
+
+- Made the RNG Check timer for hallucinations configurable and raised it to 60 from 20. Also added a multiplier for it. (Default value is 1).
+
+- Removed the reduced stamina debuff for now as it actually just gives you infinite sprint.
+
+As the title of this update says, this is just a VERY minor update. The next update will be the first major content update, but I have no idea how long it will take. You can view the trello to get a small glimpse though.
+
 # V 1.0.7 Update 2
 
-- Added compatability with Advanced Company's night vision goggles to reduce sanity loss. If any other mods implement something similar to this, please do let me know of them.
+- Added compatibility with Advanced Company's night vision goggles to reduce sanity loss. If any other mods implement something similar to this, please do let me know of them.
 - Fake items now have a scrap value.
 - Added insanity loss scaling with bigger player lobbies. This is the first iteration of it right now, and will most likely be changed. You can change the amount of players to take into account when scaling in the config file. Setting it to 1 disables it.
 - Reworked how Skinwalker mod is integrated. (Before it literally just copied the way skinwalker loads sound files, basically running skinwalker mod twice.)
