@@ -5,7 +5,7 @@ List of mods:<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  3.0.0<br>
+ Skinwalkers  3.0.1<br>
  ReservedItemSlotCore  1.8.10<br>
  ReservedFlashlightSlot  1.5.10<br>
  LethalCompany_InputUtils  0.5.4<br>
@@ -15,7 +15,7 @@ List of mods:<br>
  TerminalApi  1.5.0<br>
  Coroner  1.5.3<br>
  HookGenPatcher  0.0.5<br>
- LethalLib  0.12.1<br>
+ LethalLib  0.13.0<br>
  OuijaBoard  1.5.1<br>
  HealthStation  1.0.1<br>
  BetterTeleporter  1.2.2<br>

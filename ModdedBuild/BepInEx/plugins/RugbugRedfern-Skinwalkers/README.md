@@ -19,7 +19,7 @@ https://www.youtube.com/dubscr
 ## Configuration
 All players who want to hear voices need the mod installed. This is a client-side mod. Make sure your mic is enabled in-game.
 
-It can be configured through the config file in r2modman or manually in the .cfg file to enable/disable voices for specific creatures, and adjust the frequency of voice lines. The host's config will be automatically synced to other players in the lobby.
+It can be configured through the config file in r2modman or manually in the .cfg file to enable/disable voices for specific creatures and adjust the frequency of voice lines. The host's config will be automatically synced to other players in the lobby.
 
 ## FAQ
 
@@ -27,9 +27,9 @@ It can be configured through the config file in r2modman or manually in the .cfg
 No! There is no AI involved at all in this mod.
 
 ### Does it fill up my hard drive with audio clips?
-No, as of version 3 no files are written to the disk at all. All data is stored in memory and is monitered to be kept below a reasonable usage. All data is wiped from memory when the game is closed.
+No, as of version 3.0.0, no files are written to the disk at all. All data is stored in memory and is monitored to be kept below a reasonable usage. All data is wiped from memory when the game is closed.
 
-### Does this mod steal recordings of my or my friends' voice?
+### Does this mod steal recordings of my or my friends' voices?
 No. All voice data is handled locally on your computer and is never sent to anyone. Additionally, it is wiped when you close the game.
 
 ### How does it work?
@@ -40,9 +40,13 @@ No, you need friends.
 
 ## Changelog
 
+### 3.0.1
+- Reduced max audio clips back to 200
+
 ### 3.0.0
 - Fixed the issue that some players would experience where every few seconds their game would stutter.
 - The game no longer writes any files to disk. Everything is now processed in memory. Yay!
+- Increased max audio clips from 200 to 500
 
 Thanks to Nick for being a good idea bouncer
 
@@ -72,7 +76,7 @@ Thanks to Nick for being a good idea bouncer
 
 ### 2.0.0
 - Enemies no longer play voice lines when dead
-- Removed some unecessary logs
+- Removed some unnecessary logs
 - Added Masked and Nutcracker to the config
 
 ### 1.0.8
