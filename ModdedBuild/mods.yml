@@ -97,11 +97,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
+    major: 3
     minor: 0
-    patch: 7
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\2.0.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\3.0.0\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -121,7 +121,7 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 9
+    patch: 10
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
@@ -144,7 +144,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 9
+    patch: 10
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
 - manifestVersion: 1
@@ -152,7 +152,8 @@
   authorName: Rune580
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
   displayName: LethalCompany_InputUtils
-  description: Utilities for creating InputActions and having them be accessible in game
+  description: Utilities for creating InputActions and providing an (opinionated)
+    improved UI.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -164,7 +165,7 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 4
+    minor: 5
     patch: 4
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
@@ -573,9 +574,9 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 4
-    patch: 1
+    major: 3
+    minor: 0
+    patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
