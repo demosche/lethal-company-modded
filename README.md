@@ -8,7 +8,7 @@ List of mods:<br>
  Skinwalkers  3.0.1<br>
  ReservedItemSlotCore  1.8.10<br>
  ReservedFlashlightSlot  1.5.10<br>
- LethalCompany_InputUtils  0.5.4<br>
+ LethalCompany_InputUtils  0.5.5<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
  WeatherMultipliers  1.1.0<br>
