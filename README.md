@@ -5,10 +5,10 @@ List of mods:<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  2.0.7<br>
- ReservedItemSlotCore  1.8.9<br>
- ReservedFlashlightSlot  1.5.9<br>
- LethalCompany_InputUtils  0.4.4<br>
+ Skinwalkers  3.0.0<br>
+ ReservedItemSlotCore  1.8.10<br>
+ ReservedFlashlightSlot  1.5.10<br>
+ LethalCompany_InputUtils  0.5.4<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
  WeatherMultipliers  1.1.0<br>
@@ -27,7 +27,7 @@ List of mods:<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>
  Huntdown  1.4.1<br>
- MaskedEnemyOverhaul  2.4.1<br>
+ MaskedEnemyOverhaul  3.0.0<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
  QuotaRollover  2.2.1<br>
