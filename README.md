@@ -1,7 +1,7 @@
 Drop this profile here<br>C:\Users\{USERNAME}\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\
 
 List of mods:<br>
-> LC_API  3.3.2<br>
+> LC_API  3.4.1<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
