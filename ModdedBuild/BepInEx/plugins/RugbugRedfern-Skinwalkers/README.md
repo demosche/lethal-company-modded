@@ -40,6 +40,9 @@ No, you need friends.
 
 ## Changelog
 
+### 4.0.0
+- Reverted to v2 due to stability issues with the v3 release.
+
 ### 3.0.1
 - Reduced max audio clips back to 200
 

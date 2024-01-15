@@ -97,11 +97,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 3
+    major: 4
     minor: 0
-    patch: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\4.0.0\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -168,7 +168,7 @@
     minor: 5
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Rune580-LethalCompany_InputUtils\0.5.5\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
 - manifestVersion: 1
   name: Suskitech-AlwaysHearActiveWalkies
   authorName: Suskitech
