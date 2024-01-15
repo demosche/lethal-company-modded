@@ -18,7 +18,7 @@
     minor: 4
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.4.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
@@ -1386,3 +1386,68 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\e3s1-BetterLadders\icon.png
+- manifestVersion: 1
+  name: V_Power-FlashlightExtendedRange
+  authorName: V_Power
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/V_Power/FlashlightExtendedRange/
+  displayName: FlashlightExtendedRange
+  description: The mod that increases the radius and range of the flashlights
+    (works on the yellow and green flashlits).
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\V_Power-FlashlightExtendedRange\icon.png
+- manifestVersion: 1
+  name: PostMortem-BetterLightning
+  authorName: PostMortem
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/PostMortem/BetterLightning/
+  displayName: BetterLightning
+  description: Adds elec sound and particle effects to the random lightning spots
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\PostMortem-BetterLightning\icon.png
+- manifestVersion: 1
+  name: Hexnet111-Excuse_me
+  authorName: Hexnet111
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hexnet111/Excuse_me/
+  displayName: Excuse_me
+  description: Completely gets rid of the bell cooldown, so the monster can take
+    your stuff already!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Hexnet111-Excuse_me\1.0.3\icon.png

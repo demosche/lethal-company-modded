@@ -1,0 +1,9 @@
+{
+    "name": "BetterLightning",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/ArchDunstan/BetterLightning",
+    "description": "Adds elec sound and particle effects to the random lightning spots",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2100"
+    ]
+}
