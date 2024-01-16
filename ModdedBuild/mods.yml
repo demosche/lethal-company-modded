@@ -16,9 +16,9 @@
   versionNumber:
     major: 3
     minor: 4
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.4.3\icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
@@ -314,7 +314,7 @@
   versionNumber:
     major: 0
     minor: 13
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
@@ -336,7 +336,7 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Electric131-OuijaBoard\icon.png
 - manifestVersion: 1
@@ -1450,4 +1450,4 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Hexnet111-Excuse_me\1.0.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Hexnet111-Excuse_me\icon.png

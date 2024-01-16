@@ -1,7 +1,7 @@
 Drop this profile here<br>C:\Users\{USERNAME}\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\
 
 List of mods:<br>
-> LC_API  3.4.2<br>
+> LC_API  3.4.3<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
@@ -15,8 +15,8 @@ List of mods:<br>
  TerminalApi  1.5.0<br>
  Coroner  1.5.3<br>
  HookGenPatcher  0.0.5<br>
- LethalLib  0.13.0<br>
- OuijaBoard  1.5.1<br>
+ LethalLib  0.13.1<br>
+ OuijaBoard  1.5.2<br>
  HealthStation  1.0.1<br>
  BetterTeleporter  1.2.2<br>
  UnlimitedTZP  0.9.0<br>
