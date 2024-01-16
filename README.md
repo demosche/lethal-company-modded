@@ -65,7 +65,7 @@ List of mods:<br>
  Unlimited_Sell_Mod  1.0.0<br>
  EnhancedLockpicker  1.1.3<br>
  BetterLadders  1.4.0<br>
- FlashlightExtendedRange  1.0.5<br>
+ FlashlightExtendedRange  1.0.7<br>
  BetterLightning  1.0.3<br>
  Excuse_me  1.0.3<br>
 

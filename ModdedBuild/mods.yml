@@ -18,7 +18,7 @@
     minor: 4
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.4.4\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
@@ -1405,9 +1405,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 5
+    patch: 7
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\V_Power-FlashlightExtendedRange\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\V_Power-FlashlightExtendedRange\1.0.7\icon.png
 - manifestVersion: 1
   name: PostMortem-BetterLightning
   authorName: PostMortem
