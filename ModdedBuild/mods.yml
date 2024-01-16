@@ -1492,4 +1492,25 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Froze-LCConductivityRework\1.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Froze-LCConductivityRework\icon.png
+- manifestVersion: 1
+  name: OnionMilk-crawlingmine
+  authorName: OnionMilk
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/OnionMilk/crawlingmine/
+  displayName: crawlingmine
+  description: Adds 10% chance for mine to be crawling one, it crawls around the facility!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\OnionMilk-crawlingmine\1.0.2\icon.png
