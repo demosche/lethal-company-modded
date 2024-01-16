@@ -31,7 +31,7 @@ List of mods:<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
  QuotaRollover  2.2.1<br>
- JetpacksCarryBigItems  1.0.1<br>
+ JetpacksCarryBigItems  1.0.2<br>
  JesterStompShake  1.0.8<br>
  EnhancedRadarBooster  1.5.4<br>
  Lethal_Doors  1.0.3<br>
