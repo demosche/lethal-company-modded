@@ -16,9 +16,9 @@
   versionNumber:
     major: 3
     minor: 4
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\2018-LC_API\3.4.4\icon.png
 - manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
@@ -663,7 +663,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Hamunii-JetpacksCarryBigItems\1.0.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Hamunii-JetpacksCarryBigItems\icon.png
 - manifestVersion: 1
   name: Piggy-JesterStompShake
   authorName: Piggy
