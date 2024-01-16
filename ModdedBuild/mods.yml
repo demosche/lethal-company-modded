@@ -1429,3 +1429,23 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Hexnet111-Excuse_me\icon.png
+- manifestVersion: 1
+  name: SlightlyInteractive-TurretDownTime
+  authorName: SlightlyInteractive
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SlightlyInteractive/TurretDownTime/
+  displayName: TurretDownTime
+  description: Configure the time that turrets stay disabled for.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SlightlyInteractive-TurretDownTime\0.1.0\icon.png
