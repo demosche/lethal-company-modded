@@ -121,9 +121,9 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 11
+    patch: 12
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\1.8.12\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -316,7 +316,7 @@
     minor: 13
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\0.13.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
