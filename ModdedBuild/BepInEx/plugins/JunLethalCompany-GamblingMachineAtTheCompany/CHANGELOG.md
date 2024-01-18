@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.3.5
+- Fixed bug where logging out of The Company moon and joining another game would make the ship get stuck in orbit
+
 ## 1.3.4
 - Add configuration to add up to 3 gambling machines!
 - Add configuration to limit the number of uses on a gambling machine

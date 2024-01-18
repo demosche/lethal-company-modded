@@ -443,9 +443,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\1.5.1\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -578,7 +578,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HomelessGinger-MaskedEnemyOverhaul\3.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
@@ -773,7 +773,7 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JunLethalCompany-GamblingMachineAtTheCompany\icon.png
 - manifestVersion: 1

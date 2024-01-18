@@ -10,6 +10,7 @@ This mod aims to add a fun little random element to the game. A "ghost" is in th
 **[DISCLAIMER]**
 - If you have SEVERE EPILEPSY you should disable the following configuration option by setting it to FALSE - [ggRapidLights]
 - It is highly recommended to delete your old config and let the mod generate a new one.
+- With the ModNetworking configuration option set to [TRUE], EVERYONE will need the mod. With the ModNetworking configuration option set to [FALSE], only the host needs this mod.
 
 The ghost sends codes through the terminal that can do the following:
 - Open Blast Doors
@@ -40,6 +41,24 @@ The ghost doesn't really care if it's helping or not it's just sending codes to 
 
 ## Change Log
 
+### [1.5.1]
+
+ - Added a configuration option to bypass GGE if a moon does not have the possibility for a ghost girl spawning.
+ - Added configuration option to modify the moons list for when GGE will be bypassed for the other modes.
+ - Changed signal translator messages sent by ghostGirl and added a common handling method for this action.
+ - Added configuration option for custom messages to be sent by the ghost girl over the signal translator.
+ - Added a extra null reference handling for the nethandler to deal with an error that occurs on lobby restart.
+
+ [Planned Features (not currently in this version)]
+ - System for combatting/delaying ghostCodes for the terminal operator.
+ - Above system will have various tasks that need to be completed around the ship.
+ - Custom sounds to play over the terminal to replace current sounds.
+ - More area effects for the facility during rapidFire mode.
+ - More custom events for ghostCodes to cause havoc.
+ - Have tell sounds from the terminal also play over the walkie
+
+****
+
 ### [1.5.0]
 
 - Reworked code for mod to be more modular to add new mode focused entirely on ghostGirl interactions.
@@ -68,15 +87,7 @@ The ghost doesn't really care if it's helping or not it's just sending codes to 
 - When a ghost girl enemy exists, terminal will play random sounds of her's when a ghostCode is sent.
 - If you have a Signal Translator, certain ghost codes will send a signal translator message with their action.
 
- [Planned Features (not currently in this version)]
- - System for combatting/delaying ghostCodes for the terminal operator.
- - Above system will have various tasks that need to be completed around the ship.
- - Custom sounds to play over the terminal to replace current sounds.
- - More area effects for the facility during rapidFire mode.
- - More custom events for ghostCodes to cause havoc.
- - Have tell sounds from the terminal also play over the walkie
 
-****
 
 ### [1.1.1]
  - Fixed cases where there were no interactable objects throwing error in the console.
