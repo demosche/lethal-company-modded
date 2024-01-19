@@ -1,3 +1,6 @@
+## v1.0.3 (Released 19-01-2024)
+- Fixed shadows movement after explosion
+
 ## v1.0.2 (Released 08-01-2024)
 - Fixed lack of mine "beep" sound
 - Fixed mine not being able to be scanned
