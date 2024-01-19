@@ -1,6 +1,8 @@
-# 1.2.9
-I added a basic targeting support for enemies now. Feedback  is always welcome. Please if you can drop a 1$ donation I lost my job and would love some motivation.
+# 1.3.0 
+Want a funny little headcrab but with all mobs. Go back a version otherwise this should fix that issue lol. Please if you can drop a 1$ donation I lost my job and would love some motivation.
 
+# 1.2.9
+I added a basic targeting support for enemies now. Feedback  is always welcome.
 # 1.2.8
 Fixed for new version of Lethal Company. 
 
