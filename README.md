@@ -1,7 +1,7 @@
 Drop this profile here<br>C:\Users\{USERNAME}\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\
 
 List of mods:<br>
-> LC_API  3.4.4<br>
+> LC_API  3.4.5<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
@@ -12,7 +12,7 @@ List of mods:<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
  WeatherMultipliers  1.1.0<br>
- TerminalApi  1.5.0<br>
+ TerminalApi  1.5.1<br>
  Coroner  1.5.3<br>
  HookGenPatcher  0.0.5<br>
  LethalLib  0.13.2<br>
@@ -21,13 +21,13 @@ List of mods:<br>
  BetterTeleporter  1.2.2<br>
  UnlimitedTZP  0.9.0<br>
  BetterTerminal  0.1.1<br>
- ghostCodes  1.5.0<br>
+ ghostCodes  1.5.1<br>
  LethalThings  0.9.4<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>
  Huntdown  1.4.1<br>
- MaskedEnemyOverhaul  3.0.0<br>
+ MaskedEnemyOverhaul  3.1.0<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
  QuotaRollover  2.2.1<br>
@@ -36,8 +36,8 @@ List of mods:<br>
  EnhancedRadarBooster  1.5.4<br>
  Lethal_Doors  1.0.3<br>
  BetterSprayPaint  1.1.0<br>
- GamblingMachineAtTheCompany  1.3.4<br>
- ReservedSprayPaintSlot  1.0.6<br>
+ GamblingMachineAtTheCompany  1.3.5<br>
+ ReservedSprayPaintSlot  1.0.7<br>
  Immersive_Visor  0.2.1<br>
  CoilHeadStare  1.0.3<br>
  ShipLoot  1.0.0<br>
