@@ -7,7 +7,7 @@ List of mods:<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  4.0.1<br>
  ReservedItemSlotCore  1.8.12<br>
- ReservedFlashlightSlot  1.5.10<br>
+ ReservedFlashlightSlot  1.6.1<br>
  LethalCompany_InputUtils  0.5.5<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
