@@ -1,5 +1,8 @@
+# 1.2.9
+I added a basic targeting support for enemies now. Feedback  is always welcome. Please if you can drop a 1$ donation I lost my job and would love some motivation.
+
 # 1.2.8
-Fixed for new version of Lethal Company. Please if you can drop a 1$ donation I lost my job and would love some motivation.
+Fixed for new version of Lethal Company. 
 
 # 1.2.7
 Probably Fixed Sync Error With Turret And Enemy Deaths And Damage.
