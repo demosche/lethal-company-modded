@@ -8,7 +8,7 @@ List of mods:<br>
  Skinwalkers  4.0.1<br>
  ReservedItemSlotCore  1.8.12<br>
  ReservedFlashlightSlot  1.6.1<br>
- LethalCompany_InputUtils  0.5.5<br>
+ LethalCompany_InputUtils  0.5.6<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
  WeatherMultipliers  1.1.0<br>
@@ -27,7 +27,7 @@ List of mods:<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>
  Huntdown  1.4.1<br>
- MaskedEnemyOverhaul  3.1.0<br>
+ MaskedEnemyOverhaul  3.1.1<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
  QuotaRollover  2.2.1<br>
@@ -55,7 +55,7 @@ List of mods:<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>
- InsanityRemastered  1.0.8<br>
+ InsanityRemastered  1.1.1<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LC_Masked_Fix  0.0.2<br>
  FlashlightFix  1.0.5<br>
@@ -64,11 +64,11 @@ List of mods:<br>
  Kill_It_With_Shovel  1.0.1<br>
  Unlimited_Sell_Mod  1.0.0<br>
  EnhancedLockpicker  1.1.3<br>
- BetterLadders  1.4.0<br>
+ BetterLadders  1.4.2<br>
  BetterLightning  1.0.3<br>
  Excuse_me  1.0.3<br>
  TurretDownTime  0.1.0<br>
  LethalExpansionCore  1.3.14<br>
  LCConductivityRework  1.0.2<br>
- crawlingmine  1.0.4<br>
+ crawlingmine  1.0.5<br>
 
