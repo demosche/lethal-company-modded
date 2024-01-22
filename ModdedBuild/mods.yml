@@ -168,7 +168,7 @@
     minor: 5
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Rune580-LethalCompany_InputUtils\0.5.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
 - manifestVersion: 1
   name: Suskitech-AlwaysHearActiveWalkies
   authorName: Suskitech
@@ -1188,10 +1188,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 8
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BudgetAirpods-InsanityRemastered\1.1.0\icon.png
 - manifestVersion: 1
   name: Ozone-Runtime_Netcode_Patcher
   authorName: Ozone
@@ -1383,7 +1383,7 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\e3s1-BetterLadders\icon.png
 - manifestVersion: 1
@@ -1511,6 +1511,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 4
+    patch: 5
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\OnionMilk-crawlingmine\icon.png

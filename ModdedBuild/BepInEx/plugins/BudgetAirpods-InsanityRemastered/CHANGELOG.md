@@ -1,66 +1,39 @@
-# V 1.0.8 Minor update
+### Changes:
 
-- Made the RNG Check timer for hallucinations configurable and raised it to 60 from 20. Also added a multiplier for it. (Default value is 1).
-
-- Removed the reduced stamina debuff for now as it actually just gives you infinite sprint.
-
-As the title of this update says, this is just a VERY minor update. The next update will be the first major content update, but I have no idea how long it will take. You can view the trello to get a small glimpse though.
-
-# V 1.0.7 Update 2
-
-- Added compatibility with Advanced Company's night vision goggles to reduce sanity loss. If any other mods implement something similar to this, please do let me know of them.
-- Fake items now have a scrap value.
-- Added insanity loss scaling with bigger player lobbies. This is the first iteration of it right now, and will most likely be changed. You can change the amount of players to take into account when scaling in the config file. Setting it to 1 disables it.
-- Reworked how Skinwalker mod is integrated. (Before it literally just copied the way skinwalker loads sound files, basically running skinwalker mod twice.)
-- Added more configurable settings in the config.
-- Added a tooltip to the pills to indicate that they can be used now. (I somehow forgot to add this.)
-- Added the ability for player hallucinations to play skinwalker sound files.
-
-- Fixed panic attack audio/visual effects happening instantly rather than gradually over time.
-- Fixed Skinwalker mod clips "playing" when playing solo.
-
-I'm sorry for the lack of major content updates and the frequency of updates in general. I'm not the best at coding, and don't have a lof of time to work on this mod in my free time.
-
-# V1.0.5 Update 1
-Before I get into the changes/fixes, I want to say I am very sorry for the wait on this patch.
-
-- Added integration with Skinwalker mod. (Clips recorded by the Skinwalker mod have a chance of playing randomly).
-- Added functionality to pills.
-- Added more settings to the config file.
-
-- Fixed Flashlights not actually lowering sanity loss.
-- Fixed panic attack debuffs being permanent.
-- Fixed panic visual/audio effects happening instantly instead of over time.
-
-## Planned Features for next update:
-- Insanity gain/loss scaling for amount of players in lobby.
-- More panic attack debuffs.
-- Insanity gain or loss from certain events.
-
-As always, please let me know of any suggestions you have for the mod and do not be afraid to report any bugs on the github.
-
-# V.1.0.0 Official Release
-
-- Increased max insanity cap to 200.
-
-- Added 3 new insanity levels:
-    - Low Insanity: Less than 40 insanity.
-    - Medium Insanity: More than 40 insanity.
-    - High Insanity: More than 100 insanity.
-
-- Changed what causes sanity loss and how much sanity is lost:
-  - Being alone inside the facility.
-  - No enabled flashlight in inventory.
-  - Power shutoff hallucination.
-  - Panic Attacks
-
-- Added a panic attack system that happens when you reach max sanity.
-    - Can be helped by being around others or leaving the facility.
-    - Causes slowness, stamina loss, vision loss, and death if enabled via config.
-    
-- Added 4 Hallucinations:
+- Fully reworked the fake player AI.
   
-  - Fake player hallucination
-  - Auditory Hallucination
-  - Fake Items
-  - Power shutoff
+- Changed time between each RNG checks to 45 from 60.
+
+- Your sanity level will not be at max until you experience a panic attack. (For those wondering, this is refering to an enum that stores the player's sanity level).
+
+- Organized the configuration file so you can actually understand what you're looking at.. good job me!
+
+- Reworked the insanity scaling. This should be miles better. (Hopefully)...
+
+### Additions
+
+- Walkie Talkies can now play Skinwalker clips if installed.
+
+- Added more sound effects.
+  
+- Added 2 new minor hallucinations.
+     - Due to technical difficulties, I will have to postpone a certain hallucination, of which I really wanted to release in this update. I cannot get the model and material to work properly and don't wanna half-ass it. It will be out soon hopefully.
+
+- A new way to reduce sanity loss when alone. I will not **_speak_** about it ;)
+  
+- Added Light Proximity Detection:
+     - You will regain sanity when near a light source. **THIS EXCLUDES FLASHLIGHTS**
+   
+- Added a message to notify the player when their sanity is rising to unsafe levels.
+
+### Integrations
+
+- Updated AdvancedCompany compatibility with the Helmet Lamp && Tactical helmet.
+
+### Code "improvements"
+
+- Reworked how hallucinations are selected and stored.
+   - Hallucinations are now stored in a dictionary with their ID and the sanity level they should occur at.
+   - Allows for chaining hallucinations.
+   - Allows for easier additions of hallucinations.
+     
