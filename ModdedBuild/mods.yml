@@ -735,8 +735,10 @@
   authorName: taffyko
   websiteUrl: https://thunderstore.io/c/lethal-company/p/taffyko/BetterSprayPaint/
   displayName: BetterSprayPaint
-  description: Infinite spray paint, significantly more responsive and reliable
-    painting, longer range, quieter sounds, and an erase feature
+  description: Significantly more responsive and reliable painting, many
+    bug-fixes, infinite spray paint, longer range, quieter sounds. Adds an erase
+    feature, as well as the ability to control color and brush size. All
+    configurable.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -747,11 +749,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 1
+    major: 2
+    minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\taffyko-BetterSprayPaint\2.0.0\icon.png
 - manifestVersion: 1
   name: JunLethalCompany-GamblingMachineAtTheCompany
   authorName: JunLethalCompany
@@ -1513,4 +1515,4 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\OnionMilk-crawlingmine\1.0.6\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\OnionMilk-crawlingmine\icon.png
