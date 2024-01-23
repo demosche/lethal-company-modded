@@ -70,5 +70,5 @@ List of mods:<br>
  TurretDownTime  0.1.0<br>
  LethalExpansionCore  1.3.14<br>
  LCConductivityRework  1.0.2<br>
- crawlingmine  1.0.5<br>
+ crawlingmine  1.0.6<br>
 
