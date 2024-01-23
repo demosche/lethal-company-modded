@@ -35,7 +35,7 @@ List of mods:<br>
  JesterStompShake  1.0.8<br>
  EnhancedRadarBooster  1.5.4<br>
  Lethal_Doors  1.0.3<br>
- BetterSprayPaint  2.0.0<br>
+ BetterSprayPaint  2.0.1<br>
  GamblingMachineAtTheCompany  1.3.5<br>
  ReservedSprayPaintSlot  1.0.7<br>
  Immersive_Visor  0.2.1<br>
