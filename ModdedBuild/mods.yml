@@ -121,9 +121,9 @@
   versionNumber:
     major: 1
     minor: 8
-    patch: 12
+    patch: 13
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\1.8.13\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -146,7 +146,7 @@
     minor: 6
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedFlashlightSlot\1.6.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
