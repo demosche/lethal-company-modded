@@ -1,3 +1,5 @@
+# 1.8.14
++ Gave internal access to the ReservedKeySlot mod by: nitsuD
 # 1.8.13
 + Revised a few methods to help prevent the error spam with players sending negative hotbar slot changes to the server.
 + Added more logs to help debug current or future errors.
