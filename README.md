@@ -51,7 +51,7 @@ List of mods:<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>
  MaskTheDead  1.0.5<br>
- Possessed_Masks  2.0.0<br>
+ Possessed_Masks  2.0.1<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>

@@ -729,7 +729,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\saint_kendrick-Lethal_Doors\1.0.4\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\saint_kendrick-Lethal_Doors\icon.png
 - manifestVersion: 1
   name: taffyko-BetterSprayPaint
   authorName: taffyko
@@ -1106,9 +1106,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\OE_Tweaks-Possessed_Masks\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\OE_Tweaks-Possessed_Masks\2.0.1\icon.png
 - manifestVersion: 1
   name: linkoid-DissonanceLagFix
   authorName: linkoid
