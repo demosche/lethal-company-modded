@@ -33,9 +33,9 @@ List of mods:<br>
  QuotaRollover  2.2.1<br>
  JetpacksCarryBigItems  1.0.2<br>
  JesterStompShake  1.0.8<br>
- EnhancedRadarBooster  1.5.4<br>
+ EnhancedRadarBooster  1.6.0<br>
  Lethal_Doors  1.0.3<br>
- BetterSprayPaint  2.0.1<br>
+ BetterSprayPaint  2.0.2<br>
  GamblingMachineAtTheCompany  1.3.5<br>
  ReservedSprayPaintSlot  1.0.7<br>
  Immersive_Visor  0.2.1<br>
@@ -55,10 +55,10 @@ List of mods:<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>
- InsanityRemastered  1.1.1<br>
+ InsanityRemastered  1.1.2<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LC_Masked_Fix  0.0.2<br>
- FlashlightFix  1.0.6<br>
+ FlashlightFix  1.0.7<br>
  DoorFix  1.0.0<br>
  IntroTweaks  1.4.2<br>
  Kill_It_With_Shovel  1.0.1<br>

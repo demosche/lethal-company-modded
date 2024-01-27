@@ -702,10 +702,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 4
+    minor: 6
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-EnhancedRadarBooster\1.6.0\icon.png
 - manifestVersion: 1
   name: saint_kendrick-Lethal_Doors
   authorName: saint_kendrick
@@ -746,12 +746,13 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - Rune580-LethalCompany_InputUtils-0.6.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
 - manifestVersion: 1
@@ -1191,7 +1192,7 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png
 - manifestVersion: 1
@@ -1255,9 +1256,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-FlashlightFix\1.0.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-FlashlightFix\icon.png
 - manifestVersion: 1
   name: itsmeowdev-DoorFix
   authorName: itsmeowdev

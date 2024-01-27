@@ -1,4 +1,4 @@
-# Insanity Remastered
+# Insanity Remastered has been discontinued. I both apologize to and thank those who enjoyed the mod. [Here's](https://github.com/BudgetAirpods/InsanityRemastered/discussions/40) the announcement
 
 ## This mod is best experienced with smaller lobbies. (4-6) players.
 A mod for Lethal Company that adds more features to the insanity mechanic and tweaks a few things related to it.
@@ -6,7 +6,7 @@ A mod for Lethal Company that adds more features to the insanity mechanic and tw
 This is a client-sided mod as it would be odd if other players could see your hallucinations.
 
 Installation:
-Drag InsanityRemastered.dll and the folder named "InsanityRemastered" into the BepInEx plugins folder.
+Drag InsanityRemastered.dll and the files with the prefix "soundresources" into the BepInEx plugins folder.
 
 
 ### Losing Sanity:
@@ -83,14 +83,12 @@ Keep in mind that some settings might be removed due to me feeling like they sho
 
 In my eyes, if you conform to everyone, you conform to no one.
 
-## Suggestions and Bug Reports:
 
-**This mod is far from being done.**
+
+~~**This mod is far from being done.**~~ Didn't age well...
 
 If you have any suggestions please leave them on them in the Discussions tab on the GitHub.
 
 Bug reports/compatibility issues should be reported in the Issues tab.
 
 https://github.com/BudgetAirpods/InsanityRemastered/tree/main
-
-View the trello board to see what I'm working on currently: https://trello.com/b/trtanZtI/insanity-remastered
