@@ -1,3 +1,6 @@
+# 1.3.2
+You can now configure to check for players before allowing enemies to be effected by the mod. Please if you can drop a 1$ donation I lost my job and would love some motivation.
+
 # 1.3.1
 The issue of mobs not dying properly should now be fixed. Please if you can drop a 1$ donation I lost my job and would love some motivation.
 
@@ -6,6 +9,7 @@ Want a funny little headcrab but with all mobs. Go back a version otherwise this
 
 # 1.2.9
 I added a basic targeting support for enemies now. Feedback  is always welcome.
+
 # 1.2.8
 Fixed for new version of Lethal Company. 
 
