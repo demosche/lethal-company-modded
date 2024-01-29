@@ -642,7 +642,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.3.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\boxofbiscuits97-QuotaRollover\icon.png
 - manifestVersion: 1
   name: Hamunii-JetpacksCarryBigItems
   authorName: Hamunii
@@ -703,9 +703,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-EnhancedRadarBooster\1.6.1\icon.png
 - manifestVersion: 1
   name: saint_kendrick-Lethal_Doors
   authorName: saint_kendrick
