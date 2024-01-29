@@ -316,7 +316,7 @@
     minor: 14
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\0.14.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
@@ -639,10 +639,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\boxofbiscuits97-QuotaRollover\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.3.0\icon.png
 - manifestVersion: 1
   name: Hamunii-JetpacksCarryBigItems
   authorName: Hamunii

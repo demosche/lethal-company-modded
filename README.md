@@ -30,7 +30,7 @@ List of mods:<br>
  MaskedEnemyOverhaul  3.1.1<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
- QuotaRollover  2.2.1<br>
+ QuotaRollover  2.3.0<br>
  JetpacksCarryBigItems  1.0.2<br>
  JesterStompShake  1.0.8<br>
  EnhancedRadarBooster  1.6.0<br>
