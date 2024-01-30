@@ -314,9 +314,9 @@
   versionNumber:
     major: 0
     minor: 14
-    patch: 0
+    patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\0.14.2\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
@@ -705,7 +705,7 @@
     minor: 6
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-EnhancedRadarBooster\1.6.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedRadarBooster\icon.png
 - manifestVersion: 1
   name: saint_kendrick-Lethal_Doors
   authorName: saint_kendrick
