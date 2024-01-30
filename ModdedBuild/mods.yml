@@ -316,7 +316,7 @@
     minor: 14
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\0.14.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
@@ -844,9 +844,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 3
+    patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TwinDimensionalProductions-CoilHeadStare\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TwinDimensionalProductions-CoilHeadStare\1.0.5\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLoot
   authorName: tinyhoot

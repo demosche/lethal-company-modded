@@ -39,7 +39,7 @@ List of mods:<br>
  GamblingMachineAtTheCompany  1.3.5<br>
  ReservedSprayPaintSlot  1.0.7<br>
  Immersive_Visor  0.2.1<br>
- CoilHeadStare  1.0.3<br>
+ CoilHeadStare  1.0.5<br>
  ShipLoot  1.0.0<br>
  ScanFix  1.0.3<br>
  FairAI  1.3.2<br>

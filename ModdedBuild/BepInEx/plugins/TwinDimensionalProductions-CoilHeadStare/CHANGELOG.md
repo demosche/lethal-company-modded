@@ -1,5 +1,15 @@
+## 1.0.5
+increased compatibility with reskins
+
+after working together with CommanderJoJo, [ThiccCoilHead](https://thunderstore.io/c/lethal-company/p/CommanderJoJo/ThiccCoilHead/) is guaranteed to work with CoilHeadStare
+
+## 1.0.4
+added toggle-able feature to make the coil heads spring bounce when hit with shovel
+
+modified code to allow for better compatibility with coil head reskins
+
 ## 1.0.3
-fixed an error being logged to console when coilhead couldn't find any player
+fixed an error being logged to console when coil head couldn't find any player
 
 ## 1.0.2
 when the head starts turning, it won't switch its stare target anymore
