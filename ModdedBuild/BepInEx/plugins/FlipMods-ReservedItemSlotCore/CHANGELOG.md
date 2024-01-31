@@ -1,3 +1,5 @@
+# 1.8.17
++ Fixed warnings when InputUtils is not enabled.
 # 1.8.16
 + Re-restricted the use of this mod for non-host clients if the host does not have it enabled. This still CAN, and likely WILL cause desync issues if used this way, but for those who are stubborn enough, you can force allow this in the config. You have been warned!
 # 1.8.15
