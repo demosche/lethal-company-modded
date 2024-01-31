@@ -19,6 +19,22 @@ A highly configurable solution to all of your intro/menu problems.
 - Unless disabled, IntroTweaks aligns the menu buttons by default which other mods may not respect if they implement their own buttons.
 
 ## Changelog
+### v1.4.3
+#### Deleting your config file is recommended!
+- Fixed wrong version showing by replacing `sVersionTextFormat` with `bAlwaysShortVersion`.
+- Improved consistency of button alignment by matching their `sizeDelta` with the host button.
+- All config options now use `ConfigEntry` to enable runtime editing with things like [ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager).
+- Version text is now updated in realtime when changing related config options.
+    > Essentially, you no longer need to restart. Use **LethalConfig** to instantly see your changes.
+<p>
+
+- Added new `fVersionTextOffset` adjust the Y (up/down) position of the version text.
+  - You should use this option when the text appears out of place due to a multi-line or aspect ratio issue.
+<p>
+
+- Improved compatibility with **AdvancedCompany** by disabling the canvas fix regardless of `bFixMenuCanvas`.
+    - This fixes the character being drawn as a black silhouette on the cosmetics page.
+
 ### v1.4.2
 - Fixed header/logo disappearing when navigating menus.
 - Fixed the **LethalConfig** button being below the Quit button.
