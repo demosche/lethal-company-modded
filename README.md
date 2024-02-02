@@ -33,7 +33,7 @@ List of mods:<br>
  QuotaRollover  2.3.0<br>
  JetpacksCarryBigItems  1.0.2<br>
  JesterStompShake  1.0.8<br>
- EnhancedRadarBooster  1.6.1<br>
+ EnhancedRadarBooster  1.6.2<br>
  Lethal_Doors  1.0.4<br>
  BetterSprayPaint  2.0.2<br>
  GamblingMachineAtTheCompany  1.3.5<br>
