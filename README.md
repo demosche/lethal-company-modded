@@ -27,7 +27,7 @@ List of mods:<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.2.1<br>
  Huntdown  1.4.1<br>
- MaskedEnemyOverhaul  3.1.1<br>
+ MaskedEnemyOverhaul  3.1.2<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
  QuotaRollover  2.3.0<br>
