@@ -578,7 +578,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\HomelessGinger-MaskedEnemyOverhaul\3.1.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\HomelessGinger-MaskedEnemyOverhaul\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
@@ -1108,9 +1108,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\OE_Tweaks-Possessed_Masks\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\OE_Tweaks-Possessed_Masks\2.0.4\icon.png
 - manifestVersion: 1
   name: linkoid-DissonanceLagFix
   authorName: linkoid
