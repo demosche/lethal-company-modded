@@ -152,8 +152,9 @@
   authorName: Rune580
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/
   displayName: LethalCompany_InputUtils
-  description: Utilities for creating InputActions and providing an (opinionated)
-    improved UI.
+  description: API/Library for creating Unity InputActions with in-game re-binding
+    support. Provides an alternative UI that allows for supporting mods to have
+    in-game re-bindable keybinds.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -166,9 +167,9 @@
   versionNumber:
     major: 0
     minor: 6
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Rune580-LethalCompany_InputUtils\0.6.3\icon.png
 - manifestVersion: 1
   name: Suskitech-AlwaysHearActiveWalkies
   authorName: Suskitech
@@ -1304,7 +1305,7 @@
     minor: 4
     patch: 5
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Owen3H-IntroTweaks\1.4.5\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Owen3H-IntroTweaks\icon.png
 - manifestVersion: 1
   name: MiffyL-Kill_It_With_Shovel
   authorName: MiffyL
