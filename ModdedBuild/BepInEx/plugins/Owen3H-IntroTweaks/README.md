@@ -12,13 +12,22 @@ A highly configurable solution to all of your intro/menu problems.
 - Aligns the main menu buttons with each other.
 - Provides other useful options (startup display, auto select host, remove credits button).
 - Improves look of the version text and moves it to the bottom center.
-- Compatible with **LethalExpansion**, **AdvancedCompany**, **MoreCompany** and other mods without explicit support.
+- Compatible with **LethalConfig**, **LethalExpansion**, **AdvancedCompany** and other mods without explicit support.
 
 ## Important Notes
 - This mod will hide the original game version text, other mods should not be editing it directly - please take that up with them.
 - Unless disabled, IntroTweaks aligns the menu buttons by default which other mods may not respect if they implement their own buttons.
 
 ## Changelog
+### v1.4.5
+- Fixed issue where `bAutoSelectHost` would cause a black screen to be shown, softlocking the menu.
+- Fixed issue where the **MoreCompany** cosmetics button could not be clicked when `bFixMenuCanvas` was false.
+- Implemented new `bFixMoreCompany` config option to ease any further bugs with **MoreCompany**.
+    - Defaults to **true**. Disable this if you do not care about the look of your main menu.
+
+### v1.4.4
+- Minor changes to Thunderstore metadata.
+
 ### v1.4.3
 #### Deleting your config file is recommended!
 - Fixed wrong version showing by replacing `sVersionTextFormat` with `bAlwaysShortVersion`.
