@@ -1,10 +1,16 @@
 # Changelog
 
+## v2.3
+- Greatly improved the zoom feature (big thanks to [HalfyRed](https://github.com/Xenation/SpectateEnemiesFix/)!)
+- Switched the configuration system back to BepInEx's
+   - This should also add support for LethalConfig!
+- Added a config option to disable the controls tooltip on the right side
+
 ## v2.2.1 (Hotfix)
 - Fixed a crash caused by the only enemy alive being killed
 
 ## v2.2
-(Big thanks to @A13 for helping with this update!)
+(Big thanks to @1A3 for helping with this update!)
 - Updated to support v47
 - Added support for modded enemies!
    - Note for developers, your enemy MUST have an `EnemyType` for it to be picked up by SpectateEnemies

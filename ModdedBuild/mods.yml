@@ -273,7 +273,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-Coroner\1.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -531,10 +531,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AllToasters-SpectateEnemies\2.3.0\icon.png
 - manifestVersion: 1
   name: doggosuki-Huntdown
   authorName: doggosuki

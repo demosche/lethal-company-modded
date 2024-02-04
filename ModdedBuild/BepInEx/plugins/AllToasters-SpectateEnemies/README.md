@@ -1,4 +1,4 @@
-# Spectate Enemies v2.2.1
+# Spectate Enemies v2.3
 ## by alltoasters
 https://github.com/EBro912/SpectateEnemies
 
@@ -26,6 +26,8 @@ You can set your keybinds in the in-game keybind menu. The following SpectateEne
 Pressing your "Menu" key (default: Insert) will open the config menu. Clicking the box next to an enemy's name will enable/disable spectating that enemy.
 
 You can also find a config in `BepInEx/configs/SpectateEnemy.cfg`, although I wouldn't mess with this file unless you know what you're doing.
+
+If you would like to hide the controls tooltip on the right side of the screen, open the config file and change the `Hide Controls` option to `true`.
 
 ### API for Developers
 You can utilize the SpectateEnemies API to gather information about what SpectateEnemies is doing for use in your own mod. After adding `SpectateEnemy.dll` as a reference to your project, you can use the `SpectateEnemiesAPI` class to access the API functions.
