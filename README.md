@@ -16,7 +16,7 @@ List of mods:<br>
  Coroner  1.6.0<br>
  HookGenPatcher  0.0.5<br>
  LethalLib  0.14.2<br>
- OuijaBoard  1.5.2<br>
+ OuijaBoard  1.5.3<br>
  HealthStation  1.0.1<br>
  BetterTeleporter  1.2.2<br>
  UnlimitedTZP  0.9.0<br>
@@ -39,7 +39,7 @@ List of mods:<br>
  GamblingMachineAtTheCompany  1.3.5<br>
  ReservedSprayPaintSlot  1.0.7<br>
  Immersive_Visor  0.2.1<br>
- CoilHeadStare  1.0.5<br>
+ CoilHeadStare  1.0.6<br>
  ShipLoot  1.0.0<br>
  ScanFix  1.0.3<br>
  FairAI  1.3.2<br>

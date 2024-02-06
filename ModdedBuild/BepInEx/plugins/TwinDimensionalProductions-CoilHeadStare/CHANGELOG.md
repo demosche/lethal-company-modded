@@ -1,3 +1,10 @@
+## 1.0.6
+improved instructions in readme for reskin compatibility
+
+improved log output
+
+changed showcase gif to include shovel head bonk
+
 ## 1.0.5
 increased compatibility with reskins
 
