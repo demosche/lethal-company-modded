@@ -534,9 +534,9 @@
   versionNumber:
     major: 2
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AllToasters-SpectateEnemies\2.3.1\icon.png
 - manifestVersion: 1
   name: doggosuki-Huntdown
   authorName: doggosuki
@@ -1262,7 +1262,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-FlashlightFix\1.1.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-FlashlightFix\icon.png
 - manifestVersion: 1
   name: itsmeowdev-DoorFix
   authorName: itsmeowdev

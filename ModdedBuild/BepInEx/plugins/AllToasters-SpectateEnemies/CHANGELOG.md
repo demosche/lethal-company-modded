@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.3.1
+- Fixed an issue where certain custom enemy names would cause the config to fail to load
+
 ## v2.3
 - Greatly improved the zoom feature (big thanks to [HalfyRed](https://github.com/Xenation/SpectateEnemiesFix/)!)
 - Switched the configuration system back to BepInEx's
