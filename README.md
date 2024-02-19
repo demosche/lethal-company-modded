@@ -63,7 +63,7 @@ List of mods:<br>
  IntroTweaks  1.4.6<br>
  Kill_It_With_Shovel  1.0.1<br>
  Unlimited_Sell_Mod  1.0.0<br>
- EnhancedLockpicker  1.1.3<br>
+ EnhancedLockpicker  1.1.4<br>
  BetterLadders  1.4.2<br>
  BetterLightning  1.0.3<br>
  Excuse_me  1.0.3<br>

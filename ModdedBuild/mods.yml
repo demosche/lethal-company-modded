@@ -1306,7 +1306,7 @@
     minor: 4
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Owen3H-IntroTweaks\1.4.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Owen3H-IntroTweaks\icon.png
 - manifestVersion: 1
   name: MiffyL-Kill_It_With_Shovel
   authorName: MiffyL
@@ -1368,9 +1368,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedLockpicker\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-EnhancedLockpicker\1.1.4\icon.png
 - manifestVersion: 1
   name: e3s1-BetterLadders
   authorName: e3s1
