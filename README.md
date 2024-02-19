@@ -60,7 +60,7 @@ List of mods:<br>
  LC_Masked_Fix  0.0.2<br>
  FlashlightFix  1.1.0<br>
  DoorFix  1.0.0<br>
- IntroTweaks  1.4.5<br>
+ IntroTweaks  1.4.6<br>
  Kill_It_With_Shovel  1.0.1<br>
  Unlimited_Sell_Mod  1.0.0<br>
  EnhancedLockpicker  1.1.3<br>

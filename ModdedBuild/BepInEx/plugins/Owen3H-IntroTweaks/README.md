@@ -19,6 +19,13 @@ A highly configurable solution to all of your intro/menu problems.
 - Unless disabled, IntroTweaks aligns the menu buttons by default which other mods may not respect if they implement their own buttons.
 
 ## Changelog
+### v1.4.6
+- Implemented new config option `bAutoStartGame` which will automatically pull the lever. You can find this in the **Miscellaneous** section.
+- Addressed occasional (but harmless) errors being logged by editing the menu elements too early.
+- Defaulted `bAutoSelectMode` to `OFF` so it's opt-in rather than opt-out.
+- Improved compatibility with **LethalLevelLoader** by loading the scene asynchronously if found.
+    > This is the shittiest "solution" and should be addressed further by LLL.
+
 ### v1.4.5
 - Fixed issue where `bAutoSelectHost` would cause a black screen to be shown, softlocking the menu.
 - Fixed issue where the **MoreCompany** cosmetics button could not be clicked when `bFixMenuCanvas` was false.
@@ -37,7 +44,7 @@ A highly configurable solution to all of your intro/menu problems.
     > Essentially, you no longer need to restart. Use **LethalConfig** to instantly see your changes.
 <p>
 
-- Added new `fVersionTextOffset` adjust the Y (up/down) position of the version text.
+- Added new `fVersionTextOffset` option to adjust the Y (up/down) position of the version text.
   - You should use this option when the text appears out of place due to a multi-line or aspect ratio issue.
 <p>
 
