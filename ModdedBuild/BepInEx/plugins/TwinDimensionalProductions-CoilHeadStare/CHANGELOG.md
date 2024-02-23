@@ -1,3 +1,11 @@
+## 1.0.8
+fixed error accidentally introduced in last patch
+
+(I swear this code is now more failproof than anything in the world, there are literally more lines of error catching code than actual head turning code)
+
+## 1.0.7
+fixed script breaking due to error when no head was found
+
 ## 1.0.6
 improved instructions in readme for reskin compatibility
 

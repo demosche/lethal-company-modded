@@ -19,6 +19,8 @@ Values like the speed at which the head turns are tweakable in the config file.
 
 **Important: This mod is incompatible with many model replacements or reskins of the Coil Head.**
 
+But even if the head doesn't turn, hitting it with a shovel for the recoil animation should almost always work.
+
 &nbsp;
 
 To modders: If you want to make your reskin work with CoilHeadStare:

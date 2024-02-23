@@ -253,7 +253,7 @@
     minor: 5
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\NotAtomicBomb-TerminalApi\1.5.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NotAtomicBomb-TerminalApi\icon.png
 - manifestVersion: 1
   name: EliteMasterEric-Coroner
   authorName: EliteMasterEric
@@ -831,9 +831,10 @@
   authorName: TwinDimensionalProductions
   websiteUrl: https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/
   displayName: CoilHeadStare
-  description: Makes the Coilhead slowly turn and face you even while you are
+  description: "Makes the Coil Head slowly turn and face you even while you are
     looking directly at it. Reminding you that it only needs you to falter for a
-    single moment.
+    single moment. Extra feature: Coil Head spring bounces when hit with a
+    shovel."
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -846,9 +847,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TwinDimensionalProductions-CoilHeadStare\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TwinDimensionalProductions-CoilHeadStare\1.0.8\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLoot
   authorName: tinyhoot
