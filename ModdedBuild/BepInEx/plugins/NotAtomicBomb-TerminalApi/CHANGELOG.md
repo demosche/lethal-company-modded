@@ -61,3 +61,6 @@
 
 - Updated README
 
+## Version 1.5.1
+
+- Added Null Check for CommandInfo.Category in AddTerminalKeyword

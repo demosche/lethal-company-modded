@@ -12,7 +12,7 @@ List of mods:<br>
  AlwaysHearActiveWalkies  1.4.4<br>
  QuickRestart  1.2.0<br>
  WeatherMultipliers  1.1.0<br>
- TerminalApi  1.5.1<br>
+ TerminalApi  1.5.2<br>
  Coroner  1.6.0<br>
  HookGenPatcher  0.0.5<br>
  LethalLib  0.14.2<br>
