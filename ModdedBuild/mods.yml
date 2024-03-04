@@ -101,7 +101,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\4.0.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -1522,3 +1522,24 @@
     patch: 6
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\OnionMilk-crawlingmine\icon.png
+- manifestVersion: 1
+  name: NomnomAB-RollingGiant
+  authorName: NomnomAB
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/NomnomAB/RollingGiant/
+  displayName: RollingGiant
+  description: Adds the Rolling Giant as a new enemy type. Sounds are included.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 5
+    patch: 2
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\NomnomAB-RollingGiant\2.5.2\icon.png

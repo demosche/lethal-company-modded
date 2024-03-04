@@ -71,4 +71,5 @@ List of mods:<br>
  LethalExpansionCore  1.3.15<br>
  LCConductivityRework  1.0.2<br>
  crawlingmine  1.0.6<br>
+ RollingGiant  2.5.2<br>
 
