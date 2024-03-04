@@ -1,7 +1,8 @@
-## 1.0.8
-fixed error accidentally introduced in last patch
+## 1.0.9
+improved head bonk error catching and logging
 
-(I swear this code is now more failproof than anything in the world, there are literally more lines of error catching code than actual head turning code)
+## 1.0.8
+fixed bug accidentally introduced in last patch
 
 ## 1.0.7
 fixed script breaking due to error when no head was found
