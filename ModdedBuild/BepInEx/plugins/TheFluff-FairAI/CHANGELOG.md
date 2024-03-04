@@ -1,8 +1,11 @@
+# 1.3.3
+I temporarily disabled the ability to allow the turret to target enemies because of people disliking the fact I have to override the turret ai and other issues. Enemies can still be enabled to be damaged by turrets.
+
 # 1.3.2
-You can now configure to check for players before allowing enemies to be effected by the mod. Please if you can drop a 1$ donation I lost my job and would love some motivation.
+You can now configure to check for players before allowing enemies to be effected by the mod.
 
 # 1.3.1
-The issue of mobs not dying properly should now be fixed. Please if you can drop a 1$ donation I lost my job and would love some motivation.
+The issue of mobs not dying properly should now be fixed.
 
 # 1.3.0 
 Want a funny little headcrab but with all mobs. Go back a version otherwise this should fix that issue lol.

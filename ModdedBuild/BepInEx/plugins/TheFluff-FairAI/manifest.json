@@ -1,6 +1,6 @@
 {
   "name": "FairAI",
-  "version_number": "1.3.2",
+  "version_number": "1.3.3",
   "website_url": "https://github.com/goldenkittenplays",
   "description": "Mod To Make Entities Less Racist. Everyone that can die will die by stepping on land mines, boombas, turrets, and config support. Now with more config options including checking for players nearby before anything can happen in the mod!",
   "dependencies": [

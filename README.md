@@ -42,7 +42,7 @@ List of mods:<br>
  CoilHeadStare  1.0.9<br>
  ShipLoot  1.0.0<br>
  ScanFix  1.0.3<br>
- FairAI  1.3.2<br>
+ FairAI  1.3.3<br>
  Terminal_Clock  1.0.5<br>
  More_Emotes  1.3.3<br>
  Helmet_Cameras  2.1.5<br>
