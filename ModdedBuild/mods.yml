@@ -1542,4 +1542,28 @@
     minor: 5
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\NomnomAB-RollingGiant\2.5.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NomnomAB-RollingGiant\icon.png
+- manifestVersion: 1
+  name: zealsprince-Locker
+  authorName: zealsprince
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/zealsprince/Locker/
+  displayName: Locker
+  description: A new and unique enemy that acts as a situational threat, praying
+    on player's perception
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.14.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 13
+    patch: 1
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\zealsprince-Locker\0.13.1\icon.png

@@ -72,4 +72,5 @@ List of mods:<br>
  LCConductivityRework  1.0.2<br>
  crawlingmine  1.0.6<br>
  RollingGiant  2.5.2<br>
+ Locker  0.13.1<br>
 
