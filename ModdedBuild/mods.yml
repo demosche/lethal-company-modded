@@ -916,7 +916,7 @@
     minor: 3
     patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.3.3\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb
@@ -1261,9 +1261,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-FlashlightFix\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-FlashlightFix\1.1.2\icon.png
 - manifestVersion: 1
   name: itsmeowdev-DoorFix
   authorName: itsmeowdev
