@@ -3,7 +3,7 @@
 ## Information
 Enemies will now learn the voices of your friends and be able to repeat them.
 
-## Discord server: https://discord.gg/8VXmnSfENj
+## Discord server: https://rugbug.net/skinwalkers
 
 ## Credits
 [![](https://cdn.discordapp.com/attachments/753742297153273867/1195825026105098380/image.png?ex=65b565d7&is=65a2f0d7&hm=68399b82b2ff4ee98216bc83759acd5a8f07c0ecfe0a7be12070a29a1a77f3b6&)](https://www.youtube.com/RugbugRedfern)
@@ -44,6 +44,9 @@ Some players may experience stutters every few seconds. To fix this:
 If that doesn't work, you can try the [Skinwalkers Experimental](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/SkinwalkersExperimental/) version which fixes stutters but may cause issues for some players.
 
 ## Changelog
+
+### 4.0.2
+- Changed Discord link so we hopefully stop getting botted
 
 ### 4.0.1
 - Updated README to reflect v2

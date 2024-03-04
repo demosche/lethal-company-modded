@@ -5,7 +5,7 @@ List of mods:<br>
  BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  4.0.1<br>
+ Skinwalkers  4.0.2<br>
  ReservedItemSlotCore  1.8.17<br>
  ReservedFlashlightSlot  1.6.3<br>
  LethalCompany_InputUtils  0.6.3<br>

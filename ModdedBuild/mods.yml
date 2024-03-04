@@ -99,9 +99,9 @@
   versionNumber:
     major: 4
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\4.0.2\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -1263,7 +1263,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-FlashlightFix\1.1.2\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-FlashlightFix\icon.png
 - manifestVersion: 1
   name: itsmeowdev-DoorFix
   authorName: itsmeowdev
