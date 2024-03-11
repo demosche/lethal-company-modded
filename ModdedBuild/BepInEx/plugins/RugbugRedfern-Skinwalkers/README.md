@@ -6,7 +6,7 @@ Enemies will now learn the voices of your friends and be able to repeat them.
 ## Discord server: https://rugbug.net/skinwalkers
 
 ## Credits
-[![](https://cdn.discordapp.com/attachments/753742297153273867/1195825026105098380/image.png?ex=65b565d7&is=65a2f0d7&hm=68399b82b2ff4ee98216bc83759acd5a8f07c0ecfe0a7be12070a29a1a77f3b6&)](https://www.youtube.com/RugbugRedfern)
+[![](https://i.ibb.co/pLJ3Zrn/a-mod-by-rugbug.png)](https://www.youtube.com/RugbugRedfern)
 
 Programming by Rugbug Redfern
 
@@ -15,6 +15,9 @@ https://www.youtube.com/RugbugRedfern
 Playtesting by Dubscr
 
 https://www.youtube.com/dubscr
+
+## Video
+[![](https://i.ibb.co/r7F5Yy5/image.png)](https://www.youtube.com/watch?v=dR1PnFVgYK4)
 
 ## Configuration
 All players who want to hear voices need the mod installed. This is a client-side mod. Make sure your mic is enabled in-game.
@@ -44,6 +47,9 @@ Some players may experience stutters every few seconds. To fix this:
 If that doesn't work, you can try the [Skinwalkers Experimental](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/SkinwalkersExperimental/) version which fixes stutters but may cause issues for some players.
 
 ## Changelog
+
+### 4.0.3
+- Fixed image reference in README
 
 ### 4.0.2
 - Changed Discord link so we hopefully stop getting botted
