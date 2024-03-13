@@ -1,3 +1,9 @@
+# 2.0.0
++ Adds support for ReservedItemSlotCore 2.0.0 features.
++ Flashlight slot can now be purchased!
++ Item slot price can be adjusted in the config.
++ Item slot priority can now be adjusted in the config.
++ Items can be added to this reserved item slot in the config. This can be handy when adding variations of this item, or when adding an item's translated name to the slot.
 # 1.6.3
 + Fixed warnings when InputUtils is not enabled.
 # 1.6.2

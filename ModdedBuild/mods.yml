@@ -123,14 +123,15 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/
   displayName: ReservedFlashlightSlot
-  description: Gives a free, dedicated Flashlight slot on the right side of your
-    screen. Can be toggled with [F] to activate the Flashlight at anytime.
+  description: Gives a dedicated Flashlight slot on the right side of your screen
+    that can optionally be purchased! Can be toggled with [F] to activate the
+    Flashlight at anytime.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -138,15 +139,15 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - FlipMods-ReservedItemSlotCore-1.8.9
+    - FlipMods-ReservedItemSlotCore-2.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 6
-    patch: 3
+    major: 2
+    minor: 0
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedFlashlightSlot\2.0.0\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
