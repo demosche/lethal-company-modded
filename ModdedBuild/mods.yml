@@ -805,7 +805,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedSprayPaintSlot\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedSprayPaintSlot\icon.png
 - manifestVersion: 1
   name: Woecust-Immersive_Visor
   authorName: Woecust
@@ -1563,8 +1563,8 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 0
-    minor: 13
-    patch: 1
+    major: 1
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\zealsprince-Locker\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\zealsprince-Locker\1.1.0\icon.png
