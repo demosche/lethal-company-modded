@@ -1305,10 +1305,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 6
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Owen3H-IntroTweaks\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Owen3H-IntroTweaks\1.5.0\icon.png
 - manifestVersion: 1
   name: MiffyL-Kill_It_With_Shovel
   authorName: MiffyL
@@ -1567,4 +1567,4 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\zealsprince-Locker\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\zealsprince-Locker\icon.png
