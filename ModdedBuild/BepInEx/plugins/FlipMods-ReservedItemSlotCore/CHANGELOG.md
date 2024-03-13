@@ -1,3 +1,26 @@
+# 2.0.2
++ Fixed issue wit non-host clients not unlocking slots when host disabled purchasing them.
++ Added pre-game reminder that reserved item slots won't be available until the round has started.
+# 2.0.1
++ Quick fix for the terminal not showing tips related to this mod, or how to buy reserved item slots.
+# 2.0.0
++ Re-did most (if not all) of the codebase revolving around reserved slots data, and how it is handled to support new features and API functionality.<br>
+This update may break other mods' references to this one, and if so, I do apologize!
++ For more info regarding this update, please read the README.
++ Added progression. You can now purchase reserved item slots in the terminal! (can be disabled in the config)
++ Added API functions to offically allow mod developers to create their own reserved item slots, and add their items (any item) to it.<br>
+The added API features also allows mod developers to easily add items from their mod (or even items from another mod) to existing reserved item slots, if this mod is enabled.
++ Even more configurable! The following config options can only be used if implemented by developers of reserved item slot mods.
++ Reserved item slot priorities can be can now be changed from their default values in the config.<br>
+Changing priorities will change the order of the reserved item slots on the right (and left) side of your screen. The higher the priority, the further down in order they will be.
++ Adds support for adding extra items to reserved slots in the config.
++ Adds support for removing existing items from reserved slots in the config.
++ The ReservedItemSlotCore mod now handles all of the displaying of holstered reserved items. (Optional) When creating reserved items, or adding items to existing reserved item slots, mod developers can easily specify a bone to anchor a reserved item to when holstered, as well as a position/rotation offset.<br>
+Read the README for more information on this.
++ The ReservedItemSlotCore mod now handles displaying reserved items on Masked Enemies, as long as developers define how their item will be displayed while holstered.
++ Added functionality to swap and toggle specific reserved item slots. Example: ReservedWeaponSlot has a keybind to toggle the reserved weapon slot. When pressed, that reserved slot will be toggled until you scroll off of it, without needing to hold Alt.<br>
+This will need to be implemented by developers who create their own reserved item slot mods.
++ I probably broke a few things, or introduced new bugs with this update, so please post any major issues on my github. Thank you!
 # 1.8.17
 + Fixed warnings when InputUtils is not enabled.
 # 1.8.16
