@@ -1,3 +1,24 @@
+### [0.7.1]
+
+It wouldn't be an InputUtils update without a hotfix for bug I never noticed.
+
+Fixes:
+- Binds actually save instead of gaslighting you into thinking they saved.
+
+### [0.7.0]
+
+**Highlights:**
+- Basic locale/lang loading system
+  - Starting with only `en_US` for now.
+  - Configurable
+- Global controls
+  - Controls can now be saved globally which allows for Controls to work across Modpacks/Profiles.
+  - With the addition of Global Controls comes the ability to configure how InputUtils handles Control priority between Local (Modpack/Profile/Manual install) and Global Controls.
+    - By default both Local and Global Controls are loaded, but with Global Controls having priority.
+
+Internal Changes:
+- Better handling of device specific overrides when serializing/deserializing.
+
 ### [0.6.3]
 
 Fixes:
