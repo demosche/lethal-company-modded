@@ -805,7 +805,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedSprayPaintSlot\1.1.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedSprayPaintSlot\icon.png
 - manifestVersion: 1
   name: Woecust-Immersive_Visor
   authorName: Woecust
@@ -823,10 +823,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Woecust-Immersive_Visor\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Woecust-Immersive_Visor\0.3.3\icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-CoilHeadStare
   authorName: TwinDimensionalProductions

@@ -7,20 +7,48 @@ Contact me on modding discord if you found bugs or suspected incompatibility wit
 - RepairOnNewDay : Repair the visor on new day.
 - RepairOnDeath : Repair the visor when respawning.
 - RepairOnQuotaFulfilled : Rapair the visor when the quota has been fulfilled.
+- EnableVisorRim : Show visor rim. This is separated from mesh the default game has.
+- EnableRaindrop : Show raindrop effect.
+- EnableVisorCrack : Show visor crac effect.
+
+# Incompatibility
+- Helmet_Camera : I recommend using OpenBodyCams instead for compatibility with ImmersiveVisor.
 
 ## Features
 
 # Current Featuers
 - Screen Crack : 2 Levels of visor cracking.
+- Raindrop Effect : Default one is a barely visible image. It's going to change that.
 
 # Planned Features (by priority)
-- Raindrop Effect : Default one is a barely visible image. It's going to change that.
 - Snow Effect : Snow hitting the visor on moons that are snowing.
 - Screen Fogging : Screen fogging up when inside steam or on outside on foggy weather.
 - Blood Splatter : Blood on visor when someone gets attacked near you.
-- Death Cam : View stays in first person a bit more after death instead of going straight to spectate.
 
 ## Changelog
+
+**0.3.3**
+- Views through OpenBodyCams now displays raindrops too.
+- Fixed camera blacking out / shaders not working when going third person through other mods.
+- Fixed main menu background not clearing when quitting to main menu.
+- Fixed visor breaking no matter the health and playing breaking sound effect on every hit taken.
+- Changed default visor condensation image to not appear when looking up in rainy weather.
+- Changed visor rim to not stretch on ultra wide resolutions.
+
+**0.3.2**
+- Raindrop effect now works with OpenBodyCams by Zaggy1024.
+- Fixed visor crack level going higher than max value.
+- minor bug fixes.
+
+**0.3.1**
+- Fixed the deafult visor coming back after going third person.
+- Fixed visor rim shader appearing wrong in ultra wide resolutions.
+- Changed assetbundle name to avoid conflicts.
+
+**0.3.0**
+- Added raindrop effecf
+- Added visor rim effect. This disables the mesh that surrounds the camera and replace it with post processing effect.
+- Changed crack effect pattern.
 
 **0.2.1**
 - Fixed post-process effect not showing.
