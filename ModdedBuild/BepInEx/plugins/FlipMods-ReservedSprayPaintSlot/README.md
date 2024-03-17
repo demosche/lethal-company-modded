@@ -27,6 +27,8 @@ Currently, only the extended capcity is implemented, and set to 10x, but editabl
 + Items can be added to this item slot in the config. This can be handy when adding other modded items, or variations of this item, to this item slot.<br>
 You can also add the translated names of items to this slot so it should be more compatible between different languages.<br><br>
 
+### Current Items in the Reserved Spray Paint Slot
++ "Spray paint"<br><br>
 
 ### Have Issues?
 

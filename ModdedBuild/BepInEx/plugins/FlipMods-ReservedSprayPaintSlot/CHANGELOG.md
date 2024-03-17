@@ -1,3 +1,6 @@
+# 1.1.1
++ Added reminder in config descriptions about adding items, that translated items may need to be added to the list of additional items.
++ Added current items in slot to the README.
 # 1.1.0
 + Adds support for ReservedItemSlotCore 2.0.0 features.
 + Spray paint slot can now be purchased!
