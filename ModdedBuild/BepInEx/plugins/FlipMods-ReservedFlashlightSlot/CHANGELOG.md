@@ -1,3 +1,9 @@
+# 2.0.2
++ Added reminder in config descriptions about adding items, that translated items may need to be added to the list of additional items.
++ Changed default item slot priority to 200 (from 120). Priority order should remain be unchanged for all of my reserved item slot mods.
++ Added current items in slot to the README.
+# 2.0.1
++ Fixed issue with not being able to toggle flashlight with [F] when disabling purchasing slots.
 # 2.0.0
 + Adds support for ReservedItemSlotCore 2.0.0 features.
 + Flashlight slot can now be purchased!
