@@ -147,8 +147,38 @@ public class Plugin : BaseUnityPlugin
 ```
 <br>
 
+### More API Functions
+These are a few examples on how you can get and manage players' held reserved items.
+```
+PlayerControllerB localPlayerController = StartOfRound.Instance.localPlayerController;
+for (int i = 0; i < SessionManager.numReservedItemSlotsUnlocked; i++)
+{
+    ReservedItemSlotData itemSlotData = SessionManager.GetUnlockedReservedItemSlot(i);
+    if (itemSlotData != null)
+    {
+        // Gets the index of this item slot in the player's inventory
+        int indexInPlayerInventory = itemSlotData.GetIndexInInventory(localPlayerController); // can pass in any player controller
+
+
+        // Get the currently held object in this slot by the specified player, or returns null
+        GrabbableObject heldObjectInSlot = itemSlotData.GetHeldObjectInSlot(localPlayerController); 
+
+
+        // Gets the item slot frame (Image component in the HUD) for this item slot. Only applies for the local player
+        Image itemSlotFrameHUD = itemSlotData.GetItemSlotFrameHUD();
+
+
+        // For checking if the reserved item slot will accepts a specific item (the name of the item as it appears in-game)
+        // You can also pass in a GrabbableObject reference
+        if (itemSlotData.ContainsItem("Flashlight"))
+            Plugin.Log("This slot contains a flashlight");
+    }
+}
+```
+<br>
+
 If creating your own ReservedItemSlotData, be sure to also include this line in the dependencies list in your manifest.json file.<br>
-`"FlipMods-ReservedItemSlotCore-2.0.0"`<br><br>
+`"FlipMods-ReservedItemSlotCore-2.0.7"`<br><br>
 
 If you would like to view more examples, feel free to look at my existing ReservedItemSlot mods on my [github](https://github.com/cmooref17/ReservedItemSlotMods)!<br>
 If you feel that I missed anything, or run into any issues, please let me know! I'm fairly active in the Lethal Company Modding discord, so come find me!<br>

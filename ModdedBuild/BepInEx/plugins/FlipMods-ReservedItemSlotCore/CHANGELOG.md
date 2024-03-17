@@ -1,5 +1,49 @@
+# 2.0.9
++ Fixed issue with reserved item slots with prices set to 0 not automatically unlocking upon starting/loading a game.
++ Possible item duplication fix.
+# 2.0.8
++ Fixed issue where some reserved items would appear invisible in your hand. This usually happened with the Stun grenade and Improvised flashbang.
++ Fixed issue with terminal scrolling being inverted when entering it while your reserved slots are focused.
++ Masked enemies should correctly have any holstered flashlight enabled. (*should*)
+# 2.0.7
++ Cleaned up some API functions.
++ As always, to reference the latest API features, reference the latest ReservedItemSlotCore.dll
++ If your mod depends on this mod, I also recommend updating the dependency string in your manifest.json file to require the latest version of this mod.
++ Added more useful API functions in the ReservedItemSlotCore.SessionManager class.
++ Added some more API examples in the README.
++ Added config options for adding custom item slots.<br>Setting the number of custom reserved item slots in the config, and then launching the game will generate new configs for each custom reserved item slot for you to fill out.
+# 2.0.6
++ Fixed potential issue with other mods that might add item slots. This fixes the issues with HotbarPlus.
++ Found and fixed another issue causing de-sync.
++ Fixed an issue in some scenarios where the item mesh of a holstered item was being disabled.
++ Fixed the issue where holstered reserved item slots would not immediately appear on players upon joining a game. (and they had them equipped already)
++ Thanks for all the tips and reporting these issues!
+# 2.0.5
++ Fixed most of the new de-sync issues introduced in 2.0.x
++ Fixed the main cause of duplicate items appearing in your hand.
++ You now have access to the reserved item slots in the pre-game lobby.
++ Items in reserved slots *should* sync with clients joining the session for the first time. This should work in the pre-lobby, or mid-game, if using mods that allows this.<br>
+Note: When joining a session, reserved items may be invisible at first when they should appear on the player holstered. This is fine, but will be fixed.
++ Fixed some cases where item slots, unlocked item slots, and some UI were not resetting upon new games when purchasing item slots is enabled.
++ There may be a few more (hopefully only minor) bugs, but if you could please report them on the github, I would greatly appreciate it!<br>
+Also note: I did not test EVERY aspect for bugs except for the ones immediately known to me, so I am not claiming that they are all fixed. Hopefully most of them.
+# 2.0.4
++ Fixed issue with terminal always showing that purchasing slots is disabled in some cases.
++ Potential fix for other random issues. (sorry this is vague)
++ Checking if a reserved slot is unlocked is more accurate and fixes a few issues.
++ Still a lot more issues that I'm currently trying to consistently reproduce. Fixes will come soon!
++ Fixed issue with purchased item slots not disappearing upon starting new games.
++ If you have issues or bugs to share, I would appreciate if you could post an issue on the github, and let me know if you guys enabled purchasing slots in the config, who it affected, or was it everyone? Did it affect both host and clients? Can you reproduce it?<br>
+Any of that information would be extremely helpful, and thanks!
+# 2.0.3
++ Fixed terminal preventing the TooManyEmotes store from appearing.
++ Fixed some internal issues that was causing this mod to incorrectly identify an item in a reserved item slot.<br>
+This is partially related to not being able to activate the flashlight with [F], or walkie with [X].
++ Disabled purchasing slots by default.
++ Terminal will now display under the Reserved Tip if the host disabled purchasing slots.
++ More fixes coming soon!
 # 2.0.2
-+ Fixed issue wit non-host clients not unlocking slots when host disabled purchasing them.
++ Fixed issue with non-host clients not unlocking slots when host disabled purchasing them.
 + Added pre-game reminder that reserved item slots won't be available until the round has started.
 # 2.0.1
 + Quick fix for the terminal not showing tips related to this mod, or how to buy reserved item slots.
