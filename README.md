@@ -1,8 +1,7 @@
 Drop this profile here<br>C:\Users\{USERNAME}\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\
 
 List of mods:<br>
-> LC_API  3.4.5<br>
- BepInExPack  5.4.2100<br>
+> BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  5.0.0<br>
@@ -44,7 +43,6 @@ List of mods:<br>
  ScanFix  1.0.3<br>
  FairAI  1.3.5<br>
  Terminal_Clock  1.0.6<br>
- More_Emotes  1.3.3<br>
  Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>
@@ -56,9 +54,6 @@ List of mods:<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>
  InsanityRemastered  1.1.2<br>
- Runtime_Netcode_Patcher  0.2.5<br>
- LC_Masked_Fix  0.0.2<br>
- FlashlightFix  1.2.0<br>
  DoorFix  1.0.0<br>
  IntroTweaks  1.5.0<br>
  Kill_It_With_Shovel  1.0.1<br>

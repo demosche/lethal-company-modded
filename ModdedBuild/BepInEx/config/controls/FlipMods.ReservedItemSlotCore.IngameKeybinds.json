@@ -1,1 +1,1 @@
-{"overrides":[{"action":"FocusReservedHotbarHotkey","origPath":"<Keyboard>/leftAlt","path":"<Keyboard>/leftAlt"}]}
+{"overrides":[{"action":"FocusReservedHotbarHotkey","origPath":"<Keyboard>/leftAlt","path":"<Keyboard>/leftAlt","groups":"KeyboardAndMouse"}]}

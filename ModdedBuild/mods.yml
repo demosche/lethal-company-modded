@@ -1,25 +1,4 @@
 - manifestVersion: 1
-  name: 2018-LC_API
-  authorName: "2018"
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/2018/LC_API/
-  displayName: LC_API
-  description: Multipurpose modding API for Lethal Company
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 3
-    minor: 4
-    patch: 5
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\2018-LC_API\icon.png
-- manifestVersion: 1
   name: BepInEx-BepInExPack
   authorName: BepInEx
   websiteUrl: https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/
@@ -101,7 +80,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\RugbugRedfern-Skinwalkers\5.0.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
@@ -943,28 +922,6 @@
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\NotAtomicBomb-Terminal_Clock\icon.png
 - manifestVersion: 1
-  name: Sligili-More_Emotes
-  authorName: Sligili
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/
-  displayName: More_Emotes
-  description: "[v49/v45] Adds even more emotes"
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Ozone-Runtime_Netcode_Patcher-0.2.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 3
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sligili-More_Emotes\icon.png
-- manifestVersion: 1
   name: RickArg-Helmet_Cameras
   authorName: RickArg
   websiteUrl: https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/
@@ -1203,72 +1160,6 @@
     patch: 2
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png
-- manifestVersion: 1
-  name: Ozone-Runtime_Netcode_Patcher
-  authorName: Ozone
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
-  displayName: Runtime_Netcode_Patcher
-  description: Patches Netcode RPC methods during runtime utilizing Harmony
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 2
-    patch: 5
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Ozone-Runtime_Netcode_Patcher\icon.png
-- manifestVersion: 1
-  name: kuba6000-LC_Masked_Fix
-  authorName: kuba6000
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/
-  displayName: LC_Masked_Fix
-  description: "[V47/V48/V49] Fixes a bug where the red screen overlay / vomit
-    animation is not removed until you die. [V45] Fixes mimic / masked bug where
-    you can't look around after the kill is interrupted."
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 0
-    patch: 2
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\kuba6000-LC_Masked_Fix\icon.png
-- manifestVersion: 1
-  name: ShaosilGaming-FlashlightFix
-  authorName: ShaosilGaming
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/ShaosilGaming/FlashlightFix/
-  displayName: FlashlightFix
-  description: "[Deprecated - Use GeneralImprovements] Fixes annoying flashlight
-    bugs like being toggled when it shouldn't be."
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - ShaosilGaming-GeneralImprovements-1.2.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 2
-    patch: 0
-  enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-FlashlightFix\icon.png
 - manifestVersion: 1
   name: itsmeowdev-DoorFix
   authorName: itsmeowdev
