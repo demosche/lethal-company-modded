@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.4.1
+- Added a missing game patch
+
+## v2.4
+- Added a scrollbar to the enemy picker GUI that appears when the enemy list exceeds the window
+- Updated InputUtils to the latest version
+- Fixed a minor error that would appear when the game exits
+- The ghost girl is now visible when spectating her and will display which player she is currently targeting
+
 ## v2.3.1
 - Fixed an issue where certain custom enemy names would cause the config to fail to load
 

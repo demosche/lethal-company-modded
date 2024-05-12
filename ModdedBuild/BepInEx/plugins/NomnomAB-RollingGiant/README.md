@@ -68,7 +68,7 @@ These do not update when reloading the config in-game!
 - `AiType` - Type of AI the Rolling Giant uses
   - Putting multiple will randomly choose between them each time you land on a moon 
   - Coilhead - Move when the player is not looking at it
-  - MoveWhenLooking - Move when the player is looking at it
+  - InverseCoilhead - Move when the player is looking at it
   - RandomlyMoveWhileLooking - Randomly move while the player is looking at it
     - `WaitTimeMin` - The minimum duration in seconds that the Rolling Giant waits before moving again
     - `WaitTimeMax` - The maximum duration in seconds that the Rolling Giant waits before moving again
@@ -142,6 +142,15 @@ xcopy /y /d &quot;$(TargetDir)$(TargetName).dll&quot; &quot;$(GameDir)\BepInEx\p
 ```
 
 ## Changelog
+
+## 2.6.0
+
+- Upgraded to v50
+- Fixed names of ai types in README.md
+
+Known issues:
+- The Rolling Giant can't get on the ship
+- The Rolling Giant stutters when getting on top of something
 
 ## 2.5.2
 

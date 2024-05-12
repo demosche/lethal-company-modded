@@ -1,6 +1,21 @@
 
 # Changelog #
 
+## 1.2.0 ##
+
+- Rewrote state management to be mounted on the game's EnemyAI system to improve stability and mod compatibility
+    + Thanks [Xu Xiaolan](https://github.com/XuuXiao) for the initial rewrite and motivation as well as good feedback!
+
+## 1.1.2 ##
+
+- Add reaction to hit events
+- Fix Locker pathfinding getting stuck
+- Fix path calculation if off navmesh
+
+## 1.1.1 ##
+
+- Patch for v50
+
 ## 1.1.0 ##
 
 - Add corpse deletion behavior in line with the consume animation

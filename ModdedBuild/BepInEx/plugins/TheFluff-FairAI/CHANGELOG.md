@@ -1,3 +1,9 @@
+# 1.3.5
+Removed alpha turret targeting code which produced an error. No problems now.
+
+# 1.3.4
+Updated for V.50
+
 # 1.3.3
 I temporarily disabled the ability to allow the turret to target enemies because of people disliking the fact I have to override the turret ai and other issues. Enemies can still be enabled to be damaged by turrets.
 

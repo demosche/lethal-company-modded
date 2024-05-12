@@ -1,6 +1,6 @@
 ﻿{
   "name": "RollingGiant",
-  "version_number": "2.5.2",
+  "version_number": "2.6.0",
   "website_url": "https://github.com/nomnomab/lc-rolling-giant",
   "description": "Adds the Rolling Giant as a new enemy type. Sounds are included.",
   "dependencies": [

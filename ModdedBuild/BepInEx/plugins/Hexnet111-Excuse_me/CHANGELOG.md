@@ -1,3 +1,5 @@
+## 1.0.4
+- The mod is still compatible with the game. (v50)
 ## 1.0.3
 - Slight readme.md change. No need to reinstall.
 - The mod is still compatible with the game. (v47)

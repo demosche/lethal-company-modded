@@ -1,5 +1,10 @@
 # LethalCompany InputUtils
 
+[![NuGet Version](https://img.shields.io/nuget/v/Rune580.Mods.LethalCompany.InputUtils?style=for-the-badge&logo=nuget)](https://www.nuget.org/packages/Rune580.Mods.LethalCompany.InputUtils)
+[![Thunderstore Version](https://img.shields.io/thunderstore/v/Rune580/LethalCompany_InputUtils?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+[![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Rune580/LethalCompany_InputUtils?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Rune580/LethalCompanyInputUtils/build.yml?branch=master&style=for-the-badge&logo=github)](https://github.com/Rune580/LethalCompanyInputUtils/actions/workflows/build.yml)
+
 Utilities for creating InputActions and having them be accessible in-game.
 InputActions created through this mod are accessible in-game via the keybinds menu added in update v45.
 
@@ -10,8 +15,16 @@ This mod is just a dependency for other mods, it doesn't add content, but it all
 
 ### Where are my bind overrides stored?
 Depends on the version of InputUtils:
+- **>= 0.7.0** Global: `AppData/LocalLow/ZeekerssRBLX/Lethal Company/InputUtils/controls` Local: `BepInEx/config/controls`
 - **>= 0.4.1** `BepInEx/config/controls`
 - **<= 0.4.0** `BepInEx/controls`
+
+### Lethal Company Version Support
+InputUtils only _officially_ supports the latest version of Lethal Company, except when there's a public beta, in which case both the non-beta and beta version are included.
+
+InputUtils is only guaranteed to work on these versions, older versions of Lethal Company and InputUtils are not supported by me, and issues found when using older versions of Lethal Company will not be provided support for.
+
+If you choose to use an unsupported version of Lethal Company, you do so at your own risk.
 
 ### Recommended Install
 Use a Mod manager. I won't provide support if a mod manager wasn't used, a mod manager makes it far easier to debug issues since users can just share a modpack code.
@@ -20,7 +33,18 @@ Use a Mod manager. I won't provide support if a mod manager wasn't used, a mod m
 *This Api/Mod is still in beta, please keep in mind that stuff may change.*
 Feedback is appreciated.
 
-Download the latest release from either the [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils) or the [Releases](https://github.com/Rune580/LethalCompanyInputUtils/releases).
+Add the nuget package to your project, if you want a copy and paste solution:
+
+add this to your project `.csproj`
+```xml
+<ItemGroup>
+  <!-- Make sure the 'Version="..."' is set to the latest version -->
+  <PackageReference Include="Rune580.Mods.LethalCompany.InputUtils" Version="0.7.3" />
+</ItemGroup>
+```
+That should be all you need to get started.
+
+Otherwise if you don't want to use nuget, you can download the latest release from either the [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils) or the [Releases](https://github.com/Rune580/LethalCompanyInputUtils/releases).
 Extract the zip and add a reference to the dll file of the mod in Visual Studio or Rider.
 
 ### Initializing Your Binds
@@ -32,7 +56,7 @@ Extract the zip and add a reference to the dll file of the mod in Visual Studio 
 ```csharp
 public class MyExampleInputClass : LcInputActions 
 {
-    [InputAction("<Keyboard>/g", Name = "Explode")]
+    [InputAction(KeyboardControl.G, Name = "Explode")]
     public InputAction ExplodeKey { get; set; }
     [InputAction("<Keyboard>/h", Name = "Another")]
     public InputAction AnotherKey { get; set; }
@@ -46,15 +70,18 @@ public class MyExampleInputClass : LcInputActions
 > [!IMPORTANT]  
 > For actions to be registered to the API, **Properties MUST be annotated with `[InputAction(...)]`**
 >```csharp
->[InputAction("YourkbmPath", Name = "", GamepadPath = "", KbmInteractions = "", GamepadInteractions = "", ActionID = "", ActionType = InputActionType...)]
+>[InputAction("YourkbmPath" /* You can also use a KeyboardControl or MouseControl */, Name = "", GamepadPath = "", GamepadControl = GamepadControl.None, KbmInteractions = "", GamepadInteractions = "", ActionID = "", ActionType = InputActionType...)]
 >```
 
 #### Required Parameters
+You only need to use **one** of the following overloads:
 * `kbmPath`: The default bind for Keyboard and Mouse devices
+* `keyboardControl`: The default bind for Keyboard devices, uses the KeyboardControl Enum
+* `mouseControl`: The default bind for Mouse devices, uses the MouseControl Enum
   
 #### Optional Parameters
 * `Name`: The Displayed text in the game keybinds menu
-* `GamepadPath`: The default bind for Gamepad devices
+* `GamepadPath` **_or_** `GamepadControl`: The default bind for Gamepad devices. When both are set, `GamepadPath` will take priority.
   
 * `KbmInteractions`: Sets the interactions of the kbm binding. See [Interactions Docs](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/api/UnityEngine.InputSystem.Interactions.html)
 * `GamepadInteractions`: Sets the interactions of the gamepad binding. See [Interactions Docs](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/api/UnityEngine.InputSystem.Interactions.html)
@@ -64,12 +91,12 @@ public class MyExampleInputClass : LcInputActions
 
 So your Attribute could be written like this:
 ```csharp
-[InputAction("<Keyboard>/minus", Name = "Explode")]
+[InputAction(KeyboardControl.Minus, Name = "Explode")]
 public InputAction ExplodeKey { get; set; }
 ```
 Or with any combination of optional parameters:
 ```csharp
-[InputAction("<Keyboard>/minus", Name = "Explode", GamepadPath = "<Gamepad>/Button North", KbmInteractions = "hold(duration = 5)")]
+[InputAction(KeyboardControl.Minus, Name = "Explode", GamepadControl = GamepadControl.ButtonNorth, KbmInteractions = "hold(duration = 5)")]
 public InputAction ExplodeKey { get; set; }
 ```
 > [!NOTE]
@@ -96,12 +123,17 @@ public class MyExampleInputClass : LcInputActions
         builder.NewActionBinding()
             .WithActionId("explodekey")
             .WithActionType(InputActionType.Button)
-            .WithKbmPath("<Keyboard>/j")
+            .WithKeyboardControl(KeyboardControl.J) // or .WithKbmPath("<Keyboard>/j")
+            .WithGamepadControl(GamepadControl.ButtonNorth) // or .WithGamepadPath("<Gamepad>/buttonNorth")
             .WithBindingName("Explode")
             .Finish();
     }
 }
 ```
+
+> [!IMPORTANT]
+> Omitting `WithGamepadControl`, `WithGamepadPath`, or `WithGamepadUnbound`, will disable binding the `InputAction` to a Gamepad device.
+> Similarly, omitting `WithKeyboardControl`, `WithMouseControl`, `WithKbmPath`, or `WithKbmUnbound`, will disable binding the `InputAction` to a Keyboard or Mouse device.
 
 ### Referencing Your Binds
 To use your InputActions class, you need to instantiate it.
@@ -116,27 +148,14 @@ The easiest (opinionated) way to do so would be to have a static instance in you
 [BepInDependency("com.rune580.LethalCompanyInputUtils", BepInDependency.DependencyFlags.HardDependency)]
 public class MyExamplePlugin : BaseUnityPlugin
 {
-    internal static MyExampleInputClass InputActionsInstance = new MyExampleInputClass();
-}
-```
-You could also opt for instantiating the instance in the InputActions class (Singleton-style).
-```csharp
-public class MyExampleInputClass : LcInputActions 
-{
-    public static MyExampleInputClass Instance = new();
+    internal static MyExampleInputClass InputActionsInstance;
 
-    [InputAction("explodekey", "<Keyboard>/j", "<Gamepad>/Button North", Name = "Explode")]
-    public InputAction ExplodeKey { get; set; }
+    public void Awake()
+    {
+        InputActionsInstance = new MyExampleInputClass();
+    }
 }
 ```
-> [!IMPORTANT]
-> #### But How Do I Get My Binds String?
-> You may have noticed that `<keyboard>/yourKey` can be a little confusing for the special buttons. So try this:
-> 1. First, arbitrarily set the value to some regular value or just an empty string
-> 2. Then, load up your mod and change the keybind to the desired key
-> 3. After, look in your `.../BepInEx/controls/YOURMODID.json` file
-> 4. Find the `{"action":"myaction","origPath":"","path":"<Keyboard>/f8"}]}`
-> 5. Last, copy that `path:""` from the far right i.e. `"<Keyboard>/f8"`
 
 ### Using Your Binds
 You could then simply reference the instance anywhere you need to have your actions at.
@@ -318,10 +337,14 @@ Discord: @rune
 
 Github: Rune580
 
+## Contributing
+When making a PR make sure your changes are on a different branch. Do not make a PR with your changes on the `master` branch.
+
 ## Contributors
 Thanks to the following contributers:
 - @Boxofbiscuits97 for reworking most of the documentation.
 - @Lordfirespeed for housekeeping and additional documentation cleanup.
+- @Singularia - Russian Translation.
 
 ## Credits
 - Reset to default icon from: @AinaVT

@@ -6,110 +6,99 @@ There's a ghost in the terminal and it's sending random broadcast codes to mess 
 
 This mod aims to add a fun little random element to the game. A "ghost" is in the terminal and it is causing all kinds of mayhem.
 
+With Ghost Girl Enhanced Mode, this mod gives the ghost girl some interesting powers!
 
-**[DISCLAIMER]**
-- If you have SEVERE EPILEPSY you should disable the following configuration option by setting it to FALSE - [ggRapidLights]
-- It is highly recommended to delete your old config and let the mod generate a new one.
+### **[DISCLAIMER]**
+- If you have SEVERE EPILEPSY you should do one of the following: 
+	- disable the following configuration option by setting it to FALSE - [rfRapidLights]
+	- Raise both the following configuration options so that the lights flash slow enough not to affect your condition. - [rfRLmin] & [rfRLmax]
+- This mod will now delete old & obsolete configuration options, please make sure to adjust your config following any updates.
 - With the ModNetworking configuration option set to [TRUE], EVERYONE will need the mod. With the ModNetworking configuration option set to [FALSE], only the host needs this mod.
+	- If ModNetworking is set to [FALSE], any config settings that rely on networking will automatically be set to [FALSE]
 
-The ghost sends codes through the terminal that can do the following:
-- Open Blast Doors
-- Close Blast Doors
-- Cause Blast Doors to go haywire and close/shut multiple times
-- Disable Turrets
-- Cause Turrets to malfunction and go Berserk
-- Disable Mines
-- Cause Mines to suddenly combust
-- Short Circuit the breaker and cut out the facility's lights
-- Broadcast random signal translator messages
+### The Different Modes
+This Mod comes highly configurable with a variety of different modes available.
 
-There are 3 Modes for this Mod:
-- Normal Mode (codes will be sent at random or set intervals depending on configuration)
-- Insanity Mode (codes will be sent at random or set intervals that change depending on the group insanity level)
-- Ghost Girl Enhanced Mode (BETA) (This mode will only send codes when a ghost girl is present and acts as an extension of her Enemy AI)
+**GhostGirlEnhanced (GGE)**
+- This is the main mode of this mod and requires [ModNetworking] enabled to work.
+- ghost codes will be sent during active hauntings by the ghost girl.
+- Various interactions can stop BOTH ghost codes and active hauntings.
+- ghost codes will rapidly fire during chase sequences.
+	- use [ggIgnoreCodeCount] so that codes are not counted in this mode.
+- GhostGirlEnhanced Bypass List [GGEbypassList]
+	- Any moon that is listed here will disable this mode in favor of the other modes.
+	- Good for moons that have 0% or low odds of the ghost girl spawning.
 
-During Insanity Mode, when group Insanity levels are at their highest the ghostCodes will initiate rapidFire mode. Which sends burstfire codes through the terminal into the facility.
-- This rapidFire mode also creates elecrtrical fluctuations in the facility due to the burstfire codes and causes lights to flicker. 
-- For solo players, there is a "courage buff" (SoloAssist) which keeps your sanity levels lower while you brave the facility alone.
-- Be warned though, this courage buff dwindles as the day turns to night.
+**Insanity Mode**
+- This mode is a secondary mode which will send codes in varying frquencies depending on the calculated group Insanity Level.
+- Varying buffs and bonuses will be applied to the base-game insanity values as they are calculated for the group.
+- As the group insanity level rises, codes will be sent at more frequent intervals.
+- When group insanity levels hit maximum, codes will be sent in a rapid fire fashion (can be disabled in config).
+	- The codes will continue to send in a rapidFire fashion until group sanity levels lower from the set maximum.
+	- If [rapidFireCooldown] is enabled, codes will stop on a short cooldown when codes have been running for [rapidFireMaxHours].
 
-During Ghost Girl Enhanced Mode when she skips at you she causes a rapidFire mode due to her excitement.
-- As she runs towards you the facility cannot handle the electrical fluctuations and the lights continue to flicker until she disappears.
+**Base ghostCodes Mode**
+- With the two modes above disabled, this is the third and final mode.
+- ghost codes will be sent in intervals throughout the day.
+	- Can be set to either random or set intervals based on [useRandomIntervals]
+	- The intervals can be further configured in the [Set Interval Configurations] and [Random Interval Configurations] configuration sections.
 
+### Types of ghostCodes
+- The ghost sends codes through the terminal that can do the following: (all can be enabled/disabled in config file)
+	- Open or Close Blast Doors
+	- Cause Blast Doors to go haywire and close/shut multiple times
+	- Disable Turrets
+	- Cause Turrets to malfunction and go Berserk
+	- Disable Mines
+	- Cause Mines to suddenly combust
+	- Short Circuit the breaker and cut out the facility's lights
+	- Broadcast random signal translator messages
+	- Open/Close/Lock/Unlock Regular Doors within the facility
+	- Mess with the doors on the ship
+	- Mess with the lights on the ship
+	- Activate either of the teleporters
+	- Disable Turrets on Toilheads (Toilhead mod required)
+	- Make Turrets on Toilheads go berserk (Toilhead mod required)
+	- Drain all players, a random player, or the currently haunted player's items' batteries (NETWORKING REQUIRED)
+	- Mess with the monitors on the ship (NETWORKING REQUIRED)
+	- Shock terminal users out of the terminal (NETWORKING REQUIRED)
+	- Ghost girl breathe on walkies (NETWORKING REQUIRED)
+	- Garble all walkie talkies (NETWORKING REQUIRED)
+- With [ModNetworking] disabled, any Networking required components in the mod will be disabled and their config options updated.
+- With [gcGhostGirlOnly] enabled, any config options listed in [gcGhostGirlOnlyList] will be set to disabled when GhostGirlEnhanced Mode is not active.
+	- Updates every time the ship lands on a moon.
+	- You may want to double check your config file at the end of a session to set it back to your preferred settings.
+- ghost codes will leave it's mark on the terminal via visuals and sounds. These are configurable:
+	- [enableBroadcastEffect]: when enabled, will display a code broadcastes symbol on the terminal when a code is sent.
+	- [gcEnableTerminalSound]: when enabled, the terminal can play a sound when a ghost code is ran.
+		- [gcTerminalSoundChance]: The chances a sound will be displayed over the terminal. 100 = every time a code is ran.
+		- [gcUseGirlSounds]: Whether or not the terminal will play ghost girl sounds on the terminal when a ghost girl is present.
+		- [gcUseTerminalAlarmSound]: Whether or not to use the Terminal Alarm Sound (With networking disabled, this is the only possible sound to play.)
+		- *Custom sounds are a planned feature, not currently implemented.*
 
-The ghost doesn't really care if it's helping or not it's just sending codes to be noticed. The more you notice it the more it likes to say hello :)
+### Fight against the hauntings
+You can combat against ghost codes by doing the following:
+ - Reboot the Terminal (takes anywhere between 30 and 60 seconds)
+	- Done by typing "reboot" in the terminal
+	- Available in all modes.
+ - Emoting
+	- In Ghost Girl Enhanced mode, this will get the ghost girl to stop chasing you.
+		- This is a group activity and amount of players required is based on [ggEmoteStopChasePlayers]
+	- In Insanity Mode, each player emoting will lower group sanity levels by value determined in [emoteBuffNum]
+ - Take a shower
+	- Only effective during Ghost Girl Enhanced.
+	- Wash the ghost girl mark off to stop her from chasing you.
+	- Will not stop her from continuing to haunt you after your shower.
 
-## Change Log
+### Other things this mod does
+ - Transfer Hauntings to another player. (Death Note)
+	- If you are currently being haunted, you can type another player's name in the terminal to tell the ghost girl to haunt them instead.
+	- For each failed attempt an entry in your death note is removed, and you only have so many entries [ggDeathNoteMaxStrikes]
+	- Also every failed attempt will have the ghost girl start chasing you.
+ - When a ghost girl starts a chase, she can trigger flipping the breaker.
+	- This looks to have been an idea that was scrapped from the main game that I am patching back in.
+	- Use [fixGhostGirlBreakers] to enable and [ggVanillaBreakerChance] for the odds it'll happen.
+ - When [canSendMessages] is enabled, the signal translator can send random messages from the list [signalMessages]
+ - When [monitorsOnShipEvent] interaction is enabled, the ship monitors will display random messages from the list [monitorMessages]
 
-### [1.5.1]
-
- - Added a configuration option to bypass GGE if a moon does not have the possibility for a ghost girl spawning.
- - Added configuration option to modify the moons list for when GGE will be bypassed for the other modes.
- - Changed signal translator messages sent by ghostGirl and added a common handling method for this action.
- - Added configuration option for custom messages to be sent by the ghost girl over the signal translator.
- - Added a extra null reference handling for the nethandler to deal with an error that occurs on lobby restart.
-
- [Planned Features (not currently in this version)]
- - System for combatting/delaying ghostCodes for the terminal operator.
- - Above system will have various tasks that need to be completed around the ship.
- - Custom sounds to play over the terminal to replace current sounds.
- - More area effects for the facility during rapidFire mode.
- - More custom events for ghostCodes to cause havoc.
- - Have tell sounds from the terminal also play over the walkie
-
-****
-
-### [1.5.0]
-
-- Reworked code for mod to be more modular to add new mode focused entirely on ghostGirl interactions.
-- Fixed cases where the ship landed at places without interactable objects like the company building. (you've likely seen/heard this).
-- Above is fixed by checking for levels that are marked as safe or the level name is specifically "CompanyBuildingLevel"
-- Fixed other rare cases where codes tried to continue running after the ship had left.
-- Added Solo Assist for solo players who play with Insanity Mode.
-- BETA: Ghost Girl Enhanced Mode (enabled by default) will send codes ONLY when a ghost girl has spawned on the level and is actively hunting someone.
-- Ghost Girl Enhanced Mode is IN BETA, please report any bugs on discord or github.
-- Added Optional Networking as part of the above mode and some other various functions that require networking. With networking on, EVERYONE will need the mod. Without, only the host needs this mod.
-- Added spooky lights flickering (networking required) during rapidFire codes event.
-- Added the ability for mines to blow up when called by a ghostCode.
-- Added the ability for doors to get hungry and start chomping when called by a ghostCode (hungrydoors).
-- Added the ability for a ghostCode to flip the breaker and cut all facility lights.
-- All of the above new functions from ghostCodes have configurable percentage chances. The higher the chance of these, the less likely a normal code is sent.
-- There are also configuration options for the chances these actions happen during rapidFire, if they can be called.
-- Added configuration for rapidFire lights flickering to disable them for those of you who have epilepsy or find flashing lights annoying more than anything else.
-- Added configuration for customizing how rapid the lights flicker during rapidFire mode.
-- Added configuration options for SoloAssist mode to adjust how much insanity this buff removes at different periods of the day. (this only affects insanity for this mod)
-- If Solo Assist buff removes more insanity than you presently have, it will set the insanity level to 0. (this only affects insanity for this mod)
-- Added a fix for what I believe was a typo from Zeekers and the ghost girl now has the chance of setting the entire facility's lights off.
-- The above fix can be configured on/off depending on your preference, i've also modified it to be less likely than Zeekers had it in their code by default.
-- Chances of ghost girl setting the facility's lights off is configurable as well.
-- Added code broadcast effect to terminal (networking required) when ghostCodes are used.
-- Terminal will now play different sounds whenever a ghostCode is sent. (only plays the alarm sound without networking)
-- When a ghost girl enemy exists, terminal will play random sounds of her's when a ghostCode is sent.
-- If you have a Signal Translator, certain ghost codes will send a signal translator message with their action.
-
-
-
-### [1.1.1]
- - Fixed cases where there were no interactable objects throwing error in the console.
- - Fixed rare cases where the codes still kept going after the ship had left.
- - Fixed the number of codes not being reset going into the next round.
- - Added minimum codes to send per round configuration option
- - Added filter option for each interactable object (door, landmine, & turret).
- - Added Insanity Mode which decreases time between ghostCodes as the group's total insanity levels goes up.
- - Added Turret Berserk Mode as another possible interaction when the ghostCode targets a turret object.
- - Added configuration options for the chances of turrets going berserk in both Normal ghostCodes & Max Insanity mode.
- - Added configuration options for Insanity Mode.
-
-### [1.0.1]
- - Fixed ghostCodes not disabling if the ship leaves before the codes hit max.
-
-### [1.0.0]
-*Initial release version*
-
-Configurable Values:
-- set interval wait times
-- random interval wait times
-- max codes to be sent in a round
-- terminal sound for when a code is sent (enable/disable)
-- use random intervals or set intervals (enable/disable random)
-
+Remember: The ghost doesn't really care if it's helping or not it's just sending codes to be noticed. The more you notice it the more it likes to say hello. Have fun! :)

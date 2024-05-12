@@ -1,6 +1,6 @@
 {
     "name": "Excuse_me",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/Hexnet111/Excuse-Me-",
     "description": "Completely gets rid of the bell cooldown, so the monster can take your stuff already!",
     "dependencies": [

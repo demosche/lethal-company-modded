@@ -48,6 +48,9 @@ If that doesn't work, you can try the [Skinwalkers Experimental](https://thunder
 
 ## Changelog
 
+### 5.0.0
+- Updated for v50
+
 ### 4.0.3
 - Fixed image reference in README
 

@@ -1,3 +1,28 @@
+# LethalThings 0.10.4
+**Bugfixes**
+- Maybe fixed issue with remote radar by making the code way worse. (idc)
+
+# LethalThings 0.10.3
+**Bugfixes**
+- Mod works on v50 now i think.
+
+# LethalThings 0.10.2  
+**Bugfixes**    
+- Unbroke the remote radar.  
+  
+# LethalThings 0.10.1  
+**Bugfixes**  
+- Maxwell can no longer explode when loading a save.  
+- Fixed null reference error when other mods register network prefabs incorrectly or something. (Thanks DBJ)  
+- Fixed error when dying from gremlin energy.  
+  
+(probably other things i forgor about)  
+  
+# LethalThings 0.10.0
+**Bugfixes**
+- Zapgun laser is no longer permanently active.
+- Radar camera is only active if any player is holding Remote Radar and said radar is turned on.
+
 # LethalThings 0.9.4
 **Bugfixes**  
 - Pinger was breaking the escape menu while turned on.  

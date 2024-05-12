@@ -1,8 +1,8 @@
 {
     "name": "Immersive_Visor",
-    "version_number": "0.3.3",
+    "version_number": "0.5.2",
     "website_url": "",
-    "description": "Make the visor reactive to the environment and heath. Currently in BETA",
+    "description": "More reactive visor mod. \nCurrently in BETA",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]

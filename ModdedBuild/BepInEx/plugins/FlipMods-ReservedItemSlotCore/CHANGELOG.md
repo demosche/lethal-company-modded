@@ -1,3 +1,71 @@
+# 2.0.28
++ Fixed a few UI scaling inconsistencies when paired with HotbarPlus.
++ Should scale properly in size with custom HotbarPlus item slot sizes.
++ Reserved item slots will no longer match HotbarPlus's item slot spacing (UI). The spacing now scales with its own size so it won't overlap with other reserved item slots.
+# 2.0.27
++ Rewrote the logic for syncing already held reserved items between clients. This does fix non gamebreaking issues, but might also fix bigger issues with some players.
++ "Destroying" reserved items in inventory, and also when dying, will now update the reserved item slots UI, which will hide empty reserved item slots if this is enabled in the config.
+# 2.0.26
++ Updating the hide empty reserved item slots while in game will now apply and update the UI immediately.
+# 2.0.25
++ Prevents potential errors that may arise from save corruption. This will not fix the corruption, but *may* help users find the issue.
+# 2.0.24
++ Fixed the bug that I created in 2.0.23 (I think) where dropping a reserved item while you have another reserved item would bug out the first item, and you couldn't see it, but other players could.
++ Reloading a shotgun shell will now trigger the reserved item slots in the HUD to reload. This means that if the config is set to hide empty reserved item slots, the shotgun shell slot will automatically hide after reloading.
+# 2.0.23
++ Item slot frames should now animate correctly again while maintaining compat with mods that set the item frame's override sprite. This is what broke the animation.
++ Placing reserved items in a storage container should now correctly trigger on discard effects, such as automatic swapping to another slot, or hiding the reserved item slot if the option is enabled in the config.
+# 2.0.22
++ Fixed issue with furniture/unlockables not syncing with clients when a client joins while another player is holding a reserved item.
++ Added extra checks to ensure that copied item slots in the HUD copy the texture and material as well, in case they do not.<br>
+This should resolve some issues with mods who have custom textures for the item slot frames.
+# 2.0.21
++ Accidentally logged some false errors.
+# 2.0.20
++ Minor update to TooManyEmotes compat.
++ Fixed a possible error caused when saving/loading unlocked slots.
++ Fixed error caused when checking if an item is in a reserved item slot, but a known bug is causing the start/end reserved item slot indexes to go outside the bounds of the player's item slots.
+# 2.0.19
++ Prevents the errors when te game tries to swap the player back to an invalid index after picking up a reserved item.<br>
+The cause of this issue is still unknown, but this fix should work as a band-aid.
+# 2.0.18
++ Potential fixes for issues where the mod tries to swap the player to a negative hotbar slot. (hopefully)
+# 2.0.17
++ Fixed errors caused when the game tried to sync already held reserved items before the client fully synced with the host.
+# 2.0.16
++ Added config entries to allow/disable any HUD formatting from HotbarPlus from being applied to the reserved item slots.
++ Added a config entry to disable the energy bar from HotbarPlus from being displayed in the reserved item slots.
++ The above config settings will do nothing if HotbarPlus is not enabled.
++ Any changes to the above config settings while in-game (via another mod that lets you modify them) will be applied automatically upon closing the quick menu. (*should*)
+# 2.0.15
++ Fixed some cases where dropping, or storing an item from a reserved item slot, would not hide the reserved item slot. (if the option to hide empty reserved item slots is enabled in the config)
++ Fixed a potential issue when grabbing a reserved item, where it would throw grab invalidated errors for the local player.
++ Added various null checks to prevent various unexpected errors.
++ Added more logs for debugging.
+# 2.0.14
++ Fixed issue when purchasing reserved item slots is enabled, where item slots with a price of 0 were not automatically unlocking upon ship resets.
++ Fixed issue with various reserved item meshes displaying a blue sphere (map node). This should be fixed for good now. (hopefully)
++ Fixed some cases where reserved items may appear invisible for players. May not have fixed *all* issues, but if this is still happening, I would appareciate it if you could post the issue on the mod's github!
++ Added a config option to hide empty reserved item slots. If enabling this config option creates issues, please call the police immediately. Also, I would greatly appreciate it if you could post the issue on the mod's github. Thank you!
++ Fixed some cases when picking up reserved items, where the grabbing animation sometimes appear to happen twice.
+# 2.0.13
++ Items can now be grabbed no matter which hotbar you're on.<br>
+If you're already in the reserved hotbar, you will swap to the slot that you picked up the item in instead of keeping your current slot unchanged.
++ Grabbing an item while toggled in the reserved item slots should not cause the items to show up as invisible anymore.
++ Dropping a reserved item should automatically swap to the next reserved item slot, unless no more are held.
++ The focus hotbar tooltip can now be hidden in the config.
++ Added more api functions, and organized the existing api code a little more.
++ Removed terminal tips from this mod if purchasing slots is disabled by host.
++ Reserved hotbar slots (HUD) shouldn't fade anymore while you're currently in the reserved hotbar.
++ Will add the config option *soon* for swapping between hotbars with scrolling. This will disable swapping with a hotkey.
+# 2.0.12
++ Removed wrong changelog entry.
+# 2.0.11
++ You can now swap between hotbar slots while emoting, except when emoting with TooManyEmotes, unless the config in TooManyEmotes allows moving while emoting.
++ Added config options to disable displaying holstered reserved items on players, and a config option to disable this for masked enemies as well.
+# 2.0.10
++ Added methods for mapping items to their original name.<br>
+This should fix issues with items not going to their reserved item slot when players running localization mods.
 # 2.0.9
 + Fixed issue with reserved item slots with prices set to 0 not automatically unlocking upon starting/loading a game.
 + Possible item duplication fix.

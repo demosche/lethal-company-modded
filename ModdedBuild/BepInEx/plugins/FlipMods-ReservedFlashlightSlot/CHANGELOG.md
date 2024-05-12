@@ -1,3 +1,14 @@
+# 2.0.5
++ Fixed bug where I was trying to change the flashlight's lens texture without checking the "changeMaterial" bool. This caused errors when picking up/interacting with flashlights with this bool false, such as laser pointer, or various modded flashlights.
+# 2.0.4
++ Rewrote the flashlight toggle logic.<br>
+Flashlights *not* in the reserved slot will now be the target flashlight to toggle on/off when pressing [F], unless there is a flashlight in the reserved item slot. Flashlights currently in your hands will take priority.
++ Flashlight states are a lot smarter now. (it was inconsistent before)
++ When turning on a flashlight, all other flashlights will turn off. This is also triggered when picking up a flashlight that is already turned on.
++ Swapping to/from a flashlight that is turned on will automatically update the lights to be shown in the correct position. (flashlight light, helmet light, flashlight light while on other player's shoulder, etc)
++ The flashlight's light yellow "texture" by the bulb (turned on texture) should not appear on while the flashlight is turned off. (only when in a player's inventory)
+# 2.0.3
++ Fixed issue with flashlight activating when not supposed to, such as when typing in chat, in terminal, etc.
 # 2.0.2
 + Added reminder in config descriptions about adding items, that translated items may need to be added to the list of additional items.
 + Changed default item slot priority to 200 (from 120). Priority order should remain be unchanged for all of my reserved item slot mods.
