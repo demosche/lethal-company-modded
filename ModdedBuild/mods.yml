@@ -599,10 +599,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 4
+    minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\boxofbiscuits97-QuotaRollover\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\boxofbiscuits97-QuotaRollover\2.5.0\icon.png
 - manifestVersion: 1
   name: Hamunii-JetpacksCarryBigItems
   authorName: Hamunii
@@ -1484,4 +1484,4 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Coppertiel-MaskedEnemyOverhaulFork\3.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Coppertiel-MaskedEnemyOverhaulFork\icon.png
