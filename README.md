@@ -26,10 +26,9 @@ List of mods:<br>
  ScannablePlayerItems  1.0.4<br>
  SpectateEnemies  2.4.1<br>
  Huntdown  1.4.1<br>
- MaskedEnemyOverhaul  3.1.2<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>
- QuotaRollover  2.4.0<br>
+ QuotaRollover  2.5.0<br>
  JetpacksCarryBigItems  1.0.2<br>
  JesterStompShake  1.0.8<br>
  EnhancedRadarBooster  1.7.1<br>
@@ -68,5 +67,6 @@ List of mods:<br>
  crawlingmine  1.0.6<br>
  RollingGiant  2.6.0<br>
  Locker  1.2.0<br>
- GeneralImprovements  1.2.7<br>
+ GeneralImprovements  1.2.8<br>
+ MaskedEnemyOverhaulFork  3.3.0<br>
 
