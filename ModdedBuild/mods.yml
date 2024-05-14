@@ -1462,7 +1462,7 @@
     minor: 2
     patch: 8
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.2.8\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: Coppertiel-MaskedEnemyOverhaulFork
   authorName: Coppertiel
@@ -1485,3 +1485,24 @@
     patch: 0
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Coppertiel-MaskedEnemyOverhaulFork\icon.png
+- manifestVersion: 1
+  name: Dev1A3-LethalFixes
+  authorName: Dev1A3
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/
+  displayName: LethalFixes
+  description: Fixes for a bunch of common issues.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 6
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-LethalFixes\1.0.6\icon.png

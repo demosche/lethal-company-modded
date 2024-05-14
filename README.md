@@ -69,4 +69,5 @@ List of mods:<br>
  Locker  1.2.0<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
+ LethalFixes  1.0.6<br>
 
