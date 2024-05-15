@@ -70,4 +70,5 @@ List of mods:<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.0.6<br>
+ ToilHead  1.3.7<br>
 
