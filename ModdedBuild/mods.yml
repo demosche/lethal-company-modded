@@ -102,7 +102,7 @@
     minor: 0
     patch: 29
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.29\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -1528,3 +1528,27 @@
     patch: 7
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
+- manifestVersion: 1
+  name: YaBoiDucki-men_stalker
+  authorName: YaBoiDucki
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/
+  displayName: men_stalker
+  description: add a new dungeon monster who heavily rely on prolonged stalking
+    phase and explosive chase phase
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.15.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\1.4.0\icon.png
