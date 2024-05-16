@@ -1,3 +1,7 @@
+# 2.0.29
++ Fixed issue when joining a player when you have the ForceEnableThisModIfNotEnabledOnHost config set to true, and then when leaving and hosting a new game, the reserved slots don't appear.<br>
+The mod was accidentally clearing the local list of reserved items data because of a wrong variable assignment.
++ The ForceEnableThisModIfNotEnabledOnHost config option should now work correctly if enabled, and if the host doesn't have the mod. **Remember, this is NOT stable and WILL cause de-sync, and please, don't enable this in lobbies with players you don't know.**
 # 2.0.28
 + Fixed a few UI scaling inconsistencies when paired with HotbarPlus.
 + Should scale properly in size with custom HotbarPlus item slot sizes.
