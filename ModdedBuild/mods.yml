@@ -1645,3 +1645,25 @@
     patch: 22
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\skidz-PoolRooms\icon.png
+- manifestVersion: 1
+  name: ButteryStancakes-EnemySoundFixes
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/
+  displayName: EnemySoundFixes
+  description: Fixes numerous issues with missing sound effects, or SFX playing
+    when they shouldn't.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.2.0\icon.png
