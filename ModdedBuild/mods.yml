@@ -1827,3 +1827,49 @@
     patch: 16
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
+- manifestVersion: 1
+  name: Sigurd-CSync
+  authorName: Sigurd
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sigurd/CSync/
+  displayName: CSync
+  description: Configuration file syncing library for BepInEx.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-FixPluginTypesSerialization-1.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 5
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sigurd-CSync\icon.png
+- manifestVersion: 1
+  name: necrowing-DramaMask
+  authorName: necrowing
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/necrowing/DramaMask/
+  displayName: DramaMask
+  description: Enables masks to be worn to hide from enemies by blending in with
+    the Masked and adds a safe mask, Drama!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.15.0
+    - Sigurd-CSync-4.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 9
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\necrowing-DramaMask\2.0.9\icon.png
