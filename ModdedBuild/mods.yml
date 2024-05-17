@@ -1777,4 +1777,49 @@
     minor: 6
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AudioKnight-StarlancerWarehouse\1.6.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AudioKnight-StarlancerWarehouse\icon.png
+- manifestVersion: 1
+  name: TestAccount666-AutomaticInventoryFixPlugin
+  authorName: TestAccount666
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TestAccount666/AutomaticInventoryFixPlugin/
+  displayName: AutomaticInventoryFixPlugin
+  description: Automatically solves the problem of interacting with objects
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-AutomaticInventoryFixPlugin\icon.png
+- manifestVersion: 1
+  name: Sconeys-Gnomes
+  authorName: Sconeys
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sconeys/Gnomes/
+  displayName: Gnomes
+  description: "[V50 COMPATIBLE] Adds TWO unique new enemies to the game! Have you
+    ever wanted gnomes? No? (or yes) Then this is for you!"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.14.2
+    - TestAccount666-AutomaticInventoryFixPlugin-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 1
+    patch: 15
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.15\icon.png

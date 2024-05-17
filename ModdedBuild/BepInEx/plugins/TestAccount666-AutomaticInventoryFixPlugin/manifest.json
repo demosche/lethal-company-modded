@@ -1,0 +1,9 @@
+{
+    "name": "AutomaticInventoryFixPlugin",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Automatically solves the problem of interacting with objects",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
