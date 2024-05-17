@@ -72,4 +72,8 @@ List of mods:<br>
  LethalFixes  1.0.7<br>
  ToilHead  1.3.7<br>
  men_stalker  1.4.0<br>
+ FixPluginTypesSerialization  1.1.1<br>
+ LethalModDataLib  1.2.2<br>
+ LethalLevelLoader  1.2.3<br>
+ PoolRooms  0.1.22<br>
 

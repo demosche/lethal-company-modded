@@ -1180,8 +1180,8 @@
     major: 1
     minor: 5
     patch: 0
-  enabled: false
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Owen3H-IntroTweaks\1.5.0\icon.png
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Owen3H-IntroTweaks\icon.png
 - manifestVersion: 1
   name: MiffyL-Kill_It_With_Shovel
   authorName: MiffyL
@@ -1505,7 +1505,7 @@
     minor: 0
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-LethalFixes\1.0.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
 - manifestVersion: 1
   name: Zehs-ToilHead
   authorName: Zehs
@@ -1552,3 +1552,96 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
+- manifestVersion: 1
+  name: Evaisa-FixPluginTypesSerialization
+  authorName: Evaisa
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Evaisa/FixPluginTypesSerialization/
+  displayName: FixPluginTypesSerialization
+  description: Fix custom Serializable structs and such not properly getting
+    deserialized by Unity.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-FixPluginTypesSerialization\icon.png
+- manifestVersion: 1
+  name: MaxWasUnavailable-LethalModDataLib
+  authorName: MaxWasUnavailable
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/MaxWasUnavailable/LethalModDataLib/
+  displayName: LethalModDataLib
+  description: A library for Lethal Company, providing a standardised way to save
+    and load modded data.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MaxWasUnavailable-LethalModDataLib\icon.png
+- manifestVersion: 1
+  name: IAmBatby-LethalLevelLoader
+  authorName: IAmBatby
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
+  displayName: LethalLevelLoader
+  description: A Custom API to support the manual and dynamic integration of all
+    forms of custom content in Lethal Company. (v50 Compatible)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-FixPluginTypesSerialization-1.1.1
+    - Evaisa-LethalLib-0.15.1
+    - MaxWasUnavailable-LethalModDataLib-1.2.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
+- manifestVersion: 1
+  name: skidz-PoolRooms
+  authorName: skidz
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/skidz/PoolRooms/
+  displayName: PoolRooms
+  description: Pool Rooms is a Lethal Company interior featuring a layout all
+    about the classic swimming pool aesthetic, with a hint of liminality.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.15.1
+    - IAmBatby-LethalLevelLoader-1.2.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 22
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\skidz-PoolRooms\icon.png
