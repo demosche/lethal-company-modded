@@ -426,8 +426,8 @@
     major: 2
     minor: 0
     patch: 5
-  enabled: false
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.0.5\icon.png
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
