@@ -81,4 +81,5 @@ List of mods:<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.16<br>
  ShockwaveDroneEnemy  0.4.2<br>
+ StarlancerWarehouse  1.6.4<br>
 
