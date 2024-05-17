@@ -1118,27 +1118,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\vasanex-ItemQuickSwitch\icon.png
 - manifestVersion: 1
-  name: BudgetAirpods-InsanityRemastered
-  authorName: BudgetAirpods
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/BudgetAirpods/InsanityRemastered/
-  displayName: InsanityRemastered
-  description: Adds new features and mechanics to the insanity mechanic of Lethal Company.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 1
-    patch: 2
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BudgetAirpods-InsanityRemastered\icon.png
-- manifestVersion: 1
   name: itsmeowdev-DoorFix
   authorName: itsmeowdev
   websiteUrl: https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix/
@@ -1847,4 +1826,4 @@
     minor: 2
     patch: 16
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.2.16\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png

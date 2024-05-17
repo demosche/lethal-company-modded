@@ -52,7 +52,6 @@ List of mods:<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>
  ItemQuickSwitch  1.1.0<br>
- InsanityRemastered  1.1.2<br>
  DoorFix  1.0.0<br>
  IntroTweaks  1.5.0<br>
  Kill_It_With_Shovel  1.0.1<br>
