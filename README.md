@@ -84,4 +84,5 @@ List of mods:<br>
  StarlancerWarehouse  1.6.4<br>
  AutomaticInventoryFixPlugin  1.1.0<br>
  Gnomes  2.1.15<br>
+ Remnants  1.2.16<br>
 

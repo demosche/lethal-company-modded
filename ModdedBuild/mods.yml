@@ -1822,4 +1822,29 @@
     minor: 1
     patch: 15
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.15\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
+- manifestVersion: 1
+  name: KawaiiBone-Remnants
+  authorName: KawaiiBone
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/KawaiiBone/Remnants/
+  displayName: Remnants
+  description: Adds store items as scrap, to be found on moons as scrap in Lethal
+    Company. You can now also find the bodies of previous crews accompanying
+    their former gear.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.15.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 16
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.2.16\icon.png
