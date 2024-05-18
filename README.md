@@ -85,4 +85,5 @@ List of mods:<br>
  Remnants  1.2.16<br>
  CSync  5.0.0<br>
  DramaMask  2.0.9<br>
+ LethalLevelLoaderCompanyFixer  2.0.0<br>
 
