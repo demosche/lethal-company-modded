@@ -63,7 +63,6 @@ List of mods:<br>
  TurretDownTime  0.1.0<br>
  LethalExpansionCore  1.3.15<br>
  LCConductivityRework  1.0.2<br>
- crawlingmine  1.0.6<br>
  RollingGiant  2.6.0<br>
  Locker  1.2.0<br>
  GeneralImprovements  1.2.8<br>
