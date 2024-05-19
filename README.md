@@ -83,7 +83,7 @@ List of mods:<br>
  AutomaticInventoryFixPlugin  1.1.0<br>
  Gnomes  2.1.15<br>
  Remnants  1.2.16<br>
- CSync  5.0.0<br>
+ CSync  5.0.1<br>
  DramaMask  2.0.9<br>
  LethalLevelLoaderCompanyFixer  2.0.0<br>
 

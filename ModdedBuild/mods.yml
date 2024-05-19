@@ -1825,9 +1825,9 @@
   versionNumber:
     major: 5
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sigurd-CSync\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sigurd-CSync\5.0.1\icon.png
 - manifestVersion: 1
   name: necrowing-DramaMask
   authorName: necrowing
@@ -1872,4 +1872,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-LethalLevelLoaderCompanyFixer\2.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-LethalLevelLoaderCompanyFixer\icon.png
