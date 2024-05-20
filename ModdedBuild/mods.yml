@@ -1577,7 +1577,7 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IAmBatby-LethalLevelLoader\1.2.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
 - manifestVersion: 1
   name: skidz-PoolRooms
   authorName: skidz
@@ -1622,9 +1622,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.2.1\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
