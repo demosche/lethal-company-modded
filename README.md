@@ -72,14 +72,13 @@ List of mods:<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
- LethalLevelLoader  1.2.3<br>
+ LethalLevelLoader  1.2.4<br>
  PoolRooms  0.1.22<br>
  EnemySoundFixes  1.2.0<br>
  CullFactory  1.1.2<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.16<br>
  ShockwaveDroneEnemy  0.4.2<br>
- StarlancerWarehouse  1.6.4<br>
  AutomaticInventoryFixPlugin  1.1.0<br>
  Gnomes  2.1.15<br>
  Remnants  1.2.16<br>

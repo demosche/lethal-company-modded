@@ -1,58 +1,63 @@
-<https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/>
+**LethalLevelLoader**
+--
 
-**Version 1.2.3**
+**A Custom API to support the manual and dynamic integration of all forms of custom content in Lethal Company.**
 
-* *Updated mod for Lethal Company version 50*
+**Thunderstore Link:** *https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/*
 
-* *Added ExtendedMod*
-* *Added ExtendedEnemyType*
-* *Added ExtendedItem*
-* *Added ExtendedStoryLog*
-* *Added ExtendedFootstepSurface (WIP)*
-* *Added ExtendedWeatherEffect (WIP)*
-* *Added LevelMatchingProperties*
-* *Added DungeonMatchingProperties*
-* *Added ContentTags*
+**Discord Thread:** *https://discord.com/channels/1168655651455639582/1193461151636398080*
 
-* *Added Global LevelEvents Instance (Thanks mrov)*
-* *Added Global DungeonEvents Instance (Thanks mrov)*
-* *Added IsSetupComplete bool for modders to reference.*
-* *Added onBeforeSetup event for modders to reference*
-* *Added onSetupComplete event for modders to reference*
-* *Revamped DebugLogs and provided a configurable debuglog setting in the config to allow Users to only receive relevant logs by default.*
-* *Moved AssetBundleLoading earlier to help speed up load time*
-* *Revamped debug logs when trying to load a level or simulate the loading of a level*
-* *Revamped Moons Catalogue display to split custom moons into groups similar to the basegame moon listings.*
-* *Revamped Moons Catalogue display to order custom moon groups by average risk level*
-* *Revamped Moons Catalogue display to order custom moons inside groups by risk level*
-* *Revamped Moons Catalogue display to prefer to group custom moons created by the same author*
+**Description**
+--
 
-* *Added string value to allow Authors to use custom route node display text to their levels*
-* *Added string value to allow Authors to use custom route confirmation node display text to their levels*
-* *By default SelectableLevel.riskLevel is now automatically assigned using calculations and comparisons of SelectableLevel values between both Custom and Vanilla levels. This can be manually overridden.*
-* *Added an OverrideQuicksandPrefab value to allow authors to modify the Quicksand used on their level*
-* *Added ShipFlyToMoonClip & ShipFlyFromMoonClip AnimationClip values to allow authors to modify the AnimationClips used when the Ship lands to and from their level (Currently disabled until bug is resolved with Unity Assetrip Fixer)*
-* *Overhauled the way Scene’s are correlated with Levels by implementing a new weight based system built into ExtendedLevel to allow authors to randomly switch between multiple variant scenes for a single level.*
+### **1.2.0 for Lethal Company v50 Has Released!**
+
+**LethalLevelLoader** is a custom API to support the manual and dynamic integration of custom levels and dungeons in Lethal Company. 
+Mod Developers can provide LethalLevelLoader with their custom content via code or via automatic assetbundle detection, From there LethalLevelLoader will seamlessly load it into the game.
+
+This Mod is Likely To Be Incompataible with **LethalExpansion**, Due To The inherit conflicts involved in changing the same systems.
+
+**How To Use (Users / Players)**
+--
 
 
-* *Added an OverrideKeyPrefab value to allow authors to modify the Key prefab used in their Dungeon*
-* *Added a MapTileSize value to allow authors to set a correlated MapTileSize value that is used in new basegame functions implemented in Version 50.*
-* *Added a new SpawnableMapObjects list value to allow authors to inject custom RandomMapObjects in their Dungeon*
-* *Added a PluralisedItemName string value to allow developers to change how their item name is parsed when being referenced as a plural (eg. when buying multiple of them from the store)*
-* *Created integrated ContentTag system that allows developers to put relevant string tags on all types of custom content (with an optional correlating colour). Developers can access groups of content based on a specific content tag as well as match their content with other pieces of content dynamically using the built in LevelMatchingProperties and DungeonMatchingProperties.*
-* *All Vanilla content has been manually assigned Content Tags to allow developers to reference vanilla content via tags the same way they would custom content, You can find those tags here:* https://docs.google.com/spreadsheets/d/1WO77KGJplIEC64qmBClOgfEEoFxrhMurCEqe9FKod8I/edit?usp=sharing
+  Simply install LethalLevelLoader and it's dependencies.
 
-* *Fixed switch Terminal command incorrectly working*
-* *Fixed Weather selection desyncing*
-* *Fixed Dungeon selection desyncing*
-* *Fixed Config duplicating entities (Credit to mrov)*
-* *Added safety checks to correctly save and restore previously selected route and prevent previous routes to disabled levels from breaking*
-* *Added safety checks to prevent invalid Foggy weather level values from breaking the game*
-* *Added safety checks to prevent Levels & Dungeons having incorrect SpawnableMapObject setups from breaking the game*
-* *Added safety check to prevent level missing MapPropsContainer tagged object from breaking the game*
-* *Added safety check to prevent level with .SpawnScrapAndEnemies enabled and no spawnable scrap listed from breaking the game*
-* *Fixed LevelEvents & DungeonEvents EntranceTeleport events behaving incorrectly (credit to mrov)*
-* *Added custom code to optimize specific internal code used in DunGen generation (Credit to LadyRaphtalia)*
-* *Made LogDayHistory function safer to allow DunGen generation in editor while using LethalLevelLoader to correctly work*
-* *Fixed issue where specific special items (Shotgun, Shells, Hive, Knife) were not being collected*
-* *Fixed issue where LethalLevelLoader was destroying assets in mods with multiple levels before it could correctly restore all those references first*
+
+  If a mod using **LethalLevelLoader** supplies a **.lethalbundle** file, **LethalLevelLoader** will automatically find and load it’s content as long as it’s in the /plugins/ folder (Subfolders will be detected)
+
+**How To Use (Modders / Developers)**
+--
+
+
+  Please refer to the LethalLevelLoader Wiki for documentation on utalising this API for your custom content
+  https://github.com/IAmBatby/LethalLevelLoader/wiki
+
+**Features Currently Supported**
+--
+* Custom Moons
+* Custom Interiors
+* Custom Items (Scrap / Items)
+* Custom Enemies (Enemies)
+* Custom StoryLog's
+* Custom Weather Effects (WIP)
+* Custom Footstep Surfaces (WIP)
+ 
+**Credits**
+--
+
+* **Evaisa** *(This Mod is directly based from LethalLib's codebase and could have been made without it's pre-existing foundations.)*
+* **SkullCrusher** *(This Mod is directly based from SkullCrusher's LethalLib' Fork and could have been made without it's pre-existing foundations.)*
+* **HolographicWings** *(This Mod was inspired by LethalExpansion and could not have been made without HolographicWing's support and research.)*
+* **KayNetsua** *(This Mod was internally tested using KayNetsua's "E Gypt" Custom Level and KayNetsua assisted in testing LethalLevelLoader's usage)*
+* **Badhamknibb** *(This Mod was internally tested using Badhamknibb's "SCP Foundation" Custom Dungeon and Badhamknibb's assisted in testing LethalLevelLoader's usage)*
+* **Scoopy** *(This Mod was internally tested using Scoopy's "LethalExtension Castle" Custom Dungeon and Scoopy assisted in testing LethalLevelLoader's usage)*
+* **Xilo** *(Xilo provided multiple instances of Bepinex & Unity.Netcode related support during the development of this Mod.)*
+* **Lordfirespeed** *(Lordfirespeed provided multiple instances of Bepinex & Unity.Netcode related support during the development of this Mod.)*
+* **onionymous** *(Onionymous provided a preview build of their Networked Scene Patcher API, allowing for dynamic, networked scene injection)*
+* **Game-Icons.net** *(For the artwork used for the mod's logo)*
+**Maxwasunavailable** *(For creating LethalModDataLib and assisting me with it’s usage.)*
+**Mrov** *(For collaborating with me on initial Custom weather support related code, assisting in fixes related to the Config file and a bunch of miscellaneous assistance.)*
+**LadyRaphtalia**, **Xu Xiaolan**, **Badhamknibbs**, **Mrov**, **sfDesat**, **AboveFire**, **Autumnis The Everchanging**, **RosiePies**, **Drako** & **Audio Knight** *(For testing development on experimental 1.2.0 builds.)*
+**狐萝卜呀**, **tumbleweed**, **Corey**, **Ritskee**, **Altan**, **qxZap**, **Salamander**, **Chiseled Cactus**, **Phantom139**, **ImmaBawss**, **takeothewolf**, **zuzaratrust**, **Hackattack242**, **Mail Me Dabs**, **Kyros**, **SourceShard** & **Chupacabra** *(For playtesting and reporting bugs on experimental 1.2.0 builds.*
+**Lunxara** *For the heavy, rapid testing throughout all the experimental 1.2.0 builds.*)
