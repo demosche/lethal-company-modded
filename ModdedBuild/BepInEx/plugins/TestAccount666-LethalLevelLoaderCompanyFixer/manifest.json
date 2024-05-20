@@ -1,9 +1,0 @@
-{
-    "name": "LethalLevelLoaderCompanyFixer",
-    "version_number": "2.0.0",
-    "website_url": "",
-    "description": "Fixes the 1.2.3 LethalLevelLoader bug",
-    "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100"
-    ]
-}
