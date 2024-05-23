@@ -86,4 +86,6 @@ List of mods:<br>
  Lethal_Doors_Fixed  1.0.8<br>
  LCMaxSoundsFix  1.2.0<br>
  MeleeFixes  1.0.0<br>
+ Runtime_Netcode_Patcher  0.2.5<br>
+ LightningRod  1.0.3<br>
 

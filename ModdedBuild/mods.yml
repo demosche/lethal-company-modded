@@ -1870,4 +1870,50 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-MeleeFixes\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-MeleeFixes\icon.png
+- manifestVersion: 1
+  name: Ozone-Runtime_Netcode_Patcher
+  authorName: Ozone
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/
+  displayName: Runtime_Netcode_Patcher
+  description: Patches Netcode RPC methods during runtime utilizing Harmony
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Ozone-Runtime_Netcode_Patcher\icon.png
+- manifestVersion: 1
+  name: Mellowdy-LightningRod
+  authorName: Mellowdy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Mellowdy/LightningRod/
+  displayName: LightningRod
+  description: Adds a new ship upgrade that redirects lightning away from you and
+    your coworkers to your big strong ship!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Ozone-Runtime_Netcode_Patcher-0.2.5
+    - Evaisa-LethalLib-0.14.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mellowdy-LightningRod\1.0.3\icon.png
