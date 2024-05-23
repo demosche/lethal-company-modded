@@ -85,4 +85,5 @@ List of mods:<br>
  DramaMask  2.0.9<br>
  Lethal_Doors_Fixed  1.0.8<br>
  LCMaxSoundsFix  1.2.0<br>
+ MeleeFixes  1.0.0<br>
 
