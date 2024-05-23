@@ -83,4 +83,5 @@ List of mods:<br>
  Remnants  1.2.16<br>
  CSync  5.0.1<br>
  DramaMask  2.0.9<br>
+ Lethal_Doors_Fixed  1.0.8<br>
 
