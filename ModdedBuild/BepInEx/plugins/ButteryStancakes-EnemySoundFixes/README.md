@@ -21,7 +21,7 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed missing death sound effect
 - "Masked"
   - Fixed Comedy and Tragedy noise intervals (for laughing/crying) taking exponentially more time to occur the longer you left the game open
-  - In general, "masked" enemies as well as the actual mask items will be a lot noisier
-  - You can disable this change in the config if you don't like it
+    - In general, "masked" enemies as well as the actual mask items will be a lot noisier
+    - You can disable this change in the config if you don't like it
 - Players
   - Fixed fall damage not playing its special sound effect unless you crash with a jetpack

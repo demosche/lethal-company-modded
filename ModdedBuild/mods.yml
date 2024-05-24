@@ -1598,9 +1598,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.2.3\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
@@ -1985,4 +1985,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Suki-LCTerminalMultiCodes\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Suki-LCTerminalMultiCodes\icon.png

@@ -1,5 +1,11 @@
+# v1.2.3
+- Inverted "DontFixMasks" option to "FixMasks" option, which I think is more intuitive
+  - Your config should be updated automatically to use the proper setting
+- Snare flea death scream is no longer random pitch
+# v1.2.2
+- Fixed a potential nullref exception with animated particles.
 # v1.2.1
-- Fixed a bug that caused certain animated map objects to not play audio (in vanilla, that would be the garage door on Experimentation)
+- Fixed a bug that caused certain animated map objects to not play audio (in vanilla, that would be garage door on Experimentation)
 # v1.2.0
 - Fixed mask items and enemies not playing laugh/cry noises as often as they are supposed to.
 # v1.1.2
