@@ -1,4 +1,7 @@
-# v1.3.7
+# v1.4.0
+* [REDACTED]
+
+## v1.3.7
 * Added `PlushieSpawnAllMoons` config setting.
     * *Description: If true, the Toil-Head plushie will spawn on all moons. If false, the Toil-Head plushie will only spawn on moons set in the moons list.*
 * Added `PlushieMoonSpawnList` config setting.
@@ -37,6 +40,9 @@
 * Increased `ArtificeSpawnSettings` `MaxSpawnCount` from 1 to 2
 * Added XML file for [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs) documentation.
 
+<details>
+  <summary>Older Versions</summary>
+
 ## v1.3.2
 * Added `forceMaxSpawnCount` int property to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
     * *Description: If set to any value above -1, will temporarily override the Toil-Head max spawn count for the day. This will get reset automatically when the day ends.*
@@ -54,9 +60,6 @@
 * Updated all turret config settings keys.
 * Added `ExtendedLogging` config setting.
 * Improved random percent calculations.
-
-<details>
-  <summary>Older Versions</summary>
 
 ## v1.2.3
 * Changed `spawnChance` config setting default value to 40

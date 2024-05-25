@@ -67,7 +67,7 @@ List of mods:<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.1<br>
- ToilHead  1.3.7<br>
+ ToilHead  1.4.0<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
