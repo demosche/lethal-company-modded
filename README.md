@@ -78,7 +78,7 @@ List of mods:<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.16<br>
  ShockwaveDroneEnemy  0.4.2<br>
- AutomaticInventoryFixPlugin  1.1.0<br>
+ AutomaticInventoryFixPlugin  1.2.0<br>
  Gnomes  2.1.15<br>
  Remnants  1.2.16<br>
  CSync  5.0.1<br>
