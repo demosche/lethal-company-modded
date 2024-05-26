@@ -90,4 +90,5 @@ List of mods:<br>
  LightningRod  1.0.3<br>
  StopBeesOpeningDoors  1.1.0<br>
  LCTerminalMultiCodes  1.0.0<br>
+ BetterEmotes  1.5.0<br>
 
