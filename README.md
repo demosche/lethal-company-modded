@@ -88,7 +88,6 @@ List of mods:<br>
  MeleeFixes  1.0.0<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LightningRod  1.0.3<br>
- CoilheadDontOpenDoors  1.0.0<br>
  StopBeesOpeningDoors  1.1.0<br>
  LCTerminalMultiCodes  1.0.0<br>
 

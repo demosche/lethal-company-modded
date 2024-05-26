@@ -1461,7 +1461,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
@@ -1917,30 +1917,6 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Mellowdy-LightningRod\icon.png
-- manifestVersion: 1
-  name: Krild-CoilheadDontOpenDoors
-  authorName: Krild
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Krild/CoilheadDontOpenDoors/
-  displayName: CoilheadDontOpenDoors
-  description: This mod deactivates Coil-Heads ability to open doors. This allows
-    you to lock Coil-Heads in rooms!. I think that's a good balance, since
-    there's usually nothing you can do against Coil-Heads except leave the
-    dungeon.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Krild-CoilheadDontOpenDoors\icon.png
 - manifestVersion: 1
   name: necrowing-StopBeesOpeningDoors
   authorName: necrowing
