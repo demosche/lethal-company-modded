@@ -1,3 +1,7 @@
+# 2.0.30
++ Added config option to enable/disable verbose logs.
++ If verbose logs are enabled, the mod will log when it blocks the user from swapping items to help determine if issues related to not being able to swap items are caused by this mod or not.<br>
+This will not spam more than once per second.
 # 2.0.29
 + Fixed issue when joining a player when you have the ForceEnableThisModIfNotEnabledOnHost config set to true, and then when leaving and hosting a new game, the reserved slots don't appear.<br>
 The mod was accidentally clearing the local list of reserved items data because of a wrong variable assignment.
