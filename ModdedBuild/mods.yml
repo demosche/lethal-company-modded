@@ -1798,15 +1798,15 @@
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.15.0
-    - Sigurd-CSync-4.1.0
+    - Sigurd-CSync-5.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
-    patch: 11
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\necrowing-DramaMask\2.0.11\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\necrowing-DramaMask\2.1.0\icon.png
 - manifestVersion: 1
   name: Entity378-Lethal_Doors_Fixed
   authorName: Entity378
