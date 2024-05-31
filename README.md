@@ -80,7 +80,7 @@ List of mods:<br>
  ShockwaveDroneEnemy  0.5.0<br>
  AutomaticInventoryFixPlugin  1.2.0<br>
  Gnomes  2.1.15<br>
- Remnants  1.2.16<br>
+ Remnants  1.3.0<br>
  CSync  5.0.1<br>
  DramaMask  2.1.0<br>
  Lethal_Doors_Fixed  1.0.8<br>
