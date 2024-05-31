@@ -1,11 +1,23 @@
-# v1.4.0
-* [REDACTED]
+# v1.4.1
+* Changed Manti-Toil line of sight.
+    * Decreased view distance from 50 to 30 meters.
+    * Decreased horizontal view range from 40 to 30 degrees.
+    * Increased vertical view range.
+* Added more LevelTypes to the `PlushieMoonSpawnList` config setting.
+
+## v1.4.0
+* Added Manti-Toils
+    * *Description: Manticoils can sometimes spawn with a turret on their head.*
+* Added `MantiToilMaxSpawnCount` config setting.
+    * *Description: Manti-Toil max spawn count.*
+* Added `MantiToilSpawnChance` config setting.
+    * *Description: The percent chance a Manticoil turns into a Manti-Toil.*
 
 ## v1.3.7
 * Added `PlushieSpawnAllMoons` config setting.
     * *Description: If true, the Toil-Head plushie will spawn on all moons. If false, the Toil-Head plushie will only spawn on moons set in the moons list.*
 * Added `PlushieMoonSpawnList` config setting.
-    * *Description: The list of moons the Toil-Head plushie will spawn on. (Experimentation, Assurance, Vow, Offense, March, Rend, Dine, Titan) Only works if PlushieSpawnAllMoons is false.*
+    * *Description: The list of moons the Toil-Head plushie will spawn on. (Experimentation, Assurance, Vow, Offense, March, Adamance, Rend, Dine, Titan, Artifice, Embrion) Only works if PlushieSpawnAllMoons is false.*
 * Added `PlushieCarryWeight` config setting.
     * *Description: Toil-Head plushie carry weight in pounds.*
 * Added `PlushieMinValue` config setting.

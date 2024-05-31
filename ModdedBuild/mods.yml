@@ -1459,9 +1459,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.4.1\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
@@ -1806,7 +1806,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\necrowing-DramaMask\2.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\necrowing-DramaMask\icon.png
 - manifestVersion: 1
   name: Entity378-Lethal_Doors_Fixed
   authorName: Entity378
