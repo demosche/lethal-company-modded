@@ -1,4 +1,10 @@
-# v1.4.1
+# v1.4.2
+* Added `EnableConfiguration` config setting.
+    * *Description: Enable if you want to use custom set config setting values. If disabled, the default config setting values will be used.*
+* Changed `PlushieCarryWeight` config setting default value from 4 to 6
+* Changed `PlushieMinValue` config setting default value from 150 to 80
+
+## v1.4.1
 * Changed Manti-Toil line of sight.
     * Decreased view distance from 50 to 30 meters.
     * Decreased horizontal view range from 40 to 30 degrees.
