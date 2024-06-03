@@ -1,0 +1,9 @@
+{
+    "name": "JetpackFixes",
+    "version_number": "1.1.0",
+	"website_url": "https://github.com/ButteryStancakes/JetpackFixes",
+    "description": "Fixes a bug causing the player to explode without crashing, the bug where you can sometimes freeze in place with the jetpack still running, and the bug that causes the battery to drain after dropping the jetpack.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
