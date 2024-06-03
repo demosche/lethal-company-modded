@@ -1,0 +1,9 @@
+{
+    "name": "ChocoQuota",
+    "version_number": "1.0.5",
+    "website_url": "",
+    "description": "Custom quota algorithm that's more managable at higher levels. (fully configurable)",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
