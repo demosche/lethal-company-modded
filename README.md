@@ -91,4 +91,5 @@ List of mods:<br>
  StopBeesOpeningDoors  1.1.0<br>
  LCTerminalMultiCodes  1.0.0<br>
  BetterEmotes  1.5.1<br>
+ SnowyHolidayDropship  1.0.4<br>
 
