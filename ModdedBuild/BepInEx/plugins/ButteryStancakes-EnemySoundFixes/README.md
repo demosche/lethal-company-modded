@@ -1,5 +1,7 @@
 # Enemy Sound Fixes
 Fixes numerous issues with missing sound effects, or SFX playing when they shouldn't.
+- Players
+  - Fixed fall damage not playing its special sound effect unless you crash with a jetpack
 - Snare fleas
   - Fixed shrieking when hitting its dead body
   - Fixed chasing "footsteps" and suffocation noises not looping
@@ -19,9 +21,9 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
 - Nutcrackers
   - Fixed "marching music" playing endlessly after death if you kill it right as it fires its gun
   - Fixed missing death sound effect
-- "Masked"
+- Mimics
   - Fixed Comedy and Tragedy noise intervals (for laughing/crying) taking exponentially more time to occur the longer you left the game open
     - In general, "masked" enemies as well as the actual mask items will be a lot noisier
     - You can disable this change in the config if you don't like it
-- Players
-  - Fixed fall damage not playing its special sound effect unless you crash with a jetpack
+- Butlers
+  - Fixed corpses still buzzing even once the mask hornets are free
