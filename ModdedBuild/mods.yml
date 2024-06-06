@@ -1437,9 +1437,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-LethalFixes\1.1.3\icon.png
 - manifestVersion: 1
   name: Zehs-ToilHead
   authorName: Zehs
@@ -1600,7 +1600,7 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.2.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
