@@ -1,0 +1,10 @@
+{
+    "name": "TestAccountFixes",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Test-Account666/LethalCompany-TestAccountFixes/",
+    "description": "All my fixes in one mod",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Rune580-LethalCompany_InputUtils-0.7.1"
+    ]
+}

@@ -78,7 +78,7 @@ List of mods:<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.16<br>
  ShockwaveDroneEnemy  0.5.0<br>
- AutomaticInventoryFixPlugin  1.2.0<br>
+ AutomaticInventoryFixPlugin  2.0.0<br>
  Gnomes  2.1.15<br>
  Remnants  1.3.0<br>
  CSync  5.0.1<br>
@@ -94,4 +94,5 @@ List of mods:<br>
  SnowyHolidayDropship  1.0.4<br>
  JetpackFixes  1.1.0<br>
  ChocoQuota  1.0.5<br>
+ TestAccountFixes  1.1.0<br>
 
