@@ -1,3 +1,18 @@
+### [0.7.7]
+
+Fixes:
+- I also forgot to include Locale with the new build system, this fixes things for real this time.
+
+### [0.7.6]
+
+Fixes:
+- Forgot to include AssetBundles with new build system, sorry about that.
+
+### [0.7.5]
+
+Fixes:
+- Delay searching for device layouts until *after* unity has loaded, fixes a harmless error at startup.
+
 ### [0.7.4]
 
 Locale:
