@@ -1,6 +1,6 @@
 {
     "name": "MeleeFixes",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
 	"website_url": "https://github.com/ButteryStancakes/MeleeFixes",
     "description": "Fixes buggy collision with shovels and knives, causing invisible walls to make hit sounds and/or block damage.",
     "dependencies": [

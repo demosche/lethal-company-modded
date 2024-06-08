@@ -85,7 +85,7 @@ List of mods:<br>
  DramaMask  2.1.0<br>
  Lethal_Doors_Fixed  1.0.9<br>
  LCMaxSoundsFix  1.2.0<br>
- MeleeFixes  1.0.0<br>
+ MeleeFixes  1.1.0<br>
  Runtime_Netcode_Patcher  0.2.5<br>
  LightningRod  1.0.3<br>
  StopBeesOpeningDoors  1.1.0<br>
