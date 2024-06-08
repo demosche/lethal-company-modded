@@ -1,3 +1,6 @@
+## V0.5.1:
+- Fix scrapChance config not working correctly
+
 ## v0.5.0: 
 - Remove XuXiaolan from the game.
 - Reduced the mods file size down by 11MB
@@ -11,7 +14,7 @@
 -  Fix Drone Scrap softlock on non-host players. (Whoops)
 
 ## v0.4.0: 
-- Added a scrap item that has a configurable chance to drop when the drone is destroye, 
+- Added a scrap item that has a configurable chance to drop when the drone is destroyed, 
 - Made the drone a bit stronger doesent take one hit to destroy it anymore,
 - Added more Config options.
 

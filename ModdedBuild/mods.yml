@@ -1688,9 +1688,9 @@
   versionNumber:
     major: 0
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-ShockwaveDroneEnemy\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-ShockwaveDroneEnemy\0.5.1\icon.png
 - manifestVersion: 1
   name: TestAccount666-AutomaticInventoryFixPlugin
   authorName: TestAccount666
@@ -1711,7 +1711,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-AutomaticInventoryFixPlugin\2.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-AutomaticInventoryFixPlugin\icon.png
 - manifestVersion: 1
   name: Sconeys-Gnomes
   authorName: Sconeys
