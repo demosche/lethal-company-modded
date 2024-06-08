@@ -1871,7 +1871,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-MeleeFixes\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-MeleeFixes\icon.png
 - manifestVersion: 1
   name: Ozone-Runtime_Netcode_Patcher
   authorName: Ozone
@@ -2073,6 +2073,6 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountFixes\1.1.1\icon.png
