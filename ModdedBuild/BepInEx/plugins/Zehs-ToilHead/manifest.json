@@ -1,6 +1,6 @@
 {
     "name": "ToilHead",
-    "version_number": "1.4.2",
+    "version_number": "1.4.3",
     "website_url": "https://github.com/ZehsTeam/Lethal-Company-ToilHead",
     "description": "CoilHeads can sometimes spawn with a turret on their head. Highly Configurable.",
     "dependencies": [

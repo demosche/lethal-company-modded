@@ -1,4 +1,7 @@
-# v1.4.2
+# v1.4.3
+* Waaa
+
+## v1.4.2
 * Added `EnableConfiguration` config setting.
     * *Description: Enable if you want to use custom set config setting values. If disabled, the default config setting values will be used.*
 * Changed `PlushieCarryWeight` config setting default value from 4 to 6
