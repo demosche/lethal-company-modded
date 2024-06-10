@@ -7,6 +7,9 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed chasing "footsteps" and suffocation noises not looping
   - Fixed footsteps continuing while dead or clinging to a player's head
   - Fixed improperly pitched scream when dropping from the ceiling after being damaged
+- Eyeless dogs
+  - Fixed breathing sometimes playing after death
+  - Fixed breathing pitch being wrong after eating a player
 - Hoarding bugs
   - Fixed missing death sound effect
 - Forest keepers

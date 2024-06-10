@@ -1,3 +1,6 @@
+# v1.3.0
+- Dogs no longer continue breathing after they die
+- Fixed dogs using the wrong voice pitch after they finish eating a player
 # v1.2.4
 - Butler corpses no longer buzz
 # v1.2.3
