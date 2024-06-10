@@ -96,4 +96,5 @@ List of mods:<br>
  ChocoQuota  1.0.5<br>
  TestAccountFixes  1.1.2<br>
  NestFix  1.0.1<br>
+ MalfunctioningDoors  1.3.0<br>
 
