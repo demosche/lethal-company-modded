@@ -46,7 +46,7 @@ List of mods:<br>
  HideChat  1.0.0<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>
- MaskTheDead  1.0.5<br>
+ MaskTheDead  1.0.6<br>
  Possessed_Masks  2.1.1<br>
  DissonanceLagFix  1.0.0<br>
  PushCompany  1.2.0<br>

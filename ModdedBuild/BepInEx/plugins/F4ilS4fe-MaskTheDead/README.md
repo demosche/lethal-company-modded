@@ -10,6 +10,11 @@ Mod can be customized within the config file.
 By default:
  * Possession chance: 100%
  * Possession range: 10 units
+ * Possession delay time: 0
+
+### **1.0.6**
+- Added configurable delay before possession (mainly for compatibility w/ TakeThatMaskOff)
+- Disabled possession on company level to prevent it from activating if player dies by the tentacle
 
 ### **1.0.5**
 - Prevent mask from possessing bodies if the mask is on the ship
