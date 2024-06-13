@@ -1,5 +1,8 @@
-# v1.4.3
-* Waaa
+# v1.5.0
+* WAAA
+
+## v1.4.3
+* Added Toil-Slayer
 
 ## v1.4.2
 * Added `EnableConfiguration` config setting.

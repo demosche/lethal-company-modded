@@ -1454,14 +1454,17 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - AudioKnight-StarlancerAIFix-3.6.0
+    - IAmBatby-LethalToolbox-1.0.2
+    - IAmBatby-LethalLevelLoader-1.2.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 3
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.5.0\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
@@ -1827,7 +1830,7 @@
     minor: 0
     patch: 10
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Entity378-Lethal_Doors_Fixed\1.0.10\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Entity378-Lethal_Doors_Fixed\icon.png
 - manifestVersion: 1
   name: Hardy-LCMaxSoundsFix
   authorName: Hardy
@@ -2118,3 +2121,49 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
+- manifestVersion: 1
+  name: IAmBatby-LethalToolbox
+  authorName: IAmBatby
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalToolbox/
+  displayName: LethalToolbox
+  description: A Lethal Company Mod & Editor Tool to provide custom content
+    creators with easily accessible ways to implement features and mechanics
+    without then need for custom code.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - IAmBatby-LethalLevelLoader-1.2.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalToolbox\icon.png
+- manifestVersion: 1
+  name: AudioKnight-StarlancerAIFix
+  authorName: AudioKnight
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/
+  displayName: StarlancerAIFix
+  description: Automatically assigns interior/exterior AI for enemies based on
+    their spawn location. Also fixes a null reference exception regarding
+    EnableEnemyMesh(). Part of my Starlancer Series!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 3
+    minor: 6
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AudioKnight-StarlancerAIFix\icon.png
