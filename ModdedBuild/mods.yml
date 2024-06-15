@@ -1760,7 +1760,7 @@
     minor: 3
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.3.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
 - manifestVersion: 1
   name: Sigurd-CSync
   authorName: Sigurd
@@ -1804,9 +1804,9 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\necrowing-DramaMask\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\necrowing-DramaMask\2.1.1\icon.png
 - manifestVersion: 1
   name: Entity378-Lethal_Doors_Fixed
   authorName: Entity378

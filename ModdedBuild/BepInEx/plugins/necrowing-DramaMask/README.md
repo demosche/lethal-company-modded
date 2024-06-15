@@ -106,15 +106,19 @@ This is intentional behaviour and is currently integral to how the mod's mask at
 
 ## Roadmap (development to be paused)
 * Sound and visuals support for VR in place of the stealth bar
-* Allow the player to have their hands out like the Masked (unlikely without more help)
+* Allow the player to have their hands out like the Masked
 
 ## Credits
 Made on request from @tkcool and @pedro9006.
 
 #### Feature Proposers:
 * Stealth meter: @mintiivanilla
-	* UI inspired by @megapiggy's
+	* Original Bar UI inspired by @megapiggy's
 	[InsanityMeter](https://thunderstore.io/c/lethal-company/p/MegaPiggy/InsanityMeter/) mod
+	* Current Ring UI based off @consequential's
+	[Oxygen](https://thunderstore.io/c/lethal-company/p/consequential/Oxygen/)
+	and @confusified's
+	[InsanityDisplay](https://thunderstore.io/c/lethal-company/p/Confusified/InsanityDisplay/) mods
 * Mask visibility on use: @star0138
 * Config based on usage type: @sagey08
 * Disabling collision events based on visibility: @alancrytex, @qwbarch, @autumnis
@@ -133,6 +137,7 @@ Made on request from @tkcool and @pedro9006.
 * Issues on client crash: @mari0no1
 * No interaction on game over with mask worn: @virustlnr
 * Transpilation incompatibility with LethalVR: @daxcess
+* LethalHands incompatibility when mask worn on square up: @sashimi_express
 
 ### Contact
 For requesting new features or highlighting issues/bugs found, please post them in the mod's
