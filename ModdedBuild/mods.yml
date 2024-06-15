@@ -1806,7 +1806,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\necrowing-DramaMask\2.1.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\necrowing-DramaMask\icon.png
 - manifestVersion: 1
   name: Entity378-Lethal_Doors_Fixed
   authorName: Entity378
@@ -1855,8 +1855,7 @@
   authorName: ButteryStancakes
   websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/MeleeFixes/
   displayName: MeleeFixes
-  description: Fixes buggy collision with shovels and knives, causing invisible
-    walls to make hit sounds and/or block damage.
+  description: Fixes several gamebreaking bugs with shovels and knives.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1869,9 +1868,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-MeleeFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-MeleeFixes\1.1.1\icon.png
 - manifestVersion: 1
   name: Ozone-Runtime_Netcode_Patcher
   authorName: Ozone
