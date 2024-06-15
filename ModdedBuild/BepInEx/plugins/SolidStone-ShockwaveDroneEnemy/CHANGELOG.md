@@ -1,3 +1,6 @@
+## V0.5.2:
+- Added Config option for toggling screen shake.
+
 ## V0.5.1:
 - Fix scrapChance config not working correctly
 
