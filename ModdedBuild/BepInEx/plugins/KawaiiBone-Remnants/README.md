@@ -21,8 +21,10 @@ This mod is also compatible with other mods that add more items to the game, whi
 Now there is a chance that a body will spawn near a remnant item. There are four different types of bodies (default body, cocooned body, spring body, and head burst body). Each of these body types have unique enemies ascribed to them to determine which body is spawned in. As such, depending on the moon and the enemies that spawn there, a different body will spawn. Based on the enemy's spawn rate, their linked body types will also spawn more or less. For example: on your current moon, there is a high chance for a spider to spawn, so, when a body spawns, it is far more likely to be a cocooned body.
 The bodies used were part of the original version of Lethal Company, but they are loaded in via an asset bundle for easier access to the bodies.
 
-#### Config.
+#### Config
+
 Here's what you can edit and change via the config.
+
 Remnant items:
 - The minimum and maximum spawn chance (rarity) on all moons.
 - The individual minimum and maximum spawn chance (rarity) for vanilla moons.
@@ -55,15 +57,16 @@ Save/Load:
 - Save remnant items.
 - Despawn remnant items on party wipe.
 - Despawn all remnant items regardless where they are when leaving a moon.
+- A list of banned items, preventing these items from being saved on the ship.
 
-## Feedback and issues
-If you find any bugs, issues, or have any feedback on how to improve the mod, you are always welcome to share it here on [Github](https://github.com/KawaiiBone/LethalCompanyRemnants/issues), [Unofficial Lethal Company discord](https://discord.com/invite/nYcQFEpXfU) or on the [LC Modding discord](https://discord.com/invite/lcmod). When you report an issue, please be sure to add the error in question and what other mods you were using at the time of the error. This way I can easily find the bug and patch it.
- 
 ## Installing
 This mod is also available on the [thunderstore website](https://thunderstore.io/c/lethal-company/p/KawaiiBone/Remnants/).
 
 If you want to download this mod manually, you should know that it is dependent on [BepInEx](https://github.com/BepInEx) and [Lethal Lib](https://github.com/EvaisaDev/LethalLib).
 When the dependencies are added, you can just copy the files in the plugins folder and add them in the BepInEx plugins folder.
+
+## Feedback and issues
+If you find any bugs, issues, or have any feedback on how to improve the mod, you are always welcome to share it here on [Github](https://github.com/KawaiiBone/LethalCompanyRemnants/issues), [Unofficial Lethal Company discord](https://discord.com/invite/nYcQFEpXfU) or on the [LC Modding discord](https://discord.com/invite/lcmod). When you report an issue, please be sure to add the error in question and what other mods you were using at the time of the error. This way I can easily find the bug and patch it.
 
 ## Known Issues
 
@@ -78,3 +81,22 @@ By doing so, it can create some incompatibilities with other mods, normally the 
 But saving can cause some issues and make it so that remnant items are not saved at all due to incompatibilities with other mods.
 Normally this should not break the gameplay of that mod, if you want to be sure you can go and disable remnant items from saving in the config.
 If there are other compatibility issues with other mods, there is a big chance that it can be fixed via the config.
+
+## Credits
+
+I would like to thank the following people for the assistance their work and efforts have provided in creating the Remnants Mod: 
+- [Lethal company modding wiki](https://lethal.wiki/) and its authors: For giving a very clear overview on how to create a mod.
+- [MrMiinxx](https://www.youtube.com/@iMinx): To their easy-to-follow guides on how to start programming a mod for Lethal Company. 
+- [Bepinex](https://github.com/BepInEx/) and [Harmony](https://harmony.pardeike.net/): For providing their framework and library. Without this, modding would be very difficult. 
+- [Lethallib](https://github.com/EvaisaDev/LethalLib): This library made it easier to create this mod and taught me a lot about how the game and modding works.
+
+Because of these people and their resources and contributions, I had everything I needed to start making the Remnants Mod and to further develop it.
+
+The following mods were a great inspiration for the creation of the Remnants Mod:
+- [BuyableShotgunShells](https://github.com/MegaPiggy/LethalCompanyBuyableShotgunShells): An easy way to find objects in the game.
+- [Monsterdrops](https://github.com/fardin2000/MonsterDrops): Making it easier to synchronize scrap values on the network.
+- [Batteries](https://github.com/eXish/lc-batteries): For finding a way to make items spawn in a more unique and separate way.
+
+A special thanks to Sapphy for supporting and aiding me with editing and cleaning up the public texts. If you want to support her or check out her work, you can find her on [Amazon](https://www.amazon.com/stores/Sapphire-Bellatora/author/B0CNHGCP4S?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)! 
+
+And finally, I want to thank all of you for giving lots of feedback and support. I really appreciate it! I couldn't have made this mod into what it is now without all the bug reports, feature requests, and other helpful feedback. 
