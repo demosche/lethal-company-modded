@@ -1,5 +1,19 @@
-# v1.5.0
-* WAAA
+# v1.6.0
+* Reworked all the configs and added some new ones.
+* Made some changes to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
+
+## v1.5.1
+* Moved the moon [Toilation](https://thunderstore.io/c/lethal-company/p/Zehs/Toilation/) to a separate mod.
+* Fixed Manti-Toil turrets not despawning after the Manticoil despawns.
+* Fixed Manti-Toil config settings not working properly.
+* Added `ToilSlayerMaxSpawnCount` config setting.
+    * *Description: Toil-Slayer max spawn count.*
+* Added `ToilSlayerSpawnChance` config setting.
+    * *Description: The percent chance a Coil-Head turns into a Toil-Slayer.*
+* Added Toil-Slayer properties to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
+
+## v1.5.0
+* Added a new moon called [Toilation](https://thunderstore.io/c/lethal-company/p/Zehs/Toilation/).
 
 ## v1.4.3
 * Added Toil-Slayer
@@ -24,6 +38,9 @@
     * *Description: Manti-Toil max spawn count.*
 * Added `MantiToilSpawnChance` config setting.
     * *Description: The percent chance a Manticoil turns into a Manti-Toil.*
+
+<details>
+  <summary>Older Versions</summary>
 
 ## v1.3.7
 * Added `PlushieSpawnAllMoons` config setting.
@@ -63,9 +80,6 @@
 * Increased `TitanSpawnSettings` `MaxSpawnCount` from 1 to 2
 * Increased `ArtificeSpawnSettings` `MaxSpawnCount` from 1 to 2
 * Added XML file for [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs) documentation.
-
-<details>
-  <summary>Older Versions</summary>
 
 ## v1.3.2
 * Added `forceMaxSpawnCount` int property to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).

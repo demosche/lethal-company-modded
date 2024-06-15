@@ -1445,8 +1445,8 @@
   authorName: Zehs
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/ToilHead/
   displayName: ToilHead
-  description: CoilHeads can sometimes spawn with a turret on their head. Highly
-    Configurable.
+  description: CoilHeads and Manticoils can sometimes spawn with a turret on their
+    head. Highly Configurable.
   gameVersion: "0"
   networkMode: both
   packageType: other
@@ -1454,17 +1454,14 @@
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - AudioKnight-StarlancerAIFix-3.6.0
-    - IAmBatby-LethalToolbox-1.0.2
-    - IAmBatby-LethalLevelLoader-1.2.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
+    minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.6.0\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
@@ -2120,7 +2117,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-MalfunctioningDoors\1.4.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
 - manifestVersion: 1
   name: IAmBatby-LethalToolbox
   authorName: IAmBatby
