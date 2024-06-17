@@ -34,6 +34,8 @@ With default config, the days go as follows:
 
 **Update History**
 
+1.0.6 - Fixed a console error that broke the mod
+
 1.0.5 - Added config option to disable quota entirely
 Added config option to enable quota rollover
 Added config option to put a cap on the max quota size

@@ -93,7 +93,7 @@ List of mods:<br>
  BetterEmotes  1.5.1<br>
  SnowyHolidayDropship  1.0.4<br>
  JetpackFixes  1.1.0<br>
- ChocoQuota  1.0.5<br>
+ ChocoQuota  1.0.6<br>
  TestAccountFixes  1.1.2<br>
  NestFix  1.0.1<br>
  MalfunctioningDoors  1.4.1<br>
