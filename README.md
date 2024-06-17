@@ -102,4 +102,5 @@ List of mods:<br>
  LethalNetworkAPI  2.2.0<br>
  NavMeshInCompany  1.0.3<br>
  ProblematicPilotry  1.0.4<br>
+ ScaledFallDamage  1.0.2<br>
 
