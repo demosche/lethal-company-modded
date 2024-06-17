@@ -2074,7 +2074,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountFixes\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountFixes\icon.png
 - manifestVersion: 1
   name: PureFPSZac-NestFix
   authorName: PureFPSZac
@@ -2163,3 +2163,71 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AudioKnight-StarlancerAIFix\icon.png
+- manifestVersion: 1
+  name: xilophor-LethalNetworkAPI
+  authorName: xilophor
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/xilophor/LethalNetworkAPI/
+  displayName: LethalNetworkAPI
+  description: A library/API to allow developers to easily add networking to their mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Lordfirespeed-OdinSerializer-2022.11.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-LethalNetworkAPI\icon.png
+- manifestVersion: 1
+  name: Kittenji-NavMeshInCompany
+  authorName: Kittenji
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Kittenji/NavMeshInCompany/
+  displayName: NavMeshInCompany
+  description: Enables the use of AI pathfinding and navigation in the Company
+    Building allowing other mods to spawn Enemies.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Kittenji-NavMeshInCompany\icon.png
+- manifestVersion: 1
+  name: windblownleaves-ProblematicPilotry
+  authorName: windblownleaves
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/
+  displayName: ProblematicPilotry
+  description: Makes the item dropship land in a random position on each purchase.
+    Highly customisable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Kittenji-NavMeshInCompany-1.0.3
+    - xilophor-LethalNetworkAPI-2.1.7
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ProblematicPilotry\1.0.4\icon.png
