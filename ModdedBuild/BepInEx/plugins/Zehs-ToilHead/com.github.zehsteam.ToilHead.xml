@@ -4,14 +4,14 @@
         <name>com.github.zehsteam.ToilHead</name>
     </assembly>
     <members>
-        <member name="T:com.github.zehsteam.ToilHead.Api">
-            <summary>
-            
-            </summary>
-        </member>
         <member name="P:com.github.zehsteam.ToilHead.Api.EnemyTurretPairs">
             <summary>
             This is for all enemy turret pairs.
+            </summary>
+        </member>
+        <member name="P:com.github.zehsteam.ToilHead.Api.PlayerTurretPairs">
+            <summary>
+            This is for all player turret pairs.
             </summary>
         </member>
         <member name="P:com.github.zehsteam.ToilHead.Api.ToilHeadMaxSpawnCount">
@@ -119,71 +119,73 @@
             <param name="enemyAI">Coil-Head "Spring" EnemyAI instance.</param>
             <returns>True if successful.</returns>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.enemyTurretPairs">
+        <member name="P:com.github.zehsteam.ToilHead.Api.MantiSlayerMaxSpawnCount">
             <summary>
-            This is for all enemy turret pairs.
+            Manti-Slayer max spawn count.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.MaxSpawnCount">
+        <member name="P:com.github.zehsteam.ToilHead.Api.MantiSlayerSpawnChance">
             <summary>
-            Toil-Head max spawn count.
+            Manti-Slayer spawn chance.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.SpawnChance">
+        <member name="P:com.github.zehsteam.ToilHead.Api.MantiSlayerSpawnCount">
             <summary>
-            Toil-Head spawn chance.
+            Manti-Slayer spawn count.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.spawnCount">
+        <member name="P:com.github.zehsteam.ToilHead.Api.ForceMantiSlayerSpawns">
             <summary>
-            Toil-Head spawn count.
-            </summary>
-        </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.forceSpawns">
-            <summary>
-            If enabled, will force any spawned Coil-Heads to become Toil-Heads.
+            If enabled, will force any spawned Manticoils to become Manti-Slayers.
             This will get reset automatically when the day ends.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.forceMaxSpawnCount">
+        <member name="P:com.github.zehsteam.ToilHead.Api.ForceMantiSlayerMaxSpawnCount">
             <summary>
-            If set to any value above -1, will temporarily override the Toil-Head max spawn count.
+            If set to any value above -1, will temporarily override the Manti-Slayer max spawn count.
             This will get reset automatically when the day ends.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.mantiToilSpawnCount">
+        <member name="M:com.github.zehsteam.ToilHead.Api.SetMantiSlayerOnServer(EnemyAI)">
             <summary>
-            Manti-Toil spawn count.
+            This must only be called on the Host/Server.
+            Only accepts an EnemyAI instance where the EnemyType.enemyName is "Manticoil".
+            </summary>
+            <param name="enemyAI">Manticoil "Manticoil" EnemyAI instance.</param>
+            <returns>True if successful.</returns>
+        </member>
+        <member name="P:com.github.zehsteam.ToilHead.Api.ToilPlayerMaxSpawnCount">
+            <summary>
+            Toil-Player max spawn count.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.forceMantiToilSpawns">
+        <member name="P:com.github.zehsteam.ToilHead.Api.ToilPlayerdSpawnChance">
             <summary>
-            If enabled, will force any spawned Manticoils to become Manti-Toils.
+            Toil-Player spawn chance.
+            </summary>
+        </member>
+        <member name="P:com.github.zehsteam.ToilHead.Api.ToilPlayerSpawnCount">
+            <summary>
+            Toil-Player spawn count.
+            </summary>
+        </member>
+        <member name="P:com.github.zehsteam.ToilHead.Api.ForceToilPlayerSpawns">
+            <summary>
+            If enabled, will force all Players to become Toil-Players when the round starts.
             This will get reset automatically when the day ends.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.forceMantiToilMaxSpawnCount">
+        <member name="P:com.github.zehsteam.ToilHead.Api.ForceToilPlayerMaxSpawnCount">
             <summary>
-            If set to any value above -1, will temporarily override the Manti-Toil max spawn count.
+            If set to any value above -1, will temporarily override the Toil-Player max spawn count.
             This will get reset automatically when the day ends.
             </summary>
         </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.toilSlayerSpawnCount">
+        <member name="M:com.github.zehsteam.ToilHead.Api.SetToilPlayerOnServer(GameNetcodeStuff.PlayerControllerB,System.Boolean)">
             <summary>
-            Toil-Slayer spawn count.
+            This must only be called on the Host/Server.
             </summary>
-        </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.forceToilSlayerSpawns">
-            <summary>
-            If enabled, will force any spawned Coil-Heads to become Toil-Slayers.
-            This will get reset automatically when the day ends.
-            </summary>
-        </member>
-        <member name="P:com.github.zehsteam.ToilHead.Api.forceToilSlayerMaxSpawnCount">
-            <summary>
-            If set to any value above -1, will temporarily override the Toil-Slayer max spawn count.
-            This will get reset automatically when the day ends.
-            </summary>
+            <returns>True if successful.</returns>
         </member>
     </members>
 </doc>

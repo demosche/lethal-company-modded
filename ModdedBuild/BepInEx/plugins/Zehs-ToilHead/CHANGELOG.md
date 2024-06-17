@@ -1,4 +1,11 @@
-# v1.6.0
+# v1.6.1
+* Reduced Turret and Minigun damage.
+* Added [REDACTED]
+* Added [REDACTED]
+* Added [REDACTED]
+* Added more properties to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
+
+## v1.6.0
 * Reworked all the configs and added some new ones.
 * Made some changes to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
 
