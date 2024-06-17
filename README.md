@@ -67,7 +67,7 @@ List of mods:<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.3<br>
- ToilHead  1.6.0<br>
+ ToilHead  1.6.1<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
@@ -82,7 +82,7 @@ List of mods:<br>
  Gnomes  2.1.15<br>
  Remnants  1.3.2<br>
  CSync  5.0.1<br>
- DramaMask  2.1.1<br>
+ DramaMask  2.1.2<br>
  Lethal_Doors_Fixed  1.0.10<br>
  LCMaxSoundsFix  1.2.0<br>
  MeleeFixes  1.1.1<br>
