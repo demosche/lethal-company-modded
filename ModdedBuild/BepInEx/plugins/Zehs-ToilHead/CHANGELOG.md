@@ -1,4 +1,7 @@
-# v1.6.1
+# v1.6.2
+* Changed some config settings default values.
+
+## v1.6.1
 * Reduced Turret and Minigun damage.
 * Added [REDACTED]
 * Added [REDACTED]
