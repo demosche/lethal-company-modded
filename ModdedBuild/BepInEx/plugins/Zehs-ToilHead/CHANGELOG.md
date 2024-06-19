@@ -1,4 +1,8 @@
-# v1.6.2
+# v1.6.3
+* Hopefully fixed some Turret-Head turrets sometimes not properly despawning.
+* Small changes.
+
+## v1.6.2
 * Changed some config settings default values.
 
 ## v1.6.1

@@ -1459,9 +1459,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.6.3\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
