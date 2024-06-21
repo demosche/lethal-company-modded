@@ -66,14 +66,14 @@ List of mods:<br>
  Locker  1.2.0<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
- LethalFixes  1.1.3<br>
- ToilHead  1.6.2<br>
+ LethalFixes  1.1.4<br>
+ ToilHead  1.6.3<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.2.4<br>
  PoolRooms  0.1.22<br>
- EnemySoundFixes  1.3.0<br>
+ EnemySoundFixes  1.4.0<br>
  CullFactory  1.1.3<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.16<br>

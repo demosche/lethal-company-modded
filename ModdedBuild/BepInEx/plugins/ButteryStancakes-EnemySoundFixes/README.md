@@ -1,5 +1,5 @@
 # Enemy Sound Fixes
-Fixes numerous issues with missing sound effects, or SFX playing when they shouldn't.
+Fixes numerous issues with missing sound effects, or SFX playing when they shouldn't. Using [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) in addition to this mod is *highly* recommended, but not required.
 - Players
   - Fixed fall damage not playing its special sound effect unless you crash with a jetpack
 - Snare fleas
@@ -7,9 +7,16 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed chasing "footsteps" and suffocation noises not looping
   - Fixed footsteps continuing while dead or clinging to a player's head
   - Fixed improperly pitched scream when dropping from the ceiling after being damaged
+- Thumper
+  - "Fixed"(?) thunder sounds playing from voice when losing track of the player
+    - Can be re-enabled in config
 - Eyeless dogs
   - Fixed breathing sometimes playing after death
   - Fixed breathing pitch being wrong after eating a player
+  - Fixed breathing sound sometimes overlapping (playing twice from one dog)
+  - Fixed breathing sometimes stopping completely after attacking
+  - Fixed missing hit sound effect
+  - Fixed other enemies' dead bodies playing hit sounds when dog stepped on them
 - Hoarding bugs
   - Fixed missing death sound effect
 - Forest keepers
@@ -21,6 +28,7 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
 - Baboon hawks
   - Fixed screaming when hitting its dead body
   - Fixed missing death sound effect
+  - Fixed other enemies' dead bodies playing hit sounds when baboons touched them
 - Nutcrackers
   - Fixed "marching music" playing endlessly after death if you kill it right as it fires its gun
   - Fixed missing death sound effect
@@ -30,3 +38,8 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
     - You can disable this change in the config if you don't like it
 - Butlers
   - Fixed corpses still buzzing even once the mask hornets are free
+- Tulip snakes
+  - Fixed "scurry" sounds sometimes playing while not walking
+  - Scurry sounds now properly re-randomize their pitch when they play
+  - Failsafe to prevent tulip snakes from making noises after death
+  - Fixed missing hit sound effect
