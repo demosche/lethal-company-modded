@@ -94,11 +94,12 @@ List of mods:<br>
  SnowyHolidayDropship  1.0.4<br>
  JetpackFixes  1.1.0<br>
  ChocoQuota  1.0.6<br>
- TestAccountFixes  1.2.0<br>
+ TestAccountFixes  1.3.1<br>
  NestFix  1.0.1<br>
  MalfunctioningDoors  1.4.1<br>
  LethalNetworkAPI  2.2.0<br>
  NavMeshInCompany  1.0.3<br>
  ProblematicPilotry  1.0.4<br>
  ScaledFallDamage  1.0.2<br>
+ TestAccountCore  1.1.0<br>
 
