@@ -1,3 +1,7 @@
+# v1.2.0
+- Fixed knife damage not registering for thumpers or spiders
+- Fixed knife damage being blocked by dead bodies
+- Optimized shovel hit fix for better performance
 # v1.1.1
 - Fixed shovels becoming unusable if the player holding it died in the middle of swinging
 - Fixed shovels and knives still dealing double damage to players, due to another bug unrelated to the previous

@@ -11,4 +11,7 @@ Fixes bugs with the shovel and kitchen knife:
   - Most other enemies are unaffected
   - This doesn't affect the knife (except when used against players, which I did fix) since the knife can only damage one target per swing.
 - Fixed shovel sometimes becoming unusable if a player died while holding it mid-swing.
+- Fixed the knife not prioritizing target validity when dealing damage, causing the damage to be wasted.
+  - This fixes the common issue where thumpers and bunker spiders will bleed but not take any damage.
+  - This also prevents swings from being blocked by corpses if you are trying to attack something else nearby.
 - Whenever a weapon plays a hit sound, it calls an expensive search function that can cause lag or frame drops on less powerful computers. It now references a cached instance of the required object, which should help combat remain more smooth and fluid.
