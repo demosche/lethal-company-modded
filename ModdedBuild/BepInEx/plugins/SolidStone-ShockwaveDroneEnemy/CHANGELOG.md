@@ -1,3 +1,8 @@
+## V0.6.0:
+- Rewrote the code for initializing and dropping scrap
+- Bunch of code cleanup
+- Fixed Drone scrap dropping part 2 (Electric boogaloo)
+
 ## V0.5.2:
 - Added Config option for toggling screen shake.
 
