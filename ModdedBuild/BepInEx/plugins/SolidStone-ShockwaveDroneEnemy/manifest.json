@@ -1,6 +1,6 @@
 {
   "name": "ShockwaveDroneEnemy",
-  "version_number": "0.6.0",
+  "version_number": "0.6.1",
   "website_url": "",
   "description": "Adds a new LC themed drone enemy that randomly wanders the facility",
   "dependencies": [

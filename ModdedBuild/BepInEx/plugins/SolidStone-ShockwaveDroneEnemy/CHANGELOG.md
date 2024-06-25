@@ -1,3 +1,6 @@
+## V0.6.1:
+- Small Hotfix
+
 ## V0.6.0:
 - Rewrote the code for initializing and dropping scrap
 - Bunch of code cleanup

@@ -1755,7 +1755,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719209620836
+  installedAtTime: 1719324125096
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1766,9 +1766,9 @@
   versionNumber:
     major: 0
     minor: 6
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-ShockwaveDroneEnemy\0.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-ShockwaveDroneEnemy\0.6.1\icon.png
 - manifestVersion: 1
   name: TestAccount666-AutomaticInventoryFixPlugin
   authorName: TestAccount666
