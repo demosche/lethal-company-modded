@@ -1768,7 +1768,7 @@
     minor: 6
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-ShockwaveDroneEnemy\0.6.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-ShockwaveDroneEnemy\icon.png
 - manifestVersion: 1
   name: TestAccount666-AutomaticInventoryFixPlugin
   authorName: TestAccount666
@@ -1802,20 +1802,19 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1719579660114
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.14.2
-    - TestAccount666-AutomaticInventoryFixPlugin-1.1.0
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 1
-    patch: 15
+    patch: 16
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.16\icon.png
 - manifestVersion: 1
   name: KawaiiBone-Remnants
   authorName: KawaiiBone

@@ -79,7 +79,7 @@ List of mods:<br>
  ScarletDevilMansion  1.3.17<br>
  ShockwaveDroneEnemy  0.6.2<br>
  AutomaticInventoryFixPlugin  2.0.0<br>
- Gnomes  2.1.15<br>
+ Gnomes  2.1.16<br>
  Remnants  1.3.2<br>
  CSync  5.0.1<br>
  DramaMask  2.1.2<br>
