@@ -1,11 +1,11 @@
 {
   "name": "ShockwaveDroneEnemy",
-  "version_number": "0.6.1",
+  "version_number": "0.6.2",
   "website_url": "",
   "description": "Adds a new LC themed drone enemy that randomly wanders the facility",
   "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 	"Evaisa-LethalLib-0.15.1",
-	"SolidStone-SolidLib-1.1.1"
+	"SolidStone-SolidLib-1.1.2"
     ]
 }

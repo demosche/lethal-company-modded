@@ -1,3 +1,6 @@
+## V0.6.2:
+- Fix "Vanilla:60" in Default config not working (lethallib moment) and instead adding every moon to the config.
+
 ## V0.6.1:
 - Small Hotfix
 
