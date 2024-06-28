@@ -1,8 +1,8 @@
 {
     "name": "ToilHead",
-    "version_number": "1.6.3",
+    "version_number": "1.7.0",
     "website_url": "https://github.com/ZehsTeam/Lethal-Company-ToilHead",
-    "description": "CoilHeads and Manticoils can sometimes spawn with a turret on their head. Highly Configurable.",
+    "description": "CoilHeads, Manticoils, and other entities can sometimes spawn with a turret on their head. Highly Configurable.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]

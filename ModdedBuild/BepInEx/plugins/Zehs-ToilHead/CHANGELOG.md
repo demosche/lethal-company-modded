@@ -1,5 +1,17 @@
-# v1.6.3
-* Hopefully fixed some Turret-Head turrets sometimes not properly despawning.
+# v1.7.0
+* Added [REDACTED]
+* Added [REDACTED]
+* Added support for the [RandomEnemiesSize](https://thunderstore.io/c/lethal-company/p/Wexop/RandomEnemiesSize/) mod.
+* Added support for the [SCP173CoilheadSFX](https://thunderstore.io/c/lethal-company/p/raydenoir/SCP173CoilheadSFX/) Coil-Head reskin mod.
+* Added support for the [WeepingAngels](https://thunderstore.io/c/lethal-company/p/raydenoir/WeepingAngels/) Coil-Head reskin mod.
+* Added support for the [FNaFEndoCoilhead](https://thunderstore.io/c/lethal-company/p/OrtonLongGaming/FNaFEndoCoilhead/) Coil-Head reskin mod.
+* Added support for the [ThiccCoilHead](https://thunderstore.io/c/lethal-company/p/CommanderJoJo/ThiccCoilHead/) Coil-Head reskin mod.
+* Added support for the [A Rather Silly Coil Head](https://thunderstore.io/c/lethal-company/p/COREsEND/A_Rather_Silly_Coil_Head/) Coil-Head reskin mod.
+* Made some changes to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
+* Other changes.
+
+## v1.6.3
+* Fixed some Turret-Head turrets sometimes not properly despawning.
 * Small changes.
 
 ## v1.6.2
@@ -7,9 +19,9 @@
 
 ## v1.6.1
 * Reduced Turret and Minigun damage.
-* Added [REDACTED]
-* Added [REDACTED]
-* Added [REDACTED]
+* Added Manti-Slayer
+* Added Toil-Player
+* Added Slayer-Player
 * Added more properties to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
 
 ## v1.6.0
@@ -28,6 +40,9 @@
 
 ## v1.5.0
 * Added a new moon called [Toilation](https://thunderstore.io/c/lethal-company/p/Zehs/Toilation/).
+
+<details>
+  <summary>Older Versions</summary>
 
 ## v1.4.3
 * Added Toil-Slayer
@@ -52,9 +67,6 @@
     * *Description: Manti-Toil max spawn count.*
 * Added `MantiToilSpawnChance` config setting.
     * *Description: The percent chance a Manticoil turns into a Manti-Toil.*
-
-<details>
-  <summary>Older Versions</summary>
 
 ## v1.3.7
 * Added `PlushieSpawnAllMoons` config setting.
