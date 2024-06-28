@@ -1,6 +1,6 @@
 ### Required by all clients
 
-### Major dungeon generation changes
+### New enemy
 
 ### 이제 비공식 한국어 패치를 넣고 실행할 때 걸리던 오류를 고쳐습니다
 
@@ -31,7 +31,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   
   <img src="https://i.imgur.com/aGqG47H.png">
   
-  Generally speaking, these two fields are the most important. "Manual Level Names List" is the list of moons that the dungeon will appear in. "Dynamic Level Tags List" is the list of special tags. The important tags are "All" (the dungeon will appear on all moons), "Vanilla" (on vanilla moons), and "Custom" (on modded moons). 
+  Generally speaking, these two fields are the most important. "Manual Level Names List" is the list of moons that the dungeon will appear in. "Dynamic Level Tags List" is the list of special tags. The important tags are "Vanilla" (on vanilla moons) and "Custom" (on modded moons). 
   
   <img src="https://i.imgur.com/fmeX0Nz.png">
   
@@ -40,8 +40,8 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   Example:
   * March:100,Rend:200,Sanguine:50
   * Experimentation:9999
-  * All:300
-  * Vanilla:50,Custom:300
+  * Custom:300
+  * Vanilla:200,Custom:100
   
 </details>
 
@@ -63,7 +63,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   
   <img src="https://i.imgur.com/aGqG47H.png">
   
-  一般的には、この二つのフィールドが最も重要だ。「Manual Level Names List」はダンジョンが現れる月のリストだ。「Dynamic Level Tags List 」は特別なタグのリストだ。重要なタグは、「All」（ダンジョンはすべての月に現れる）、「Vanilla」（オリジナルの月に）、「Custom」（MODの月に）だ。
+  一般的には、この二つのフィールドが最も重要だ。「Manual Level Names List」はダンジョンが現れる月のリストだ。「Dynamic Level Tags List 」は特別なタグのリストだ。重要なタグは、「Vanilla」（オリジナルの月に）と「Custom」（MODの月に）だ。
   
   <img src="https://i.imgur.com/fmeX0Nz.png">
   
@@ -72,8 +72,8 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   例えば
   * March:100,Rend:200,Sanguine:50
   * Experimentation:9999
-  * All:300
-  * Vanilla:50,Custom:300
+  * Custom:300
+  * Vanilla:200,Custom:100
   
 </details>
 
@@ -197,7 +197,7 @@ The dungeon uses summoning sigils to summon its enemies as opposed to vents. Thi
   <br>
   <b>The Maid</b>, a Butler variant
   <br>
-  Watch out for next update.
+  Acts like a regular butler. However it is slower, has less health, and doesn't spawn bees when it dies. As a tradeoff, it kills much quicker. These traits are not yet finalized.
   <img src="https://i.imgur.com/QbUZutS.png">
   
 </details>
@@ -230,7 +230,7 @@ Vinyis.itch.io - 3D Environment Assets (Hallways)\
 @grandteki (Discord) - Various 3D Assets\
 @Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
 Nitori.itch.io - For their sick advice\
-peacock-roy.itch.io - SFX
+peacock-roy.itch.io - Various SFX and music
 
 #### Portrait Art
 @Schmagons (Instagram) - Remilia, Sakuya, Medicine, Hime, Kagasa, Yuyuko, Reimu\

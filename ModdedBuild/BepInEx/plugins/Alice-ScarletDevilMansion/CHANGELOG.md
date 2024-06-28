@@ -137,3 +137,7 @@ Possible fix to out-of-bounds item spawns and wall phasing enemy movement\
 ## 1.3.16
 
 Fixed for new LLL version
+
+## 1.3.17
+
+Added new enemy variant (not finalized)
