@@ -1,3 +1,6 @@
+## V1.1.2:
+- Cleanup registry loading.
+
 ## V1.1.1:
 - Added registry system thats basically a wrapper on top of lethallib.
 

@@ -102,5 +102,5 @@ List of mods:<br>
  ProblematicPilotry  1.0.4<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.1.0<br>
- SolidLib  1.1.1<br>
+ SolidLib  1.1.2<br>
 
