@@ -2122,7 +2122,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-JetpackFixes\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-JetpackFixes\icon.png
 - manifestVersion: 1
   name: DaJadeNinja-ChocoQuota
   authorName: DaJadeNinja
@@ -2352,3 +2352,25 @@
     patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-SolidLib\icon.png
+- manifestVersion: 1
+  name: magico13-TurretWhacker
+  authorName: magico13
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/magico13/TurretWhacker/
+  displayName: TurretWhacker
+  description: Tweaks how turrets behave when hit. Usually disables them, sometimes doesn't!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719749393129
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\magico13-TurretWhacker\1.0.0\icon.png
