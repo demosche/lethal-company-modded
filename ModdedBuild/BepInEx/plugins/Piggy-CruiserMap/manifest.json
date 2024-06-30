@@ -1,0 +1,7 @@
+{
+    "name": "CruiserMap",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Add a simple map to your cruiser's control center",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

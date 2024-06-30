@@ -103,4 +103,5 @@ List of mods:<br>
  TestAccountCore  1.1.0<br>
  SolidLib  1.1.2<br>
  TurretWhacker  1.0.0<br>
+ CruiserMap  1.0.0<br>
 

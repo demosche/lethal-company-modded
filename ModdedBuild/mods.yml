@@ -2352,3 +2352,25 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\magico13-TurretWhacker\icon.png
+- manifestVersion: 1
+  name: Piggy-CruiserMap
+  authorName: Piggy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Piggy/CruiserMap/
+  displayName: CruiserMap
+  description: Add a simple map to your cruiser's control center
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719750212041
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-CruiserMap\1.0.0\icon.png
