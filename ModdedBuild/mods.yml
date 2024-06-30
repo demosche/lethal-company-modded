@@ -1190,28 +1190,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Owen3H-IntroTweaks\icon.png
 - manifestVersion: 1
-  name: MiffyL-Kill_It_With_Shovel
-  authorName: MiffyL
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/MiffyL/Kill_It_With_Shovel/
-  displayName: Kill_It_With_Shovel
-  description: Let you disable a turret by shoveling it.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 0
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MiffyL-Kill_It_With_Shovel\icon.png
-- manifestVersion: 1
   name: OrangeSoft-Unlimited_Sell_Mod
   authorName: OrangeSoft
   websiteUrl: https://thunderstore.io/c/lethal-company/p/OrangeSoft/Unlimited_Sell_Mod/
@@ -2373,4 +2351,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\magico13-TurretWhacker\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\magico13-TurretWhacker\icon.png

@@ -53,7 +53,6 @@ List of mods:<br>
  ItemQuickSwitch  1.1.0<br>
  DoorFix  1.0.0<br>
  IntroTweaks  1.5.0<br>
- Kill_It_With_Shovel  1.0.1<br>
  Unlimited_Sell_Mod  1.0.0<br>
  EnhancedLockpicker  1.1.4<br>
  BetterLadders  1.4.2<br>
