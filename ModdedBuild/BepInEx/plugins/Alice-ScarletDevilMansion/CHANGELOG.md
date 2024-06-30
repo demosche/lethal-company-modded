@@ -141,3 +141,7 @@ Fixed for new LLL version
 ## 1.3.17
 
 Added new enemy variant (not finalized)
+
+## 1.3.18
+
+Added new weapon that drops from new enemy variant

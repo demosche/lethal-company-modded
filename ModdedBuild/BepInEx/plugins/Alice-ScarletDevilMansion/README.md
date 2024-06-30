@@ -1,6 +1,6 @@
 ### Required by all clients
 
-### New enemy
+### New enemy and item
 
 ### 이제 비공식 한국어 패치를 넣고 실행할 때 걸리던 오류를 고쳐습니다
 
@@ -180,6 +180,14 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   
   <img src="https://i.imgur.com/bYaIofR.png">
   <img src="https://i.imgur.com/2OQdNlf.png">
+  
+  <br>
+  <b>The Maid's Knife</b>
+  <br>
+  Acts like the kitchen knife. Drops from the Maid. You can feed the knife 50 health to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the full damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. 
+  
+  <img src="https://i.imgur.com/DkFE8Wx.png">
+  
 </details>
 
 The dungeon uses summoning sigils to summon its enemies as opposed to vents. This is only a visual change. All enemies featured in this dungeon can only spawn inside the mansion.
@@ -197,7 +205,7 @@ The dungeon uses summoning sigils to summon its enemies as opposed to vents. Thi
   <br>
   <b>The Maid</b>, a Butler variant
   <br>
-  Acts like a regular butler. However it is slower, has less health, and doesn't spawn bees when it dies. As a tradeoff, it kills much quicker. These traits are not yet finalized.
+  Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower, has less health, and doesn't spawn bees when it dies. Drops the Maid's Knife when killed.
   <img src="https://i.imgur.com/QbUZutS.png">
   
 </details>
@@ -230,12 +238,13 @@ Vinyis.itch.io - 3D Environment Assets (Hallways)\
 @grandteki (Discord) - Various 3D Assets\
 @Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
 Nitori.itch.io - For their sick advice\
-peacock-roy.itch.io - Various SFX and music
+peacock-roy.itch.io - Various SFX and music\
+@mauriciodm (Fiverr) - Maid Assets
 
 #### Portrait Art
 @Schmagons (Instagram) - Remilia, Sakuya, Medicine, Hime, Kagasa, Yuyuko, Reimu\
 YeeHaw - Flandre, Patchy, Koakuma\
-A Mysterious Stranger - Rumia\
+World's Copiest Halo fan - Rumia\
 WorthAggravating (Reddit) - Hina
 
 #### License
