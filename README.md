@@ -104,5 +104,5 @@ List of mods:<br>
  SolidLib  1.1.2<br>
  TurretWhacker  1.0.0<br>
  CruiserMap  1.0.0<br>
- BetterVehicleControls  1.0.5<br>
+ BetterVehicleControls  1.0.6<br>
 
