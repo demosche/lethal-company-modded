@@ -1818,7 +1818,7 @@
     minor: 3
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.3.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
 - manifestVersion: 1
   name: Sigurd-CSync
   authorName: Sigurd
@@ -2249,7 +2249,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1719987228409
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2259,10 +2259,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 4
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ProblematicPilotry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ProblematicPilotry\1.1.0\icon.png
 - manifestVersion: 1
   name: windblownleaves-ScaledFallDamage
   authorName: windblownleaves

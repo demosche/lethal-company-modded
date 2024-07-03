@@ -2,7 +2,7 @@
 
 Due to uneconomical human resource policies, the Company has run into some financial trouble, unfortunately forcing it to downgrade their item dropship autopilot systems to older, more inaccurate models... This mod makes the item dropship land in a random position each time it is called.
 
-Developed for v50.
+Developed for v50; Compatible with v55, but does not affect the new features yet
 
 ## Features
 - The item dropship will land in a random* position for each purchase.
@@ -36,8 +36,6 @@ The mod can be configured by editing `windblownleaves.problematicpilotry.cfg` in
 ## Requirements
 
 Other than obviously BepInExPack, this mod requires:
-
-- LobbyCompatibility, because I checked some box during the project setup, I suppose.
 - NavMeshInCompany. Due to how the mod works, this is necessary if you want to enable this mod on Gordion (the Company Building).
 - LethalNetworkAPI. Networking is required by the mod to communicate the new dropship position, which is calculated at runtime on the server, to all clients.
 

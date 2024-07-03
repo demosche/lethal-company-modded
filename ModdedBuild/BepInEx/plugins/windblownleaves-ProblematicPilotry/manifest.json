@@ -1,6 +1,6 @@
 {
     "name": "ProblematicPilotry",
-    "version_number": "1.0.4",
+    "version_number": "1.1.0",
     "website_url": "",
     "description": "Makes the item dropship land in a random position on each purchase. Highly customisable.",
     "dependencies": [
