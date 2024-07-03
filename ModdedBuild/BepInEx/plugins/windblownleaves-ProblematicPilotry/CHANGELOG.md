@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.0
+- Added a super secret major feature (in beta, for testing) that is currently turned off by default; it might break and it will spam your log if you turn it on in the config at this point <3 Proper documentation will follow.
+
 ## 1.0.4
 - Changed capsule finding code to search by component rather than by name, amending situations where creators of custom planets had renamed this object. This should enable much better compatibility with these mods.
 - Removed LobbyCompatibility requirement.
