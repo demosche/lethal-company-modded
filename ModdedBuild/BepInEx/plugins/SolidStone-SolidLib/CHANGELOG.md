@@ -1,3 +1,6 @@
+## v1.1.3
+- Added SSoundManager/SoundSet
+
 ## V1.1.2:
 - Cleanup registry loading.
 

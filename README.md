@@ -101,7 +101,7 @@ List of mods:<br>
  ProblematicPilotry  1.1.0<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.1.0<br>
- SolidLib  1.1.2<br>
+ SolidLib  1.1.3<br>
  TurretWhacker  1.0.0<br>
  CruiserMap  1.0.0<br>
  BetterVehicleControls  1.0.6<br>
