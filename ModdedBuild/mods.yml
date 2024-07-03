@@ -1256,7 +1256,7 @@
     minor: 4
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\e3s1-BetterLadders\1.4.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\e3s1-BetterLadders\icon.png
 - manifestVersion: 1
   name: PostMortem-BetterLightning
   authorName: PostMortem
@@ -2495,3 +2495,27 @@
     patch: 7
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
+- manifestVersion: 1
+  name: SurfacedTeam-Surfaced
+  authorName: SurfacedTeam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/
+  displayName: Surfaced
+  description: Adds Sea Creatures
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719998980386
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.15.1
+    - SolidStone-SolidLib-1.1.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.0.0\icon.png
