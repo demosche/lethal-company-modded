@@ -1245,7 +1245,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1719998889561
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1254,9 +1254,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\e3s1-BetterLadders\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\e3s1-BetterLadders\1.4.3\icon.png
 - manifestVersion: 1
   name: PostMortem-BetterLightning
   authorName: PostMortem
@@ -2494,4 +2494,4 @@
     minor: 20
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.20.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
