@@ -105,4 +105,7 @@ List of mods:<br>
  TurretWhacker  1.0.0<br>
  CruiserMap  1.0.0<br>
  BetterVehicleControls  1.0.6<br>
+ StaticNetcodeLib  1.1.0<br>
+ LethalConfig  1.4.2<br>
+ MapHazardsMoves  1.0.1<br>
 
