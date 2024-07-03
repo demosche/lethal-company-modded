@@ -2423,4 +2423,75 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Wexop-MapHazardsMoves\1.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Wexop-MapHazardsMoves\icon.png
+- manifestVersion: 1
+  name: mrov-MrovLib
+  authorName: mrov
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/MrovLib/
+  displayName: MrovLib
+  description: Common methods for my mods.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719988875049
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
+- manifestVersion: 1
+  name: mrov-WeatherRegistry
+  authorName: mrov
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/
+  displayName: WeatherRegistry
+  description: A mod for controlling the game's weather system.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719988876492
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - mrov-MrovLib-0.1.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 11
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+- manifestVersion: 1
+  name: mrov-BetaWeatherTweaksBeta
+  authorName: mrov
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/BetaWeatherTweaksBeta/
+  displayName: BetaWeatherTweaksBeta
+  description: Beta version of WeatherTweaks - adding combined and progressing
+    weathers to the game.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719988878671
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - xilophor-LethalNetworkAPI-2.1.7
+    - mrov-MrovLib-0.1.3
+    - mrov-WeatherRegistry-0.1.11
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 20
+    patch: 7
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.20.7\icon.png
