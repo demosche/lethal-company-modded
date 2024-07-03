@@ -64,28 +64,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\5Bit-VoiceHUD\icon.png
 - manifestVersion: 1
-  name: RugbugRedfern-Skinwalkers
-  authorName: RugbugRedfern
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/
-  displayName: Skinwalkers
-  description: The monsters have learned how to mimic the voices of your friends.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 0
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 5
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
-- manifestVersion: 1
   name: FlipMods-ReservedItemSlotCore
   authorName: FlipMods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
@@ -2494,4 +2472,4 @@
     minor: 20
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.20.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
