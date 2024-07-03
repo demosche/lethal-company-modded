@@ -54,7 +54,7 @@ List of mods:<br>
  IntroTweaks  1.5.0<br>
  Unlimited_Sell_Mod  1.0.0<br>
  EnhancedLockpicker  1.1.4<br>
- BetterLadders  1.4.2<br>
+ BetterLadders  1.4.3<br>
  BetterLightning  1.0.3<br>
  Excuse_me  1.0.4<br>
  TurretDownTime  0.1.0<br>
