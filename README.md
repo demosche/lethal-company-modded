@@ -4,7 +4,6 @@ List of mods:<br>
 > BepInExPack  5.4.2100<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
- Skinwalkers  5.0.0<br>
  ReservedItemSlotCore  2.0.30<br>
  ReservedFlashlightSlot  2.0.5<br>
  LethalCompany_InputUtils  0.7.7<br>
@@ -109,4 +108,8 @@ List of mods:<br>
  MrovLib  0.1.3<br>
  WeatherRegistry  0.1.11<br>
  BetaWeatherTweaksBeta  0.20.7<br>
+ UniTask  2.5.0<br>
+ NAudio  2.2.2<br>
+ BarchLib  1.0.2<br>
+ Mirage  1.7.3<br>
 
