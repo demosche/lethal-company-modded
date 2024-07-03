@@ -2329,7 +2329,7 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-SolidLib\1.1.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-SolidLib\icon.png
 - manifestVersion: 1
   name: magico13-TurretWhacker
   authorName: magico13
@@ -2352,3 +2352,75 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\magico13-TurretWhacker\icon.png
+- manifestVersion: 1
+  name: xilophor-StaticNetcodeLib
+  authorName: xilophor
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/xilophor/StaticNetcodeLib/
+  displayName: StaticNetcodeLib
+  description: A library/patcher for NGO in a static context.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719987284910
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Lordfirespeed-OdinSerializer-2022.11.9
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-StaticNetcodeLib\icon.png
+- manifestVersion: 1
+  name: AinaVT-LethalConfig
+  authorName: AinaVT
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/
+  displayName: LethalConfig
+  description: Provides an in-game config menu for players to edit their configs,
+    and an API for other mods to use and customize their entries.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719987286447
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AinaVT-LethalConfig\icon.png
+- manifestVersion: 1
+  name: Wexop-MapHazardsMoves
+  authorName: Wexop
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Wexop/MapHazardsMoves/
+  displayName: MapHazardsMoves
+  description: "[V50] Map hazards like turrets, landmines and spike traps now move
+    in the factory ! It can also chase you, be careful... Configurable :)"
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1719987287678
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - AinaVT-LethalConfig-1.4.2
+    - xilophor-StaticNetcodeLib-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Wexop-MapHazardsMoves\1.0.1\icon.png
