@@ -1722,7 +1722,7 @@
     minor: 3
     patch: 19
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-ScarletDevilMansion\1.3.19\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
 - manifestVersion: 1
   name: SolidStone-ShockwaveDroneEnemy
   authorName: SolidStone
@@ -2406,7 +2406,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719989762863
+  installedAtTime: 1720070082539
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2416,9 +2416,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-StaticNetcodeLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\xilophor-StaticNetcodeLib\1.1.1\icon.png
 - manifestVersion: 1
   name: AinaVT-LethalConfig
   authorName: AinaVT
