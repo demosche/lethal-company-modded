@@ -1,6 +1,6 @@
 ### Required by all clients
 
-### New enemy and item
+### New enemy and items
 
 ### 이제 비공식 한국어 패치를 넣고 실행할 때 걸리던 오류를 고쳐습니다
 
@@ -13,7 +13,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
 [Sanguineの月](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/)と一緒に使うことを勧める。
 
 
-#### How to load on custom moons with Lethal Level Loader
+#### How to load on vanilla or custom moons, or edit dungeon weights with Lethal Level Loader
 
 <details> 
   <summary>
@@ -45,7 +45,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   
 </details>
 
-#### Lethal Level LoaderでオリジナルやMODの月にロードする方法
+#### Lethal Level LoaderでオリジナルやMODの月にロードしたり、ダンジョンのウェイトを編集する方法
 
 <details> 
   <summary>
@@ -176,8 +176,8 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   <br>
   <b>The Decorative Crystals</b>
   <br>
-  An average valued scrap item with a bit of weight. Comes it many colours. Can be combined with a flashlight in your inventory to create a new decorative flashlight with a recharged and improved battery, a colored light bulb, half of the crystals original value. This leaves behind a shattered decorative crystal which has the leftover 50% value, which can also be used to create another decorative flashlight (this completely destroys the crystal).
-  
+  An average valued scrap item with a bit of weight. Comes in many colours. Can be combined with a flashlight in your inventory to create a new decorative flashlight with a recharged and improved battery, a colored light bulb, half of the crystals original value. This leaves behind a shattered decorative crystal which has the leftover 50% value, which can also be used to create another decorative flashlight (this completely destroys the crystal).
+  <br>
   <img src="https://i.imgur.com/bYaIofR.png">
   <img src="https://i.imgur.com/2OQdNlf.png">
   
@@ -185,8 +185,15 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   <b>The Maid's Knife</b>
   <br>
   Acts like the kitchen knife. Drops from the Maid. You can feed the knife 50 health to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the full damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. 
-  
+  <br>
   <img src="https://i.imgur.com/DkFE8Wx.png">
+  
+  <br>
+  <b>The Doll Snowglobe</b>
+  <br>
+  A highly valued 2-handed scrap item. Comes in many doll variants. Activate it to see it jingle.
+  <br>
+  <img src="https://i.imgur.com/p0GF7KJ.png">
   
 </details>
 
@@ -200,12 +207,14 @@ The dungeon uses summoning sigils to summon its enemies as opposed to vents. Thi
   <b>The Knight</b>, a Coil-head variant
   <br>
   Acts like a regular coil-head, but is noticeably slower and prefers spawning from statue props, especially ones passed by scavengers.
+  <br>
   <img src="https://i.imgur.com/tV8Nw0A.png">
   
   <br>
   <b>The Maid</b>, a Butler variant
   <br>
   Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower, has less health, and doesn't spawn bees when it dies. Drops the Maid's Knife when killed.
+  <br>
   <img src="https://i.imgur.com/QbUZutS.png">
   
 </details>
@@ -233,19 +242,30 @@ The development process is generally split into 3 distinct parts:
 Touhou owned by Team Shanghai Alice (ZUN)
 
 LadyEbony.itch.io - Code, Dungeon Design\
+@Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
+Nitori.itch.io - For their sick advice\
+[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe Code
+
+
+#### 3D Models/Assets
+
 MarkLi.itch.io - 3D Environment Assets (Rooms)\
 Vinyis.itch.io - 3D Environment Assets (Hallways)\
 @grandteki (Discord) - Various 3D Assets\
-@Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
-Nitori.itch.io - For their sick advice\
-peacock-roy.itch.io - Various SFX and music\
-@mauriciodm (Fiverr) - Maid Assets
+@mauriciodm (Fiverr) - Maid Assets\
+@solidstone (Discord) - Snowglobe Assets\
+@Schmagons (Instagram) - Snowglobe Doll Assets
 
 #### Portrait Art
 @Schmagons (Instagram) - Remilia, Sakuya, Medicine, Hime, Kagasa, Yuyuko, Reimu\
 YeeHaw - Flandre, Patchy, Koakuma\
-World's Copiest Halo fan - Rumia\
+World's Saddest Halo Fan - Rumia\
 WorthAggravating (Reddit) - Hina
+
+#### Audio
+peacock-roy.itch.io - Maid chase and dungeon entrance music. Various SFX\
+@solidstone (Discord) - Snowglobe Jingle 
+
 
 #### License
 

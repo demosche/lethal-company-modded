@@ -145,3 +145,9 @@ Added new enemy variant (not finalized)
 ## 1.3.18
 
 Added new weapon that drops from new enemy variant
+
+## 1.3.19
+
+Added new scrap item\
+Added new pit room\
+Added some safety railings to some of the pit rooms

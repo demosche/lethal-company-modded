@@ -74,7 +74,7 @@ List of mods:<br>
  EnemySoundFixes  1.4.0<br>
  CullFactory  1.1.3<br>
  OdinSerializer  2022.11.9<br>
- ScarletDevilMansion  1.3.18<br>
+ ScarletDevilMansion  1.3.19<br>
  ShockwaveDroneEnemy  0.6.2<br>
  AutomaticInventoryFixPlugin  2.0.0<br>
  Gnomes  2.1.16<br>
