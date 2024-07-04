@@ -9,29 +9,19 @@
 
 This mod improves the experience of using the Company Cruiser to make it more user friendly:
 
-- Walk forward (W): Move Forwards
-- Walk back (S): Move Backwards
-- Jump (Space): Brake
-- Item switch right (Scroll Up): Gear Forwards
-- Item switch left (Scroll Down): Gear Backwards
+- Customisable keybinds for movement, switching gears & more via the keybind settings in the pause menu.
+- Config option for whether the gear automatically switches between drive & reverse when pressing the forward/backwards buttons.
+- Config option for whether the gear automatically switches to drive/reverse from parked.
+- Config option for whether the gear automatically switches to parked when the key is taken from the ignition.
+- Config option for whether the wheel should automatically re-center when the left/right buttons aren't pressed.
+- Config option to change the success chance of the ignition.
 
-It also includes:
+**NOTE: The "Gas Pedal" keybind overrides the "Drive Forward/Backward" keybinds (if bound to the same key) so if the mod doesn't seem to work properly, make sure the "Gas Pedal" keybind isn't bound to the same key as "Drive Forward/Backward"!**
 
-- A fix for the hotbar breaking when grabbing an object from the shelves whilst having an item in the currently selected slot.
+### Vanilla Controls
 
-and more... check the configuration section below to see all the things you can customise!
-
-### Configuration
-
-The mod has a bunch of configuration options:
-
-- Toggle for whether to use vanilla movement controls instead of the ones mentioned above.
-- Toggle for whether the gear automatically switches between drive & reverse when pressing the forward/backwards buttons.
-- Toggle for whether the gear automatically switches to drive/reverse from parked.
-- Toggle for whether the gear automatically switches to parked when the key is taken from the ignition.
-- Toggle for whether the wheel should automatically re-center when the left/right buttons aren't pressed.
-- Toggle for whether the mouse scroll wheel changes gears.
-- Ability to change the success chance of the ignition.
+Want to keep the controls the same as vanilla? Well here is a screenshot of what the vanilla controls would be equivalent to:
+![](https://i.gyazo.com/0962779de88f44dbe72515c683c276d7.png)
 
 ### Support
 
@@ -44,7 +34,7 @@ You can get support in any the following places:
 ### Compatibility
 
 - Supported Game Versions:
-  - v55+
+  - v56+
 - Works Well With:
   - N/A
 - Not Compatible With:

@@ -104,8 +104,8 @@ List of mods:<br>
  SolidLib  1.1.3<br>
  TurretWhacker  1.0.0<br>
  CruiserMap  1.0.0<br>
- BetterVehicleControls  1.0.6<br>
- StaticNetcodeLib  1.1.0<br>
+ BetterVehicleControls  1.0.8<br>
+ StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.1<br>
  MrovLib  0.1.3<br>

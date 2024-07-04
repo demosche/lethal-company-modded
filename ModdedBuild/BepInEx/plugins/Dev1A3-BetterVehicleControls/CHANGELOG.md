@@ -1,3 +1,14 @@
+### 1.0.8
+
+- Updated readme and changelog slightly to better clarify that there are now customimisable keybinds.
+- Enabled automatic gearbox by default and changed the default keybinds to support automatic gearbox
+
+### 1.0.7
+
+- Added [InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) as a dependency.
+- Made all vehicle controls customisable via the keybind settings in the pause menu.
+- Removed the fix for the shelves breaking the hotbar since it was fixed in vanilla.
+
 ### 1.0.6
 
 - Fixed the hotbar breaking when grabbing an object from the shelves whilst having an item in the currently selected slot.
