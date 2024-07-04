@@ -102,7 +102,7 @@ List of mods:<br>
  TestAccountCore  1.1.0<br>
  SolidLib  1.1.3<br>
  TurretWhacker  1.0.0<br>
- StaticNetcodeLib  1.1.0<br>
+ StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.1<br>
  MrovLib  0.1.3<br>
