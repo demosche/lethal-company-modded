@@ -110,4 +110,5 @@ List of mods:<br>
  WeatherRegistry  0.1.11<br>
  BetaWeatherTweaksBeta  0.20.7<br>
  Surfaced  1.0.0<br>
+ Longer_Day  1.0.0<br>
 

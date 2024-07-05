@@ -1,0 +1,9 @@
+{
+    "name": "Longer_Day",
+    "version_number": "1.0.0",
+    "website_url": "https://www.nexusmods.com/lethalcompany/mods/40",
+    "description": "This mod increases day length in Lethal company, default value is 0.5 (2x slower than usual), you can change it in the config section of bepinex.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
