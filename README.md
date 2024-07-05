@@ -105,7 +105,7 @@ List of mods:<br>
  StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.1<br>
- MrovLib  0.1.3<br>
+ MrovLib  0.1.5<br>
  WeatherRegistry  0.1.11<br>
  BetaWeatherTweaksBeta  0.20.7<br>
  UniTask  2.5.0<br>
