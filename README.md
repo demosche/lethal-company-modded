@@ -66,7 +66,6 @@ List of mods:<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.5<br>
- ToilHead  1.7.1<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
@@ -89,7 +88,7 @@ List of mods:<br>
  LightningRod  1.0.3<br>
  StopBeesOpeningDoors  1.1.0<br>
  LCTerminalMultiCodes  1.0.0<br>
- BetterEmotes  1.5.1<br>
+ BetterEmotes  1.5.2<br>
  SnowyHolidayDropship  1.0.4<br>
  JetpackFixes  1.2.1<br>
  ChocoQuota  1.0.6<br>
@@ -109,7 +108,10 @@ List of mods:<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.1<br>
  MrovLib  0.1.5<br>
- WeatherRegistry  0.1.11<br>
+ WeatherRegistry  0.1.12<br>
  BetaWeatherTweaksBeta  0.20.7<br>
  Surfaced  1.0.0<br>
+ Forest_Giant_Motionsense  1.0.2<br>
+ Longer_Day  1.0.0<br>
+ ToilHead  1.7.0<br>
 
