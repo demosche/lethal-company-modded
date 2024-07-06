@@ -2034,26 +2034,26 @@
   authorName: KlutzyBubbles
   websiteUrl: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/
   displayName: BetterEmotes
-  description: "[v50] Alters the integration method of more emotes and adds some
-    config options. See github for more info."
+  description: "[v50/v55] Alters the integration method of more emotes and adds
+    some config options. See github for more info."
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1720264140056
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Ozone-Runtime_Netcode_Patcher-0.2.5
     - Rune580-LethalCompany_InputUtils-0.7.4
+    - Ozone-Runtime_Netcode_Patcher-0.2.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 5
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KlutzyBubbles-BetterEmotes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KlutzyBubbles-BetterEmotes\1.5.2\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-SnowyHolidayDropship
   authorName: ButteryStancakes
@@ -2490,7 +2490,7 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.1.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
 - manifestVersion: 1
   name: mrov-WeatherRegistry
   authorName: mrov
