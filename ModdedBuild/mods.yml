@@ -2585,4 +2585,28 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TanmanG-Forest_Giant_Motionsense\icon.png
+- manifestVersion: 1
+  name: Onyx_Inoculum-Longer_Day
+  authorName: Onyx_Inoculum
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Onyx_Inoculum/Longer_Day/
+  displayName: Longer_Day
+  description: This mod increases day length in Lethal company, default value is
+    0.5 (2x slower than usual), you can change it in the config section of
+    bepinex.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720264386654
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Onyx_Inoculum-Longer_Day\1.0.0\icon.png
