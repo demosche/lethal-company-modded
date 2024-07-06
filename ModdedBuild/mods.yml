@@ -2053,7 +2053,7 @@
     minor: 5
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KlutzyBubbles-BetterEmotes\1.5.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KlutzyBubbles-BetterEmotes\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-SnowyHolidayDropship
   authorName: ButteryStancakes
@@ -2564,3 +2564,25 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
+- manifestVersion: 1
+  name: TanmanG-Forest_Giant_Motionsense
+  authorName: TanmanG
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TanmanG/Forest_Giant_Motionsense/
+  displayName: Forest_Giant_Motionsense
+  description: Make forest giants only sense motion outside of chases!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720264179535
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.2\icon.png
