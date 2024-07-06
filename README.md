@@ -106,7 +106,7 @@ List of mods:<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.1<br>
  MrovLib  0.1.5<br>
- WeatherRegistry  0.1.11<br>
+ WeatherRegistry  0.1.12<br>
  BetaWeatherTweaksBeta  0.20.7<br>
  Surfaced  1.0.0<br>
  Longer_Day  1.0.0<br>
