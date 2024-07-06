@@ -66,7 +66,6 @@ List of mods:<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.5<br>
- ToilHead  1.7.1<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
@@ -111,4 +110,6 @@ List of mods:<br>
  BetaWeatherTweaksBeta  0.20.7<br>
  Surfaced  1.0.0<br>
  Longer_Day  1.0.0<br>
+ Forest_Giant_Motionsense  1.0.2<br>
+ ToilHead  1.7.0<br>
 
