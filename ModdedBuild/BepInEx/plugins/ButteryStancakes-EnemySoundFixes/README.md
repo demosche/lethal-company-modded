@@ -2,6 +2,7 @@
 Fixes numerous issues with missing sound effects, or SFX playing when they shouldn't. Using [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) in addition to this mod is *highly* recommended, but not required.
 - Players
   - Fixed fall damage not playing its special sound effect unless you crash with a jetpack
+  - Fixed overlapping hit sound when attacked with shovel/knife
 - Snare fleas
   - Fixed shrieking when hitting its dead body
   - Fixed chasing "footsteps" and suffocation noises not looping
@@ -19,7 +20,7 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed other enemies' dead bodies playing hit sounds when dog stepped on them
 - Hoarding bugs
   - Fixed missing death sound effect
-- Forest keepers
+- Forest Keepers
   - Fixed stun sound effect not playing when rescuing a player
   - Fixed "chewing" sound and blood spray playing after eating animation is interrupted
   - Fixed missing death sound effects
@@ -36,10 +37,15 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed Comedy and Tragedy noise intervals (for laughing/crying) taking exponentially more time to occur the longer you left the game open
     - In general, "masked" enemies as well as the actual mask items will be a lot noisier
     - You can disable this change in the config if you don't like it
+  - Config setting (disabled by default) to adjust footstep volume/distance to match player footsteps
 - Butlers
-  - Fixed corpses still buzzing even once the mask hornets are free
+  - Fixed corpses still buzzing even once the mask hornets spawn out of it
 - Tulip snakes
   - Fixed "scurry" sounds sometimes playing while not walking
   - Scurry sounds now properly re-randomize their pitch when they play
   - Failsafe to prevent tulip snakes from making noises after death
-  - Fixed missing hit sound effect
+- Kidnapper fox
+  - Fixed hurt sound not playing after tongue is broken
+  - Fixed hurt sound playing when attacking its dead body
+  - Fixed death sound sometimes not playing
+  - Fixed "growling" sound sometimes getting stuck when not dragging a player

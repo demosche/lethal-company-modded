@@ -1,3 +1,6 @@
+# v1.5.0
+- Some fixes for kidnapper fox
+- "BetterMimicSteps" config setting to make mimics' footsteps better match players'
 # v1.4.0
 - Some more fixes for dogs
   - Retooled the pitch fix from v1.3.0
