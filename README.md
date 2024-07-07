@@ -97,7 +97,7 @@ List of mods:<br>
  MalfunctioningDoors  1.4.1<br>
  LethalNetworkAPI  2.2.0<br>
  NavMeshInCompany  1.0.3<br>
- ProblematicPilotry  1.1.0<br>
+ ProblematicPilotry  1.2.1<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.1.0<br>
  SolidLib  1.1.3<br>

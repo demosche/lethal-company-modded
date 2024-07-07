@@ -1,7 +1,17 @@
 # Changelog
 
+## 1.2.1
+- Fixed some config options being assigned to the wrong category.
+
+## 1.2.0
+- Full release of the new player ship landing randomiser.
+- Completely refactored the position finding algorithm for the new landing ship randomisation feature. It should function much more reliably now and pick only spots which players can reach.
+- Applied the new algorithm to the dropship randomiser, giving it the same benefits.
+- Added, changed and removed multiple config options to account for the new system.
+- Disabled randomisation in company building and removed NavMeshInCompany requirement. The new system requires AI nodes to be present, which do not exist on gordion. I also don't seriously expect anyone to want to add extra walking to their company experience.
+
 ## 1.1.0
-- Added a super secret major feature (in beta, for testing) that is currently turned off by default; it might break and it will spam your log if you turn it on in the config at this point <3 Proper documentation will follow.
+- Added a beta version of a landing ship randomiser, turned off by default.
 
 ## 1.0.4
 - Changed capsule finding code to search by component rather than by name, amending situations where creators of custom planets had renamed this object. This should enable much better compatibility with these mods.

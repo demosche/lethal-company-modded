@@ -1,11 +1,10 @@
 {
     "name": "ProblematicPilotry",
-    "version_number": "1.1.0",
-    "website_url": "",
-    "description": "Makes the item dropship land in a random position on each purchase. Highly customisable.",
+    "version_number": "1.2.1",
+    "website_url": "https://discord.com/channels/1168655651455639582/1250206047264702555",
+    "description": "The ship (+ item dropship) will land in a different spot every time. Customisable!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-	"Kittenji-NavMeshInCompany-1.0.3",
-	"xilophor-LethalNetworkAPI-2.1.7"
+	"xilophor-LethalNetworkAPI-2.2.0"
     ]
 }
