@@ -1,3 +1,6 @@
+# 1.3.6
+Version 55 Update!
+
 # 1.3.5
 Removed alpha turret targeting code which produced an error. No problems now.
 
