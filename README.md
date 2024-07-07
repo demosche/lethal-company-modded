@@ -112,4 +112,5 @@ List of mods:<br>
  Forest_Giant_Motionsense  1.0.2<br>
  Skinwalkers  5.0.0<br>
  ToilHead  1.7.0<br>
+ SuperLandmine  1.1.3<br>
 
