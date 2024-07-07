@@ -104,7 +104,7 @@ List of mods:<br>
  TurretWhacker  1.0.0<br>
  StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
- MapHazardsMoves  1.0.1<br>
+ MapHazardsMoves  1.0.2<br>
  MrovLib  0.1.5<br>
  WeatherRegistry  0.1.12<br>
  BetaWeatherTweaksBeta  0.20.7<br>
