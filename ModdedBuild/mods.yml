@@ -2474,99 +2474,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
 - manifestVersion: 1
-  name: Bobbie-UniTask
-  authorName: Bobbie
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Bobbie/UniTask/
-  displayName: UniTask
-  description: Provides an efficient allocation free async/await integration for Unity.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1719990458412
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 5
-    patch: 0
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Bobbie-UniTask\icon.png
-- manifestVersion: 1
-  name: Bobbie-NAudio
-  authorName: Bobbie
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Bobbie/NAudio/
-  displayName: NAudio
-  description: Audio and MIDI library for .NET
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1719990459877
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 2
-    minor: 2
-    patch: 2
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Bobbie-NAudio\icon.png
-- manifestVersion: 1
-  name: qwbarch-BarchLib
-  authorName: qwbarch
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/qwbarch/BarchLib/
-  displayName: BarchLib
-  description: A collection of libraries and utility functions for my mods.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1719990461299
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 2
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\qwbarch-BarchLib\icon.png
-- manifestVersion: 1
-  name: qwbarch-Mirage
-  authorName: qwbarch
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/qwbarch/Mirage/
-  displayName: Mirage
-  description: Synced voice mimicking for all enemies, and a focus on features for
-    masked enemies. Alternative to Skinwalkers + MaskedEnemyOverhaul, but is not
-    a drop-in replacement. Please look over the FAQ and config options to
-    enable/disable the features you want.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1719990462985
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - qwbarch-BarchLib-1.0.2
-    - Bobbie-NAudio-2.2.2
-    - Bobbie-UniTask-2.5.0
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 7
-    patch: 3
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\qwbarch-Mirage\icon.png
-- manifestVersion: 1
   name: SurfacedTeam-Surfaced
   authorName: SurfacedTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/
@@ -2635,4 +2542,4 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TanmanG-Forest_Giant_Motionsense\icon.png
