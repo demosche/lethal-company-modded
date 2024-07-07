@@ -107,7 +107,7 @@ List of mods:<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.1.5<br>
  WeatherRegistry  0.1.12<br>
- BetaWeatherTweaksBeta  0.20.7<br>
+ BetaWeatherTweaksBeta  0.20.8<br>
  Surfaced  1.0.0<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
@@ -115,4 +115,5 @@ List of mods:<br>
  CruiserImproved  1.0.2<br>
  BetterVehicleControls  1.0.9<br>
  CruiserMap  1.0.0<br>
+ SuperLandmine  1.1.3<br>
 

@@ -1,3 +1,11 @@
+# 0.20.8
+
+- removed all weight-related config entries, as they are now handled by WeatherRegistry
+- added new config entries: `LogWeatherSelection` and `LogWeatherVariables`
+- added first-day algorithm options: `FirstDaySpecial` (a toggle for current first-day algorithm) and `FirstDayRandomSeed` (for randomizing the first day seed)
+- moved bunch of stuff to use MrovLib
+- added full compatibility with v55
+
 # 0.20.7
 
 - fixed issues with MrovLib update
