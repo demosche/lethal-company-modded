@@ -1,0 +1,7 @@
+{
+  "name": "SuperLandmine",
+  "version_number": "1.1.3",
+  "website_url": "https://github.com/phawitpp/SuperLandmine",
+  "description": "Give landmine more power!",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
