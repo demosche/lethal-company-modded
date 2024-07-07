@@ -1,8 +1,8 @@
 {
     "name": "SnowyHolidayDropship",
-    "version_number": "1.0.4",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/ButteryStancakes/SnowyHolidayDropship",
-    "description": "Brings back the holiday dropship on snowy moons. Also fixes a bug with the model of the default dropship. Configurable",
+    "description": "Brings back the holiday dropship on snowy moons. Configurable",
     "dependencies": [
 		"BepInEx-BepInExPack-5.4.2100"
 	]

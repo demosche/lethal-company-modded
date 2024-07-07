@@ -1,3 +1,5 @@
+# v1.1.0
+- v55 support
 # v1.0.4
 - [Artifice Blizzard](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ArtificeBlizzard/) compatibility
 # v1.0.3
