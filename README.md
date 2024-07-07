@@ -96,14 +96,14 @@ List of mods:<br>
  MalfunctioningDoors  1.4.1<br>
  LethalNetworkAPI  2.2.0<br>
  NavMeshInCompany  1.0.3<br>
- ProblematicPilotry  1.2.1<br>
+ ProblematicPilotry  1.2.2<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.1.0<br>
  SolidLib  1.1.3<br>
  TurretWhacker  1.0.0<br>
  StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
- MapHazardsMoves  1.0.1<br>
+ MapHazardsMoves  1.0.2<br>
  MrovLib  0.1.5<br>
  WeatherRegistry  0.1.12<br>
  BetaWeatherTweaksBeta  0.20.7<br>
