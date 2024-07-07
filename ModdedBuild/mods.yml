@@ -471,8 +471,8 @@
     major: 0
     minor: 10
     patch: 4
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalThings\icon.png
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalThings\0.10.4\icon.png
 - manifestVersion: 1
   name: NavarroTech-MoreTerminalCommands
   authorName: NavarroTech
@@ -2607,4 +2607,4 @@
     minor: 0
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-BetterVehicleControls\1.0.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-BetterVehicleControls\icon.png
