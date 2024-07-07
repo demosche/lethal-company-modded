@@ -1463,29 +1463,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
 - manifestVersion: 1
-  name: Zehs-ToilHead
-  authorName: Zehs
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/ToilHead/
-  displayName: ToilHead
-  description: CoilHeads, Manticoils, and other entities can sometimes spawn with
-    a turret on their head. Highly Configurable.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1719748786795
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 7
-    patch: 1
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
-- manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
   websiteUrl: https://thunderstore.io/c/lethal-company/p/YaBoiDucki/men_stalker/
@@ -2446,7 +2423,7 @@
     minor: 1
     patch: 12
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.12\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2565,3 +2542,26 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\RugbugRedfern-Skinwalkers\icon.png
+- manifestVersion: 1
+  name: Zehs-ToilHead
+  authorName: Zehs
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zehs/ToilHead/
+  displayName: ToilHead
+  description: CoilHeads, Manticoils, and other entities can sometimes spawn with
+    a turret on their head. Highly Configurable.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720350121227
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.7.0\icon.png
