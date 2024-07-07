@@ -65,7 +65,7 @@ List of mods:<br>
  Locker  1.2.2<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
- LethalFixes  1.1.5<br>
+ LethalFixes  1.1.6<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
