@@ -2198,26 +2198,25 @@
   authorName: windblownleaves
   websiteUrl: https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry/
   displayName: ProblematicPilotry
-  description: Makes the item dropship land in a random position on each purchase.
-    Highly customisable.
+  description: The ship (+ item dropship) will land in a different spot every
+    time. Customisable!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719987228409
+  installedAtTime: 1720356619787
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Kittenji-NavMeshInCompany-1.0.3
-    - xilophor-LethalNetworkAPI-2.1.7
+    - xilophor-LethalNetworkAPI-2.2.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 0
+    minor: 2
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ProblematicPilotry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ProblematicPilotry\1.2.1\icon.png
 - manifestVersion: 1
   name: windblownleaves-ScaledFallDamage
   authorName: windblownleaves
@@ -2564,4 +2563,4 @@
     minor: 7
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.7.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png

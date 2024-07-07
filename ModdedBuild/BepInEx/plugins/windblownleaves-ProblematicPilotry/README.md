@@ -1,71 +1,64 @@
 # ProblematicPilotry
 
-Due to uneconomical human resource policies, the Company has run into some financial trouble, unfortunately forcing it to downgrade their item dropship autopilot systems to older, more inaccurate models... This mod makes the item dropship land in a random position each time it is called.
+**New in 1.2.0: Player ship randomisation!**
 
-Developed for v50; Compatible with v55, but does not affect the new features yet
+⚠️ On modded moons which have not been updated, the dropship is currently broken in v55/v56. This is more a problem with those moons than my mod and also affects the company cruiser dropship in vanilla. [Please use this mod if playing in v55/v56.](https://thunderstore.io/c/lethal-company/p/DiFFoZ/CompanyCruiserFix/) v50 is unaffected.
+
+Due to uneconomical human resource policies, the Company has run into some financial trouble, unfortunately forcing it to downgrade their autopilot navigation systems to older, less accurate models... This mod makes the player ship and item dropship land in a random position each time.
+
+Developed for v50 and compatible with v55/v56, but does not affect the company cruiser dropship as of now.
 
 ## Features
-- The item dropship will land in a random* position for each purchase.
-- Specify the chance the dropship will land away from its usual place.
+- The player ship and item dropship will land in a random* position on each landing/purchase.
+- Specify the chance to use a random location vs the vanilla location.
 - Specify any number of extra seconds the dropship will wait for someone to open it.
 - Specify how long the dropship should stay after having been opened.
-- Modular position finding algorithm where individual checks can be turned off. Want your 500 credits dropship to hilariously yeet itself into the ocean on Gordion? I got you covered.
-- Pretty much everything else is also configurable, really.
-- Compatible with custom planets.
-- Make your entire friend group get upset with you for installing this mod because your items keep landing on mountaintops?
+- Advanced position finding algorithm designed to ensure that sensible locations are picked.
+- Very configurable, including a blacklist and a maximum number of attempts before reverting to the vanilla location.
+- Fundamentally compatible with custom moons (read the "compatibility" section for more information).
 
 *in case you're interested in the precise technology employed by the Company, read on below.
-
-## Configuration
-
-The mod can be configured by editing `windblownleaves.problematicpilotry.cfg` in the /BepInEx/config/ folder.
-
-### [Dropship]
-- `Probability` - The probability (0.0 to 1.0) that the mod will take effect for a given delivery. (Default: `1.0`)
-- `MaximumDistance` - The maximum distance the dropship can land from its normal location. (Default: `100`)
-- `EnableInCompany` - Whether or not to enable random landing positions in the Company Building. (Default: `true`)
-- `CanLandOnContainer` - Whether or not the dropship can land on containers in the Company Building. (Default: `false`)
-- `ExtraSeconds` - How many more seconds the dropship will wait for you. (Default: `30`)
-- `LeaveAfterSeconds` - How many seconds, after being opened, the dropship should remain. (Default: `10`)
-- `HeightLimit` - How many game units (roughly meters) above its original location the dropship should be able to land. (Default: `10`)
-- `CheckForNavmesh` - Whether the dropship should try and land within the playable area. (Default: `true`)
-- `CheckForCollisions` - Whether the dropship should try and avoid landing inside of things. (Default: `true`)
-- `MaximumIterations` - How many times the dropship try to find a valid location before reverting to the vanilla one. (Default: `100`)
-- `NavMeshCheckDistance` - If the point in question is not in the playable area, how far should the mod check for a point that is? (Default: `2`)
 
 ## Requirements
 
 Other than obviously BepInExPack, this mod requires:
-- NavMeshInCompany. Due to how the mod works, this is necessary if you want to enable this mod on Gordion (the Company Building).
-- LethalNetworkAPI. Networking is required by the mod to communicate the new dropship position, which is calculated at runtime on the server, to all clients.
+- LethalNetworkAPI. Networking is required by the mod to communicate the new positions, which are calculated at runtime on the server, to all clients.
+
+## Compatibility
+
+TL;DR: yes, it largely works with custom moons
+
+Non-TL;DR:
+This mod is, on a basic level, compatible with all custom moons. However, there are a few caveats to this. The mod depends on some objects being named a certain way, on AI nodes being present, etc. If custom moon authors deviate greatly from the way vanilla planets are set up, things might not work so well. There are a number of custom moons which, unfortunately, mark objects related to the ship as static - resulting in my mod, naturally, being unable to move them at runtime. This causes problems with enemy navigation on some custom moons. Furthermore, some custom planets fly the player ship through triggers at the beginning of a round, which may or may not be important, which will obviously not work if the ship lands elsewhere. Finally, some moons are naturally better suited to randomisation. Large, open maps will have many more possible landing locations than small ones with narrow paths.
+
+If you're a custom moon author and you'd like to ensure compatibility with my mod, consider these things:
+1. Do not rename "NavMeshColliders", "shipWindTrigger", "shipWindTrigger2" or "ItemShipAnimContainer". I look for these by name.
+2. Do not rename or change the HeaderText of the ship's ScanNode.
+3. Do not set the player ship navmesh objects to static.
+4. Place AI nodes evenly throughout all parts of your level.
 
 ## Motivation
 
-This is my first mod - so part of the motivation was simply to learn Lethal Company and Unity modding fundamentals.
-I also figured this might generally be a very fun mod to have - Lethal Company is a game that has such a large following not least because of the hilarious randomness in its gameplay and the challenge that comes from unforeseen, emergent situations. With this mod, rather than being almost an afterthought compared to other gameplay, ordering items may turn into a challenge in its own right. The dropship will wait for you longer, but it may also do so in a location that's difficult to reach, turning "2 people come with me and get the items quick" into "okay Jonathan you go that way then and I go this way because I'm pretty sure the dropship song is coming from over that mountain and ooooh god bring the jetpack I actually see it up there"
+This was the first mod I ever made for Lethal Company! It has since evolved and heavily been improved upon with the help of many members of the LC modding Discord server.
+The mod was part-experiment, part asking myself the question: "What if the game forced you to explore bits of the map you wouldn't normally go?". With the player ship and the item dropship landing in random places, you end up seeing more of the maps than you would normally. No longer is walking to the dungeon or to your items mindless routine - you'll need to figure out the way every time.
 
 ## Implementation
 
-(don't yell at me I started modding this game 3 days prior)
+Originally, the algorithm used raycasts to find a random position and would then run several checks: Is it on the navmesh? Is it not occluded by other objects? However, this system ended up being too weak - it would often land you or your items in unreachable places or fly the ship through solid walls, pushing players out when trying to leave the planet. Especially when I added landing ship randomisation, it was clear a new system was needed.
 
-There are three modular stages, executed in this order, the latter two of which are optional and can be disabled:
+As of version 1.2.0, the algorithm basically functions in the following way:
 
-1. Initial Raycast
-2. Navmesh Cast
-3. Probe Raycasts
+1. Pick a random AI node (which are pretty evenly distributed across the map) and then pick a random point in its vicinity.
+2. Perform a navmesh cast from the picked point's location, which finds the closest point of the level that is "walkable", so to speak.
+3. Try to find a path from the position in question to the ship's vanilla location. If there is none, restart the algorithm.
+4. Check if the position in question is free of obstacles. If an obstacle is found, restart the algorithm.
+5. In the case of the player ship, try and make sure that the path is also free of obstacles.
 
-Stage 1. starts out by picking a random x/z location within a given range and sending a raycast down from the sky, ignoring certain layers such as trigger boxes. Certain objects are ignored, such as trees (and, if enabled, the containers on Gordion). Whatever location is hit is passed on. 
-
-Stage 2. attempts to find the closest position on the navmesh, which is very useful to avoid sending the dropship into, e.g., the ocean on Gordion. However, this, by itself, does not constitute a sufficient measure to avoid landing the dropship in unreachable locations, as some rocks and such are part of the Navmesh, even though they cannot realistically be climbed without a jetpack. Afterwards, sends down another raycast from the sky above the navmesh location to make sure the ship lands on the topmost location for these x/z coordinates.
-
-Stage 3. raycasts four times around the potential dropship location. If any of the four raycasts hits at a sufficiently higher y coordinate, this means that there is a slope or an obstacle, and there is a risk items would drop into spots where they can't be picked up. Downward slopes are accepted, under the assumption that items will very likely still be reachable even if they drop down.
-
-There are additional, configurable conditions such as whether the dropship can land on containers on Gordion and at what maximum altitude the dropship can land. All this is to ensure the dropship likely ends up in a reasonable spot where the ordered items can be reached. If any of these conditions fail for a particular position, the search cycle starts over. If no valid position can be found after a configurable number of attempts, the mod reverts to the vanilla dropship location.
-
-That said, the system is fallible and it is still very possible, especially with custom settings, that the dropship will end up in a location that is either hard or impossible to reach. This is where settings such as the configurable chance and the custom timer come in - to make up for more difficult locations, for example, you can increase the extra seconds value.
+The loop keeps going on until a position is found or the maximum number of iterations is reached. Relevant objects are then moved to the new location with specific offsets to keep relative positions intact.
 
 ## Special Thanks
-To AudioKnight and MrMiinxx on YouTube for their videos, the Lethal Company Modding Discord server, specifically to Hamunii and IAmBatby for their assistance, and to the Lethal Company Modding Wiki. Thanks to the developers of all the mod's requirements, especially to xilophor for his Lethal Network API.
+To AudioKnight and MrMiinxx on YouTube for their videos, which got me started initially, and to the Lethal Company Modding Discord server, specifically to Hamunii and especially to IAmBatby for their assistance, and to the Lethal Company Modding Wiki. Thanks to the developers of all the mod's requirements, especially to xilophor for his Lethal Network API. I'm also grateful to multiple people in my mod's Discord thread for providing suggestions, help and support, especially Autumnis, NecroWing and s1ckboy!
 
 ## Issues
 - Configuration files do not automatically sync at this time. However, since all calculations are done server-side, this should lead to no issues regardless.
+- Some custom moons, depending on their setup, may occasionally come with various compatibility issues. See "compatibility" section.

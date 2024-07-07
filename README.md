@@ -65,7 +65,6 @@ List of mods:<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.5<br>
- ToilHead  1.7.1<br>
  men_stalker  1.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
@@ -97,7 +96,7 @@ List of mods:<br>
  MalfunctioningDoors  1.4.1<br>
  LethalNetworkAPI  2.2.0<br>
  NavMeshInCompany  1.0.3<br>
- ProblematicPilotry  1.1.0<br>
+ ProblematicPilotry  1.2.1<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.1.0<br>
  SolidLib  1.1.3<br>
@@ -106,13 +105,11 @@ List of mods:<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.1<br>
  MrovLib  0.1.5<br>
- WeatherRegistry  0.1.11<br>
+ WeatherRegistry  0.1.12<br>
  BetaWeatherTweaksBeta  0.20.7<br>
- UniTask  2.5.0<br>
- NAudio  2.2.2<br>
- BarchLib  1.0.2<br>
- Mirage  1.7.3<br>
  Surfaced  1.0.0<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
+ Skinwalkers  5.0.0<br>
+ ToilHead  1.7.0<br>
 
