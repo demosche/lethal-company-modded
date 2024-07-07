@@ -430,14 +430,14 @@
   authorName: darmuh
   websiteUrl: https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/
   displayName: ghostCodes
-  description: (v50 Compatible) There's a ghost in the terminal and it's sending
-    random broadcast codes to mess with the facility! Also now featuring ghost
-    girl enhancements...
+  description: There's a ghost in the terminal and it's sending random broadcast
+    codes to mess with the facility! Also now featuring ghost girl
+    enhancements...
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1720350536812
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -445,9 +445,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.0.6\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -2445,7 +2445,7 @@
     minor: 1
     patch: 12
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.12\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
