@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.2
+- Fixed an issue where the dropship would break if you landed on Gordion immediately after starting the game.
+- Fixed an issue with the dropship hovering above ground when supposed to land in the vanilla location.
+
 ## 1.2.1
 - Fixed some config options being assigned to the wrong category.
 
