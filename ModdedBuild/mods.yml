@@ -2398,7 +2398,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Wexop-MapHazardsMoves\1.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Wexop-MapHazardsMoves\icon.png
 - manifestVersion: 1
   name: mrov-MrovLib
   authorName: mrov
@@ -2573,7 +2573,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720350929763
+  installedAtTime: 1720374532604
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2582,9 +2582,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiggC-CruiserImproved\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DiggC-CruiserImproved\1.0.2\icon.png
 - manifestVersion: 1
   name: Dev1A3-BetterVehicleControls
   authorName: Dev1A3
