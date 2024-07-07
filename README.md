@@ -62,7 +62,7 @@ List of mods:<br>
  LethalExpansionCore  1.3.15<br>
  LCConductivityRework  1.0.2<br>
  RollingGiant  2.6.0<br>
- Locker  1.2.1<br>
+ Locker  1.2.2<br>
  GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.5<br>
