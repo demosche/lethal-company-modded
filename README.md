@@ -111,5 +111,5 @@ List of mods:<br>
  Surfaced  1.0.0<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
- ToilHead  1.7.0<br>
+ ToilHead  1.7.1<br>
 

@@ -1,6 +1,9 @@
-# v1.7.0
-* Added [REDACTED]
-* Added [REDACTED]
+# v1.7.1
+* Fixed an issue in v55
+
+## v1.7.0
+* Added Toil-Masked.
+* Added Slayer-Masked.
 * Added support for the [RandomEnemiesSize](https://thunderstore.io/c/lethal-company/p/Wexop/RandomEnemiesSize/) mod.
 * Added support for the [SCP173CoilheadSFX](https://thunderstore.io/c/lethal-company/p/raydenoir/SCP173CoilheadSFX/) Coil-Head reskin mod.
 * Added support for the [WeepingAngels](https://thunderstore.io/c/lethal-company/p/raydenoir/WeepingAngels/) Coil-Head reskin mod.
@@ -45,7 +48,7 @@
   <summary>Older Versions</summary>
 
 ## v1.4.3
-* Added Toil-Slayer
+* Added Toil-Slayer.
 
 ## v1.4.2
 * Added `EnableConfiguration` config setting.
