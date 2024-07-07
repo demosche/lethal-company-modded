@@ -1,3 +1,6 @@
+# v1.3.0
+- Removed many fixes that were implemented into vanilla with update v56
+- Fixed certain cases where hit effects (shovel bounce, knife blood spray) would play even if your swing actually misses
 # v1.2.0
 - Fixed knife damage not registering for thumpers or spiders
 - Fixed knife damage being blocked by dead bodies
