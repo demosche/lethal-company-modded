@@ -1,8 +1,8 @@
+⚠️ On modded moons which have not been updated, the dropship is currently broken in v55/v56. This is more a problem with those moons than my mod and also affects the company cruiser dropship in vanilla. [Please use this mod if playing in v55/v56.](https://thunderstore.io/c/lethal-company/p/DiFFoZ/CompanyCruiserFix/) v50 is unaffected.
+
 # ProblematicPilotry
 
 **New in 1.2.0: Player ship randomisation!**
-
-⚠️ On modded moons which have not been updated, the dropship is currently broken in v55/v56. This is more a problem with those moons than my mod and also affects the company cruiser dropship in vanilla. [Please use this mod if playing in v55/v56.](https://thunderstore.io/c/lethal-company/p/DiFFoZ/CompanyCruiserFix/) v50 is unaffected.
 
 Due to uneconomical human resource policies, the Company has run into some financial trouble, unfortunately forcing it to downgrade their autopilot navigation systems to older, less accurate models... This mod makes the player ship and item dropship land in a random position each time.
 
@@ -32,10 +32,14 @@ Non-TL;DR:
 This mod is, on a basic level, compatible with all custom moons. However, there are a few caveats to this. The mod depends on some objects being named a certain way, on AI nodes being present, etc. If custom moon authors deviate greatly from the way vanilla planets are set up, things might not work so well. There are a number of custom moons which, unfortunately, mark objects related to the ship as static - resulting in my mod, naturally, being unable to move them at runtime. This causes problems with enemy navigation on some custom moons. Furthermore, some custom planets fly the player ship through triggers at the beginning of a round, which may or may not be important, which will obviously not work if the ship lands elsewhere. Finally, some moons are naturally better suited to randomisation. Large, open maps will have many more possible landing locations than small ones with narrow paths.
 
 If you're a custom moon author and you'd like to ensure compatibility with my mod, consider these things:
-1. Do not rename "NavMeshColliders", "shipWindTrigger", "shipWindTrigger2" or "ItemShipAnimContainer". I look for these by name.
-2. Do not rename or change the HeaderText of the ship's ScanNode.
-3. Do not set the player ship navmesh objects to static.
-4. Place AI nodes evenly throughout all parts of your level.
+1. Do not rename "NavMeshColliders", "shipWindTrigger" or "shipWindTrigger2". I look for these by name.
+2. Do not change the rotation of "ItemShipAnimContainer" away from the vanilla (-90, 0, 0) and do not change the rotation of its contents.
+3. Do not rename or change the HeaderText of the ship's ScanNode.
+4. Do not set objects related to the dropship or player ship, especially the ship's navmesh colliders, as static.
+5. Place AI nodes evenly throughout all parts of your level.
+
+TL;DR: Don't mess with the vanilla setup of the gameplay systems.
+
 
 ## Motivation
 

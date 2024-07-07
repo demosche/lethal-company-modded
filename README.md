@@ -97,7 +97,7 @@ List of mods:<br>
  MalfunctioningDoors  1.4.1<br>
  LethalNetworkAPI  2.2.0<br>
  NavMeshInCompany  1.0.3<br>
- ProblematicPilotry  1.2.1<br>
+ ProblematicPilotry  1.2.2<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.1.0<br>
  SolidLib  1.1.3<br>
@@ -114,4 +114,5 @@ List of mods:<br>
  ToilHead  1.7.1<br>
  CruiserImproved  1.0.1<br>
  BetterVehicleControls  1.0.9<br>
+ CruiserMap  1.0.0<br>
 
