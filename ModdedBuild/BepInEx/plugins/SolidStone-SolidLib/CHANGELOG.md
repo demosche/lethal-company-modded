@@ -1,4 +1,7 @@
-## v1.1.3
+## v1.1.4:
+- Some SSoundManager Fixes
+
+## v1.1.3:
 - Added SSoundManager/SoundSet
 
 ## V1.1.2:
