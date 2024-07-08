@@ -2606,3 +2606,27 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\phawitpp-SuperLandmine\icon.png
+- manifestVersion: 1
+  name: ButteryStancakes-ButteryFixes
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/
+  displayName: ButteryFixes
+  description: Fixes a lot of miscellaneous gameplay issues with vanilla. See
+    store description for more details (and recommendations for other great
+    bugfix packages)
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720447683600
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 5
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-ButteryFixes\1.5.0\icon.png
