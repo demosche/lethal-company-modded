@@ -63,7 +63,6 @@ List of mods:<br>
  LCConductivityRework  1.0.2<br>
  RollingGiant  2.6.0<br>
  Locker  1.2.2<br>
- GeneralImprovements  1.2.8<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
  LethalFixes  1.1.6<br>
  men_stalker  1.4.0<br>
