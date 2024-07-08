@@ -104,7 +104,7 @@ List of mods:<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.1.5<br>
- WeatherRegistry  0.1.12<br>
+ WeatherRegistry  0.1.13<br>
  BetaWeatherTweaksBeta  0.20.8<br>
  Surfaced  1.0.1<br>
  Longer_Day  1.0.0<br>
@@ -114,4 +114,7 @@ List of mods:<br>
  BetterVehicleControls  1.1.0<br>
  CruiserMap  1.0.0<br>
  SuperLandmine  1.1.3<br>
+ ButteryFixes  1.5.0<br>
+ PathfindingLagFix  1.2.1<br>
+ Matty_Fixes  1.0.21<br>
 

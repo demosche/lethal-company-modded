@@ -2385,7 +2385,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720297128730
+  installedAtTime: 1720470432815
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2395,9 +2395,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 12
+    patch: 13
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.13\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2675,4 +2675,4 @@
     minor: 0
     patch: 21
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mattymatty-Matty_Fixes\1.0.21\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mattymatty-Matty_Fixes\icon.png
