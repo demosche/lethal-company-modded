@@ -1321,8 +1321,8 @@
     major: 0
     minor: 1
     patch: 0
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SlightlyInteractive-TurretDownTime\icon.png
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SlightlyInteractive-TurretDownTime\0.1.0\icon.png
 - manifestVersion: 1
   name: jockie-LethalExpansionCore
   authorName: jockie
@@ -2584,7 +2584,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-BetterVehicleControls\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-BetterVehicleControls\icon.png
 - manifestVersion: 1
   name: Piggy-CruiserMap
   authorName: Piggy
