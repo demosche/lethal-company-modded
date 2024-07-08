@@ -2181,7 +2181,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720365718913
+  installedAtTime: 1720419864576
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2191,9 +2191,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ProblematicPilotry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ProblematicPilotry\1.2.3\icon.png
 - manifestVersion: 1
   name: windblownleaves-ScaledFallDamage
   authorName: windblownleaves

@@ -66,3 +66,4 @@ To AudioKnight and MrMiinxx on YouTube for their videos, which got me started in
 ## Issues
 - Configuration files do not automatically sync at this time. However, since all calculations are done server-side, this should lead to no issues regardless.
 - Some custom moons, depending on their setup, may occasionally come with various compatibility issues. See "compatibility" section.
+- Generic Moons, specifically, seems to come with an slight issue where the item dropship will land partly inside the ground. I'm not exactly sure why this is; the author might have moved the dropship inside of its container or such.
