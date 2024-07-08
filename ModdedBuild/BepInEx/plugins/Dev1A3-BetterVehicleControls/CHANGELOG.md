@@ -1,6 +1,17 @@
+### 1.1.0
+
+- Added a new configurable keybind to manually re-center the wheel (unbinded by default).
+- Added a new configurable keybind to toggle the magnet (as long as you are close enough).
+- Added a config option to choose the speed of the smooth wheel centering.
+  - 0 = Instant
+  - -1 = Vanilla
+- Added a config option to choose the max amount of turbo boosts that you can have queued up at the same time.
+  - If someone who has a lower value configured (or doesn't have the mod) tries to put weed killer in the hood then the value will be limited by their max (vanilla is 5) until you re-fill it.
+
 ### 1.0.9
 
-- Added the option to enable smooth wheel recentering (shoutout to [@digger1213](https://github.com/digger1213))
+- Fixed steering wheel visually desyncing from the actual steering angle.
+- Added the option to enable smooth wheel recentering.
 
 ### 1.0.8
 
