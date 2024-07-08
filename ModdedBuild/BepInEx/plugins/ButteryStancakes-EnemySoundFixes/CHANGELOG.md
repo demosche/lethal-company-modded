@@ -1,3 +1,5 @@
+# v1.5.1
+- Fixed hardlock when attacking the kidnapper fox
 # v1.5.0
 - Some fixes for kidnapper fox
 - "BetterMimicSteps" config setting to make mimics' footsteps better match players'

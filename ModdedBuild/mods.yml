@@ -1617,7 +1617,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720350667584
+  installedAtTime: 1720422575343
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1626,9 +1626,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.5.1\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
@@ -2470,7 +2470,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
