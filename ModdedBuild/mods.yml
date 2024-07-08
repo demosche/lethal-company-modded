@@ -2652,4 +2652,27 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zaggy1024-PathfindingLagFix\1.2.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zaggy1024-PathfindingLagFix\icon.png
+- manifestVersion: 1
+  name: mattymatty-Matty_Fixes
+  authorName: mattymatty
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/
+  displayName: Matty_Fixes
+  description: A collection of Fixes for the vanilla game, with focus on vanilla
+    compatibility.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720447941576
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 21
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mattymatty-Matty_Fixes\1.0.21\icon.png
