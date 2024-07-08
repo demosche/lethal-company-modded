@@ -106,7 +106,6 @@ List of mods:<br>
  MrovLib  0.1.5<br>
  WeatherRegistry  0.1.13<br>
  BetaWeatherTweaksBeta  0.20.8<br>
- Surfaced  1.0.1<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
  ToilHead  1.7.1<br>
@@ -117,4 +116,5 @@ List of mods:<br>
  ButteryFixes  1.5.0<br>
  PathfindingLagFix  1.2.1<br>
  Matty_Fixes  1.0.21<br>
+ Surfaced  1.0.2<br>
 

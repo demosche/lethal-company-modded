@@ -16,6 +16,8 @@ A Shark and invasive Urchins outside, Sea Mines and Mantis Shrimps inside!
 - Sea mines : Nobody knows how they float or how they got there, but all that we know is that the Sea Mines are a new inside hazard. Much like landmines, they explode on touch. However, Sea Mines cannot be jumped over, but can be crouched under. Listen closely to their ghostly beeps, for these pieces of ancient technology cannot be hacked via the terminal or located on the map.
 
 - Urchins : It only takes one to ruin your day. These outside spiky balls damage the player on touch and multiply during the day. Urchins grow over time until they mitosis (split) into two smaller urchins that continue the cycle. They like to spawn at the start of the day in small numbers and then balloon in quantity by the end of the day. However, you can combat this invasive threat with a trusty dose of violence! Give it a whack and eliminate them before it's too late.
+
+- Super scary mode : Terrifying blue lobster that mimics random sound effects and scares the player when looked at.
 </details>
 
 ## Bug Reporting
@@ -40,4 +42,5 @@ If you have any issues related to the mod itself, please contact us on the Letha
 - Mantis Shrimp Model : Mantis Shrimp Model Credits : "Mantis Shrimp 3dpc" (https://skfb.ly/osqAD) by Julialovehearts is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
 - Model used as a base for Bruce : "PS1/Low Poly Great White Shark" (https://skfb.ly/oRVPQ) by Jellypack is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 - Harpoon Model : "Harpoon" (https://skfb.ly/6vIEq) by Sophie is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- Most sound are effects from https://pixabay.com
+- Blue lobster model : "Blue Lobster (meme)" (https://skfb.ly/oyKvq) by Zyleck is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- Most sound effects are from https://pixabay.com

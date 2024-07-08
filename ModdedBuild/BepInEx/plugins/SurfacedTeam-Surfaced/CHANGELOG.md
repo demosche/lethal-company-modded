@@ -1,3 +1,9 @@
+## 1.0.2
+
+- fixed logs spamming
+
+- fixed some errors in the Readme
+
 ## 1.0.1
 
 - Configs added: BruceMaxSpawn,MantisGroupSize,MantisMaxSpawn,UrchinGrowthRate,UrchinShipPadding

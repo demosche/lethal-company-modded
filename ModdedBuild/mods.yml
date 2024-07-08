@@ -2397,7 +2397,7 @@
     minor: 1
     patch: 13
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.13\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2424,30 +2424,6 @@
     patch: 8
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
-- manifestVersion: 1
-  name: SurfacedTeam-Surfaced
-  authorName: SurfacedTeam
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/
-  displayName: Surfaced
-  description: Adds Sea Creatures on land
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1720422367663
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.15.1
-    - SolidStone-SolidLib-1.1.4
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -2676,3 +2652,27 @@
     patch: 21
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mattymatty-Matty_Fixes\icon.png
+- manifestVersion: 1
+  name: SurfacedTeam-Surfaced
+  authorName: SurfacedTeam
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/
+  displayName: Surfaced
+  description: Adds Sea Creatures on land
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720470475263
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.15.1
+    - SolidStone-SolidLib-1.1.4
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.0.2\icon.png
