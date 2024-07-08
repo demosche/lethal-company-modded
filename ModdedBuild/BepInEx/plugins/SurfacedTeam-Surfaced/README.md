@@ -1,9 +1,10 @@
-# Surfaced (v55 and v50 compatible)
-
+# Surfaced (for v56)
+Note: Only v1.0.0 is compatible with v50, the newer versions will only be for v56 onward
 ## About this mod
 <a href="https://ibb.co/Lp4znqn"><img src="https://i.ibb.co/rynG4L4/Surfaced-Banner.png" alt="Surfaced-Banner" border="0"></a><br/><a target='_blank' href='https://dedupelist.com/'></a><br />
 This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 3 enemies and 1 hazard :
 A Shark and invasive Urchins outside, Sea Mines and Mantis Shrimps inside!
+
 ## Monster Mechanics (Spoilers ahead!)
 <details>
   <summary><strong style="font-size: 1.4em;">Monsters</strong></summary>
