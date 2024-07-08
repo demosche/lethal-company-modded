@@ -1,3 +1,10 @@
+# LethalThings 0.10.6
+**Improvements**
+- Better compatibility for Utility Belt, should cause less probably with some other mods probably.
+
+# LethalThings 0.10.5
+- Recompiled for latest version.
+
 # LethalThings 0.10.4
 **Bugfixes**
 - Maybe fixed issue with remote radar by making the code way worse. (idc)
