@@ -1,6 +1,6 @@
 {
     "name": "ProblematicPilotry",
-    "version_number": "1.2.2",
+    "version_number": "1.2.3",
     "website_url": "https://discord.com/channels/1168655651455639582/1250206047264702555",
     "description": "The ship (+ item dropship) will land in a different spot every time. Customisable!",
     "dependencies": [

@@ -471,8 +471,8 @@
     major: 0
     minor: 10
     patch: 4
-  enabled: false
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalThings\0.10.4\icon.png
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalThings\icon.png
 - manifestVersion: 1
   name: NavarroTech-MoreTerminalCommands
   authorName: NavarroTech
@@ -2202,7 +2202,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720374484985
+  installedAtTime: 1720422276620
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2212,9 +2212,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ProblematicPilotry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ProblematicPilotry\1.2.3\icon.png
 - manifestVersion: 1
   name: windblownleaves-ScaledFallDamage
   authorName: windblownleaves
