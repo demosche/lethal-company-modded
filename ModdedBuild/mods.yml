@@ -2248,7 +2248,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719987255630
+  installedAtTime: 1720420709415
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2258,9 +2258,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-SolidLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-SolidLib\1.1.4\icon.png
 - manifestVersion: 1
   name: magico13-TurretWhacker
   authorName: magico13
@@ -2449,7 +2449,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
