@@ -2193,7 +2193,7 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ProblematicPilotry\1.2.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ProblematicPilotry\icon.png
 - manifestVersion: 1
   name: windblownleaves-ScaledFallDamage
   authorName: windblownleaves
@@ -2431,25 +2431,25 @@
   authorName: SurfacedTeam
   websiteUrl: https://thunderstore.io/c/lethal-company/p/SurfacedTeam/Surfaced/
   displayName: Surfaced
-  description: Adds Sea Creatures
+  description: Adds Sea Creatures on land
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719999613104
+  installedAtTime: 1720420063497
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.15.1
-    - SolidStone-SolidLib-1.1.3
+    - SolidStone-SolidLib-1.1.4
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.0.1\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
