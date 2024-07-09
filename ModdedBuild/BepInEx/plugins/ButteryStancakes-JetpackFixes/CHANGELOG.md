@@ -1,3 +1,12 @@
+# v1.4.0
+- Added config setting to control when the jetpack explodes in mid-air from high speeds
+  - Can be turned off completely
+  - Can be enabled only at certain heights (new default, like "BecomeFirework" from v1.2)
+  - Can be enabled always (like vanilla)
+- Fixed several interactions between tulip snakes and jetpacks
+  - Now tulip snakes flapping their wings won't spontaneously disable the jetpack
+  - Tulip snakes will continue to move you if you turn the jetpack off while they are still flapping
+- Added config setting that allows launching yourself by dropping the jetpack mid-flight.
 # v1.3.0
 - v56 compatibility
 # v1.2.1

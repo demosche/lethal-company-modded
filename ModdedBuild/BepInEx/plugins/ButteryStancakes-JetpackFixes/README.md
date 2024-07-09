@@ -1,5 +1,5 @@
 # Jetpack Fixes
-Fun fact: The "overheat mechanic" often attributed to the jetpack's design is actually caused by a bug. The jetpack has no heat meter or speed limit whatsoever.
+Fun fact: The "overheat explosions" often attributed to the jetpack's design are actually caused by a bug. The jetpack has no heat meter or speed limit whatsoever.
 
 <details>
 <summary>More detailed explanation</summary>
@@ -17,13 +17,22 @@ Fun fact: The "overheat mechanic" often attributed to the jetpack's design is ac
 
 It's possible Zeekerss intentionally left this bug in the game, as a pseudo-balancing feature for the raw power of the jetpack. However, since it's a side effect of incorrect behavior (that was even partially fixed in v50), this mod will get rid of it for you - allowing you to travel as fast as you like, as long as you don't crash (which will still kill you instantly)
 
-Although the main feature of this mod is the fixed crash code, there are a couple of additional issues I've addressed:
-- I fixed a new bug introduced in v50 where the jetpack can "get stuck" if your feet graze an object mid-flight (for example, touching the tip of a tree causes you to suddenly stop moving, even though the jetpack continues running - jumping would then cause you to hyper-accelerate and explode, usually)
-- I also fixed the infamous battery bug where the jetpack charge drains while it's turned off or dropped on the floor.
-- Fixed jetpack audio being distorted when you're flying around with it. (The Doppler effect shouldn't apply to your own jetpack, just when others are flying it)
-
-New in v1.2 is a config option to re-enable mid-air explosions if you are flying too fast while too high in the sky:
+By default, you will also explode if you're flying too fast at extreme altitudes, in accordance with the statement below...
 
 > I wouldn't really want to drag down the victory of soaring straight up into the sky and exploding like a firework.
 
 – Zeekerss, [The time is flying (and so are the jetpacks and tulip snakes)](https://www.patreon.com/posts/time-is-flying-102810602)
+
+Although the main feature of this mod is the fixed crash code, there are several additional issues I've addressed:
+- I fixed the (infamous) battery bug where the jetpack charge drains while it's turned off or dropped on the floor.
+- Fixed buggy interactions between tulip snakes and jetpacks, in which each would cancel out the other. Now they co-exist, in (nearly) perfect harmony
+- Dropping the jetpack now actually transfers momentum to the player, instead of them stopping in place.
+- Fixed the jetpack "getting stuck" and storing momentum if your feet graze an object mid-flight
+- Fixed jetpack audio being distorted when you're flying around with it. (The Doppler effect shouldn't apply to your own jetpack, just when others are flying it)
+
+## Config
+- `MidAirExplosions` - Lets you control the circumstances that would explode the jetpack.
+  - `Off` replicates the original behavior of this mod, only destroying the jetpack if you crash into something solid.
+  - `OnlyTooHigh` allows the jetpack to explode on its own again, but only if you are exceeding vanilla's "safe speed" while you are far above the map. (This is the new default)
+  - `Always` replicates vanilla's behavior the closest, where the jetpack will always explode once exceeds the safe speed.
+- `TransferMomentum` - Whether dropping the jetpack should launch you in the same direction (`True`) or halt you in place (`False`) like vanilla.

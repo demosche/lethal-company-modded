@@ -89,7 +89,7 @@ List of mods:<br>
  LCTerminalMultiCodes  1.0.0<br>
  BetterEmotes  1.5.2<br>
  SnowyHolidayDropship  1.1.0<br>
- JetpackFixes  1.3.0<br>
+ JetpackFixes  1.4.0<br>
  ChocoQuota  1.0.6<br>
  TestAccountFixes  1.3.2<br>
  NestFix  1.0.1<br>
