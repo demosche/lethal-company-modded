@@ -1,4 +1,7 @@
-# v1.7.1
+# v1.7.2
+* Turret-Head players can no longer spawn at the Company building or when playing alone.
+
+## v1.7.1
 * Fixed an issue in v55
 
 ## v1.7.0
@@ -31,6 +34,9 @@
 * Reworked all the configs and added some new ones.
 * Made some changes to the [API](https://github.com/ZehsTeam/Lethal-Company-ToilHead/blob/master/ToilHead/Api.cs).
 
+<details>
+  <summary>Older Versions</summary>
+
 ## v1.5.1
 * Moved the moon [Toilation](https://thunderstore.io/c/lethal-company/p/Zehs/Toilation/) to a separate mod.
 * Fixed Manti-Toil turrets not despawning after the Manticoil despawns.
@@ -43,9 +49,6 @@
 
 ## v1.5.0
 * Added a new moon called [Toilation](https://thunderstore.io/c/lethal-company/p/Zehs/Toilation/).
-
-<details>
-  <summary>Older Versions</summary>
 
 ## v1.4.3
 * Added Toil-Slayer.

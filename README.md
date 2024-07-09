@@ -108,7 +108,7 @@ List of mods:<br>
  BetaWeatherTweaksBeta  0.20.8<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
- ToilHead  1.7.1<br>
+ ToilHead  1.7.2<br>
  CruiserImproved  1.0.3<br>
  BetterVehicleControls  1.1.0<br>
  CruiserMap  1.0.0<br>
