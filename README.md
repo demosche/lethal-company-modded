@@ -104,7 +104,7 @@ List of mods:<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.1.5<br>
- WeatherRegistry  0.1.13<br>
+ WeatherRegistry  0.1.14<br>
  BetaWeatherTweaksBeta  0.20.8<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
@@ -117,4 +117,5 @@ List of mods:<br>
  PathfindingLagFix  1.2.1<br>
  Matty_Fixes  1.0.21<br>
  Surfaced  1.0.3<br>
+ HealthMetrics  1.0.2<br>
 
