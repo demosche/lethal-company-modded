@@ -1,3 +1,7 @@
+# v1.4.1
+- Minor refactor allowing players to crash into other players at high speeds
+- Reduced how much vertical momentum is transferred when dropping the jetpack
+- Some config fixes
 # v1.4.0
 - Added config setting to control when the jetpack explodes in mid-air from high speeds
   - Can be turned off completely
