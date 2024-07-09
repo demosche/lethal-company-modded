@@ -2492,7 +2492,7 @@
     minor: 7
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zehs-ToilHead\1.7.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zehs-ToilHead\icon.png
 - manifestVersion: 1
   name: DiggC-CruiserImproved
   authorName: DiggC
@@ -2676,3 +2676,25 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
+- manifestVersion: 1
+  name: matsuura-HealthMetrics
+  authorName: matsuura
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/matsuura/HealthMetrics/
+  displayName: HealthMetrics
+  description: Add a simple health counter on your HUD
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720526118583
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 2
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\matsuura-HealthMetrics\1.0.2\icon.png
