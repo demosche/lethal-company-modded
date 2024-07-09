@@ -29,7 +29,6 @@ For a full list, please consult the [Changelog](https://thunderstore.io/c/lethal
 - Fixed bracken enraging on players immediately when shot by a nutcracker
 
 **Client-side**
-- Fixed buggy interactions with tulip snakes and jetpacks (they no longer cancel each other out)
 - Fixed Old Birds' stomps and dying Forest Keepers hurting you while you are inside the ship
 - Fixed butlers skipping their random attack chance when bumping into them while they are passive
 - Fixed slimes still dealing damage while "tamed" by a boombox if they haven't been "angered" by attacking them at least once

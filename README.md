@@ -113,7 +113,7 @@ List of mods:<br>
  BetterVehicleControls  1.1.0<br>
  CruiserMap  1.0.0<br>
  SuperLandmine  1.1.3<br>
- ButteryFixes  1.5.0<br>
+ ButteryFixes  1.5.1<br>
  PathfindingLagFix  1.2.1<br>
  Matty_Fixes  1.0.21<br>
  Surfaced  1.0.2<br>

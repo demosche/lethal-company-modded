@@ -1,3 +1,6 @@
+# v1.5.1
+- Fixed items auto-collecting for clients at the start of each round
+- Migrated tulip snake interaction fixes to [Jetpack Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/JetpackFixes/)
 # v1.5.0
 - v56 compatibility
   - Removed several redundant fixes added to vanilla in v56

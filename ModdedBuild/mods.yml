@@ -107,7 +107,7 @@
     minor: 0
     patch: 31
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.31\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -2594,7 +2594,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720447683600
+  installedAtTime: 1720509642483
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2603,9 +2603,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-ButteryFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-ButteryFixes\1.5.1\icon.png
 - manifestVersion: 1
   name: Zaggy1024-PathfindingLagFix
   authorName: Zaggy1024

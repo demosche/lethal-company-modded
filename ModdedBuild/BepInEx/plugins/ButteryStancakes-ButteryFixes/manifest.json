@@ -1,6 +1,6 @@
 {
     "name": "ButteryFixes",
-    "version_number": "1.5.0",
+    "version_number": "1.5.1",
 	"website_url": "https://github.com/ButteryStancakes/ButteryFixes",
     "description": "Fixes a lot of miscellaneous gameplay issues with vanilla. See store description for more details (and recommendations for other great bugfix packages)",
     "dependencies": [
