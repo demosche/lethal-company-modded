@@ -1,3 +1,5 @@
+# 2.0.31
++ Added checks to prevent potential errors (likely because of slight mod conflicts?) in some rare cases when trying to display reserved items on Masked Enemies.
 # 2.0.30
 + Added config option to enable/disable verbose logs.
 + If verbose logs are enabled, the mod will log when it blocks the user from swapping items to help determine if issues related to not being able to swap items are caused by this mod or not.<br>
