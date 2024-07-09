@@ -1,8 +1,14 @@
+## 1.0.3
+
+- Adjusted base spawn weights for Bruce, Super scary mode enemy and Mantis shrimps
+
+- Added spawn weight config for Super scary mode enemy
+
 ## 1.0.2
 
-- fixed logs spamming
+- Fixed logs spamming
 
-- fixed some errors in the Readme
+- Fixed some errors in the Readme
 
 ## 1.0.1
 

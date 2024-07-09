@@ -2605,7 +2605,7 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-ButteryFixes\1.5.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-ButteryFixes\icon.png
 - manifestVersion: 1
   name: Zaggy1024-PathfindingLagFix
   authorName: Zaggy1024
@@ -2662,7 +2662,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720470475263
+  installedAtTime: 1720509773787
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2673,6 +2673,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.0.3\icon.png

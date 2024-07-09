@@ -116,5 +116,5 @@ List of mods:<br>
  ButteryFixes  1.5.1<br>
  PathfindingLagFix  1.2.1<br>
  Matty_Fixes  1.0.21<br>
- Surfaced  1.0.2<br>
+ Surfaced  1.0.3<br>
 
