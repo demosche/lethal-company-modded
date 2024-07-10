@@ -56,3 +56,8 @@
 - Hopefully fixed the null exception caused by Blue Gnome teleportation.
 ### Version 2.1.15
 - Added V50 compatibility.
+### Version 2.1.18
+- Fixed Blue Gnome flashbang.
+- Fixed random line next to ship.
+- Fixed desync issues with a new random function.
+- Still gnomes.

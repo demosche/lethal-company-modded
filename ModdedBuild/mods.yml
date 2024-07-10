@@ -1728,13 +1728,13 @@
   authorName: Sconeys
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Sconeys/Gnomes/
   displayName: Gnomes
-  description: "[V50 COMPATIBLE] Adds TWO unique new enemies to the game! Have you
-    ever wanted gnomes? No? (or yes) Then this is for you!"
+  description: Adds TWO unique new enemies to the game! Have you ever wanted
+    gnomes? No? (or yes) Then this is for you!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1719579660114
+  installedAtTime: 1720590373279
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.14.2
@@ -1744,9 +1744,9 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 16
+    patch: 18
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.18\icon.png
 - manifestVersion: 1
   name: KawaiiBone-Remnants
   authorName: KawaiiBone
@@ -2675,3 +2675,48 @@
     patch: 2
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\matsuura-HealthMetrics\icon.png
+- manifestVersion: 1
+  name: DiFFoZ-HarmonyXTranspilerFix
+  authorName: DiFFoZ
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/DiFFoZ/HarmonyXTranspilerFix/
+  displayName: HarmonyXTranspilerFix
+  description: Fixes HarmonyX Transpiler cause patched method to behave incorrectly
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720557448842
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiFFoZ-HarmonyXTranspilerFix\icon.png
+- manifestVersion: 1
+  name: DiFFoZ-LethalPerformance
+  authorName: DiFFoZ
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance/
+  displayName: LethalPerformance
+  description: Optimizes the game by using Unity Jobs and Burst API
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720557450869
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - DiFFoZ-HarmonyXTranspilerFix-1.0.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 9
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiFFoZ-LethalPerformance\icon.png

@@ -1,8 +1,8 @@
 {
     "name": "Gnomes",
-    "version_number": "2.1.16",
+    "version_number": "2.1.18",
     "website_url": "https://github.com/xScone/Gnomes-Dev",
-    "description": "[V50 COMPATIBLE] Adds TWO unique new enemies to the game! Have you ever wanted gnomes? No? (or yes) Then this is for you!",
+    "description": "Adds TWO unique new enemies to the game! Have you ever wanted gnomes? No? (or yes) Then this is for you!",
     "dependencies": [
         "Evaisa-LethalLib-0.14.2",
 		"BepInEx-BepInExPack-5.4.2100"
