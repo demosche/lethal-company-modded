@@ -119,4 +119,5 @@ List of mods:<br>
  HealthMetrics  1.0.2<br>
  HarmonyXTranspilerFix  1.0.0<br>
  LethalPerformance  0.0.9<br>
+ GeneralImprovements  1.3.0<br>
 
