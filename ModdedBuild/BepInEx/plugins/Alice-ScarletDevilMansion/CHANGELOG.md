@@ -151,3 +151,10 @@ Added new weapon that drops from new enemy variant
 Added new scrap item\
 Added new pit room\
 Added some safety railings to some of the pit rooms
+
+## 1.3.20
+
+Redid library 2F rooms into two smaller versions\
+Added new pit room\
+Added some sound effects and lighting to the pit rooms\
+Added clock spawns to some doorways

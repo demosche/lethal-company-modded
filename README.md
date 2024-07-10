@@ -73,7 +73,7 @@ List of mods:<br>
  EnemySoundFixes  1.5.1<br>
  CullFactory  1.1.4<br>
  OdinSerializer  2022.11.9<br>
- ScarletDevilMansion  1.3.19<br>
+ ScarletDevilMansion  1.3.20<br>
  ShockwaveDroneEnemy  0.6.2<br>
  AutomaticInventoryFixPlugin  2.0.0<br>
  Gnomes  2.1.18<br>
@@ -116,7 +116,6 @@ List of mods:<br>
  ButteryFixes  1.5.1<br>
  Matty_Fixes  1.0.21<br>
  Surfaced  1.0.3<br>
- HealthMetrics  1.0.2<br>
  HarmonyXTranspilerFix  1.0.0<br>
  LethalPerformance  0.0.9<br>
  GeneralImprovements  1.3.0<br>
