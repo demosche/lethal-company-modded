@@ -2514,7 +2514,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DiggC-CruiserImproved\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiggC-CruiserImproved\icon.png
 - manifestVersion: 1
   name: Dev1A3-BetterVehicleControls
   authorName: Dev1A3
@@ -2604,8 +2604,8 @@
     major: 1
     minor: 5
     patch: 1
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-ButteryFixes\icon.png
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-ButteryFixes\1.5.1\icon.png
 - manifestVersion: 1
   name: mattymatty-Matty_Fixes
   authorName: mattymatty
@@ -2627,8 +2627,8 @@
     major: 1
     minor: 0
     patch: 21
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mattymatty-Matty_Fixes\icon.png
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mattymatty-Matty_Fixes\1.0.21\icon.png
 - manifestVersion: 1
   name: SurfacedTeam-Surfaced
   authorName: SurfacedTeam
