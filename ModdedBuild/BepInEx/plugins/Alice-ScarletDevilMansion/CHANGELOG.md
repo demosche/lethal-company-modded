@@ -157,4 +157,13 @@ Added some safety railings to some of the pit rooms
 Redid library 2F rooms into two smaller versions\
 Added new pit room\
 Added some sound effects and lighting to the pit rooms\
-Added clock spawns to some doorways
+Added clock spawns to some doorways\
+Scarlet Knife now deals 50 damage or 50% of current health, whichever is higher
+
+## 1.3.21
+
+Closed up a missing ceilings\
+Added new scarlet key (it's just red) to help with visibility\
+Changed the pit room's fog visuals a bit\
+Made one of the pit rooms easier\
+Added Sanguine to the interior's spawn list

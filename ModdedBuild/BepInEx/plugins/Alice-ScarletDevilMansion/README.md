@@ -1,14 +1,12 @@
 ### Required by all clients
 
-### New enemy and items
-
-### 이제 비공식 한국어 패치를 넣고 실행할 때 걸리던 오류를 고쳐습니다
+### Final v1.3 update. Stay tuned for v2.0
 
 # The Scarlet Devil Mansion（紅魔館）
 
 Adds the Scarlet Devil Mansion from Touhou as a possible dungeon for the snow moons (Dine, Rend, Tital). By default the chances are about 50% split between the regular mansion dungeon and the SDM dungeon. In the Lethal Level Loader config, you can edit the spawn weight for any of the snow maps as well as any vanilla or custom moon.
 
-This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/).
+This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/). By default the chances are about 75% for the SDM dungeon to appear.
 
 [Sanguineの月](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/)と一緒に使うことを勧める。
 
@@ -52,7 +50,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   こちらをどうぞ
   </summary>
 
-  SDMダンジョンをLethalLevelLoader(LLL)コンフィグに表示するには、このMODを入れた状態でLethal Companyを起動し、セーブをロードする必要がある。これで自動的にLLLコンフィグにSDMダンジョンがつけられる。
+  SDMダンジョンをLethalLevelLoader(LLL)コンフィグに表示するには、このMODが入ってLethal Companyを起動し、セーブをロードする必要がある。これで自動的にLLLコンフィグにSDMダンジョンがつけられる。
   
   r2modmanでコンフィグを開くか、BepInExフォルダ内のコンフィグファイルを開く。
   
@@ -184,7 +182,7 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   <br>
   <b>The Maid's Knife</b>
   <br>
-  Acts like the kitchen knife. Drops from the Maid. You can feed the knife 50 health to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the full damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. 
+  Acts like the kitchen knife. Drops from the Maid. You can feed the knife 50 health (or 50% of your current health, whichever is higher) to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the full damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. 
   <br>
   <img src="https://i.imgur.com/DkFE8Wx.png">
   
@@ -226,7 +224,6 @@ The following mods either have unique compatibilities or made to work with SDM:
 * [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (Custom fire exits can also be mimics. Interior name **must** be added to the Mimics config under Interior whitelist. Name is "SDMLevel")
 * [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) (Can be activated by the dungeon event. **Must** be enabled in the config)
 * [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) (The decorative flashights can be placed in the flashlight slot)
-* AdvancedCompany (Works with previous versions, but the custom items/enemies may not spawn with the current versions. Sorry but I will not fix this)
 
 ## Roadmap in General
 
