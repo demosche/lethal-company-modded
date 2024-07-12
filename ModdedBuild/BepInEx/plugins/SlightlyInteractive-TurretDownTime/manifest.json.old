@@ -1,8 +1,0 @@
-{
-    "name": "TurretDownTime",
-    "version_number": "0.1.0",
-    "website_url": "",
-    "description": "Configure the time that turrets stay disabled for.",
-    "dependencies": [
-    ]
-}

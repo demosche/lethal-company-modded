@@ -1303,27 +1303,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Hexnet111-Excuse_me\icon.png
 - manifestVersion: 1
-  name: SlightlyInteractive-TurretDownTime
-  authorName: SlightlyInteractive
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/SlightlyInteractive/TurretDownTime/
-  displayName: TurretDownTime
-  description: Configure the time that turrets stay disabled for.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 0
-  loaders: []
-  dependencies: []
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 1
-    patch: 0
-  enabled: false
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SlightlyInteractive-TurretDownTime\0.1.0\icon.png
-- manifestVersion: 1
   name: jockie-LethalExpansionCore
   authorName: jockie
   websiteUrl: https://thunderstore.io/c/lethal-company/p/jockie/LethalExpansionCore/
@@ -2397,7 +2376,7 @@
     minor: 1
     patch: 15
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.15\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2582,53 +2561,6 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\phawitpp-SuperLandmine\icon.png
-- manifestVersion: 1
-  name: ButteryStancakes-ButteryFixes
-  authorName: ButteryStancakes
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/
-  displayName: ButteryFixes
-  description: Fixes a lot of miscellaneous gameplay issues with vanilla. See
-    store description for more details (and recommendations for other great
-    bugfix packages)
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1720509642483
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 5
-    patch: 1
-  enabled: false
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-ButteryFixes\1.5.1\icon.png
-- manifestVersion: 1
-  name: mattymatty-Matty_Fixes
-  authorName: mattymatty
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/
-  displayName: Matty_Fixes
-  description: A collection of Fixes for the vanilla game, with focus on vanilla
-    compatibility.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1720447941576
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 21
-  enabled: false
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mattymatty-Matty_Fixes\1.0.21\icon.png
 - manifestVersion: 1
   name: SurfacedTeam-Surfaced
   authorName: SurfacedTeam
