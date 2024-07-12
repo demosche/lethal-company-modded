@@ -1,0 +1,10 @@
+{
+    "name": "Haunted",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/xScone/Gnomes-Dev",
+    "description": "Ever wanted to be haunted while looking for scrap? Well...this is the mod for you!",
+    "dependencies": [
+        "Evaisa-LethalLib-0.16.0",
+		"BepInEx-BepInExPack-5.4.2100"
+    ]
+}

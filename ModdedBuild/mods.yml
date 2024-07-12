@@ -311,7 +311,7 @@
     minor: 16
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\0.16.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
@@ -2743,3 +2743,27 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KarmaModding-NoFacingFireExit\icon.png
+- manifestVersion: 1
+  name: Sconeys-Haunted
+  authorName: Sconeys
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sconeys/Haunted/
+  displayName: Haunted
+  description: Ever wanted to be haunted while looking for scrap? Well...this is
+    the mod for you!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1720796883930
+  loaders: []
+  dependencies:
+    - Evaisa-LethalLib-0.16.0
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Haunted\1.0.1\icon.png
