@@ -58,7 +58,6 @@ List of mods:<br>
  BetterLadders  1.4.3<br>
  BetterLightning  1.0.3<br>
  Excuse_me  1.0.4<br>
- TurretDownTime  0.1.0<br>
  LethalExpansionCore  1.3.15<br>
  LCConductivityRework  1.0.2<br>
  RollingGiant  2.6.0<br>
@@ -71,7 +70,7 @@ List of mods:<br>
  LethalLevelLoader  1.2.4<br>
  PoolRooms  0.1.22<br>
  EnemySoundFixes  1.5.1<br>
- CullFactory  1.1.4<br>
+ CullFactory  1.1.5<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.21<br>
  ShockwaveDroneEnemy  0.6.2<br>
@@ -113,12 +112,8 @@ List of mods:<br>
  BetterVehicleControls  1.1.1<br>
  CruiserMap  1.0.0<br>
  SuperLandmine  1.1.3<br>
- ButteryFixes  1.5.1<br>
- Matty_Fixes  1.0.21<br>
  Surfaced  1.0.3<br>
- HarmonyXTranspilerFix  1.0.0<br>
- LethalPerformance  0.0.9<br>
  GeneralImprovements  1.3.0<br>
  NoFacingFireExit  1.0.0<br>
- Haunted  1.0.1<br>
+ Haunted  1.0.2<br>
 

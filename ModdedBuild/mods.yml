@@ -1607,7 +1607,7 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\fumiko-CullFactory\1.1.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\fumiko-CullFactory\icon.png
 - manifestVersion: 1
   name: Lordfirespeed-OdinSerializer
   authorName: Lordfirespeed
@@ -2641,7 +2641,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720796883930
+  installedAtTime: 1720867108065
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.16.0
@@ -2651,6 +2651,6 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Haunted\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Haunted\1.0.2\icon.png

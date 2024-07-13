@@ -1,6 +1,9 @@
 # Haunted!
 This mod features a completely custom AI, a poltergeist and hopefully more in the future!
 
+![](https://i.imgur.com/AsBCgpT.png)
+
+
 # Current Features:
 - One poltergeist enemy!
 	- Steals scrap from the ground and runs away from players with it!
@@ -25,3 +28,5 @@ This mod features a completely custom AI, a poltergeist and hopefully more in th
 
 ### Version 1.0.0
 - Release!
+### Version 1.0.2
+- Fixed the poltergeist making the scrap fly thousands of metres into the sky.
