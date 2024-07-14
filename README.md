@@ -86,7 +86,7 @@ List of mods:<br>
  LightningRod  1.0.3<br>
  StopBeesOpeningDoors  1.1.0<br>
  LCTerminalMultiCodes  1.0.0<br>
- BetterEmotes  1.5.2<br>
+ BetterEmotes  1.5.3<br>
  SnowyHolidayDropship  1.1.0<br>
  JetpackFixes  1.4.1<br>
  ChocoQuota  1.0.6<br>
