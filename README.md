@@ -116,4 +116,5 @@ List of mods:<br>
  GeneralImprovements  1.3.0<br>
  NoFacingFireExit  1.0.0<br>
  Haunted  1.0.2<br>
+ WeedKillerFixes  1.0.0<br>
 

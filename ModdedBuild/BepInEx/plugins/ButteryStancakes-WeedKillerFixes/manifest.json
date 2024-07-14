@@ -1,0 +1,9 @@
+{
+    "name": "WeedKillerFixes",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/ButteryStancakes/WeedKillerFixes",
+    "description": "Fixes several gamebreaking issues with weed killer, including a softlock with the Company Cruiser.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
