@@ -2342,7 +2342,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720158467979
+  installedAtTime: 1720968598745
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2350,10 +2350,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 1
-    patch: 5
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.0\icon.png
 - manifestVersion: 1
   name: mrov-WeatherRegistry
   authorName: mrov
@@ -2676,4 +2676,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-WeedKillerFixes\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-WeedKillerFixes\icon.png
