@@ -2377,7 +2377,7 @@
     minor: 1
     patch: 16
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.16\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2505,7 +2505,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720682938127
+  installedAtTime: 1721024513960
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2515,9 +2515,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-BetterVehicleControls\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-BetterVehicleControls\1.1.2\icon.png
 - manifestVersion: 1
   name: Piggy-CruiserMap
   authorName: Piggy
