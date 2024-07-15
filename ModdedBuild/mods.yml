@@ -267,7 +267,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-Coroner\2.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
@@ -2365,7 +2365,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720799944167
+  installedAtTime: 1721024477595
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2375,9 +2375,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 15
+    patch: 16
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.16\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov

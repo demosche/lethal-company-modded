@@ -103,7 +103,7 @@ List of mods:<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.2.0<br>
- WeatherRegistry  0.1.15<br>
+ WeatherRegistry  0.1.16<br>
  BetaWeatherTweaksBeta  0.20.8<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
