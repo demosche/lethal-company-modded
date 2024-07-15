@@ -2,213 +2,436 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
     <tags>
-        <tag language="en" />
+        <tag language="test" />
     </tags>
     <strings>
-        <!--
-            Translation Notes:
-            This is the default localization file for Coroner.
-            
-            By default, any of the `FunnyNote` or `Death` strings are dynamically chosen at random.
-            If the `SeriousDeathMessages` option is enabled, the first `Death` message found in the file is used,
-                so make this one literal and specific.
-            The other ones can be puns or jokes, and options can be added or removed as needed, just make sure
-                to keep the correct tags, and make sure that there is at least one message for each `Death` type.
-        -->
-
         <UINotes text="Notes: " /> <!-- TN: First line of the notes if the player hasn't died. -->
         <UICauseOfDeath text="Cause of Death: " /> <!-- TN: First line of the notes if the player has died. -->
 
-        <!--
-            TN: Funny Notes
-            If the player has not died, and has no performance notes to display,
-            one of these will be chosen at random, so that nobody has no notes.
-        -->
+        <FunnyNote text="FunnyNote 1" />
+        <FunnyNote text="FunnyNote 2" />
+        <FunnyNote text="FunnyNote 3" />
+        <FunnyNote text="FunnyNote 4" />
+        <FunnyNote text="FunnyNote 5" />
+        <FunnyNote text="FunnyNote 6" />
+        <FunnyNote text="FunnyNote 7" />
+        <FunnyNote text="FunnyNote 8" />
+        <FunnyNote text="FunnyNote 9" />
 
-        <FunnyNote text="The goofiest goober." /> <!-- TN: Spongebob reference -->
-        <FunnyNote text="The cutest employee." />
-        <FunnyNote text="Had the most fun." />
-        <FunnyNote text="Had the least fun." />
-        <FunnyNote text="The bravest employee." />
-        <FunnyNote text="Did a sick flip." />
-        <FunnyNote text="Stubbed their toe." />
-        <FunnyNote text="The most likely to die next time." />
-        <FunnyNote text="The least likely to die next time." />
-        <FunnyNote text="Dislikes smoke." /> <!-- TN: Legend of Zelda reference -->
-        <FunnyNote text="A team player." />
-        <FunnyNote text="A real go-getter." />
-        <FunnyNote text="Ate the most snacks." />
-        <FunnyNote text="Passed GO and collected $200." /> <!-- TN: Spongebob reference -->
-        <FunnyNote text="Got freaky on a Friday night." /> <!-- TN: Friday Night Funkin' reference -->
-        <FunnyNote text="I think this one's a serial killer." />
-        <FunnyNote text="Perfectly unremarkable." />
-        <FunnyNote text="Hasn't called their mother in a while." />
-        <FunnyNote text="Has IP address 127.0.0.1." /> <!-- TN: This note pretends to dox the user but actually specifies the loopback IP address. -->
-        <FunnyNote text="Secretly a lizard." />
+        <DeathBludgeoning text="[GENERIC] Bludgeoning 1" />
+        <DeathBludgeoning text="[GENERIC] Bludgeoning 2" />
+        <DeathBludgeoning text="[GENERIC] Bludgeoning 3" />
+        <DeathBludgeoning text="[GENERIC] Bludgeoning 4" />
+        <DeathBludgeoning text="[GENERIC] Bludgeoning 5" />
 
-        <!--
-            TN: Generic Death Messages
-            Generally, causes of death like bludgeoning, strangulation, and blasts will be overridden by messages specific to that type.
-            These are fallbacks for when there is no specific message. Try to make these broadly applicable.
-        -->
+        <DeathGravity text="Gravity 1" />
+        <DeathGravity text="Gravity 2" />
+        <DeathGravity text="Gravity 3" />
+        <DeathGravity text="Gravity 4" />
+        <DeathGravity text="Gravity 5" />
 
-        <DeathBludgeoning text="Bludgeoned to death." />
+        <DeathBlast text="[GENERIC] Blast 1" />
+        <DeathBlast text="[GENERIC] Blast 2" />
+        <DeathBlast text="[GENERIC] Blast 3" />
+        <DeathBlast text="[GENERIC] Blast 4" />
+        <DeathBlast text="[GENERIC] Blast 5" />
 
-        <!-- 
-            <DeathGravity text="Fell to their death." />
-            <DeathGravity text="Fell off a cliff." />
-        -->
+        <DeathStrangulation text="[GENERIC] Strangulation 1" />
+        <DeathStrangulation text="[GENERIC] Strangulation 2" />
+        <DeathStrangulation text="[GENERIC] Strangulation 3" />
+        <DeathStrangulation text="[GENERIC] Strangulation 4" />
+        <DeathStrangulation text="[GENERIC] Strangulation 5" />
 
-        <DeathBlast text="Exploded." />
-        <DeathBlast text="Went out with a bang." />
-        <DeathBlast text="Was blown to smithereens." />
+        <DeathSuffocation text="[GENERIC] Suffocation 1" />
+        <DeathSuffocation text="[GENERIC] Suffocation 2" />
+        <DeathSuffocation text="[GENERIC] Suffocation 3" />
+        <DeathSuffocation text="[GENERIC] Suffocation 4" />
+        <DeathSuffocation text="[GENERIC] Suffocation 5" />
 
-        <DeathStrangulation text="Strangled to death." />
+        <DeathMauling text="[GENERIC] Mauling 1" />
+        <DeathMauling text="[GENERIC] Mauling 2" />
+        <DeathMauling text="[GENERIC] Mauling 3" />
+        <DeathMauling text="[GENERIC] Mauling 4" />
+        <DeathMauling text="[GENERIC] Mauling 5" />
 
-        <DeathSuffocation text="Suffocated to death." />
+        <DeathGunshots text="[GENERIC] Gunshots 1" />
+        <DeathGunshots text="[GENERIC] Gunshots 2" />
+        <DeathGunshots text="[GENERIC] Gunshots 3" />
+        <DeathGunshots text="[GENERIC] Gunshots 4" />
+        <DeathGunshots text="[GENERIC] Gunshots 5" />
 
-        <DeathMauling text="Mauled to death." />
+        <DeathCrushing text="[GENERIC] Crushing 1" />
+        <DeathCrushing text="[GENERIC] Crushing 2" />
+        <DeathCrushing text="[GENERIC] Crushing 3" />
+        <DeathCrushing text="[GENERIC] Crushing 4" />
+        <DeathCrushing text="[GENERIC] Crushing 5" />
 
-        <DeathGunshots text="Shot to death." />
-        <DeathGunshots text="Filled to the brim with bullets." />
+        <DeathDrowning text="Drowned 1" />
+        <DeathDrowning text="Drowned 2" />
+        <DeathDrowning text="Drowned 3" />
+        <DeathDrowning text="Drowned 4" />
+        <DeathDrowning text="Drowned 5" />
 
-        <DeathCrushing text="Crushed to death." />
+        <DeathAbandoned text="Abandoned 1" />
+        <DeathAbandoned text="Abandoned 2" />
+        <DeathAbandoned text="Abandoned 3" />
+        <DeathAbandoned text="Abandoned 4" />
+        <DeathAbandoned text="Abandoned 5" />
 
-        <DeathDrowning text="Drowned to death." />
+        <DeathElectrocution text="[GENERIC] Electrocution 1" />
+        <DeathElectrocution text="[GENERIC] Electrocution 2" />
+        <DeathElectrocution text="[GENERIC] Electrocution 3" />
+        <DeathElectrocution text="[GENERIC] Electrocution 4" />
+        <DeathElectrocution text="[GENERIC] Electrocution 5" />
 
-        <DeathAbandoned text="Abandoned by their coworkers." />
+        <DeathKicking text="[GENERIC] Kicking 1" />
+        <DeathKicking text="[GENERIC] Kicking 2" />
+        <DeathKicking text="[GENERIC] Kicking 3" />
+        <DeathKicking text="[GENERIC] Kicking 4" />
+        <DeathKicking text="[GENERIC] Kicking 5" />
 
-        <DeathElectrocution text="Electrocuted to death." />
+        <DeathBurning text="[GENERIC] Burning 1" />
+        <DeathBurning text="[GENERIC] Burning 2" />
+        <DeathBurning text="[GENERIC] Burning 3" />
+        <DeathBurning text="[GENERIC] Burning 4" />
+        <DeathBurning text="[GENERIC] Burning 5" />
 
-        <DeathKicking text="Kicked to death." />
+        <DeathStabbing text="[GENERIC] Stabbing 1" />
+        <DeathStabbing text="[GENERIC] Stabbing 2" />
+        <DeathStabbing text="[GENERIC] Stabbing 3" />
+        <DeathStabbing text="[GENERIC] Stabbing 4" />
+        <DeathStabbing text="[GENERIC] Stabbing 5" />
 
-        <!-- 
-            TN: Enemy Death Messages
-            These are messages for when the player is killed by a specific enemy.
-            Try to keep these high quality since they will be the ones players see the most.
-        -->
+        <DeathFan text="Fan 1" />
+        <DeathFan text="Fan 2" />
+        <DeathFan text="Fan 3" />
+        <DeathFan text="Fan 4" />
+        <DeathFan text="Fan 5" />
 
-        <DeathEnemyBracken text="Had their neck snapped by a Bracken." />
-        <DeathEnemyBracken text="Stared at a Bracken too long." />
+        <DeathEnemyBracken text="Bracken 1" />
+        <DeathEnemyBracken text="Bracken 2" />
+        <DeathEnemyBracken text="Bracken 3" />
+        <DeathEnemyBracken text="Bracken 4" />
+        <DeathEnemyBracken text="Bracken 5" />
 
-        <DeathEnemyEyelessDog text="Was eaten by an Eyeless Dog." />
-        <DeathEnemyEyelessDog text="Got caught using a mechanical keyboard." />
-        <DeathEnemyEyelessDog text="Wasn't quiet around an Eyeless Dog." />
+        <DeathEnemyEyelessDog text="Eyeless Dog 1" />
+        <DeathEnemyEyelessDog text="Eyeless Dog 2" />
+        <DeathEnemyEyelessDog text="Eyeless Dog 3" />
+        <DeathEnemyEyelessDog text="Eyeless Dog 4" />
+        <DeathEnemyEyelessDog text="Eyeless Dog 5" />
 
-        <DeathEnemyForestGiant text="Swallowed whole by a Forest Giant." />
+        <DeathEnemyForestGiantEaten text="Forest Giant (Eaten) 1" />
+        <DeathEnemyForestGiantEaten text="Forest Giant (Eaten) 2" />
+        <DeathEnemyForestGiantEaten text="Forest Giant (Eaten) 3" />
+        <DeathEnemyForestGiantEaten text="Forest Giant (Eaten) 4" />
+        <DeathEnemyForestGiantEaten text="Forest Giant (Eaten) 5" />
 
-        <DeathEnemyCircuitBees text="Electro-stung to death by Circuit Bees." />
+        <DeathEnemyForestGiantDeath text="Forest Giant (Crushed) 1" />
+        <DeathEnemyForestGiantDeath text="Forest Giant (Crushed) 2" />
+        <DeathEnemyForestGiantDeath text="Forest Giant (Crushed) 3" />
+        <DeathEnemyForestGiantDeath text="Forest Giant (Crushed) 4" />
+        <DeathEnemyForestGiantDeath text="Forest Giant (Crushed) 5" />
 
-        <DeathEnemyGhostGirl text="Died a mysterious death." />
-        <DeathEnemyGhostGirl text="Lost their mind." />
-        <DeathEnemyGhostGirl text="Got a real bad headache." /> <!-- TN: The Ghost Girl causes the player's head to explode. -->
-        <DeathEnemyGhostGirl text="???" />
+        <DeathEnemyCircuitBees text="Circuit Bees 1" />
+        <DeathEnemyCircuitBees text="Circuit Bees 2" />
+        <DeathEnemyCircuitBees text="Circuit Bees 3" />
+        <DeathEnemyCircuitBees text="Circuit Bees 4" />
+        <DeathEnemyCircuitBees text="Circuit Bees 5" />
 
-        <DeathEnemyEarthLeviathan text="Swallowed whole by an Earth Leviathan." />
+        <DeathEnemyGhostGirl text="Ghost Girl 1" />
+        <DeathEnemyGhostGirl text="Ghost Girl 2" />
+        <DeathEnemyGhostGirl text="Ghost Girl 3" />
+        <DeathEnemyGhostGirl text="Ghost Girl 4" />
+        <DeathEnemyGhostGirl text="Ghost Girl 5" />
 
-        <DeathEnemyBaboonHawk text="Was eaten by a Baboon Hawk." />
-        <DeathEnemyBaboonHawk text="Was mauled by a Baboon Hawk." />
+        <DeathEnemyEarthLeviathan text="Earth Leviathan 1" />
+        <DeathEnemyEarthLeviathan text="Earth Leviathan 2" />
+        <DeathEnemyEarthLeviathan text="Earth Leviathan 3" />
+        <DeathEnemyEarthLeviathan text="Earth Leviathan 4" />
+        <DeathEnemyEarthLeviathan text="Earth Leviathan 5" />
 
-        <DeathEnemyJester text="Mauled to death by a Jester." />
-        <DeathEnemyJester text="Was the butt of the Jester's joke." />
-        <DeathEnemyJester text="Got pranked by the Jester." />
-        <DeathEnemyJester text="Got popped like a weasel." /> <!-- TN: "Pop Goes The Weasel" is the song used by Jack-in-the-box toys. -->
+        <DeathEnemyBaboonHawk text="Baboon Hawk 1" />
+        <DeathEnemyBaboonHawk text="Baboon Hawk 2" />
+        <DeathEnemyBaboonHawk text="Baboon Hawk 3" />
+        <DeathEnemyBaboonHawk text="Baboon Hawk 4" />
+        <DeathEnemyBaboonHawk text="Baboon Hawk 5" />
 
-        <DeathEnemyCoilHead text="Mauled to death by a Coil Head." />
-        <DeathEnemyCoilHead text="Got in a staring contest with a Coil Head." />
-        <DeathEnemyCoilHead text="Lost a staring contest with a Coil Head." />
+        <DeathEnemyJester text="Jester 1" />
+        <DeathEnemyJester text="Jester 2" />
+        <DeathEnemyJester text="Jester 3" />
+        <DeathEnemyJester text="Jester 4" />
+        <DeathEnemyJester text="Jester 5" />
 
-        <DeathEnemySnareFlea text="Was suffocated by a Snare Flea." />
+        <DeathEnemyCoilHead text="Coil Head 1" />
+        <DeathEnemyCoilHead text="Coil Head 2" />
+        <DeathEnemyCoilHead text="Coil Head 3" />
+        <DeathEnemyCoilHead text="Coil Head 4" />
+        <DeathEnemyCoilHead text="Coil Head 5" />
 
-        <DeathEnemyHygrodere text="Was absorbed by a Hygrodere." />
-        <DeathEnemyHygrodere text="Got lost in the sauce." />
-        <DeathEnemyHygrodere text="Had an oopsie with a Hygrodere." />
+        <DeathEnemySnareFlea text="Snare Flea 1" />
+        <DeathEnemySnareFlea text="Snare Flea 2" />
+        <DeathEnemySnareFlea text="Snare Flea 3" />
+        <DeathEnemySnareFlea text="Snare Flea 4" />
+        <DeathEnemySnareFlea text="Snare Flea 5" />
 
-        <DeathEnemyHoarderBug text="Was mauled by a Hoarder Bug." />
-        <DeathEnemyHoarderBug text="Was swarmed by a Hoarder Bug." />
-        <DeathEnemyHoarderBug text="Was hoarded by a Hoarder Bug." />
-        <DeathEnemyHoarderBug text="Tried to steal from a Hoarder Bug." />
+        <DeathEnemyHygrodere text="Hygrodere 1" />
+        <DeathEnemyHygrodere text="Hygrodere 2" />
+        <DeathEnemyHygrodere text="Hygrodere 3" />
+        <DeathEnemyHygrodere text="Hygrodere 4" />
+        <DeathEnemyHygrodere text="Hygrodere 5" />
 
-        <DeathEnemySporeLizard text="Was bitten by a Spore Lizard." />
-        <DeathEnemySporeLizard text="Was puffed by a Spore Lizard." />
+        <DeathEnemyHoarderBug text="Hoarder Bug 1" />
+        <DeathEnemyHoarderBug text="Hoarder Bug 2" />
+        <DeathEnemyHoarderBug text="Hoarder Bug 3" />
+        <DeathEnemyHoarderBug text="Hoarder Bug 4" />
+        <DeathEnemyHoarderBug text="Hoarder Bug 5" />
 
-        <DeathEnemyBunkerSpider text="Ensnared in the Bunker Spider's web." />
+        <DeathEnemyLassoMan text="Lasso Man 1" />
+        <DeathEnemyLassoMan text="Lasso Man 2" />
+        <DeathEnemyLassoMan text="Lasso Man 3" />
+        <DeathEnemyLassoMan text="Lasso Man 4" />
+        <DeathEnemyLassoMan text="Lasso Man 5" />
 
-        <DeathEnemyThumper text="Was ravaged by a Thumper." />
-        <DeathEnemyThumper text="Got thumped by a Thumper." />
+        <DeathEnemySporeLizard text="Spore Lizard 1" />
+        <DeathEnemySporeLizard text="Spore Lizard 2" />
+        <DeathEnemySporeLizard text="Spore Lizard 3" />
+        <DeathEnemySporeLizard text="Spore Lizard 4" />
+        <DeathEnemySporeLizard text="Spore Lizard 5" />
 
-        <!-- 
-            TN: v45 Enemy Death Messages
-            Messages used for enemies added in v45.
-            Most of these enemies have multiple ways they can kill you, so make sure you don't mix them up.
-        -->
+        <DeathEnemyBunkerSpider text="Bunker Spider 1" />
+        <DeathEnemyBunkerSpider text="Bunker Spider 2" />
+        <DeathEnemyBunkerSpider text="Bunker Spider 3" />
+        <DeathEnemyBunkerSpider text="Bunker Spider 4" />
+        <DeathEnemyBunkerSpider text="Bunker Spider 5" />
 
-        <DeathEnemyMaskedPlayerWear text="Donned the Mask." /> <!-- TN: Message used when the player is transformed into a Masked Player enemy -->
-        <DeathEnemyMaskedPlayerWear
-            text="Nobody cared who they were until they put on the Mask." /> <!-- TN: The Dark Knight Rises reference -->
+        <DeathEnemyThumper text="Thumper 1" />
+        <DeathEnemyThumper text="Thumper 2" />
+        <DeathEnemyThumper text="Thumper 3" />
+        <DeathEnemyThumper text="Thumper 4" />
+        <DeathEnemyThumper text="Thumper 5" />
 
-        <DeathEnemyMaskedPlayerVictim text="Was killed by a Masked coworker." /> <!-- TN: Message used when a Masked Player (even one that spawned naturally) attacks and kills a player. -->
-        <DeathEnemyMaskedPlayerVictim text="Became a tragedy at the hands of the Mask." /> <!-- TN: A reference to the Tragedy Mask that transforms players who pick it up. -->
+        <DeathEnemyMaskedPlayerWear text="Masked Player (Wear) 1" />
+        <DeathEnemyMaskedPlayerWear text="Masked Player (Wear) 2" />
+        <DeathEnemyMaskedPlayerWear text="Masked Player (Wear) 3" />
+        <DeathEnemyMaskedPlayerWear text="Masked Player (Wear) 4" />
+        <DeathEnemyMaskedPlayerWear text="Masked Player (Wear) 5" />
 
-        <DeathEnemyNutcrackerKicked text="Was kicked to death by a Nutcracker." /> <!-- TN: Used when a Nutcracker kills a player that happens to walk in its path -->
-        <DeathEnemyNutcrackerKicked text="Got their nuts cracked by a Nutcracker." />
+        <DeathEnemyMaskedPlayerVictim text="Masked Player (Victim) 1" />
+        <DeathEnemyMaskedPlayerVictim text="Masked Player (Victim) 2" />
+        <DeathEnemyMaskedPlayerVictim text="Masked Player (Victim) 3" />
+        <DeathEnemyMaskedPlayerVictim text="Masked Player (Victim) 4" />
+        <DeathEnemyMaskedPlayerVictim text="Masked Player (Victim) 5" />
 
-        <DeathEnemyNutcrackerShot text="Got shot by a Nutcracker." /> <!-- TN: Used when a nutcracker -->
-        <DeathEnemyNutcrackerShot text="Was at the wrong end of a 21-gun salute." />
+        <DeathEnemyNutcrackerKicked text="Nutcracker (Kicked) 1" />
+        <DeathEnemyNutcrackerKicked text="Nutcracker (Kicked) 2" />
+        <DeathEnemyNutcrackerKicked text="Nutcracker (Kicked) 3" />
+        <DeathEnemyNutcrackerKicked text="Nutcracker (Kicked) 4" />
+        <DeathEnemyNutcrackerKicked text="Nutcracker (Kicked) 5" />
 
-        <!-- 
-            TN: Player Death Messages
-            These are messages for when the player dies due to player-related means,
-            such as murder or using an item improperly.
-        -->
+        <DeathEnemyNutcrackerShot text="Nutcracker (Shot) 1" />
+        <DeathEnemyNutcrackerShot text="Nutcracker (Shot) 2" />
+        <DeathEnemyNutcrackerShot text="Nutcracker (Shot) 3" />
+        <DeathEnemyNutcrackerShot text="Nutcracker (Shot) 4" />
+        <DeathEnemyNutcrackerShot text="Nutcracker (Shot) 5" />
 
-        <DeathPlayerJetpackGravity text="Fell while using a jetpack." /> <!-- TN: Message used when the player dies of fall damage while holding a jetpack. -->
-        <DeathPlayerJetpackGravity text="Flew too close to the sun." /> <!-- TN: Reference to Icarus of Greek mythology -->
-        <DeathPlayerJetpackGravity text="Ran out of fuel." />
+        <DeathEnemyButlerStab text="Butler (Stab) 1" />
+        <DeathEnemyButlerStab text="Butler (Stab) 2" />
+        <DeathEnemyButlerStab text="Butler (Stab) 3" />
+        <DeathEnemyButlerStab text="Butler (Stab) 4" />
+        <DeathEnemyButlerStab text="Butler (Stab) 5" />
 
-        <DeathPlayerJetpackBlast text="Blew up while using a Jetpack." /> <!-- TN: Message used when the player uses the jetpack too long and it explodes. -->
-        <DeathPlayerJetpackBlast text="Turned into a firework." />
+        <DeathEnemyButlerExplode text="Butler (Explode) 1" />
+        <DeathEnemyButlerExplode text="Butler (Explode) 2" />
+        <DeathEnemyButlerExplode text="Butler (Explode) 3" />
+        <DeathEnemyButlerExplode text="Butler (Explode) 4" />
+        <DeathEnemyButlerExplode text="Butler (Explode) 5" />
 
-        <DeathPlayerMurderMelee text="Was bludgeoned to death by a coworker." /> <!-- TN: Used when a player kills another player with a shovel. -->
-        <DeathPlayerMurderMelee text="Was the victim of a murder." />
-        <DeathPlayerMurderMelee text="Got murdered." />
-        <DeathPlayerMurderMelee text="Got backstabbed by a coworker." />
+        <DeathEnemyMaskHornets text="Mask Hornets 1" />
+        <DeathEnemyMaskHornets text="Mask Hornets 2" />
+        <DeathEnemyMaskHornets text="Mask Hornets 3" />
+        <DeathEnemyMaskHornets text="Mask Hornets 4" />
+        <DeathEnemyMaskHornets text="Mask Hornets 5" />
 
-        <DeathPlayerMurderShotgun text="Was shot to death by a coworker." /> <!-- TN: Used when a player kills another player with the Nutcracker's shotgun. -->
-        <DeathPlayerMurderShotgun text="Was the victim of a murder." />
-        <DeathPlayerMurderShotgun text="Got murdered." />
-        <DeathPlayerMurderShotgun text="Got one-pumped by a coworker." />
-        <DeathPlayerMurderShotgun text="Got 360-noscoped by a coworker." />
+        <DeathEnemyTulipSnakeDrop text="Tulip Snake (Drop) 1" />
+        <DeathEnemyTulipSnakeDrop text="Tulip Snake (Drop) 2" />
+        <DeathEnemyTulipSnakeDrop text="Tulip Snake (Drop) 3" />
+        <DeathEnemyTulipSnakeDrop text="Tulip Snake (Drop) 4" />
+        <DeathEnemyTulipSnakeDrop text="Tulip Snake (Drop) 5" />
 
-        <DeathPlayerLadder text="Got crushed by an Extension Ladder." /> <!-- TN: Used when a player stands underneath an Extension Ladder and gets crushed. -->
-        <DeathPlayerLadder text="Was squashed by an Extension Ladder." />
+        <DeathEnemyOldBirdRocket text="Old Bird (Rocket) 1" />
+        <DeathEnemyOldBirdRocket text="Old Bird (Rocket) 2" />
+        <DeathEnemyOldBirdRocket text="Old Bird (Rocket) 3" />
+        <DeathEnemyOldBirdRocket text="Old Bird (Rocket) 4" />
+        <DeathEnemyOldBirdRocket text="Old Bird (Rocket) 5" />
 
-        <DeathPlayerQuicksand text="Got stuck in quicksand." />
-        <DeathPlayerQuicksand text="Drowned in quicksand." />
+        <DeathEnemyOldBirdStomp text="Old Bird (Stomp) 1" />
+        <DeathEnemyOldBirdStomp text="Old Bird (Stomp) 2" />
+        <DeathEnemyOldBirdStomp text="Old Bird (Stomp) 3" />
+        <DeathEnemyOldBirdStomp text="Old Bird (Stomp) 4" />
+        <DeathEnemyOldBirdStomp text="Old Bird (Stomp) 5" />
 
-        <DeathPlayerStunGrenade text="Got flashbanged by a coworker." /> <!-- TN: Yes, the stun grenade can do damage, but not very much. -->
-        <DeathPlayerStunGrenade text="Was the victim of a murder." />
+        <DeathEnemyOldBirdCharge text="Old Bird (Charge) 1" />
+        <DeathEnemyOldBirdCharge text="Old Bird (Charge) 2" />
+        <DeathEnemyOldBirdCharge text="Old Bird (Charge) 3" />
+        <DeathEnemyOldBirdCharge text="Old Bird (Charge) 4" />
+        <DeathEnemyOldBirdCharge text="Old Bird (Charge) 5" />
 
-        <DeathOtherItemDropship text="Was crushed by the Item Dropship." /> <!-- TN: Used when a player stands underneath the Item Dropship and gets crushed. -->
-        <DeathOtherItemDropship text="Couldn't wait for their items." />
-        <DeathOtherItemDropship text="Got too impatient for their items." />
+        <DeathEnemyOldBirdTorch text="Old Bird (Torch) 1" />
+        <DeathEnemyOldBirdTorch text="Old Bird (Torch) 2" />
+        <DeathEnemyOldBirdTorch text="Old Bird (Torch) 3" />
+        <DeathEnemyOldBirdTorch text="Old Bird (Torch) 4" />
+        <DeathEnemyOldBirdTorch text="Old Bird (Torch) 5" />        
 
-        <!--
-            TN: Messages for the tentacle that kills players at the company building.
-            Performance reports don't show up at the company building so this is unused.
-        -->
-        <DeathOtherDepositItemsDesk text="Received a demotion." />
-        <DeathOtherDepositItemsDesk text="Was put on disciplinary leave." />
+        <DeathEnemyKidnapperFox text="Kidnapper Fox 1" />
+        <DeathEnemyKidnapperFox text="Kidnapper Fox 2" />
+        <DeathEnemyKidnapperFox text="Kidnapper Fox 3" />
+        <DeathEnemyKidnapperFox text="Kidnapper Fox 4" />
+        <DeathEnemyKidnapperFox text="Kidnapper Fox 5" />
 
+        <DeathEnemyBarber text="Barber 1" />
+        <DeathEnemyBarber text="Barber 2" />
+        <DeathEnemyBarber text="Barber 3" />
+        <DeathEnemyBarber text="Barber 4" />
+        <DeathEnemyBarber text="Barber 5" />
 
-        <DeathOtherLandmine text="Stepped on a landmine." />
+        <DeathPlayerCruiserDriver text="Cruiser (Driver) 1" />
+        <DeathPlayerCruiserDriver text="Cruiser (Driver) 2" />
+        <DeathPlayerCruiserDriver text="Cruiser (Driver) 3" />
+        <DeathPlayerCruiserDriver text="Cruiser (Driver) 4" />
+        <DeathPlayerCruiserDriver text="Cruiser (Driver) 5" />
 
-        <DeathOtherTurret text="Got shot by a turret." />
+        <DeathPlayerCruiserPassenger text="Cruiser (Passenger) 1" />
+        <DeathPlayerCruiserPassenger text="Cruiser (Passenger) 2" />
+        <DeathPlayerCruiserPassenger text="Cruiser (Passenger) 3" />
+        <DeathPlayerCruiserPassenger text="Cruiser (Passenger) 4" />
+        <DeathPlayerCruiserPassenger text="Cruiser (Passenger) 5" />
 
-        <DeathOtherLightning text="Was struck by lightning." />
+        <DeathPlayerCruiserExplodeBystander text="Cruiser (Explode) 1" />
+        <DeathPlayerCruiserExplodeBystander text="Cruiser (Explode) 2" />
+        <DeathPlayerCruiserExplodeBystander text="Cruiser (Explode) 3" />
+        <DeathPlayerCruiserExplodeBystander text="Cruiser (Explode) 4" />
+        <DeathPlayerCruiserExplodeBystander text="Cruiser (Explode) 5" />
 
-        <DeathUnknown text="Died somehow." />
-        <DeathUnknown text="Most sincerely dead." /> <!-- TN: Wizard of Oz reference -->
-        <DeathUnknown text="Expired in an inexplicable manner." />
+        <DeathPlayerCruiserRanOver text="Cruiser (Ran Over) 1" />
+        <DeathPlayerCruiserRanOver text="Cruiser (Ran Over) 2" />
+        <DeathPlayerCruiserRanOver text="Cruiser (Ran Over) 3" />
+        <DeathPlayerCruiserRanOver text="Cruiser (Ran Over) 4" />
+        <DeathPlayerCruiserRanOver text="Cruiser (Ran Over) 5" />
+
+        <DeathPlayerJetpackGravity text="Jetpack (Gravity) 1" />
+        <DeathPlayerJetpackGravity text="Jetpack (Gravity) 2" />
+        <DeathPlayerJetpackGravity text="Jetpack (Gravity) 3" />
+        <DeathPlayerJetpackGravity text="Jetpack (Gravity) 4" />
+        <DeathPlayerJetpackGravity text="Jetpack (Gravity) 5" />
+
+        <DeathPlayerJetpackBlast text="Jetpack (Blast) 1" />
+        <DeathPlayerJetpackBlast text="Jetpack (Blast) 2" />
+        <DeathPlayerJetpackBlast text="Jetpack (Blast) 3" />
+        <DeathPlayerJetpackBlast text="Jetpack (Blast) 4" />
+        <DeathPlayerJetpackBlast text="Jetpack (Blast) 5" />
+
+        <DeathPlayerMurderShovel text="Murder (Shovel) 1" />
+        <DeathPlayerMurderShovel text="Murder (Shovel) 2" />
+        <DeathPlayerMurderShovel text="Murder (Shovel) 3" />
+        <DeathPlayerMurderShovel text="Murder (Shovel) 4" />
+        <DeathPlayerMurderShovel text="Murder (Shovel) 5" />
+
+        <DeathPlayerMurderStopSign text="Murder (Stop Sign) 1" />
+        <DeathPlayerMurderStopSign text="Murder (Stop Sign) 2" />
+        <DeathPlayerMurderStopSign text="Murder (Stop Sign) 3" />
+        <DeathPlayerMurderStopSign text="Murder (Stop Sign) 4" />
+        <DeathPlayerMurderStopSign text="Murder (Stop Sign) 5" />
+
+        <DeathPlayerMurderYieldSign text="Murder (Yield Sign) 1" />
+        <DeathPlayerMurderYieldSign text="Murder (Yield Sign) 2" />
+        <DeathPlayerMurderYieldSign text="Murder (Yield Sign) 3" />
+        <DeathPlayerMurderYieldSign text="Murder (Yield Sign) 4" />
+        <DeathPlayerMurderYieldSign text="Murder (Yield Sign) 5" />
+
+        <DeathPlayerMurderKnife text="Murder (Knife) 1" />
+        <DeathPlayerMurderKnife text="Murder (Knife) 2" />
+        <DeathPlayerMurderKnife text="Murder (Knife) 3" />
+        <DeathPlayerMurderKnife text="Murder (Knife) 4" />
+        <DeathPlayerMurderKnife text="Murder (Knife) 5" />
+
+        <DeathPlayerMurderShotgun text="Murder (Shotgun) 1" />
+        <DeathPlayerMurderShotgun text="Murder (Shotgun) 2" />
+        <DeathPlayerMurderShotgun text="Murder (Shotgun) 3" />
+        <DeathPlayerMurderShotgun text="Murder (Shotgun) 4" />
+        <DeathPlayerMurderShotgun text="Murder (Shotgun) 5" />
+
+        <DeathPlayerLadder text="Ladder 1" />
+        <DeathPlayerLadder text="Ladder 2" />
+        <DeathPlayerLadder text="Ladder 3" />
+        <DeathPlayerLadder text="Ladder 4" />
+        <DeathPlayerLadder text="Ladder 5" />
+
+        <DeathPlayerQuicksand text="Quicksand 1" />
+        <DeathPlayerQuicksand text="Quicksand 2" />
+        <DeathPlayerQuicksand text="Quicksand 3" />
+        <DeathPlayerQuicksand text="Quicksand 4" />
+        <DeathPlayerQuicksand text="Quicksand 5" />
+
+        <DeathPlayerStunGrenade text="Stun Grenade 1" />
+        <DeathPlayerStunGrenade text="Stun Grenade 2" />
+        <DeathPlayerStunGrenade text="Stun Grenade 3" />
+        <DeathPlayerStunGrenade text="Stun Grenade 4" />
+        <DeathPlayerStunGrenade text="Stun Grenade 5" />
+
+        <DeathPlayerEasterEgg text="Easter Egg 1" />
+        <DeathPlayerEasterEgg text="Easter Egg 2" />
+        <DeathPlayerEasterEgg text="Easter Egg 3" />
+        <DeathPlayerEasterEgg text="Easter Egg 4" />
+        <DeathPlayerEasterEgg text="Easter Egg 5" />
+
+        <DeathOtherItemDropship text="Item Dropship 1" />
+        <DeathOtherItemDropship text="Item Dropship 2" />
+        <DeathOtherItemDropship text="Item Dropship 3" />
+        <DeathOtherItemDropship text="Item Dropship 4" />
+        <DeathOtherItemDropship text="Item Dropship 5" />
+
+        <DeathOtherSpikeTrap text="Spike Trap 1" />
+        <DeathOtherSpikeTrap text="Spike Trap 2" />
+        <DeathOtherSpikeTrap text="Spike Trap 3" />
+        <DeathOtherSpikeTrap text="Spike Trap 4" />
+        <DeathOtherSpikeTrap text="Spike Trap 5" />
+
+        <DeathOtherFacilityPit text="Facility Pit 1" />
+        <DeathOtherFacilityPit text="Facility Pit 2" />
+        <DeathOtherFacilityPit text="Facility Pit 3" />
+        <DeathOtherFacilityPit text="Facility Pit 4" />
+        <DeathOtherFacilityPit text="Facility Pit 5" />
+
+        <DeathOtherDepositItemsDesk text="Deposit Items Desk 1" />
+        <DeathOtherDepositItemsDesk text="Deposit Items Desk 2" />
+        <DeathOtherDepositItemsDesk text="Deposit Items Desk 3" />
+        <DeathOtherDepositItemsDesk text="Deposit Items Desk 4" />
+        <DeathOtherDepositItemsDesk text="Deposit Items Desk 5" />
+
+        <DeathOtherLandmine text="Landmine 1" />
+        <DeathOtherLandmine text="Landmine 2" />
+        <DeathOtherLandmine text="Landmine 3" />
+        <DeathOtherLandmine text="Landmine 4" />
+        <DeathOtherLandmine text="Landmine 5" />
+
+        <DeathOtherTurret text="Turret 1" />
+        <DeathOtherTurret text="Turret 2" />
+        <DeathOtherTurret text="Turret 3" />
+        <DeathOtherTurret text="Turret 4" />
+        <DeathOtherTurret text="Turret 5" />
+
+        <DeathOtherLightning text="Lightning 1" />
+        <DeathOtherLightning text="Lightning 2" />
+        <DeathOtherLightning text="Lightning 3" />
+        <DeathOtherLightning text="Lightning 4" />
+        <DeathOtherLightning text="Lightning 5" />
+
+        <DeathOtherOutOfBounds text="Out of Bounds 1" />
+        <DeathOtherOutOfBounds text="Out of Bounds 2" />
+        <DeathOtherOutOfBounds text="Out of Bounds 3" />
+        <DeathOtherOutOfBounds text="Out of Bounds 4" />
+        <DeathOtherOutOfBounds text="Out of Bounds 5" />
+
+        <DeathUnknown text="!!!UNKNOWN!!!" />
     </strings>
 </base>
