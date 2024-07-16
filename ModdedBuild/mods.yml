@@ -1726,7 +1726,7 @@
     minor: 1
     patch: 19
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.19\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
 - manifestVersion: 1
   name: KawaiiBone-Remnants
   authorName: KawaiiBone
@@ -2700,3 +2700,26 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png
+- manifestVersion: 1
+  name: 33mamaster-LifetimeCruiserWarranty
+  authorName: 33mamaster
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/33mamaster/LifetimeCruiserWarranty/
+  displayName: LifetimeCruiserWarranty
+  description: This mod allows all future re-purchasing of the Company Cruiser to
+    be covered by the warranty.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1721127930912
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\33mamaster-LifetimeCruiserWarranty\1.0.0\icon.png
