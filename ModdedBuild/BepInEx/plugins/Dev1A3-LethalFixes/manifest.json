@@ -2,7 +2,7 @@
   "namespace": "Dev1A3",
   "name": "LethalFixes",
   "description": "Fixes for a bunch of common issues.",
-  "version_number": "1.1.6",
+  "version_number": "1.1.7",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ],
