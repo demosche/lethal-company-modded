@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.5
+- Updated to support v55
+- Fixed an issue where the menu scrollbar would not appear
+
 ## v2.4.1
 - Added a missing game patch
 

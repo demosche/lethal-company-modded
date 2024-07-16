@@ -1,4 +1,4 @@
-# Spectate Enemies v2.4.1
+# Spectate Enemies v2.5.0
 ## by alltoasters
 https://github.com/EBro912/SpectateEnemies
 

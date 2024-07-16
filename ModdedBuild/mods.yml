@@ -529,7 +529,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1721111978098
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -538,10 +538,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 4
-    patch: 1
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AllToasters-SpectateEnemies\2.5.0\icon.png
 - manifestVersion: 1
   name: doggosuki-Huntdown
   authorName: doggosuki
@@ -2354,7 +2354,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
 - manifestVersion: 1
   name: mrov-WeatherRegistry
   authorName: mrov
