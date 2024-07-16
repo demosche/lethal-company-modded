@@ -49,3 +49,4 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed hurt sound playing when attacking its dead body
   - Fixed death sound sometimes not playing
   - Fixed "growling" sound sometimes getting stuck when not dragging a player
+  - Fixed drooling after being killed

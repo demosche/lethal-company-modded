@@ -1440,7 +1440,7 @@
     minor: 1
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-LethalFixes\1.1.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
@@ -1574,7 +1574,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720422575343
+  installedAtTime: 1721151063695
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1583,9 +1583,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.5.2\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko

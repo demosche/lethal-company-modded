@@ -1,3 +1,6 @@
+# v1.5.2
+- Tulip snakes now play hit sound when killed
+- Fixed kidnapper fox drooling after being killed
 # v1.5.1
 - Fixed hardlock when attacking the kidnapper fox
 # v1.5.0
