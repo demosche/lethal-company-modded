@@ -1714,7 +1714,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720590373279
+  installedAtTime: 1721125202428
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.14.2
@@ -1724,9 +1724,9 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 18
+    patch: 19
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.19\icon.png
 - manifestVersion: 1
   name: KawaiiBone-Remnants
   authorName: KawaiiBone
@@ -2699,4 +2699,4 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-BarberFixes\1.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png

@@ -61,3 +61,6 @@
 - Fixed random line next to ship.
 - Fixed desync issues with a new random function.
 - Still gnomes.
+### Version 2.1.19
+- Fixed a bug where any player holding the gnome item would cause host to drop all items.
+- Still gnomes.
