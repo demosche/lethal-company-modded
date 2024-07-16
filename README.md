@@ -117,4 +117,5 @@ List of mods:<br>
  NoFacingFireExit  1.0.0<br>
  Haunted  1.0.2<br>
  WeedKillerFixes  1.0.0<br>
+ BarberFixes  1.0.0<br>
 

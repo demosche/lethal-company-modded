@@ -1,0 +1,9 @@
+{
+    "name": "BarberFixes",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/ButteryStancakes/BarberFixes",
+    "description": "Fixes several MAJOR issues with Barbers.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
