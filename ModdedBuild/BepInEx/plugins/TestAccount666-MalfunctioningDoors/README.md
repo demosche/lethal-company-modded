@@ -14,9 +14,10 @@ These are all Malfunctions this mod currently adds:
 - Open / Close Malfunction (Doors will sometimes refuse to open/close)
 - Lock Malfunction (Doors might lock themselves, forcing them to stay open or closed until a key is used)
 - Eat Key Malfunction (Doors might eat keys instead of unlocking)
-- Explode Malfunction (A ghost hand might push you away and deal damage by doing so. You can just open them and walk
+- Ghost Hand Malfunction (A ghost hand might push you away and deal damage by doing so. You can just open them and walk
   through, but be careful when they are closed!)
 - Random Open / Close Malfunction (Doors will just open and close randomly)
+- No You (Door will open *you*)
 
 This mod also adds its own version of door breach :)
 

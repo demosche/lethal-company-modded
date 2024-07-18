@@ -92,7 +92,7 @@ List of mods:<br>
  ChocoQuota  1.0.6<br>
  TestAccountFixes  1.3.2<br>
  NestFix  1.0.1<br>
- MalfunctioningDoors  1.5.0<br>
+ MalfunctioningDoors  1.6.0<br>
  LethalNetworkAPI  2.2.0<br>
  ProblematicPilotry  1.2.3<br>
  ScaledFallDamage  1.0.2<br>
