@@ -1,3 +1,30 @@
+## 1.1.0
+- Added a new monster
+
+- Added Configs for Bruce's range and player health threshold
+
+- Made Bruce rideable and able to carry objects dropped onto him
+
+- Changed how Urchins path to avoid clumping behaviour
+
+- Fixed issues with Urchins going over the limit set in the configs
+
+- Bruce will no longer target players on the ship
+
+- Mantis Shrimps will now back away after a long time when in warn mode
+
+- Adjusted Bruce's biting, speed and stun hitbox
+
+- Fixed Bruce having the same Network Id as Wicked, causing visual issues
+
+- Mantis Shrimp punch effect has been reworked
+
+- Bruce will now chomp players in half
+
+- Updated our enemy lighting to be like Zeekerss lighting
+
+- Bruce can now path in the Artifice warehouses
+
 ## 1.0.3
 
 - Adjusted base spawn weights for Bruce, Super scary mode enemy and Mantis shrimps

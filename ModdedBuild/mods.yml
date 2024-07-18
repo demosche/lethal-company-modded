@@ -2377,7 +2377,7 @@
     minor: 1
     patch: 18
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.18\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2572,7 +2572,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720509773787
+  installedAtTime: 1721292292744
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2582,10 +2582,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 3
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.1.0\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming

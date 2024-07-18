@@ -112,7 +112,7 @@ List of mods:<br>
  BetterVehicleControls  1.1.2<br>
  CruiserMap  1.0.0<br>
  SuperLandmine  1.1.3<br>
- Surfaced  1.0.3<br>
+ Surfaced  1.1.0<br>
  GeneralImprovements  1.3.0<br>
  NoFacingFireExit  1.0.0<br>
  Haunted  1.0.2<br>
