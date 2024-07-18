@@ -1,3 +1,5 @@
+# v1.4.2
+- Simplified some patches
 # v1.4.1
 - Minor refactor allowing players to crash into other players at high speeds
 - Reduced how much vertical momentum is transferred when dropping the jetpack

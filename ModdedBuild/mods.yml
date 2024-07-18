@@ -2022,7 +2022,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720556103940
+  installedAtTime: 1721292164494
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2031,9 +2031,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-JetpackFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-JetpackFixes\1.4.2\icon.png
 - manifestVersion: 1
   name: DaJadeNinja-ChocoQuota
   authorName: DaJadeNinja
@@ -2722,4 +2722,4 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\33mamaster-LifetimeCruiserWarranty\1.1.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\33mamaster-LifetimeCruiserWarranty\icon.png
