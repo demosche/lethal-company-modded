@@ -1,12 +1,12 @@
 {
 	"name": "BetaWeatherTweaksBeta",
-	"version_number": "0.20.8",
+	"version_number": "0.21.0",
 	"website_url": "https://github.com/AndreyMrovol/LethalWeatherTweaks/pull/11",
 	"description": "Beta version of WeatherTweaks - adding combined and progressing weathers to the game.",
 	"dependencies": [
 		"BepInEx-BepInExPack-5.4.2100",
 		"xilophor-LethalNetworkAPI-2.1.7",
-		"mrov-MrovLib-0.1.5",
-		"mrov-WeatherRegistry-0.1.12"
+		"mrov-MrovLib-0.2.1",
+		"mrov-WeatherRegistry-0.1.18"
 	]
 }

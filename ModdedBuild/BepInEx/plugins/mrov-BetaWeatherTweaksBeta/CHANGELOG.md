@@ -1,3 +1,9 @@
+# 0.21.0
+
+- fixed the issue with combined weather effects not applying correctly (thanks: lunxara, instaplayer)
+- removed some leftover files
+- finally unified Combined and Progressing weathers methods to not be separate and shit
+
 # 0.20.8
 
 - removed all weight-related config entries, as they are now handled by WeatherRegistry
