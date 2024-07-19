@@ -2608,7 +2608,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.3.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: KarmaModding-NoFacingFireExit
   authorName: KarmaModding
@@ -2642,7 +2642,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720867108065
+  installedAtTime: 1721372715352
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.16.0
@@ -2652,9 +2652,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Haunted\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Haunted\1.0.3\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-WeedKillerFixes
   authorName: ButteryStancakes

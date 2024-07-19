@@ -115,7 +115,7 @@ List of mods:<br>
  Surfaced  1.1.0<br>
  GeneralImprovements  1.3.1<br>
  NoFacingFireExit  1.0.0<br>
- Haunted  1.0.2<br>
+ Haunted  1.0.3<br>
  WeedKillerFixes  1.0.0<br>
  BarberFixes  1.0.0<br>
  LifetimeCruiserWarranty  1.1.1<br>
