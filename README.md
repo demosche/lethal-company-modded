@@ -119,4 +119,5 @@ List of mods:<br>
  WeedKillerFixes  1.0.0<br>
  BarberFixes  1.0.0<br>
  LifetimeCruiserWarranty  1.1.1<br>
+ NoPowerLevelDecrease  1.0.0<br>
 
