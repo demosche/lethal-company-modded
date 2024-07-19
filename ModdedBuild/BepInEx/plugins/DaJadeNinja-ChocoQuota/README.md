@@ -1,3 +1,5 @@
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/DaJadeNinja)
+
 **Choco Quota**
 
 A custom quota algorithm that's more managable at higher levels. This mod prevents it from spiraling out of control. Created for use in my modpack, but good for anyone needing this. Optional quota rollover.
@@ -33,6 +35,10 @@ With default config, the days go as follows:
 - Quota Cap
 
 **Update History**
+
+1.0.8 - Added buymeacoffee to the readme
+
+1.0.7 - Rollover now works correctly
 
 1.0.6 - Fixed a console error that broke the mod
 

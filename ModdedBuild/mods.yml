@@ -2045,7 +2045,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1721372635448
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2054,9 +2054,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 6
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DaJadeNinja-ChocoQuota\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DaJadeNinja-ChocoQuota\1.0.8\icon.png
 - manifestVersion: 1
   name: TestAccount666-TestAccountFixes
   authorName: TestAccount666
@@ -2585,7 +2585,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming

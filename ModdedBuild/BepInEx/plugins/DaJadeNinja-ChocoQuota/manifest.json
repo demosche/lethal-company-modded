@@ -1,6 +1,6 @@
 {
     "name": "ChocoQuota",
-    "version_number": "1.0.6",
+    "version_number": "1.0.8",
     "website_url": "",
     "description": "Custom quota algorithm that's more managable at higher levels. (fully configurable)",
     "dependencies": [
