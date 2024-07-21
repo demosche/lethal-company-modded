@@ -1465,7 +1465,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\1.5.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
 - manifestVersion: 1
   name: Evaisa-FixPluginTypesSerialization
   authorName: Evaisa
@@ -2113,7 +2113,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721292203859
+  installedAtTime: 1721549357777
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2121,10 +2121,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 6
+    minor: 7
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-MalfunctioningDoors\1.7.0\icon.png
 - manifestVersion: 1
   name: xilophor-LethalNetworkAPI
   authorName: xilophor
