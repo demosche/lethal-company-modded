@@ -1,3 +1,7 @@
+# 0.21.1
+
+- fixed issues related to LethalNetworkAPI v3 update
+
 # 0.21.0
 
 - fixed the issue with combined weather effects not applying correctly (thanks: lunxara, instaplayer)
