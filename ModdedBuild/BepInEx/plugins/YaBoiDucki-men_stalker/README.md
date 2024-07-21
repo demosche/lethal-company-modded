@@ -15,13 +15,13 @@ When it finds a player, it will begin to stalk himfrom a distance, while trying 
 
 When stalking, Men-stalker makes no sound (except when opening door), and will continue to stay passive and stalk the player for a considerable amount of time.
 
-However when it is finally done stalking, it will seemingly run away, before finally deciding to transition into an explosive chase phase, chasing the closest player until either all scavengers are out of the dungeon, or whenever there isn't any scavenger nearby after some time. 
+When it is finally done stalking, it will seemingly run away, before finally deciding to transition into an explosive chase phase, chasing the closest player until either all scavengers are out of the dungeon, or whenever there isn't any scavenger nearby after some time. 
 
 However, It can be killed, and you can lose it during the stalking phase by running far enough from it. 
 
 When they are chasing you, remember that they don't do much damage per attack and struggle to open door.
 
-<strong>Since they are a rare mob who likes to stalk before chasing the player, Men-stalker are a difficult monster to deal with. Once spotted however, they are significantly easier to deal with, which is itself a relatively difficult thing to do especially if you don't actively look out for them.</strong>
+<strong>Since they are a rare mob who likes to stalk before chasing the player, Men-stalker are a difficult monster to deal with. Once spotted however, they are significantly easier to deal with, which is itself a somewhat difficult thing to do especially if you don't actively look out for them.</strong>
 
 ## Credit
 A massive shoutout to the lethal company modding's discord server : they have helped me on many occasion to solve problems.
@@ -44,4 +44,5 @@ I also would like to thank the writers of the lethal company modding's wiki, and
 - v1.3.2 : - Fixed id's naming problem : thanks to the people of the lethal company's modding server ! 
            - Fixed the unresponsive HitEnemy function 
            - Fixed goofy rotation angle
-- v1.4.0 : Balancing : Through playtesting and experience, it was noted that Men stalker were too good at being sneaky, which would means that it was likely that you would never seen it during its stalking phase before it chases you down. There were also other problem : Men stalker always reverted back to their IDLING phase when no one is in the dungeon, which could sometime mean they would never strike if people got in and out too frequently, this has been changed (now defaults to STALK). It's speed during it's rushing phase has also been toned down, so that it means that player who didn't equip the shovel are not immediately doomed. That being said, it is still very difficult to escape him when he is enraged, since he is supposed to punish the player for not noticing it during it's stalking phase. That being said, as mentioned above, I also made some fixes to make it significantly easier to spot it ! Enjoy ! 
+- v1.4.0 : Balancing : Through playtesting and experience, it was noted that Men stalker were too good at being sneaky, which would means that it was likely that you would never seen it during its stalking phase before it chases you down. There were also other problem : Men stalker always reverted back to their IDLING phase when no one is in the dungeon, which could sometime mean they would never strike if people got in and out too frequently, this has been changed (now defaults to STALK). It's speed during it's rushing phase has also been toned down, so that it means that player who didn't equip the shovel are not immediately doomed. That being said, it is still very difficult to escape him when he is enraged, since he is supposed to punish the player for not noticing it during it's stalking phase. That being said, as mentioned above, I also made some fixes to make it significantly easier to spot it.
+- v1.5.0 : A very much needed but late bux-fixing + dependance update. Removed the deprecated tag. Reverted the change of making the "default" state being STALK instead of IDLE. 
