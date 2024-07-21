@@ -96,7 +96,7 @@ List of mods:<br>
  LethalNetworkAPI  3.0.1<br>
  ProblematicPilotry  1.2.3<br>
  ScaledFallDamage  1.0.2<br>
- TestAccountCore  1.1.0<br>
+ TestAccountCore  1.2.1<br>
  SolidLib  1.1.5<br>
  TurretWhacker  1.0.0<br>
  StaticNetcodeLib  1.1.1<br>
