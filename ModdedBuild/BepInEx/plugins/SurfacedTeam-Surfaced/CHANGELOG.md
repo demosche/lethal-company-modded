@@ -1,3 +1,18 @@
+## 1.1.2
+- Fix mod not loading correctly due to build error
+
+## 1.1.1
+
+- Fixed issues with the Bell Crab tooltip
+
+- Made the drop key while holding the crab "G"
+
+- Numerous bug fixes for the Bell Crab
+
+- Fixed Bell Crab animation desyncs in multiplayer
+
+- Bruce's tail now has dynamic bones (Jiggle physics)
+
 ## 1.1.0
 - Added a new monster
 
