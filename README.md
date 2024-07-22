@@ -90,7 +90,7 @@ List of mods:<br>
  SnowyHolidayDropship  1.1.0<br>
  JetpackFixes  1.4.2<br>
  ChocoQuota  1.0.8<br>
- TestAccountFixes  1.3.2<br>
+ TestAccountFixes  1.3.4<br>
  NestFix  1.0.1<br>
  MalfunctioningDoors  1.7.0<br>
  LethalNetworkAPI  3.0.1<br>
