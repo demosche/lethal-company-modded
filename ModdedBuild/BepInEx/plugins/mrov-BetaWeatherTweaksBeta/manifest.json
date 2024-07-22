@@ -1,6 +1,6 @@
 {
 	"name": "BetaWeatherTweaksBeta",
-	"version_number": "0.21.1",
+	"version_number": "0.21.2",
 	"website_url": "https://github.com/AndreyMrovol/LethalWeatherTweaks/pull/11",
 	"description": "Beta version of WeatherTweaks - adding combined and progressing weathers to the game.",
 	"dependencies": [

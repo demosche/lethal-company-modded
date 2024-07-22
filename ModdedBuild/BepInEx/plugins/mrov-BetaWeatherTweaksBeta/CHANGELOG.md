@@ -1,3 +1,7 @@
+# 0.21.2
+
+- hopefully finally fully fixed lobby reload errors
+
 # 0.21.1
 
 - fixed issues related to LethalNetworkAPI v3 update
