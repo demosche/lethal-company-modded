@@ -120,5 +120,5 @@ List of mods:<br>
  BarberFixes  1.0.0<br>
  LifetimeCruiserWarranty  1.1.1<br>
  NoPowerLevelDecrease  1.0.0<br>
- SoberShip  1.1.0<br>
+ SoberShip  1.2.0<br>
 

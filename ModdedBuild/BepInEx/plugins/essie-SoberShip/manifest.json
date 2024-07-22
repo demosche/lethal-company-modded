@@ -1,7 +1,7 @@
 {
     "name": "SoberShip",
-    "version_number": "1.1.0",
-    "website_url": "",
+    "version_number": "1.2.0",
+    "website_url": "https://github.com/EssieFir/SoberShip",
     "description": "Stop the Vain Shrouds from spawning on the ship",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
