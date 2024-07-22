@@ -32,7 +32,7 @@ You can also add the translated names of items to this slot so it should be more
 ### Current Items in the Reserved Flashlight Slot
 + "Flashlight"
 + "Pro-flashlight"
-+ "Laser pointer"<br><br>
++ "Laser pointer" (can be disabled in the config)<br><br>
 
 ### Have Issues?
 

@@ -120,7 +120,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1721634985292
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -130,9 +130,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedFlashlightSlot\2.0.6\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -2766,4 +2766,4 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\essie-SoberShip\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\essie-SoberShip\icon.png

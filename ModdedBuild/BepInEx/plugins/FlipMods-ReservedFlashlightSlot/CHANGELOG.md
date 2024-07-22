@@ -1,3 +1,5 @@
+# 2.0.6
++ Added a config option to remove the Laser Pointer from the Reserved Flashlight Slot.
 # 2.0.5
 + Fixed bug where I was trying to change the flashlight's lens texture without checking the "changeMaterial" bool. This caused errors when picking up/interacting with flashlights with this bool false, such as laser pointer, or various modded flashlights.
 # 2.0.4
