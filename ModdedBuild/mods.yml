@@ -2146,7 +2146,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\xilophor-LethalNetworkAPI\3.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-LethalNetworkAPI\icon.png
 - manifestVersion: 1
   name: windblownleaves-ProblematicPilotry
   authorName: windblownleaves
@@ -2364,7 +2364,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721292260272
+  installedAtTime: 1721847378928
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2374,9 +2374,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 18
+    patch: 20
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.20\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
