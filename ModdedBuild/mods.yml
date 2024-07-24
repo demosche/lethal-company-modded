@@ -1452,7 +1452,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721549320985
+  installedAtTime: 1721847281950
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1462,10 +1462,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 0
+    minor: 6
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\1.6.1\icon.png
 - manifestVersion: 1
   name: Evaisa-FixPluginTypesSerialization
   authorName: Evaisa
@@ -2766,4 +2766,4 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\essie-SoberShip\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\essie-SoberShip\icon.png
