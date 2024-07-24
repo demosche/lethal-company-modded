@@ -2123,7 +2123,7 @@
     minor: 9
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-MalfunctioningDoors\1.9.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
 - manifestVersion: 1
   name: xilophor-LethalNetworkAPI
   authorName: xilophor
@@ -2134,7 +2134,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721549397572
+  installedAtTime: 1721847356595
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2144,9 +2144,9 @@
   versionNumber:
     major: 3
     minor: 0
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-LethalNetworkAPI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\xilophor-LethalNetworkAPI\3.0.2\icon.png
 - manifestVersion: 1
   name: windblownleaves-ProblematicPilotry
   authorName: windblownleaves

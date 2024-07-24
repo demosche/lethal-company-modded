@@ -93,7 +93,7 @@ List of mods:<br>
  TestAccountFixes  1.3.4<br>
  NestFix  1.0.1<br>
  MalfunctioningDoors  1.9.0<br>
- LethalNetworkAPI  3.0.1<br>
+ LethalNetworkAPI  3.0.2<br>
  ProblematicPilotry  1.2.3<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.2.1<br>
