@@ -1,3 +1,11 @@
+# 0.21.3
+
+- fully updated LethalNetworkAPI to v3
+- fixed an issue with the game crashing on lobby reloads (thank you, xilophor!)
+- added `FoggyIgnoreLevels` config option: block foggy patch from applying on defined levels
+- publicized `Variables.GetCurrentWeather` (thanks, loaforc)
+- reimplemented combined and progressing weather multipliers
+
 # 0.21.2
 
 - hopefully finally fully fixed lobby reload errors
@@ -27,7 +35,6 @@
 # 0.20.6
 
 - (hopefully) fixed an issue with ChangeMidDay allocating absurd amounts of memory every TimeOfDay update (thanks, diffoz)
-- added an **Impossible** weather: it might be impossible to survive this!
 - added Cloudy weather
 - moved even more things into WeatherRegistry
 
