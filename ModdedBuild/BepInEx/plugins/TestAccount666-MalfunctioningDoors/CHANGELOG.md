@@ -1,5 +1,13 @@
 # Malfunctioning Doors Mod
 
+## 1.9.0<br>
+
+\+ Added ToilHead Support<br>
+
+## 1.8.0<br>
+
+\+ Added support for Piggy's Revolver and Rifle<br>
+
 ## 1.7.0<br>
 
 \+ Added landmines and turrets as possible door breach methods<br>

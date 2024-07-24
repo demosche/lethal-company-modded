@@ -1535,7 +1535,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IAmBatby-LethalLevelLoader\1.3.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
 - manifestVersion: 1
   name: skidz-PoolRooms
   authorName: skidz
@@ -2112,7 +2112,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721549357777
+  installedAtTime: 1721847336010
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2120,10 +2120,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 7
+    minor: 9
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-MalfunctioningDoors\1.9.0\icon.png
 - manifestVersion: 1
   name: xilophor-LethalNetworkAPI
   authorName: xilophor
