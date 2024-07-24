@@ -1465,7 +1465,7 @@
     minor: 6
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\1.6.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
 - manifestVersion: 1
   name: Evaisa-FixPluginTypesSerialization
   authorName: Evaisa
@@ -1517,26 +1517,25 @@
   websiteUrl: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
   displayName: LethalLevelLoader
   description: A Custom API to support the manual and dynamic integration of all
-    forms of custom content in Lethal Company. (v50 Compatible)
+    forms of custom content in Lethal Company. (v56 Compatible)
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1721847312559
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - Evaisa-FixPluginTypesSerialization-1.1.1
-    - Evaisa-LethalLib-0.15.1
     - MaxWasUnavailable-LethalModDataLib-1.2.2
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 4
+    minor: 3
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IAmBatby-LethalLevelLoader\1.3.1\icon.png
 - manifestVersion: 1
   name: skidz-PoolRooms
   authorName: skidz
