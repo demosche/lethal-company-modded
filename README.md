@@ -67,7 +67,7 @@ List of mods:<br>
  men_stalker  1.6.1<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
- LethalLevelLoader  1.3.1<br>
+ LethalLevelLoader  1.3.4<br>
  PoolRooms  0.1.22<br>
  EnemySoundFixes  1.5.2<br>
  CullFactory  1.1.5<br>

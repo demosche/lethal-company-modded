@@ -1,6 +1,44 @@
 **Changelog**
 --
 
+**<details><summary>Version 1.3.4</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Updated .csproj and thunderstore.toml
+* Updated outdated README.md
+
+</details>
+
+**<details><summary>Version 1.3.3</summary>**
+
+**<details><summary>Features</summary>**
+
+* Implemented ExtendedFootstepSurface
+
+</details>
+
+**<details><summary>Version 1.3.2</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Updated onApparatusTaken ExtendedEvent
+
+</details>
+
+</details>
+
+**<details><summary>Version 1.3.1</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Fixed issue regarding deprecated Level list.
+
+</details>
+
+</details>
+
+
 **<details><summary>Version 1.3.0</summary>**
 
 **<details><summary>Features</summary>**

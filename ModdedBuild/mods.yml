@@ -107,7 +107,7 @@
     minor: 0
     patch: 32
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.32\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -1517,25 +1517,26 @@
   websiteUrl: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
   displayName: LethalLevelLoader
   description: A Custom API to support the manual and dynamic integration of all
-    forms of custom content in Lethal Company. (v56 Compatible)
+    forms of custom content in Lethal Company. (v50 Compatible)
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721847312559
+  installedAtTime: 1721886786449
   loaders: []
   dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.16.0
     - Evaisa-FixPluginTypesSerialization-1.1.1
     - MaxWasUnavailable-LethalModDataLib-1.2.2
-    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 3
-    patch: 1
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IAmBatby-LethalLevelLoader\1.3.4\icon.png
 - manifestVersion: 1
   name: skidz-PoolRooms
   authorName: skidz
