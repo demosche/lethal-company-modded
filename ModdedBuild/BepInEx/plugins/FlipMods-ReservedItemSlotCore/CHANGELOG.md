@@ -1,3 +1,5 @@
+# 2.0.32
++ Thanks JillCrungus for pointing out and help fixing the issues in the BoneMap that was incorrectly mapping a few bones, making it impossible to anchor reserved items to those bones.
 # 2.0.31
 + Added checks to prevent potential errors (likely because of slight mod conflicts?) in some rare cases when trying to display reserved items on Masked Enemies.
 # 2.0.30
