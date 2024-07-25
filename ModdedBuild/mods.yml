@@ -2596,7 +2596,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721847438408
+  installedAtTime: 1721880257707
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2605,9 +2605,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 2
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.3.4\icon.png
 - manifestVersion: 1
   name: KarmaModding-NoFacingFireExit
   authorName: KarmaModding
@@ -2765,4 +2765,4 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\essie-SoberShip\1.2.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\essie-SoberShip\icon.png

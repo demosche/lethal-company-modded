@@ -1,5 +1,14 @@
 # Changelog
 
+### v1.3.4 - External cam hotfix
+* Fixing a bug I introduced in v1.3.3 where the external cam monitor would no longer function when using better monitors.
+
+### v1.3.3 - Reflection Removal and a couple new features
+* Removed the usage of System.Reflection methods from everything after transpilers run during startup. This may result in a slight performance boost in some areas.
+* Updated the config option for rotating the ship map cam to support all 4 directions instead of just north or nothing.
+* Added a new monitor option: Danger Level. This will reflect the approximate danger level (Safe, Warning, Hazardous, Dangerous, Lethal) in your current area.
+	* The danger level is relative to the current moon. Lethal on Experimentation is much different than lethal on Titan.
+
 ### v1.3.2 - More fixes and improvements
 * Added an option to configure the ship' clipboard starting on the wall instead of the table (defaults to start on the wall).
 * Added an option to adjust the chat's fade duration and opacity.
