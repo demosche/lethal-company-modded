@@ -2238,7 +2238,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-SolidLib\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-SolidLib\icon.png
 - manifestVersion: 1
   name: magico13-TurretWhacker
   authorName: magico13
@@ -2483,7 +2483,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721635067210
+  installedAtTime: 1722074097624
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2491,10 +2491,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 2
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiggC-CruiserImproved\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DiggC-CruiserImproved\1.3.0\icon.png
 - manifestVersion: 1
   name: Dev1A3-BetterVehicleControls
   authorName: Dev1A3
