@@ -1,9 +1,18 @@
+## 1.1.4
+
+- Made the Bell Crab spawn as an enemy instead of a hazard
+
+- Changed Bell Crab configs
+
+- Fixed bestiary errors with terminal mods
+
 ## 1.1.3
 
-- Additional desync fixes for Bell Crab
+- Additional desync fixes for the Bell Crab
 
-- --NOTE--: Possible Rare Issue when picking up an Item after immediately dropping the Crab if the Crab is still in front of your character after dropping.
-The crab may relatch on but it should automatically drop or be droppable if this happens instead of locking up your character forever.
+## 1.1.2
+
+- Fixed mod not loading correctly due to build error
 
 ## 1.1.1
 

@@ -2494,7 +2494,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DiggC-CruiserImproved\1.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiggC-CruiserImproved\icon.png
 - manifestVersion: 1
   name: Dev1A3-BetterVehicleControls
   authorName: Dev1A3
@@ -2572,20 +2572,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721847423225
+  installedAtTime: 1722074135773
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.16.1
+    - Evaisa-LethalLib-0.15.1
     - SolidStone-SolidLib-1.1.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.1.4\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming
