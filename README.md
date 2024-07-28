@@ -120,4 +120,7 @@ List of mods:<br>
  LifetimeCruiserWarranty  1.1.1<br>
  NoPowerLevelDecrease  1.0.0<br>
  SoberShip  1.2.1<br>
+ UnityMDK  1.3.0<br>
+ LethalMDK  1.2.0<br>
+ ScanTweaks  1.7.0<br>
 

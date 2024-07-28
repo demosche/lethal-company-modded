@@ -2608,7 +2608,7 @@
     minor: 3
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.3.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: Sconeys-Haunted
   authorName: Sconeys
@@ -2745,3 +2745,69 @@
     patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\essie-SoberShip\icon.png
+- manifestVersion: 1
+  name: Saradora-UnityMDK
+  authorName: Saradora
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Saradora/UnityMDK/
+  displayName: UnityMDK
+  description: Personal C# library for modding Unity games.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1722155835260
+  loaders: []
+  dependencies: []
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 3
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Saradora-UnityMDK\icon.png
+- manifestVersion: 1
+  name: Saradora-LethalMDK
+  authorName: Saradora
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Saradora/LethalMDK/
+  displayName: LethalMDK
+  description: Personal C# library for modding Lethal Company.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1722155836683
+  loaders: []
+  dependencies:
+    - Saradora-UnityMDK-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Saradora-LethalMDK\icon.png
+- manifestVersion: 1
+  name: Saradora-ScanTweaks
+  authorName: Saradora
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Saradora/ScanTweaks/
+  displayName: ScanTweaks
+  description: A few tweaks to the ping scan and the terminal radar.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1722155839343
+  loaders: []
+  dependencies:
+    - Saradora-UnityMDK-1.1.1
+    - Saradora-LethalMDK-1.1.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 7
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Saradora-ScanTweaks\1.7.0\icon.png
