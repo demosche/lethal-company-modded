@@ -33,18 +33,21 @@ I also would like to thank the writers of the lethal company modding's wiki, and
  - v1.0.1 : 
         Updated the mod's page 
  - v1.1.0 : 
+
         Fixed buggy backward-walk animation
 
         Greatly increased spawn chance 
 
         Fixed "Scared" backward walk
  - v1.2.0 : 
+
         Improved pathfinding (A buff)
 
         Fixed buggy run-animation
 
         Reduced "target lost cooldown" (Nerf)
  - v1.2.1 :
+
         Overall increase to spawn chance
 
         Changed the spawning probability mechanism : spawn probability increase rapidly over the day
@@ -55,12 +58,14 @@ I also would like to thank the writers of the lethal company modding's wiki, and
 
         Massive thank you to an anonymous player for letting me know of an issue with spawn probability
 - v1.3.2 : 
+
         Fixed id's naming problem : thanks to the people of the lethal company's modding server ! 
 
         Fixed the unresponsive HitEnemy function 
 
         Fixed rotation angle
 - v1.4.0 :
+
         Default State swaped to STALK instead of IDLE
         Explanation : Minor impact overall, even if all of the playe suddenly went out of the dungeon, would remain in STALK state for a while, this should make it more frequent for it to enter it's RUSH state.
 
@@ -73,6 +78,7 @@ I also would like to thank the writers of the lethal company modding's wiki, and
 
 - v1.5.0 : A very much needed but late bux-fixing + dependance update. Removed the deprecated tag. Reverted the change of making the "default" state being STALK instead of IDLE. 
 - v1.6.1 : 
+       
         Improvement on the IDLE state
         Explanation : Roams around the map a lot more, should make it more frequent to find it.
         Balancing : 
@@ -83,6 +89,7 @@ I also would like to thank the writers of the lethal company modding's wiki, and
         While stalking, if all player quit the dungeon, would remain in stalking state until the cooldown goes down
         Explanation : Minor impact in multiplayer, major one in single player. Back then, if player constantly went in and out of the dungeon, if all were out, then it would be harder for it to enter it's attack phase
 - v2.0.0 : 
+
         Updated the model 
 
         Increased the IDLE state's roaming speed
@@ -102,3 +109,14 @@ I also would like to thank the writers of the lethal company modding's wiki, and
         Updated the Terminal Entry
         
         Update the mod's page
+- v2.1.0
+
+        Updated the namespace's "name" (pun unintended)
+        
+        Updated the terminal entries's background video to be more transparent
+
+        Shortened the "RUSH" state's "chase cooldown" 
+
+        Updated the "RUSH" state's voiceclip
+
+        Updated the mod's page
