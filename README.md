@@ -113,7 +113,7 @@ List of mods:<br>
  CruiserMap  1.0.0<br>
  SuperLandmine  1.1.3<br>
  Surfaced  1.1.4<br>
- GeneralImprovements  1.3.5<br>
+ GeneralImprovements  1.3.6<br>
  Haunted  1.0.3<br>
  WeedKillerFixes  1.0.0<br>
  BarberFixes  1.0.0<br>
