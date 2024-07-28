@@ -2810,4 +2810,26 @@
     minor: 7
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Saradora-ScanTweaks\1.7.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Saradora-ScanTweaks\icon.png
+- manifestVersion: 1
+  name: v0xx-LethalElements
+  authorName: v0xx
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/v0xx/LethalElements/
+  displayName: LethalElements
+  description: A mod that adds a new weather effect!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1722155905916
+  loaders: []
+  dependencies:
+    - mrov-WeatherRegistry-0.1.20
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\v0xx-LethalElements\1.0.0\icon.png

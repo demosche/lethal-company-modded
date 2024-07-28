@@ -1,0 +1,9 @@
+{
+    "name": "LethalElements",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.com/channels/1168655651455639582/1246165084288450751",
+    "description": "A mod that adds a new weather effect!",
+    "dependencies": [
+        "mrov-WeatherRegistry-0.1.20"
+    ]
+}

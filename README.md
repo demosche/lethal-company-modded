@@ -123,4 +123,5 @@ List of mods:<br>
  UnityMDK  1.3.0<br>
  LethalMDK  1.2.0<br>
  ScanTweaks  1.7.0<br>
+ LethalElements  1.0.0<br>
 
