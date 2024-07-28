@@ -1,3 +1,6 @@
+## v1.2.1
+- Removed Reflection from patches
+
 ## v1.2.0
 - Added ExtendedEnemyAI which is jsut an extension of enemyai with some methods
 - Added ExtentedEnemyAnimEvents which is also just an extension of EnemyAnimationEvents with more animation events

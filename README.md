@@ -97,7 +97,7 @@ List of mods:<br>
  ProblematicPilotry  1.2.3<br>
  ScaledFallDamage  1.0.2<br>
  TestAccountCore  1.2.1<br>
- SolidLib  1.2.0<br>
+ SolidLib  1.2.1<br>
  TurretWhacker  1.0.0<br>
  StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
