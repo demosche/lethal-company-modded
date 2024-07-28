@@ -68,3 +68,8 @@
 ## Version 1.5.4
 
 - Fixed a bug with NodeAppendLine
+
+## Version 1.5.5
+
+- Added License to abide by new guidelines
+
