@@ -1,3 +1,7 @@
+## 1.1.5
+
+- Added failsafes for Bell Crab reference errors on grab
+
 ## 1.1.4
 
 - Made the Bell Crab spawn as an enemy instead of a hazard
