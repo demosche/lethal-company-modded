@@ -1223,7 +1223,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1722322266791
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1232,9 +1232,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 4
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-EnhancedLockpicker\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-EnhancedLockpicker\1.1.5\icon.png
 - manifestVersion: 1
   name: e3s1-BetterLadders
   authorName: e3s1
@@ -2857,4 +2857,4 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mellowdy-ExtensionLadderFix\0.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Mellowdy-ExtensionLadderFix\icon.png
