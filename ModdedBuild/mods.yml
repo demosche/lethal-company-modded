@@ -2125,7 +2125,7 @@
     minor: 11
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-MalfunctioningDoors\1.11.0\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
 - manifestVersion: 1
   name: xilophor-LethalNetworkAPI
   authorName: xilophor
@@ -2344,7 +2344,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721549457032
+  installedAtTime: 1722677358300
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2353,9 +2353,9 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.3\icon.png
 - manifestVersion: 1
   name: mrov-WeatherRegistry
   authorName: mrov
