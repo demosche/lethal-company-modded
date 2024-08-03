@@ -134,25 +134,25 @@ Added special colouring to enemies that spawn from the painting event
 Added new pit room\
 Possible fix to out-of-bounds item spawns and wall phasing enemy movement\
 
-## 1.3.16
+### 1.3.16
 
 Fixed for new LLL version
 
-## 1.3.17
+### 1.3.17
 
 Added new enemy variant (not finalized)
 
-## 1.3.18
+### 1.3.18
 
 Added new weapon that drops from new enemy variant
 
-## 1.3.19
+### 1.3.19
 
 Added new scrap item\
 Added new pit room\
 Added some safety railings to some of the pit rooms
 
-## 1.3.20
+### 1.3.20
 
 Redid library 2F rooms into two smaller versions\
 Added new pit room\
@@ -160,10 +160,21 @@ Added some sound effects and lighting to the pit rooms\
 Added clock spawns to some doorways\
 Scarlet Knife now deals 50 damage or 50% of current health, whichever is higher
 
-## 1.3.21
+### 1.3.21
 
 Closed up a missing ceilings\
 Added new scarlet key (it's just red) to help with visibility\
 Changed the pit room's fog visuals a bit\
 Made one of the pit rooms easier\
 Added Sanguine to the interior's spawn list
+
+### 1.3.22
+
+Updated mod for my new API\
+Maid's knife now deals critical damage, then kills\
+Falling into the pit/void will deal critical damage, then teleport you to the farthest AI node. Kills the second time\
+Added jukebox with Touhou beats to Servant's Quarter rooms\
+Killing the maid will spawn a revenant ghost after you\
+Broke doll snowglobe animations, will fix\
+LethalConfig's entries will have a different shade of red if my preset settings auto-change its values\
+Removed AC compatibility (I don't think it ever worked as of late) 

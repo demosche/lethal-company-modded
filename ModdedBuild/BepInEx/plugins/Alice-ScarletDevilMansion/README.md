@@ -123,6 +123,8 @@ This dungeon uses modified dungeon generation code to create multiple main paths
 
 Besides the dungeon's generation and tiles, the dungeon features a few unique mechanics that can shake up your scavenging adventure, or play a fun distraction.
 
+Many mechanics/enemies deal critical damage. This will deal damage to set the player's health to 15. If the player's health is already below 20, the damage will instead kill them.
+
 <details> 
   <summary>Spoiler warning. Click here to see the features</summary>
   
@@ -146,9 +148,9 @@ Besides the dungeon's generation and tiles, the dungeon features a few unique me
   <img src="https://i.imgur.com/H7YfWO5.png">
   
   <br>
-  <b>The Pit</b>
+  <b>The Void</b>
   <br>
-  Jumping puzzles can be found throughout the mansion, typically near the entrance. Highly encourage you to not fall in the pit.
+  Jumping puzzles can be found throughout the mansion, typically near the entrance. Falling in the pit will deal critical damage, then teleport the player to the farthest AI node. Falling in a second time will kill the player. Resets on new day.
   <img src="https://i.imgur.com/LY7GBpy.png">
   
   <br>
@@ -158,9 +160,15 @@ Besides the dungeon's generation and tiles, the dungeon features a few unique me
   <img src="https://i.imgur.com/JfyydJv.png">
   
   <br>
+  <b>The Jukebox</b>
+  <br>
+  Plays songs. They serve no other purpose.
+  <img src="https://i.imgur.com/Tz5ONkI.png">
+  
+  <br>
   <b>The Portraits</b>
   <br>
-  Rotateable portaits can be found on tables and dressers. They serve no other purpose.
+  Stares at you. They serve no other purpose.
   <img src="https://i.imgur.com/APWECSn.png">
   
 </details>
@@ -182,7 +190,7 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   <br>
   <b>The Maid's Knife</b>
   <br>
-  Acts like the kitchen knife. Drops from the Maid. You can feed the knife 50 health (or 50% of your current health, whichever is higher) to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the full damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. 
+  Acts like the kitchen knife. Drops from the Maid. You can feed the knife by dealing critical damage to yourself to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the critical damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. Kills if you stab yourself a second time. Resets on a new day.
   <br>
   <img src="https://i.imgur.com/DkFE8Wx.png">
   
@@ -211,7 +219,9 @@ The dungeon uses summoning sigils to summon its enemies as opposed to vents. Thi
   <br>
   <b>The Maid</b>, a Butler variant
   <br>
-  Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower, has less health, and doesn't spawn bees when it dies. Drops the Maid's Knife when killed.
+  Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower, has less health. When killed, drops the Maid's Knife and summons a revenant ghost towards the maid's killer.
+  <br>
+  The revenant deals critical damage. It is only fully visible to the maid's killer, and will only target/harm them. They can slowed down by it's target staring it down. Once the revenant deals damage, the target dies, or the target leaves the dungeon, the revenant disappears.
   <br>
   <img src="https://i.imgur.com/QbUZutS.png">
   
@@ -233,7 +243,6 @@ The development process is generally split into 3 distinct parts:
 * Add touhou-themed enemies and scrap items
 * Add dungeon mechanics/features (for example the factory's appartatus and jumping puzzles)
 
-
 ## Credits
 
 Touhou owned by Team Shanghai Alice (ZUN)
@@ -241,8 +250,7 @@ Touhou owned by Team Shanghai Alice (ZUN)
 LadyEbony.itch.io - Code, Dungeon Design\
 @Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
 Nitori.itch.io - For their sick advice\
-[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe Code
-
+[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe code
 
 #### 3D Models/Assets
 
@@ -261,8 +269,8 @@ WorthAggravating (Reddit) - Hina
 
 #### Audio
 peacock-roy.itch.io - Maid chase and dungeon entrance music. Various SFX\
-@solidstone (Discord) - Snowglobe Jingle 
-
+@solidstone (Discord) - Snowglobe jingle\
+[@StasGavrik](https://www.youtube.com/@StasGavrik) - Jukebox music
 
 #### License
 

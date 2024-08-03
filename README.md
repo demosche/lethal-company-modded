@@ -72,7 +72,7 @@ List of mods:<br>
  EnemySoundFixes  1.5.2<br>
  CullFactory  1.1.5<br>
  OdinSerializer  2022.11.9<br>
- ScarletDevilMansion  1.3.21<br>
+ ScarletDevilMansion  1.3.22<br>
  ShockwaveDroneEnemy  0.6.2<br>
  AutomaticInventoryFixPlugin  2.0.0<br>
  Gnomes  2.1.19<br>
@@ -126,4 +126,5 @@ List of mods:<br>
  LethalElements  1.0.0<br>
  ExtensionLadderFix  0.0.1<br>
  DoorBreach  1.1.0<br>
+ DungeonGenerationPlus  1.0.2<br>
 
