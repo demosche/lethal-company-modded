@@ -2113,18 +2113,19 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721847336010
+  installedAtTime: 1722677188259
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - TestAccount666-DoorBreach-1.0.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 9
+    minor: 11
     patch: 0
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-MalfunctioningDoors\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-MalfunctioningDoors\1.11.0\icon.png
 - manifestVersion: 1
   name: xilophor-LethalNetworkAPI
   authorName: xilophor
@@ -2147,7 +2148,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\xilophor-LethalNetworkAPI\3.1.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-LethalNetworkAPI\icon.png
 - manifestVersion: 1
   name: windblownleaves-ProblematicPilotry
   authorName: windblownleaves
@@ -2858,3 +2859,25 @@
     patch: 1
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Mellowdy-ExtensionLadderFix\icon.png
+- manifestVersion: 1
+  name: TestAccount666-DoorBreach
+  authorName: TestAccount666
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/TestAccount666/DoorBreach/
+  displayName: DoorBreach
+  description: Open doors with style
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1722677186653
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 0
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-DoorBreach\icon.png
