@@ -2588,7 +2588,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming
@@ -2692,7 +2692,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721151097253
+  installedAtTime: 1723131374873
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2700,10 +2700,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 1
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\33mamaster-LifetimeCruiserWarranty\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\33mamaster-LifetimeCruiserWarranty\1.2.0\icon.png
 - manifestVersion: 1
   name: catenjoyer-NoPowerLevelDecrease
   authorName: catenjoyer
