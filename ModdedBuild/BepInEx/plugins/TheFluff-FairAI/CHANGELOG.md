@@ -1,3 +1,12 @@
+# 1.3.9
+Please let the references to Surfaced work now lol
+
+# 1.3.8
+Fixed soft dependency error that should have never shown up as these mods are supposed to be optional.
+
+# 1.3.7
+Added support for the Surfaced Seamine!
+
 # 1.3.6
 Version 55 Update!
 
