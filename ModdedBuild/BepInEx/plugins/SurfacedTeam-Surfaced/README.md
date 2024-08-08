@@ -2,7 +2,7 @@
 Note: Only v1.0.0 is compatible with v50, the newer versions will only be for v56 onward
 ## About this mod
 <a href="https://ibb.co/Lp4znqn"><img src="https://i.ibb.co/rynG4L4/Surfaced-Banner.png" alt="Surfaced-Banner" border="0"></a><br/><a target='_blank' href='https://dedupelist.com/'></a><br />
-This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 3 enemies and 1 hazard :
+This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 7 enemies, 1 scrap, 1 equipment and 1 hazard :
 A Shark and invasive Urchins outside, Sea Mines and Mantis Shrimps inside!
 
 ## Monster Mechanics (Spoilers ahead!)
@@ -19,6 +19,10 @@ A Shark and invasive Urchins outside, Sea Mines and Mantis Shrimps inside!
 
 - Bell Crab : The Bell Crab is a small crab that hides in Brass Bells, upon picking it up, it will start snipping the player until dropped. When dropped, it will run away and hide again. The Bell Crab can be killed for its scrap.
 
+- HorseShoot Crab : Spring loaded and ready to launch, these flat creatures can be used to launch yourself to many higher up areas. Hitting them cycles between 3 launch powers. They can also be pushed around to move them to your preferred spot.
+
+- ClownHorn Fish : Toot toot! This little clownfish will follow the first player it sees, even able to follow them inside. It will occasionally honk its magical clown horn giving varying buffs and rarely some debuffs. It can be interacted with and Squeezed for a guaranteed boost but it comes at a cost...
+
 - Super scary mode : Terrifying blue lobster that mimics random sound effects and scares the player when looked at.
 </details>
 
@@ -34,9 +38,9 @@ If you have any issues related to the mod itself, please contact us on the Letha
 - [Siphonife](https://www.artstation.com/siphonife) - Coding, Modeling and Texturing. Go check out his work 
 - [Solidstone](https://ko-fi.com/solidstonee) - Coding and Texturing 
 - [QWERTYrodrigo](https://www.youtube.com/shorts/K5JazVF1Ies) - Original idea, Modeling and Texturing
+- [Xu Xiaolan](https://ko-fi.com/xuxiaolan) - Coding and Helping
 
 ## Special thanks to
-- [Xu Xiaolan](https://ko-fi.com/xuxiaolan) - For carrying the mod and her "moral support"
 - [Hamunii](https://github.com/hamunii) - For the example enemy
 - [S1ckboy](https://thunderstore.io/c/lethal-company/p/s1ckboy/) - Da goat, go check out Seichi!
 - [PureFPSZac](https://thunderstore.io/c/lethal-company/p/PureFPSZac/) - Helped out Siphonife ALOT

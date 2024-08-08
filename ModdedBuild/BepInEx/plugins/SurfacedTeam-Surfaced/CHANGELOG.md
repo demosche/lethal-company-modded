@@ -1,3 +1,15 @@
+## 1.2.0
+
+- Added 2 new monsters and 1 equipment
+
+- Fixed BellCrab scrap desyncs for clients on the ship
+
+- Changed how sounds are handled to avoid client desyncs
+
+- Tweaked spawnrates for most enemies
+
+- Fixed BellCrab's default spawnweight being 100
+
 ## 1.1.5
 
 - Added failsafes for Bell Crab reference errors on grab
