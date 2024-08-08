@@ -1,3 +1,7 @@
+# 2.0.33
++ Removed config option for toggling the reserved hotbar slots.
++ Added another keybind for toggling the reserved hotbar slots that will work along side the press (and hold) to focus. Default key: Right alt<br>
+The keybind can be changed in the keybind settings in the menu, if the InputUtils mod is enabled.
 # 2.0.32
 + Thanks JillCrungus for pointing out and help fixing the issues in the BoneMap that was incorrectly mapping a few bones, making it impossible to anchor reserved items to those bones.
 # 2.0.31
