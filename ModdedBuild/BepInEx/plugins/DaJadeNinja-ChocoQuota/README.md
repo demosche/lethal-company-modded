@@ -36,6 +36,8 @@ With default config, the days go as follows:
 
 **Update History**
 
+1.0.9 - Fixed a bug preventing causing quotas after Final Level to freak out
+
 1.0.8 - Added buymeacoffee to the readme
 
 1.0.7 - Rollover now works correctly
