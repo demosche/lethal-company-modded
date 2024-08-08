@@ -150,8 +150,14 @@ Many mechanics/enemies deal critical damage. This will deal damage to set the pl
   <br>
   <b>The Void</b>
   <br>
-  Jumping puzzles can be found throughout the mansion, typically near the entrance. Falling in the pit will deal critical damage, then teleport the player to the farthest AI node. Falling in a second time will kill the player. Resets on new day.
+  Jumping puzzles can be found throughout the mansion. Falling in the pit will deal critical damage, then teleport the player to the farthest AI node. Falling in a second time will kill the player. Resets on new day.
   <img src="https://i.imgur.com/LY7GBpy.png">
+  
+  <br>
+  <b>The Treasure</b>
+  <br>
+  The mansion holds many valuable treasures behind impassable doors. Solve that room's puzzle to unlock the door. Only the kitchen and 1f library rooms can spawn these treasure rooms.
+  <img src="https://i.imgur.com/QSfB72S.png">
   
   <br>
   <b>The Emergency Exit</b>
@@ -234,6 +240,7 @@ The following mods either have unique compatibilities or made to work with SDM:
 * [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (Custom fire exits can also be mimics. Interior name **must** be added to the Mimics config under Interior whitelist. Name is "SDMLevel")
 * [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) (Can be activated by the dungeon event. **Must** be enabled in the config)
 * [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) (The decorative flashights can be placed in the flashlight slot)
+* [ReservedKeySlot](https://thunderstore.io/c/lethal-company/p/RogueCodes/ReservedKeySlot/) (The scarlet keys can be placed in the key slot)
 
 ## Roadmap in General
 
@@ -250,7 +257,7 @@ Touhou owned by Team Shanghai Alice (ZUN)
 LadyEbony.itch.io - Code, Dungeon Design\
 @Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
 Nitori.itch.io - For their sick advice\
-[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe code
+[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe code (twice)
 
 #### 3D Models/Assets
 

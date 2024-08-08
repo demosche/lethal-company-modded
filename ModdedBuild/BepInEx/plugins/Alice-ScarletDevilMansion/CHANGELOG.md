@@ -178,3 +178,12 @@ Killing the maid will spawn a revenant ghost after you\
 Broke doll snowglobe animations, will fix\
 LethalConfig's entries will have a different shade of red if my preset settings auto-change its values\
 Removed AC compatibility (I don't think it ever worked as of late) 
+
+### 1.3.23
+
+Added new treasure rooms (only spawns in kitchen and 1f library tiles)\
+Added ink/blood stains throughout the mansion floor\
+Jukebox has randomized starting settings (can spawn already playing)\
+Added ReservedKeySlot compatibility\
+Fixed doll snowglobe animations\
+Portraits stare at you when you aren't looking
