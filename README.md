@@ -102,7 +102,7 @@ List of mods:<br>
  StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.2<br>
  MapHazardsMoves  1.0.2<br>
- MrovLib  0.2.3<br>
+ MrovLib  0.2.4<br>
  WeatherRegistry  0.1.21<br>
  BetaWeatherTweaksBeta  0.21.3<br>
  Longer_Day  1.0.0<br>
