@@ -1,3 +1,5 @@
+# v1.4.3
+- Fixed a NullReferenceException when the jetpack explodes mid-flight
 # v1.4.2
 - Simplified some patches
 # v1.4.1
