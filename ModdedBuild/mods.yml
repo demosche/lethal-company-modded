@@ -132,7 +132,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedFlashlightSlot\2.0.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedFlashlightSlot\icon.png
 - manifestVersion: 1
   name: Rune580-LethalCompany_InputUtils
   authorName: Rune580
@@ -250,12 +250,12 @@
   authorName: EliteMasterEric
   websiteUrl: https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/
   displayName: Coroner
-  description: Add Cause of Death to the performance report, rebuilt and better than ever.
+  description: Add Cause of Death to the performance report, now with a Mod API!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721024436861
+  installedAtTime: 1725693274379
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -264,10 +264,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-Coroner\2.1.0\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa

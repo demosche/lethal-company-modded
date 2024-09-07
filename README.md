@@ -12,7 +12,7 @@ List of mods:<br>
  QuickRestart  1.2.0<br>
  WeatherMultipliers  1.1.0<br>
  TerminalApi  1.5.5<br>
- Coroner  2.0.0<br>
+ Coroner  2.1.0<br>
  HookGenPatcher  0.0.5<br>
  LethalLib  0.16.1<br>
  OuijaBoard  1.5.3<br>
