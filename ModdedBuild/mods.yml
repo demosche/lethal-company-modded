@@ -2405,7 +2405,7 @@
     minor: 22
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.22.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -2440,7 +2440,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720263311391
+  installedAtTime: 1725694540432
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2449,9 +2449,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TanmanG-Forest_Giant_Motionsense\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.3\icon.png
 - manifestVersion: 1
   name: Zehs-ToilHead
   authorName: Zehs
