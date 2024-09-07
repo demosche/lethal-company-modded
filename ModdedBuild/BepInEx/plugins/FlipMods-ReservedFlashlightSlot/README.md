@@ -1,5 +1,7 @@
 # ReservedFlashlightSlot
-**Requires: [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)**
+**Requires: [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)**<br>
+### Refer to the ReservedItemSlotCore mod page for the latest update compatibility.
+<br>
 
 This mod gives a dedicated item slot for flashlights!<br>
 This slot accepts both flashlight item, as well as the laser pointer because why not. It's classified as a flashlight.
@@ -18,22 +20,27 @@ The flashlight sits nicely, holstered on your shoulder, when not in your hand.<b
 This item will also be seen on Masked Enemies if they are mimicking your character, and you have this item equipped.<br><br>
 
 ## Item Slot is Purchasable! (new in 2.0.0)
-+ The flashlight slot can now be purchased from the terminal, unless this option is disabled in the ReservedItemSlotCore config.
-+ Purchased slots will sync with all players, and be linked the the game's save. This means reloading a game in progress *should* reload this unlocked slot.
-+ Slots will not display until the game as been started by the host.<br><br>
+- The flashlight slot can now be purchased from the terminal, unless this option is disabled in the ReservedItemSlotCore config.
+- Purchased slots will sync with all players, and be linked the the game's save. This means reloading a game in progress *should* reload this unlocked slot.
+- Slots will not display until the game as been started by the host.<br><br>
 
 ## Configurable
-+ Now adds more config options!
-+ Item slot price can be adjusted in the config.
-+ Item slot priority can be adjusted in the config.
-+ Items can be added to this item slot in the config. This can be handy when adding other modded items, or variations of this item, to this item slot.<br>
+- Now adds more config options!
+- Item slot price can be adjusted in the config.
+- Item slot priority can be adjusted in the config.
+- Items can be added to this item slot in the config. This can be handy when adding other modded items, or variations of this item, to this item slot.<br>
 You can also add the translated names of items to this slot so it should be more compatible between different languages.<br><br>
 
 ### Current Items in the Reserved Flashlight Slot
-+ "Flashlight"
-+ "Pro-flashlight"
-+ "Laser pointer" (can be disabled in the config)<br><br>
+- "Flashlight"
+- "Pro-flashlight"
+- "Laser pointer" (can be disabled in the config)<br><br>
 
 ### Have Issues?
 
 Please report them on my [github](https://github.com/cmooref17/ReservedItemSlotMods)!
+
+## If you read this far and are enjoying my mods
+
+Please consider supporting me [here](https://ko-fi.com/flipf17)!<br>
+Definitely not required, but it would be greatly appreciated! =)<br>

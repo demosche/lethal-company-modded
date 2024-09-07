@@ -1,3 +1,7 @@
+# 2.0.8
++ Added a config option to remove the Laser Pointer from the Reserved Flashlight Slot. (Again? Didn't I do this in 2.0.6??)
+# 2.0.7
++ Updated mod description for latest update compatibility.
 # 2.0.6
 + Added a config option to remove the Laser Pointer from the Reserved Flashlight Slot.
 # 2.0.5
