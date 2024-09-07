@@ -1,5 +1,7 @@
 # ReservedSprayPaintSlot
 **Requires: [ReservedItemSlotCore](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/)**
+### Refer to the ReservedItemSlotCore mod page for the latest update compatibility.
+<br>
 
 This mod gives a dedicated item slot for spraypaint cans!<br>
 This slot can be purchased at the terminal unless disabled by the ReservedItemSlotCore mod in the config.
@@ -33,3 +35,8 @@ You can also add the translated names of items to this slot so it should be more
 ### Have Issues?
 
 Please report them on my [github](https://github.com/cmooref17/ReservedItemSlotMods)!
+
+## If you read this far and are enjoying my mods
+
+Please consider supporting me [here](https://ko-fi.com/flipf17)!<br>
+Definitely not required, but it would be greatly appreciated! =)<br>
