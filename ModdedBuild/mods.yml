@@ -2451,7 +2451,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TanmanG-Forest_Giant_Motionsense\icon.png
 - manifestVersion: 1
   name: Zehs-ToilHead
   authorName: Zehs
@@ -2485,7 +2485,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1723131309614
+  installedAtTime: 1725694585096
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2494,9 +2494,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiggC-CruiserImproved\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DiggC-CruiserImproved\1.4.1\icon.png
 - manifestVersion: 1
   name: Dev1A3-BetterVehicleControls
   authorName: Dev1A3
