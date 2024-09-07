@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v3.2.1]
+
+### Added
+- Support for LobbyCompatibility; this will ensure that the server and clients are using the same version of this API.
+
+### Fixed
+- Fixed `IsConnected` not working properly.
+
+## [v3.2.0]
+
+### Changed
+- Improved error messages.
+- Changed internal backend to be more optimal and only use Networking and Serialization when necessary.
+
+### Fixed
+- Fixed `SendOtherClients` not sending to the server.
+- Fixed `LNetworkUtils.AllConnectedClients` not including the server.
+
 ## [v3.1.1]
 
 ### Fixed
