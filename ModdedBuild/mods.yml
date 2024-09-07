@@ -2610,7 +2610,7 @@
     minor: 4
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.4.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: Sconeys-Haunted
   authorName: Sconeys
@@ -2646,7 +2646,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720940489935
+  installedAtTime: 1725694688235
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2654,10 +2654,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-WeedKillerFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-WeedKillerFixes\1.1.0\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-BarberFixes
   authorName: ButteryStancakes
