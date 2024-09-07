@@ -1,6 +1,22 @@
 
 # Changelog #
 
+## 1.2.6 ##
+
+- Bump version number to indicate v64 compatibility
+
+## 1.2.5 ##
+
+- Patch for v61
+
+## 1.2.4 ##
+
+- Patch for v60
+
+## 1.2.3 ##
+
+- Fix player scan searching over all GameObjects instead of just Lockers possibly causing performance issues in large levels
+
 ## 1.2.2 ##
 
 - Patch for v56
