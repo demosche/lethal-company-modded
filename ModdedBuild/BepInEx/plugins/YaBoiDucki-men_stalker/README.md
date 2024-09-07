@@ -120,3 +120,26 @@ I also would like to thank the writers of the lethal company modding's wiki, and
         Updated the "RUSH" state's voiceclip
 
         Updated the mod's page
+- v2.1.1
+        Damage decrease : 35 -> 20 
+        Unfortunately, since I moved on from the project a bit, there won't be an update to add a config file. Sorry to the guy who asked if I could for taking so long !
+
+- v2.2.0
+        Compatibility update
+
+- v2.3.0-
+        Cleaning up the texture
+        Typo fixed
+- v2.4.0
+        A series of extra-fat nerf
+
+        Chase sequence speed : 15 -> 9 (For reference : slightly faster than Thumper, while being leagues better at turning corner)
+        Explanation : Extreme speed made it night very hard to escape him even if RNG is on your side by overcrowding the dungeon with door. It also indirectly made his chase sequence essentially endless.
+
+        Extended his max chase sequence duration by 10 seconds
+
+        Fixed a bug that affected when his chase sequence ended 
+        Explanation : Should make his chase sequence actually end. 
+
+        Stalk sequence changes : Men_stalker cannot transition into his chase sequence so long as he hasn't directly stared at a scavenger for a least 5 seconds.
+        Explanation : This should make it easier to spot the Men_stalker during his stalk sequence. You now are guaranteed to have at the very least 5 seconds to spot him during the stalk sequence. Additionally, if he didn't had at least 5 seconds of visual contact with a scavenger when his stalking cooldown ends, he will also start to "aggresively" stalk you (Thus giving scavengers more opportunity to catch him)
