@@ -1,5 +1,61 @@
 # Changelog
 
+### v1.4.3 - More fixes and improvements
+* Fixed a few things with StartingMoneyPerPlayer and MinimumStartingMoney:
+	* MinimumStartingMoney now works without having to be paired with StartingMoneyPerPlayer, if you want to use it as a hardcoded money setting for new saves.
+	* Fixed a bug that would subtract the value twice every time a client disconnected.
+	* Fixed a bug that would refill the credits if another player joined after a ship unlockable was purchased, or if the tracked credits were negative.
+	* Fixed a bug that would throw an error if the tracked credits went negative (background tracking to prevent purchase exploits).
+* Fixed a small Time monitor bug that would not initialize properly when quickly exiting out during a level load and reloading the save file.
+	* As part of this fix I chose to remove the 1 second update timer requirement for that monitor, since the new rendering system will never render the same thing anyway.
+* Remove AllowLookDownMore from the config and code since it has been implemented as of v64.
+* Fixed toilet paper being marked as conductive.
+	* Removed flask, plastic cup, and whoopie cushion's conductivity fixes since they are now in v64 vanilla.
+* Made the CompanyBuyRate monitor more compatible with [BuyRateSettings](https://thunderstore.io/c/lethal-company/p/MoonJuice/BuyRateSettings/)
+	* The monitor will still briefly show an "incorrect" buy rate for a short duration after a quota is met due to how BuyRateSettings updates it.
+* Fixed AllowPreGameLeverPullAsClient not working for clients if a new moon was travelled to before the game start.
+* Fixed ScanPlayers only working if FixPersonalScanner was also true.
+* Fixed a bug where PlayerHealth monitors would not update after a player was killed (mostly affected PlayerHealthExact).
+* Fixed a bug where the OvertimeCalculator monitor would not update while in orbit over the company.
+* Fixed a bug where the ScrapLeft monitor would display an incomplete value for clients on very large moons from calculating before the scrap was fully loaded.
+* Potentially fixed a very rare edge case when using certain regional PC settings with Gale mod manager that would interpret weather multiplier values incorrectly and clamp them.
+
+### v1.4.2 - Performance hotfix
+* Fixed a performance bug that remained from v1.3.8 when AddMoreBetterMonitors was set to false.
+
+### v1.4.1 - Hotfix
+* Fixed a bug with AddMoreBetterMonitors not working properly with the new monitor rendering system.
+
+### v1.4.0 - More monitors, better performance, and weather multipliers
+* Further optimized the better monitor rendering system, resulting in a decent performance boost when UseBetterMonitors = true.
+* Added a "Company Buy Rate" monitor.
+* Added a "Daily Profit" monitor. (Yer an Employee, Harry!)
+* Added an "Average Daily Scrap" monitor.
+* Added an "Overtime Calculator" monitor.
+* Added config options to have loot and amount multipliers based on the current weather.
+	* Defaults to the vanilla values everywhere, but recommended config strings are in the description.
+	* It should also support custom weathers if you specify the correct name.
+	* This will affect the apparatus as well but does it earlier than other mods (like [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) so they take precedence.)
+* Fixed the internal ship cam still showing underneath a canvas if UseBetterMonitors was set to false and a custom monitor replaces it.
+* Fixed challenge files not properly resetting several GI related stats and monitors
+* Fixed the plastic cup, soccer ball, and zed dog being conductive.
+
+### v1.3.8 - Hotfix
+* Fixed the sales monitor breaking in v1.3.7
+
+### v1.3.7 - More fixes and improvements
+* Added a config option to disable the automatic collection of dead player bodies when teleporting them to the ship, and attempted to fix the collection being spammed with certain mod conflicts.
+* Terminal command history now supports a minimum of 2 characters to store instead of 3, meaning it will save door/mechanism commands as well.
+* Fixed the PlayerHealthExact monitor not working if there were no PlayerHealth monitors.
+* Fixed word wrapping and overflow with long player names in player health monitors.
+* Fixed the chat opacity config settings not being applied when using the ship terminal.
+* Fixed masked entities having a scan node created when MaskedEntitiesShowPlayerNames was true but ScanPlayers was false. Both need to be set to true for them to be "scannable" as players.
+* Fixed the danger level monitors being constantly inaccurate.
+* Fixed a big vanilla performance problem related to audio reverb triggers continually searching for a gameobject, resulting in a 5-10x performance boost in certain cases.
+	* This is fully compatible with [ReverbTriggerFix](https://thunderstore.io/c/lethal-company/p/JacobG5/ReverbTriggerFix/) as they technically optimize different things.
+* Potentially fixed a rare edge case in which the sales monitor would throw an exception when trying to update.
+* Potentially fixed a rare exception with storing terminal command history when submitting a command.
+
 ### v1.3.6 - Hotfix
 * Fixed the sell counter not accepting items if SellCounterItemLimit was greater than 127.
 * Fixed the new PlayerHealth and PlayerHealthExact monitors not working propertly if UseBetterMonitors was set to false.

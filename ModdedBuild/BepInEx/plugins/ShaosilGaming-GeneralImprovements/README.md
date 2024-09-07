@@ -28,10 +28,10 @@ Check the config settings or the [wiki!](https://thunderstore.io/c/lethal-compan
 * [Host Must Have Mod] Adds the ability to toggle the fancy lamp on and off while holding it.
 * Locks the camera while at the terminal so it doesn't keep getting pulled back if you try to move it. Behavior may be disabled in config.
 * Fixed clients not knowing the amount of days spent and total deaths if joining on later quotas/days, if both the host and client have this mod.
-* Allows players to look down more (85 degrees instead of 60). May be disabled in the config.
 * Improves the spray can color randomness, and persists the colors between clients and even on reloading the saves.
 * Saving item rotations so they aren't all facing the same way when you load up a saved game.
 * Items which cannot be grabbed will not display the "Grab" hover tip.
+* Improves performance in many situations where audio reverb objects were searching for a static gameobject every frame.
 
 ### NEW FEATURES:
 * A total of 14 customizable, screen-integrated monitors for the ship (instead of the vanilla 8)! Choose which monitor to put what item, including ship cams and background color.
@@ -61,17 +61,18 @@ Check the config settings or the [wiki!](https://thunderstore.io/c/lethal-compan
 * Adds an option to allow the masked entities to blend in more, which means they will not wear masks, and will don the suit (and MoreCompany cosmetics if necessary) of a random real player.
 * Adds an option to control the menu music volume.
 * Adds configurable settings for the chat fade delay and opacity level.
+* Adds configurable weather multipliers for scrap values and amounts. Supports any custom or modded weather.
 
 ### MINOR BUGFIXES:
 * Stops all non-scrap objects from showing value (when scanned and sold) when they do not actually have any.
 * Removes the random 'n' in the middle-left of the terminal monitor when switching through radar cams.
 * Flips the rotation of fire entrances 180 degrees so you are facing inside the facility when entering.
-* Dead bodies will now instantly show as collected when teleported back to the ship.
+* Dead bodies will now instantly show as collected when teleported back to the ship (configurable).
 * Fixes the scan terminal command and end-of-round scrap sum to include all valuables outside the ship, as well as factor in the current scrap value multiplier (under the hood, not related to company).
 * The initial monitor view now shows the correct player name when first starting a round.
 * The map seed is now properly randomized as soon as you start a new save file, which means sales, weather, etc will be properly randomized.
 * Fixes ship scrap not being marked as 'in the ship' for clients when joining. This fixes several things client side, including terminal scans, extra scrap collection pings, and more.
-* [Host Only] Whoopie cushions and flasks will no longer be hit by lightning. If the host/server player has this enabled, it will apply to all clients.
+* [Host Only] Certain items (soccer ball, toilet paper, etc) will no longer be hit by lightning. If the host/server player has this enabled, it will apply to all clients.
 * [Host Only] When a new client connects to your lobby, they should see the correct position, rotation, and current emote animation of each player, as well as correct states of the ship lights and monitor power.
 * When loading a file, items in the ship will no longer fall through shelves, tables, etc. May be disabled.
 * Adds an option to fix the personal scanners sensitivity, making it function more reliably, for example being able to ping the ship on Rend.
