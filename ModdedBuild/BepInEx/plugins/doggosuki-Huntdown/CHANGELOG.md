@@ -1,3 +1,20 @@
+### 1.5.2
+
+**Update brought to you by a contribution by @Despardo6 on GitHub! Thank you a bunch!**
+- Added a new mission, "Maneater", along with their config options
+- Added a new mission, "Baboon Gang", along with their config options
+- Added all new scraps to reward item pools (Zed dog, plastic cup, garbage lid, control pad, soccer ball, easter egg, toilet paper, weed killer, toy train)
+
+### 1.5.1
+
+- Fixed a bug which caused enemies to sometimes be teeny tiny when they spawn (thank you AquatuzMagnus for the bug report)
+
+### 1.5.0
+
+- A bit of maintenance
+- Added a new mission, "Butler", along with their config options
+- Updated README to reflect the changes
+
 ### 1.4.1
 
 - Fixed a bug which sometimes allowed non-mission enemies to spawn on moons they shouldn't have been able to, like after getting a Good Boy mission on a moon, they would start to spawn naturally on that moon afterwards... oops. (thank you Alecksword for the bug report)

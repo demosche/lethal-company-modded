@@ -541,7 +541,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AllToasters-SpectateEnemies\2.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AllToasters-SpectateEnemies\icon.png
 - manifestVersion: 1
   name: doggosuki-Huntdown
   authorName: doggosuki
@@ -553,7 +553,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1725693352476
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -561,10 +561,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 1
+    minor: 5
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\doggosuki-Huntdown\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\doggosuki-Huntdown\1.5.2\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
