@@ -1682,7 +1682,7 @@
     minor: 6
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-ShockwaveDroneEnemy\0.6.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-ShockwaveDroneEnemy\icon.png
 - manifestVersion: 1
   name: TestAccount666-AutomaticInventoryFixPlugin
   authorName: TestAccount666
@@ -1741,7 +1741,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1723131190867
+  installedAtTime: 1725694163266
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1752,9 +1752,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.3.6\icon.png
 - manifestVersion: 1
   name: Sigurd-CSync
   authorName: Sigurd
