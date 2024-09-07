@@ -1,8 +1,36 @@
 # TestAccountCore
 
+## 1.8.2
+
+\* Hopefully fixed parsing numbers on some systems<br>
+
+## 1.8.1
+
+\# Now gives more information to why and what hazard couldn't be loaded<br>
+
+## 1.8.0
+
+\+ Added Spawn Curve Configuration for Map Hazards<br>
+
+## 1.7.0
+
+\+ Added CustomScript objects<br>
+
+## 1.6.0
+
+\+ Added ConnectedNetworkPrefab registration<br>
+
+## 1.5.0
+
+\+ Added options for hazards<br>
+
+## 1.4.0
+
+\+ Added Map Hazard loader<br>
+
 ## 1.3.0
 
-\* Fix logic issue with LobbyCompatibility
+\* Fix logic issue with LobbyCompatibility<br>
 
 ## 1.2.1
 
