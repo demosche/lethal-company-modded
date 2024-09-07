@@ -1,3 +1,6 @@
+## v1.2.2
+- Small stuff nothing noteworthy
+
 ## v1.2.1
 - Removed Reflection from patches
 
