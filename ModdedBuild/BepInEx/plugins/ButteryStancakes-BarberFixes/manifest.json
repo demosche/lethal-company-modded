@@ -1,8 +1,8 @@
 {
     "name": "BarberFixes",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
 	"website_url": "https://github.com/ButteryStancakes/BarberFixes",
-    "description": "Fixes several MAJOR issues with Barbers.",
+    "description": "Fixes several issues with Barbers. Now allows restoring spawn behaviors from previous versions of the game.",
     "dependencies": [
 		"BepInEx-BepInExPack-5.4.2100"
 	]

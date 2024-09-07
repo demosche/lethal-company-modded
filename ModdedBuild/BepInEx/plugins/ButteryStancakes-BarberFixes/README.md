@@ -8,7 +8,9 @@ Fixes bugs with the Barber:
   - This doesn't happen in vanilla because the code responsible doesn't run at all (due to the first bug)
 - Fixed all Barbers (sometimes) freezing in place indefinitely when the first Barber kills someone that isn't the host.
 - Fixed drumroll sometimes being desynced from the first jump that happens after a player is killed.
+- Fixed the drumroll playing (and overlapping the immediate "parade" sound) when a Barber first spawns.
 
 Also adds some config settings to re-enable certain behaviors:
-- `SpawnInPairs` - When enabled, Barbers will spawn in groups of 2, like "intended" in the first v55 beta. [LethalFixes](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes/) is REQUIRED for this to function!
+- `OnlyOneBarber` - When disabled, up to 8 Barbers are allowed to spawn in one day, like before v62. In vanilla, Barbers have been spawn-capped at 1, likely to hide the synchronization issues mentioned above.
+- `SpawnInPairs` - When enabled, Barbers will spawn in groups of 2, like "intended" in the first v55 beta. [VentSpawnFix](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/VentSpawnFix/) is REQUIRED for this to function!
 - `DrumrollFromAll` - When enabled, all Barbers will do a drumroll before they "jump." In vanilla, only the original Barber plays the drumroll. It's unclear whether this is intended or an oversight (the code is inconclusive)

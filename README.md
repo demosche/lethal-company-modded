@@ -116,7 +116,7 @@ List of mods:<br>
  GeneralImprovements  1.4.3<br>
  Haunted  1.0.3<br>
  WeedKillerFixes  1.1.0<br>
- BarberFixes  1.0.0<br>
+ BarberFixes  1.1.0<br>
  LifetimeCruiserWarranty  1.2.0<br>
  NoPowerLevelDecrease  1.0.0<br>
  SoberShip  1.2.1<br>

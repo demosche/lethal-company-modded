@@ -2657,18 +2657,19 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-WeedKillerFixes\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-WeedKillerFixes\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-BarberFixes
   authorName: ButteryStancakes
   websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/BarberFixes/
   displayName: BarberFixes
-  description: Fixes several MAJOR issues with Barbers.
+  description: Fixes several issues with Barbers. Now allows restoring spawn
+    behaviors from previous versions of the game.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721112079588
+  installedAtTime: 1725694820318
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2676,10 +2677,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
+    minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-BarberFixes\1.1.0\icon.png
 - manifestVersion: 1
   name: 33mamaster-LifetimeCruiserWarranty
   authorName: 33mamaster
