@@ -24,7 +24,7 @@ List of mods:<br>
  LethalThings  0.10.6<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
- SpectateEnemies  2.5.0<br>
+ SpectateEnemies  2.6.0<br>
  Huntdown  1.4.1<br>
  ShipLobby  1.0.2<br>
  HidePlayerNames  1.0.2<br>

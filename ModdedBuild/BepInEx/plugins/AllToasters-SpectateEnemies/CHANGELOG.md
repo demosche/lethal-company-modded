@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.6
+- Updated to support v62
+- Fixed a minor error that would appear when the game starts
+- Fixed a minor inconsistency in the controls tooltip
+
 ## v2.5
 - Updated to support v55
 - Fixed an issue where the menu scrollbar would not appear
