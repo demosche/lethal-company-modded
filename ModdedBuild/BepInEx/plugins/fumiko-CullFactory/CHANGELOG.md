@@ -1,3 +1,102 @@
+# 1.3.8
+
+## Fixed
+
+- An error preventing LAN players to join games
+
+# 1.3.7
+
+## Changed
+
+- Reduced the size of the mod by removing the Burst assembly's pdb and all referenced packages within it except for the Unity.Burst plugin
+
+## Fixed
+
+- Burst assembly code being unused due to applying the patch to ignore failure to resolve Burst-compiled methods too early
+
+# 1.3.6
+
+## Fixed
+
+- Breakage of LethalCompanyVR due to missing Burst-compiled methods, these errors will now be silently ignored with functionality unaffected
+
+# 1.3.5
+
+## Fixed
+
+- Culling never activating alongside some unidentified mod(s) due to a BepInEx bug
+
+# 1.3.4
+
+## Fixed
+
+- Non-functional null checks causing errors when loading some levels
+
+# 1.3.3
+
+## Fixed
+
+- A NullReferenceException that would occur on the Mental Hospital interior due to lights lacking HDRP properties
+
+# 1.3.2
+
+## Fixed
+
+- The interior disappearing in the mineshaft's entry tile when standing near the "normal" entrance position
+
+# 1.3.1
+
+## Fixed
+
+- Light culling issues in the vanilla mineshaft's entry tile
+- The disappearing world in Scoopy's entry tile, theoretically this should be prevented in most cases where the generation is logical
+
+# 1.3.0
+
+## Added
+
+- An option (`Disable LOD culling`) to prevent LOD in interior objects from causing them to disappear visibly
+- Calculation of influence of spot lights to reduce the visible geometry further
+
+## Changed
+
+- `Disable shadow distance fading` will now only disable shadow fading for a light using a heuristic to avoid performance degradation
+- Culling is enabled by default on Grand Armory again, as performance is no longer regressed thanks to the above change
+
+## Fixed
+
+- Disabling distance culling after loading a level with it enabled would cause the far plane to reset to the configured interior far plane distance
+
+# 1.2.3
+
+## Fixed
+
+- Items being invisible in the entry tile of the new interior
+
+# 1.2.2
+
+## Fixed
+
+- Packages built into the Burst assembly will now use the versions packaged with Lethal Company to avoid tricky bugs
+
+# 1.2.1
+
+## Fixed
+
+- Culling issue in the entry tile of the new interior in v60
+- Crash when joining a LAN host
+
+# 1.2.0
+
+## Added
+
+- A Burst-compiled assembly which will contain optimized algorithms to be used for culling
+- An optimization to prevent some work from being done when culled tiles don't change
+
+## Fixed
+
+- A freeze that could occur on any interior, but most commonly the Grand Armory interior
+
 # 1.1.5
 
 ## Fixed
