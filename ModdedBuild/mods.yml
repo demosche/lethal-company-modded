@@ -1916,7 +1916,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Mellowdy-LightningRod\1.0.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Mellowdy-LightningRod\icon.png
 - manifestVersion: 1
   name: necrowing-StopBeesOpeningDoors
   authorName: necrowing
@@ -1969,26 +1969,26 @@
   authorName: KlutzyBubbles
   websiteUrl: https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes/
   displayName: BetterEmotes
-  description: "[v50/v55] Alters the integration method of more emotes and adds
+  description: "[v60/61/62] Alters the integration method of more emotes and adds
     some config options. See github for more info."
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720939296503
+  installedAtTime: 1725694246278
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Rune580-LethalCompany_InputUtils-0.7.4
+    - Rune580-LethalCompany_InputUtils-0.7.7
     - Ozone-Runtime_Netcode_Patcher-0.2.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 5
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KlutzyBubbles-BetterEmotes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KlutzyBubbles-BetterEmotes\1.5.4\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-SnowyHolidayDropship
   authorName: ButteryStancakes
