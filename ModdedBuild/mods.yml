@@ -2836,7 +2836,7 @@
     minor: 1
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\v0xx-LethalElements\1.1.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\v0xx-LethalElements\icon.png
 - manifestVersion: 1
   name: Mellowdy-ExtensionLadderFix
   authorName: Mellowdy
@@ -2894,7 +2894,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1723131404167
+  installedAtTime: 1725694944945
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2904,7 +2904,7 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 4
+    minor: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-DungeonGenerationPlus\1.1.2\icon.png

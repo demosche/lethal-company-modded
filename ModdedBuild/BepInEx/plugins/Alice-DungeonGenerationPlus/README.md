@@ -9,6 +9,14 @@ This API was originally a part of the custom interior, [Scarlet Devil Mansion](h
 ## How to Setup and Use
 Please refer to the [wiki](https://git.touhou.dev/Raphtalia/DungeonGenerationPlus_LethalCompany_Mod/wiki) for documentation on utilizing this API for your custom interior.
 
+## Dev Debug Tools
+
+Activate this feature in this mod's config, then press M while inside the ship alone.
+
+Allows you quickly generate dungeons inside Lethal Company. You can edit most (but not all) values of the DungeonFlow and DunGenExtender assets to quickly see how the changes would affect the dungeon generation.
+
+See this (thread)[https://discordapp.com/channels/1168655651455639582/1268936081106141318/1277693907492405259] for the feature in action.
+
 ## Multiple Main Paths
 
 The prominent feature of this API is the ability to seemlesly add multiple main paths to your interior. Below are some examples.
