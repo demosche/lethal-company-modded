@@ -1,5 +1,6 @@
 # ReservedItemSlotCore
-<strong>The core mod for all ReservedItemSlot mods.</strong><br>
+### V62 Compatible!
+**The core mod for all ReservedItemSlot mods.**<br><br>
 This mod is required for my ReservedItemSlot mods to work, such as ReservedFlashlightSlot and ReservedWalkieSlot.<br>
 These mods will give you free dedicated inventory slots for their respective item(s). These slots will be shown on the right side of your screen, stacking vertically.<br>
 
@@ -42,11 +43,35 @@ Negative priority will force the item slots to appear on the right side of the s
 - InputUtils is not a dependency, but is recommended!<br><br>
 
 
-## API features (new in 2.0.0)
+## API Support (examples below)
 + Adds API features for developers to use to easily create their own Reserved Item Slot mods, or to add their items to existing Reserved Item Slots.
 + When creating a ReservedItemData for a specific item, developers can optionally specify a target bone to holster the item to on the player (and Masked Enemy), as well as set the position/rotation offsets.<br><br>
 
 
+## My ReservedItemSlot Mods
++ [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
++ [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
++ [ReservedWeaponSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot/)
++ [ReservedUtilitySlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedUtilitySlot/)
++ [ReservedSprayPaintSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/)
++ More Reserved Item Slot mods may exist from others on Thunderstore!
+<br><br>
+
+## Mod Compatibility
++ HotbarPlus is compatible!
++ LethalThings Utility Belt is (or should be) compatible! (hopefully stays that way)
++ <strong>This mod may not play well with Advanced Company. Use at your own risk!</strong>
++ Other mods that can add hotbar slots are not guaranteed to work.
++ Other mods that might re-arrange the hotbar slots (HUD) are not guaranteed to play nicely with these mods, but *might* technically work.
+<br><br>
+
+## If you read this far and are enjoying my mods
+
+Please consider supporting me [here](https://ko-fi.com/flipf17)!<br>
+Definitely not required, but it would be greatly appreciated! =)<br>
+
+<br><br>
+## API Examples
 #### First off, make sure you add the latest ReservedItemSlotCore.dll to your VS project's references.
 
 #### NOTE
@@ -59,7 +84,7 @@ Negative priority will force the item slots to appear on the right side of the s
 This will be used to add items from your mod to existing Reserved Item Slots that were created by another mod, and if ReservedItemSlotCore is enabled.<br>
 
 **Create a class similar to this in a separate file.**
-```
+```csharp
 using ReservedItemSlotCore.Data;
 
 public static class ReservedItemSlotsCompat
@@ -80,7 +105,7 @@ public static class ReservedItemSlotsCompat
 
 <br>
 
-```
+```csharp
 using ReservedItemSlotCore.Data;
 
 public static class ReservedItemSlotsCompat
@@ -99,7 +124,7 @@ public static class ReservedItemSlotsCompat
 
 **And in your Awake (or Start) method in your Plugin class, add this: (preferably after you bind your configs)**<br>
 **If your mod does not depend on ReservedItemSlotCore, and only optionally adds your items to Reserved Item Slots if they exist, then checking if this mod is enabled is very important!**
-```
+```csharp
 if (BepInEx.Bootstrap.Chainloader.PluginInfos.ContainsKey("FlipMods.ReservedItemSlotCore"))
     ReservedItemSlotsCompat.AddItemsToReservedItemSlots(); // This will be the call to your function
 ```
@@ -107,7 +132,7 @@ if (BepInEx.Bootstrap.Chainloader.PluginInfos.ContainsKey("FlipMods.ReservedItem
 
 **Last but not least, add this SoftDependency header above your Plugin class definition**<br>
 If your mod *does* depend on ReservedItemSlotCore, then you can change `BepInDependency.DependencyFlags.SoftDependency` to `BepInDependency.DependencyFlags.HardDependency`.
-```
+```csharp
 [BepInDependency("FlipMods.ReservedItemSlotCore", BepInDependency.DependencyFlags.SoftDependency)] // Add this line
 [BepInPlugin("EXAMPLE_MOD_GUID", "EXAMPLE_MOD_NAME", "1.0.0")] // YOUR SHOULD ALREADY HAVE THIS LINE ABOVE YOUR PLUGIN CLASS DEFINITION.
 public class Plugin : BaseUnityPlugin
@@ -120,7 +145,7 @@ public class Plugin : BaseUnityPlugin
 ### Creating your own ReservedItemSlot
 **Example for creating your own ReservedItemSlotData, and adding your mod's items (or existing items in the game) to your item slot.**<br>
 Include this code in the Awake (or Start) method of your Plugin class. You don't *need* to create a separate file or class when adding this code.
-```
+```csharp
 using ReservedItemSlotCore.Data;
 
 // MAKE SURE YOU PUT THIS HEADER ABOVE YOUR PLUGIN CLASS
@@ -149,7 +174,7 @@ public class Plugin : BaseUnityPlugin
 
 ### More API Functions
 These are a few examples on how you can get and manage players' held reserved items.
-```
+```csharp
 PlayerControllerB localPlayerController = StartOfRound.Instance.localPlayerController;
 for (int i = 0; i < SessionManager.numReservedItemSlotsUnlocked; i++)
 {
@@ -183,21 +208,3 @@ If creating your own ReservedItemSlotData, be sure to also include this line in 
 If you would like to view more examples, feel free to look at my existing ReservedItemSlot mods on my [github](https://github.com/cmooref17/ReservedItemSlotMods)!<br>
 If you feel that I missed anything, or run into any issues, please let me know! I'm fairly active in the Lethal Company Modding discord, so come find me!<br>
 You can also post any issues on the github for this mod, as well!<br>
-
-
-## My ReservedItemSlot Mods
-+ [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/)
-+ [ReservedWalkieSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot/)
-+ [ReservedWeaponSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot/)
-+ [ReservedUtilitySlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedUtilitySlot/)
-+ [ReservedSprayPaintSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot/)
-+ More Reserved Item Slot mods may exist from others on Thunderstore!
-<br><br>
-
-## Mod compatibility
-+ HotbarPlus is compatible!
-+ LethalThings Utility Belt is (or should be) compatible! (hopefully stays that way)
-+ <strong>This mod may not play well with Advanced Company. Use at your own risk!</strong>
-+ Other mods that can add hotbar slots are not guaranteed to work.
-+ Other mods that might re-arrange the hotbar slots (HUD) are not guaranteed to play nicely with these mods, but *might* technically work.
-<br><br>

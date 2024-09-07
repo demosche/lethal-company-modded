@@ -1,3 +1,7 @@
+# 2.0.35
++ Fixed issue with controller not working properly on recent versions of ReservedItemSlotCore, when InputUtils is *not* enabled.
+# 2.0.34
++ Updated mod description for latest update compatibility.
 # 2.0.33
 + Removed config option for toggling the reserved hotbar slots.
 + Added another keybind for toggling the reserved hotbar slots that will work along side the press (and hold) to focus. Default key: Right alt<br>
