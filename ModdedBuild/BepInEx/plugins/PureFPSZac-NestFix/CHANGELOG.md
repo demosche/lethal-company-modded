@@ -1,3 +1,6 @@
+# 1.0.2
+ - Updated README for v62
+
 # 1.0.1
  - Updated README
 

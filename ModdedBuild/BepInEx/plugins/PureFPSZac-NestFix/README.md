@@ -1,6 +1,7 @@
 # NestFix
 
-## A mod that fixes the janky Baboon Hawk nest spawn positions
+##
+v62 | Fixes Baboon Hawk nests overhanging ledges and spawning inside walls
 
 # Before:
 ![](https://i.imgur.com/k8TxpTO.jpeg)
