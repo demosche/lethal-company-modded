@@ -104,7 +104,7 @@ List of mods:<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.2.4<br>
  WeatherRegistry  0.1.23<br>
- BetaWeatherTweaksBeta  0.21.3<br>
+ BetaWeatherTweaksBeta  0.22.0<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.2<br>
  ToilHead  1.7.2<br>

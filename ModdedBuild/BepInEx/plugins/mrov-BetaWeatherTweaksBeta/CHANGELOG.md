@@ -1,3 +1,8 @@
+# 0.22.0
+
+- removed foggy patch
+- removed LGU's probe integration
+
 # 0.21.3
 
 - fully updated LethalNetworkAPI to v3
