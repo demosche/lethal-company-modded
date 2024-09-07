@@ -1395,7 +1395,7 @@
     minor: 2
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\zealsprince-Locker\1.2.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\zealsprince-Locker\icon.png
 - manifestVersion: 1
   name: Coppertiel-MaskedEnemyOverhaulFork
   authorName: Coppertiel
@@ -1429,7 +1429,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1722073846738
+  installedAtTime: 1725693965874
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1437,10 +1437,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 8
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-LethalFixes\1.2.0\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
