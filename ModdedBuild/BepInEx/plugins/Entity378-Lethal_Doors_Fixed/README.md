@@ -8,6 +8,7 @@ Original mod: https://thunderstore.io/c/lethal-company/p/saint_kendrick/Lethal_D
 - Door will not impact player until seconds after the ship lands. This "feature" is considered the safe zone period. Once ship lands it will be lethal. 
 
 ## Versions & Notes
+- 1.1.0 Support V62.
 - 1.0.10 Fixed a sound issue that occurred when doors tried to kill an immortal enemy (Thanks TestAccount666 for letting me know about this problem).
 - 1.0.9 Fixed an issue where doors would not kill players.
 - 1.0.8 Potential fix for lag when the ship lands on or leaves the moon + The damage caused by the ship's doors should be more reliable for both players and enemies.

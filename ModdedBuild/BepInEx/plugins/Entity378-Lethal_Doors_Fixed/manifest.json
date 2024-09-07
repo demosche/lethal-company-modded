@@ -1,6 +1,6 @@
 {
   "name": "Lethal_Doors_Fixed",
-  "version_number": "1.0.10",
+  "version_number": "1.1.0",
   "website_url": "",
   "description": "Updated version of Lethal Doors that works with V50 of the game",
   "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
