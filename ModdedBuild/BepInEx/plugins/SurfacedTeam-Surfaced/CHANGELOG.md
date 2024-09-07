@@ -1,3 +1,97 @@
+## 1.3.1
+
+- Added the Murder Bird scrap in Scary mode
+
+- Added configs for min and max sound time for Scary and Seamines
+
+- Made the Squeeze interact on the Clownhorn fish a hold interact
+
+- Added a health config to the Clownhorn fish
+
+- Added a check for disabling the squeeze feature on the Clownhorn fish
+
+## 1.3.0
+
+- Fixed Error with Urchin mesh renderer
+
+## 1.2.9
+
+- Fixed horseshoot no longer launching players after being pushed alot
+
+- Undid the health scaling on urchins
+
+## 1.2.8
+
+- Made Urchins have varying colors between Black, Purple and Blue
+
+- Made Weedkiller affect Urchins
+
+- Added size configs for Urchins
+
+- Added an aggressive mode to Urchins (On by default)
+
+- Made Urchins health scale with size
+
+- Fixed Scary spamming logs when unable to path to a player
+
+## 1.2.7
+
+- Fixed Bruce not being rideable
+
+- Added config to disable the pickle on a stick in the store
+
+## 1.2.6
+
+- Added new good and bad effects to the Clownhorn fish
+
+- Increased negative effect chance
+
+- Tweaked Clownhorn fish death effect
+
+- Added set fall damage to the different horseshoot tiers
+
+## 1.2.5
+
+- Fixed Horseshoot not preventing fall damage
+
+## 1.2.4
+
+- Fixed Horseshoot breaking for all other players when used by a client
+
+## 1.2.3
+
+- Fixed Blahuce making the player 67lbs
+
+## 1.2.2
+
+- Fixed Horseshoot Crab's Launch power depending on the framerate
+
+- Made Clownhorn fish able to follow the player through fire exits
+
+- Tweaked Clownhorn fish buffs
+
+- Made seamines scannable from further
+
+- Tweaked Bruce's speed
+
+- Made Horseshoot's tail color darker
+
+- Updated mod page
+
+## 1.2.1
+
+- Fixed Horsheshoot being broken for clients
+
+- Fixed Clownhorn fish not giving the same buff to everyone
+
+- Made Bruce go to the player holding the pickle on a stick
+
+- Added configs for the clownhornfish buffs
+
+- Fixed Bruce's biting being high pitched
+
+- Blahaj :3
+
 ## 1.2.0
 
 - Added 2 new monsters and 1 equipment

@@ -1,9 +1,8 @@
-# Surfaced (for v56)
-Note: Only v1.0.0 is compatible with v50, the newer versions will only be for v56 onward
+# Surfaced (v62 Compatible)
+<a href="https://ibb.co/rkPD6bc"><img src="https://i.ibb.co/fMRjp8n/Surfaced-Banner2-2.png" alt="Surfaced-Banner2-2" border="0"></a>
 ## About this mod
-<a href="https://ibb.co/Lp4znqn"><img src="https://i.ibb.co/rynG4L4/Surfaced-Banner.png" alt="Surfaced-Banner" border="0"></a><br/><a target='_blank' href='https://dedupelist.com/'></a><br />
-This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 7 enemies, 1 scrap, 1 equipment and 1 hazard :
-A Shark and invasive Urchins outside, Sea Mines and Mantis Shrimps inside!
+
+This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 7 enemies, 2 scrap, 1 equipment and 1 hazard 
 
 ## Monster Mechanics (Spoilers ahead!)
 <details>
@@ -23,7 +22,7 @@ A Shark and invasive Urchins outside, Sea Mines and Mantis Shrimps inside!
 
 - ClownHorn Fish : Toot toot! This little clownfish will follow the first player it sees, even able to follow them inside. It will occasionally honk its magical clown horn giving varying buffs and rarely some debuffs. It can be interacted with and Squeezed for a guaranteed boost but it comes at a cost...
 
-- Super scary mode : Terrifying blue lobster that mimics random sound effects and scares the player when looked at.
+- Super scary mode : Terrifying creature that mimics random sound effects and scares the player when looked at.
 </details>
 
 ## Bug Reporting
@@ -52,4 +51,5 @@ If you have any issues related to the mod itself, please contact us on the Letha
 - Harpoon model : "Harpoon" (https://skfb.ly/6vIEq) by Sophie is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - Blue lobster model : "Blue Lobster (meme)" (https://skfb.ly/oyKvq) by Zyleck is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - Most sound effects are from https://pixabay.com
+- Blahaj Model : "Blahaj" (https://skfb.ly/oGwQt) by Kaine_G is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - Anchor model : "Old rusted anchor" (https://skfb.ly/6URMB) by trivial.cat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
