@@ -1,3 +1,5 @@
+# v1.3.1
+- Re-upload to update Thunderstore description for v60
 # v1.3.0
 - Removed many fixes that were implemented into vanilla with update v56
 - Fixed certain cases where hit effects (shovel bounce, knife blood spray) would play even if your swing actually misses
