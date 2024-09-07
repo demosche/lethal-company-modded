@@ -73,7 +73,7 @@ List of mods:<br>
  CullFactory  1.3.8<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.27<br>
- ShockwaveDroneEnemy  0.6.2<br>
+ ShockwaveDroneEnemy  0.6.3<br>
  AutomaticInventoryFixPlugin  2.0.0<br>
  Gnomes  2.1.19<br>
  Remnants  1.3.5<br>

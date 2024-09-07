@@ -1,18 +1,21 @@
-## V0.6.2:
+## v0.6.3:
+- Fix Scrap not having correct networkobject settings and causing parenting desyncs
+
+## v0.6.2:
 - Fix "Vanilla:60" in Default config not working (lethallib moment) and instead adding every moon to the config.
 
-## V0.6.1:
+## v0.6.1:
 - Small Hotfix
 
-## V0.6.0:
+## v0.6.0:
 - Rewrote the code for initializing and dropping scrap
 - Bunch of code cleanup
 - Fixed Drone scrap dropping part 2 (Electric boogaloo)
 
-## V0.5.2:
+## v0.5.2:
 - Added Config option for toggling screen shake.
 
-## V0.5.1:
+## v0.5.1:
 - Fix scrapChance config not working correctly
 
 ## v0.5.0: 
