@@ -166,7 +166,7 @@ Closed up a missing ceilings\
 Added new scarlet key (it's just red) to help with visibility\
 Changed the pit room's fog visuals a bit\
 Made one of the pit rooms easier\
-Added Sanguine to the interior's spawn list
+Added Sanguine (moon) to the interior's spawn list
 
 ### 1.3.22
 
@@ -187,3 +187,44 @@ Jukebox has randomized starting settings (can spawn already playing)\
 Added ReservedKeySlot compatibility\
 Fixed doll snowglobe animations\
 Portraits stare at you when you aren't looking
+
+### 1.3.24
+
+Updated to v60/v61\
+Expanded mayor entrance tile, removed basement\
+Updated dungeon generation to prefer branch tiles that make multiple connections to encourage looping paths\
+Decreased the main path length by a bit\
+Added new treasure room spawn (bedroom)\
+Added new room variant for bedroom and kitchen\
+Fixed treasure rooms not being properly locked during multiplayer\
+Fixed doll snowglobe animation\
+Updated knight to match the coilhead's new behaviour\
+Changed much of the LogInfo into LogDebug
+
+### 1.3.25
+
+Updated knight to coilhead's new v62 behaviour\
+Knight enters a brief cooldown after hitting a player\
+Fixed LOS not stopping the knight for 5+ lobbies (Zeekers is back on my shitlist)
+
+### 1.3.26
+
+Updated mod for new API version
+
+### 1.3.27
+
+There is now 5 varaints for bedrooms, kitchens, 1F libraries, and servant's quarters\
+Added another 2F library variant\
+Shrunk all 1F libary rooms
+
+Vanilla preset now spawns treasure rooms\
+Added new treasure room spawn (servant's quarters)\
+Fixed treasure room event for bedroom\
+Fixed painting's interaction with MattyFixes\
+Fixed critical damage bug introduced by v62
+
+Increased lights spawn for all presets by a lot\
+Lights now have a chance of flickering and dying
+
+Added Coroner compatibility\
+Added Scarlet Devil Mansion (moon) to the interior's spawn list

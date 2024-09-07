@@ -1608,7 +1608,7 @@
     minor: 3
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\fumiko-CullFactory\1.3.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\fumiko-CullFactory\icon.png
 - manifestVersion: 1
   name: Lordfirespeed-OdinSerializer
   authorName: Lordfirespeed
@@ -1641,13 +1641,13 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1723131145054
+  installedAtTime: 1725694104952
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.11.0
     - IAmBatby-LethalLevelLoader-1.2.3
-    - Alice-DungeonGenerationPlus-1.0.3
+    - Alice-DungeonGenerationPlus-1.1.2
     - Evaisa-FixPluginTypesSerialization-1.1.1
     - Lordfirespeed-OdinSerializer-2022.11.9
     - fumiko-CullFactory-0.9.2
@@ -1656,9 +1656,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 23
+    patch: 27
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-ScarletDevilMansion\1.3.27\icon.png
 - manifestVersion: 1
   name: SolidStone-ShockwaveDroneEnemy
   authorName: SolidStone

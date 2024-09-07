@@ -1,14 +1,16 @@
 ### Required by all clients
 
+### Updated for v60-62
+
 ### Final v1.3 update. Stay tuned for v2.0
 
 # The Scarlet Devil Mansion（紅魔館）
 
 Adds the Scarlet Devil Mansion from Touhou as a possible dungeon for the snow moons (Dine, Rend, Tital). By default the chances are about 50% split between the regular mansion dungeon and the SDM dungeon. In the Lethal Level Loader config, you can edit the spawn weight for any of the snow maps as well as any vanilla or custom moon.
 
-This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/). By default the chances are about 75% for the SDM dungeon to appear.
+This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/) or [Scarlet Devil Mansion moon](https://thunderstore.io/c/lethal-company/p/Napougi/ScarletDevilMoon/). By default the chances are about 75% for the SDM dungeon to appear.
 
-[Sanguineの月](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/)と一緒に使うことを勧める。
+[Sanguineの月](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/)や[ScarletDevilMansionの月](https://thunderstore.io/c/lethal-company/p/Napougi/ScarletDevilMoon/)と一緒に使うことを勧める。
 
 
 #### How to load on vanilla or custom moons, or edit dungeon weights with Lethal Level Loader
@@ -115,7 +117,14 @@ The map is a grayscale representation of what the Scarlet Devil Mansion could lo
   <img src="https://i.imgur.com/u7uebOz.png">
 </details>
 
-This dungeon uses modified dungeon generation code to create multiple main paths (as opposed to the base game's single path), then creates branching paths like normal. Furthermore, the dungeon will always be confined to a relatively small box. This is all done to increase the chance of the main paths connecting and forming a circular path. Please understand that this will increase dungeon generation times by a decent margin. None of this applies if you are using the Vanilla preset.
+### Dungeon Generation
+
+This dungeon uses modified dungeon generation code to do the following:
+* Create multiple main paths (as opposed to the base game's single path), then creates branching paths like normal
+* Confines the dungeon to a relatively small box
+* Prioritizes branch paths that connects to other tiles
+
+This is all done to increase the chance of the main paths connecting and forming a circular path. Please understand that this will increase dungeon generation times by a decent margin. The Vanilla preset doesn't use most of these modifications.
 
 ![](https://i.imgur.com/HXw3Fk3.png)
 
@@ -123,7 +132,7 @@ This dungeon uses modified dungeon generation code to create multiple main paths
 
 Besides the dungeon's generation and tiles, the dungeon features a few unique mechanics that can shake up your scavenging adventure, or play a fun distraction.
 
-Many mechanics/enemies deal critical damage. This will deal damage to set the player's health to 15. If the player's health is already below 20, the damage will instead kill them.
+Many mechanics/enemies deal critical damage. This will deal damage to set the player's health to 5. If the player's health is already below 10, the damage will instead kill them.
 
 <details> 
   <summary>Spoiler warning. Click here to see the features</summary>
@@ -156,7 +165,7 @@ Many mechanics/enemies deal critical damage. This will deal damage to set the pl
   <br>
   <b>The Treasure</b>
   <br>
-  The mansion holds many valuable treasures behind impassable doors. Solve that room's puzzle to unlock the door. Only the kitchen and 1f library rooms can spawn these treasure rooms.
+  The mansion holds many valuable treasures behind impassable doors. Solve that room's puzzle to unlock the door. Only spawns next to kitchen, 1f library, bedroom, and servant's quarters rooms.
   <img src="https://i.imgur.com/QSfB72S.png">
   
   <br>
@@ -218,14 +227,14 @@ The dungeon uses summoning sigils to summon its enemies as opposed to vents. Thi
   <br>
   <b>The Knight</b>, a Coil-head variant
   <br>
-  Acts like a regular coil-head, but is noticeably slower and prefers spawning from statue props, especially ones passed by scavengers.
+  Acts like a regular coil-head, but is slightly slower and prefers spawning from statue props, especially ones passed by scavengers. Takes a bit longer to exit the cooldown state, and enters a brief cooldown state after hitting a player.
   <br>
   <img src="https://i.imgur.com/tV8Nw0A.png">
   
   <br>
   <b>The Maid</b>, a Butler variant
   <br>
-  Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower, has less health. When killed, drops the Maid's Knife and summons a revenant ghost towards the maid's killer.
+  Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower and has less health. When killed, drops the Maid's Knife and summons a revenant ghost towards the maid's killer.
   <br>
   The revenant deals critical damage. It is only fully visible to the maid's killer, and will only target/harm them. They can slowed down by it's target staring it down. Once the revenant deals damage, the target dies, or the target leaves the dungeon, the revenant disappears.
   <br>
@@ -241,6 +250,7 @@ The following mods either have unique compatibilities or made to work with SDM:
 * [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) (Can be activated by the dungeon event. **Must** be enabled in the config)
 * [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) (The decorative flashights can be placed in the flashlight slot)
 * [ReservedKeySlot](https://thunderstore.io/c/lethal-company/p/RogueCodes/ReservedKeySlot/) (The scarlet keys can be placed in the key slot)
+* [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) (Enemies and map hazards have unique death messages)
 
 ## Roadmap in General
 
@@ -257,7 +267,8 @@ Touhou owned by Team Shanghai Alice (ZUN)
 LadyEbony.itch.io - Code, Dungeon Design\
 @Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
 Nitori.itch.io - For their sick advice\
-[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe code (twice)
+[XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe code (twice)\
+Warmgummybear - He threatened my life, and more importantly my waifus, if I didn't include his name
 
 #### 3D Models/Assets
 
