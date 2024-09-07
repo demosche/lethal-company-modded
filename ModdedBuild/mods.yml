@@ -2703,7 +2703,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\33mamaster-LifetimeCruiserWarranty\1.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\33mamaster-LifetimeCruiserWarranty\icon.png
 - manifestVersion: 1
   name: catenjoyer-NoPowerLevelDecrease
   authorName: catenjoyer
@@ -2731,12 +2731,13 @@
   authorName: essie
   websiteUrl: https://thunderstore.io/c/lethal-company/p/essie/SoberShip/
   displayName: SoberShip
-  description: Stop the Vain Shrouds from spawning on the ship
+  description: Bring back the Vain Shrouds (and fox) and stop them from spawning
+    near the ship
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721847465870
+  installedAtTime: 1725694877454
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2744,10 +2745,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\essie-SoberShip\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\essie-SoberShip\1.3.0\icon.png
 - manifestVersion: 1
   name: Saradora-UnityMDK
   authorName: Saradora

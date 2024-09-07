@@ -119,7 +119,7 @@ List of mods:<br>
  BarberFixes  1.1.0<br>
  LifetimeCruiserWarranty  1.3.0<br>
  NoPowerLevelDecrease  1.0.0<br>
- SoberShip  1.2.1<br>
+ SoberShip  1.3.0<br>
  UnityMDK  1.3.0<br>
  LethalMDK  1.2.0<br>
  ScanTweaks  1.7.0<br>
