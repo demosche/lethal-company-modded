@@ -2240,7 +2240,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SolidStone-SolidLib\1.2.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SolidStone-SolidLib\icon.png
 - manifestVersion: 1
   name: magico13-TurretWhacker
   authorName: magico13
@@ -2367,7 +2367,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1722677783383
+  installedAtTime: 1725694455879
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2377,9 +2377,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 21
+    patch: 23
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.23\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
