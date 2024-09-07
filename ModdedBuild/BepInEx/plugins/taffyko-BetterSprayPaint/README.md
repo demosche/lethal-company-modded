@@ -1,6 +1,10 @@
 # Features & Usage
 NOTE: All players must have the same version of the mod installed to play together.
 
+NOTE: In the unmodded base game, not all geometry is fully paintable.
+I've done what I can to make more of the game paintable, but there's no way to reliably fix this everywhere.
+**The placement preview projection will not be displayed on unpaintable surfaces.**
+
 ## Improved painting & eraser
 - Several changes/bugfixes that make spraypaint work more consistently, look better, and feel better to use
 	- Certain spots in levels may still be unpaintable (due to invisible colliders). It remains to be seen if this can be fixed in the future.
@@ -29,5 +33,7 @@ You can now control the **size** of your spray paint (default keys: `+` and `-` 
 - Shaking the can is more effective (configurable by host)
 - Reduced sound effect volume (configurable)
 - Increased draw distance (configurable)
+- A paint placement preview projection is shown, allowing you to see where you're painting and draw easily (configurable)
 - Spray paint on a moon is now properly cleaned up after each round
+- Makes the Company Cruiser paintable.
 - NOTE: Config can be changed mid-game using a mod like [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) and will take effect instantly, no restart needed!

@@ -32,7 +32,7 @@ List of mods:<br>
  JetpacksCarryBigItems  1.0.2<br>
  JesterStompShake  1.0.8<br>
  EnhancedRadarBooster  1.7.1<br>
- BetterSprayPaint  2.0.4<br>
+ BetterSprayPaint  2.0.8<br>
  GamblingMachineAtTheCompany  1.3.5<br>
  ReservedSprayPaintSlot  1.1.1<br>
  Immersive_Visor  0.5.2<br>

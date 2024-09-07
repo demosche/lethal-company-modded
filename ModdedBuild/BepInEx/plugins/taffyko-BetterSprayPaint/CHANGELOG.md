@@ -1,3 +1,22 @@
+# 2.0.8
+(Targeting v62/v64)
+- Adds a new setting, `ClientsCanPaint`, which can be disabled by the host to prevent other players from painting inside/on the ship.
+
+# 2.0.7
+- Fixes an issue that resulted in an excess of error logs in the console
+- Updated config defaults to reflect changes to the base game
+
+# 2.0.6
+- Hotfix
+
+# 2.0.5
+(Targeting v62)
+- Updated for the latest version of the game
+- Various bug-fixes
+- Fixes conflict with the Weed Killer item
+- Adds the ability to paint the Company Cruiser
+- Adds an optional preview projection indicating where spray paint will fall
+
 # 2.0.4
 - Fixes an issue that resulted in an excess of error logs in the console
 
