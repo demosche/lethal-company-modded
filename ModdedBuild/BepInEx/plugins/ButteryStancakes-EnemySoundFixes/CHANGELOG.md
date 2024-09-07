@@ -1,3 +1,28 @@
+# v1.5.8
+- Cruiser gets muted a little earlier when heading into orbit (when the outdoor ambience ends, not after the results screen)
+# v1.5.7
+- Fixed the snare flea sometimes still playing sounds after death (after a change made in v1.5.3)
+# v1.5.6
+- Fixed maneater still making noises after being killed
+# v1.5.5
+- Cruiser tire audio no longer plays when the car is airborne (like from turbo boosts), not just when attached to the magnet
+# v1.5.4
+- Fixed Cruiser tires still making certain noises (skidding, rolling over gravel) while attached to the magnet
+- Cruiser alarm no longer plays while attached to the magnet (since the ship can't take damage)
+- Fixed baboon hawks still playing their attack sound when walking over a corpse
+- Added a config setting to mute the Cruiser in orbit
+  - By default, this will mute everything except for the radio
+# v1.5.3
+- Cruiser sound fixes
+  - Fixed the "engine stalling" sound still playing when releasing and twisting the key again
+  - Fixed the engine rev sound effect playing multiple times when twisting the key too quickly
+  - Fixed the engine rev sound effect continuing after the engine starts up
+  - Fixed collision sounds restarting instead of stacking
+- Fixed volume fade of flaming giant effects
+- Fixed several enemies not playing hit sounds when their death animation occurs
+  - Brackens
+  - Hoarding bugs
+  - Eyeless dogs
 # v1.5.2
 - Tulip snakes now play hit sound when killed
 - Fixed kidnapper fox drooling after being killed
