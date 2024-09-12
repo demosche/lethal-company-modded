@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.8] - 2024-09-09
+
+### Bugfix
+- Hopefully fixed more incompatibilities with Lethal Performance
+- Added config for the static noise from walkies, reduced default volume
+- Fixed small bug with randomization picking that was forcing it to hardcoded defaults if min=max
+
 ## [1.1.7] - 2024-08-23
 
 ### Bugfix

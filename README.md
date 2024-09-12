@@ -123,7 +123,7 @@ List of mods:<br>
  UnityMDK  1.3.0<br>
  LethalMDK  1.2.0<br>
  ScanTweaks  1.7.0<br>
- LethalElements  1.1.7<br>
+ LethalElements  1.1.8<br>
  ExtensionLadderFix  0.0.1<br>
  DoorBreach  1.1.0<br>
  DungeonGenerationPlus  1.1.2<br>

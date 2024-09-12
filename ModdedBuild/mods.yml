@@ -2610,7 +2610,7 @@
     minor: 4
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.4.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: Sconeys-Haunted
   authorName: Sconeys
@@ -2825,7 +2825,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694905374
+  installedAtTime: 1726159547638
   loaders: []
   dependencies:
     - mrov-WeatherRegistry-0.1.21
@@ -2834,9 +2834,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\v0xx-LethalElements\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\v0xx-LethalElements\1.1.8\icon.png
 - manifestVersion: 1
   name: Mellowdy-ExtensionLadderFix
   authorName: Mellowdy
