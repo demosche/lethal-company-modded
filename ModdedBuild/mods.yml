@@ -2034,7 +2034,7 @@
     minor: 4
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-JetpackFixes\1.4.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-JetpackFixes\icon.png
 - manifestVersion: 1
   name: DaJadeNinja-ChocoQuota
   authorName: DaJadeNinja
@@ -2137,7 +2137,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694343220
+  installedAtTime: 1726159363480
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2146,10 +2146,10 @@
   optionalDependencies: []
   versionNumber:
     major: 3
-    minor: 2
-    patch: 1
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\xilophor-LethalNetworkAPI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\xilophor-LethalNetworkAPI\3.3.0\icon.png
 - manifestVersion: 1
   name: windblownleaves-ProblematicPilotry
   authorName: windblownleaves
