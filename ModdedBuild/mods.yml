@@ -107,7 +107,7 @@
     minor: 0
     patch: 36
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.36\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -255,7 +255,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725693274379
+  installedAtTime: 1726159004023
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -264,10 +264,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\EliteMasterEric-Coroner\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\EliteMasterEric-Coroner\2.2.0\icon.png
 - manifestVersion: 1
   name: Evaisa-HookGenPatcher
   authorName: Evaisa
