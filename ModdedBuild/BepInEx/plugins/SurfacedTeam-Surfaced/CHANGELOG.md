@@ -1,3 +1,11 @@
+## 1.3.2
+
+- Reduced the hitbox for the Clownhorn fish
+
+- Fixed drop orientation for the Murder Bird and Bell Crab scrap
+
+- Fixed Horseshoot Crab Spamming logs during launch
+
 ## 1.3.1
 
 - Added the Murder Bird scrap in Scary mode

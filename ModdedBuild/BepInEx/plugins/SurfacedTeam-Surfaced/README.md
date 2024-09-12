@@ -1,4 +1,4 @@
-# Surfaced (v62 Compatible)
+# Surfaced 
 <a href="https://ibb.co/rkPD6bc"><img src="https://i.ibb.co/fMRjp8n/Surfaced-Banner2-2.png" alt="Surfaced-Banner2-2" border="0"></a>
 ## About this mod
 
@@ -27,11 +27,6 @@ This mod adds multiple new aquatic themed enemies to the game. So far this mod a
 
 ## Bug Reporting
 If you have any issues related to the mod itself, please contact us on the Lethal Modding Server (https://discord.com/invite/lcmod) in the "LC : Surfaced" page in mod releases.
-
-## Planned
-- A few more enemies
-- Bestiary entries for all the creatures
-- Potentially a Surfaced themed moon
 
 # Credits 
 - [Siphonife](https://www.artstation.com/siphonife) - Coding, Modeling and Texturing. Go check out his work 
