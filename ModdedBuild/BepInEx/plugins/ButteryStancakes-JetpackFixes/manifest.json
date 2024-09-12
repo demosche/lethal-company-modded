@@ -1,6 +1,6 @@
 {
     "name": "JetpackFixes",
-    "version_number": "1.4.3",
+    "version_number": "1.4.5",
 	"website_url": "https://github.com/ButteryStancakes/JetpackFixes",
     "description": "Fixes multiple bugs with the jetpack, most notably the random explosions, battery drain, and tulip snakes dropping you out of the sky. (See the description for full details!)",
     "dependencies": [

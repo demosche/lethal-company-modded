@@ -1,3 +1,7 @@
+# v1.4.5
+- Fixed the jetpack exploding in mid-air if you are wearing a belt bag
+# v1.4.4
+- Reverted player collision change from v1.4.1
 # v1.4.3
 - Fixed a NullReferenceException when the jetpack explodes mid-flight
 # v1.4.2

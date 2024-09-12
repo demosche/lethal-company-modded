@@ -9,6 +9,7 @@ Fun fact: The "overheat explosions" often attributed to the jetpack's design are
 - However, in v49, this condition would erroneously detect invisible "triggers" (which don't normally have collision) as obstacles. The player has several of these triggers attached to their body, causing you to "crash into yourself" and die almost immediately after reaching the speed threshold.
 - v50 partially fixed this problem by disabling trigger detection, but there is still one non-trigger collider attached to the player that the jetpack can detect under specific circumstances, which causes you to die still to the same bug.
 - This bug is most easily replicated by using the thruster to travel straight upwards - you'll notice there's no limit to how high or fast you can travel, but once you let go of the thruster and start free-falling, you will explode randomly in open sky after only a brief moment.
+- v64 makes this bug even worse, because belt bags attached to your waist (in your hotbar) also have collision and cause the jetpack to crash!
 - Some other funny consequences of this behavior:
   - Since tulip snakes also enable jetpack controls, if they carry you into the air and kill you while you have a jetpack in your inventory, it will still explode.
   - Dying with jetpack controls explodes all jetpacks in your inventory - up to 4 at once!
@@ -34,5 +35,5 @@ Although the main feature of this mod is the fixed crash code, there are several
 - `MidAirExplosions` - Lets you control the circumstances that would explode the jetpack.
   - `Off` replicates the original behavior of this mod, only destroying the jetpack if you crash into something solid.
   - `OnlyTooHigh` allows the jetpack to explode on its own again, but only if you are exceeding vanilla's "safe speed" while you are far above the map. (This is the new default)
-  - `Always` replicates vanilla's behavior the closest, where the jetpack will always explode once exceeds the safe speed.
+  - `Always` replicates vanilla's behavior the closest, where the jetpack will always explode once it exceeds the safe speed.
 - `TransferMomentum` - Whether dropping the jetpack should launch you in the same direction (`True`) or halt you in place (`False`) like vanilla.
