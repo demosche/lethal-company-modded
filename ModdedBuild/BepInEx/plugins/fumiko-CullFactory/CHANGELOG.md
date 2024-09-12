@@ -1,3 +1,21 @@
+# 1.3.12
+
+## Fixed
+
+- Errors that would spam in the console if an item was destroyed while it needed to be checked for changes
+
+# 1.3.11
+
+## Fixed
+
+- Items being invisible for some clients after another client teleported in/out of the interior and dropped them
+
+# 1.3.10
+
+## Fixed
+
+- The apparatus and other forcibly-spawned items in interiors being invisible
+
 # 1.3.9
 
 ## Fixed
