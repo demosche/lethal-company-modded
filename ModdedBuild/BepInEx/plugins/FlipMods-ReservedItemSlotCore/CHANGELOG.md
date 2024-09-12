@@ -1,3 +1,5 @@
+# 2.0.36
++ Fixed a typo in the code that caused the mod to sometimes fail to detect when the inventory size changes mid-game. This is in place to prevent errors when other mods add inventory slots mid-game.
 # 2.0.35
 + Fixed issue with controller not working properly on recent versions of ReservedItemSlotCore, when InputUtils is *not* enabled.
 # 2.0.34
