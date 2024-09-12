@@ -2,7 +2,7 @@
 
 [![Latest Version](https://img.shields.io/thunderstore/v/Dev1A3/LethalFixes?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes)
 [![Total Downloads](https://img.shields.io/thunderstore/dt/Dev1A3/LethalFixes?style=for-the-badge&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/lethal-company/p/Dev1A3/LethalFixes)
-[![Discord](https://img.shields.io/discord/646323142737788928?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/DZD2apDnMM)
+[![Discord](https://img.shields.io/discord/646323142737788928?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/CKqVFPRtKp)
 [![Ko-fi](https://img.shields.io/badge/Donate-F16061.svg?style=for-the-badge&logo=ko-fi&logoColor=white&label=Ko-fi)](https://ko-fi.com/K3K8SOM8U)
 
 ### Information
@@ -16,6 +16,7 @@ This mod fixes a bunch of common Lethal Company issues:
   - [Host] Fixed the host's rank not syncing to clients on initial join.
     - The same as [RankFix](https://thunderstore.io/c/lethal-company/p/Glitch/RankFix/).
   - [Host] Fixed stormy weather only working for the first stormy day of each session if items are left outside.
+  - [Host] Fixed stormy weather breaking after an item is destroyed.
   - [Client] Fixed the start lever cooldown not being reset on the deadline when attempting to route to the company after attempting to go to a regular moon.
   - [Client] Fixed the terminal scan command approximate value calculation to use the scrapValueMultiplier and exclude items inside the ship.
   - [Client] Removed shadows from the fancy lamp & apparatus to improve performance.
@@ -25,7 +26,6 @@ This mod fixes a bunch of common Lethal Company issues:
   - [Client] Fixed the name above your head in LAN not including the player id (currently it just shows Player #).
   - [Client] Fixed the main menu buttons not being aligned properly.
     - The same as [Align Menu Buttons](https://thunderstore.io/c/lethal-company/p/GoldenGuy1000/Align_Menu_Buttons/).
-  - [Client] Fixed other players reloading a shotgun making the item you have in the same hotbar slot that they had their ammo in invisible.
   - [Client] Fixed the current vehicle passenger being set to null on the local client.
   - [Client] Fixed the vehicle steering wheel visually desyncing from the actual steering angle.
   - [Client] Fixed getting stuck in the vehicle drivers seat when getting in at the same time as someone else.
@@ -43,7 +43,6 @@ This mod fixes a bunch of common Lethal Company issues:
   - [Client] Fixed the death sound of Baboon Hawks, Hoarder Bugs & Nutcrackers not working.
     - For additional sound fixes I would suggest using [EnemySoundFixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/).
   - [Client] Fixed old birds being desynced on clients after the first flight.
-  - [Client] Fixed the masked enemy being unable to enter/exit the facility on all interiors except the mineshaft
 
 - Spike Trap Fixes
   - [Host] Fixed interval spike trap entrance safety period activating when exiting the facility instead of when entering.
@@ -65,7 +64,7 @@ You can get support in any the following places:
 
 - The [thread](https://discord.com/channels/1168655651455639582/1235731485894643722) in the [LC Modding Discord Server](https://discord.gg/lcmod)
 - [GitHub Issues](https://github.com/1A3Dev/LC-LethalFixes/issues)
-- [My Discord Server](https://discord.gg/DZD2apDnMM)
+- [My Discord Server](https://discord.gg/CKqVFPRtKp)
 
 ### Compatibility
 

@@ -723,7 +723,7 @@
     minor: 0
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\taffyko-BetterSprayPaint\2.0.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\taffyko-BetterSprayPaint\icon.png
 - manifestVersion: 1
   name: JunLethalCompany-GamblingMachineAtTheCompany
   authorName: JunLethalCompany
@@ -1429,7 +1429,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725693965874
+  installedAtTime: 1726159174208
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1438,7 +1438,7 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
 - manifestVersion: 1
@@ -1574,7 +1574,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694044548
+  installedAtTime: 1726159267542
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1583,9 +1583,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.5.9\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko

@@ -55,6 +55,8 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed drooling after being killed
   - Fixed other enemies' dead bodies playing hit sounds when fox stepped on them
 - Maneaters
+  - Fixed missing death sound effect
+  - Fixed hit sound being interrupted by death animation
   - Fixed several sounds (footsteps, mandible clicking, etc.) still playing after death
 
 ## Other
@@ -71,3 +73,4 @@ Despite the (now outdated) name, this mod also fixes a few other sounds unrelate
   - Fixed warning alarm playing while car is attached to the magnet (and immune to damage)
   - Added config setting to mute Cruiser audio in orbit (engine, horn, radio, etc.)
 - Fixed the garage door on Experimentation not playing sounds when it slides closed
+- Fixed "Hey" voice when ship gets struck by lightning

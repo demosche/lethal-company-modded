@@ -63,13 +63,13 @@ List of mods:<br>
  RollingGiant  2.6.0<br>
  Locker  1.2.6<br>
  MaskedEnemyOverhaulFork  3.3.0<br>
- LethalFixes  1.2.0<br>
+ LethalFixes  1.2.1<br>
  men_stalker  2.4.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.3.10<br>
  PoolRooms  0.1.22<br>
- EnemySoundFixes  1.5.8<br>
+ EnemySoundFixes  1.5.9<br>
  CullFactory  1.3.9<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.27<br>

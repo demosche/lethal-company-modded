@@ -1,3 +1,8 @@
+# 1.5.9
+- Fixed maneater not playing hit sounds when the death animation occurs
+- Fixed snare fleas screeching after death if they are killed right as they drop from the ceiling
+- Fixed "Hey" voice when the ship is struck by lightning
+- Reduced most logs from "Info" to "Debug" level
 # v1.5.8
 - Cruiser gets muted a little earlier when heading into orbit (when the outdoor ambience ends, not after the results screen)
 # v1.5.7
