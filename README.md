@@ -127,4 +127,6 @@ List of mods:<br>
  ExtensionLadderFix  0.0.1<br>
  DoorBreach  1.1.0<br>
  DungeonGenerationPlus  1.1.2<br>
+ Biodiversity  0.1.3<br>
+ Chameleon  1.1.3<br>
 
