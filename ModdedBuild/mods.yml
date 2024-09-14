@@ -2703,7 +2703,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\33mamaster-LifetimeCruiserWarranty\1.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\33mamaster-LifetimeCruiserWarranty\icon.png
 - manifestVersion: 1
   name: catenjoyer-NoPowerLevelDecrease
   authorName: catenjoyer
@@ -2953,3 +2953,26 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
+- manifestVersion: 1
+  name: Index154-Do_We_Need_To_Go_Deeper
+  authorName: Index154
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Index154/Do_We_Need_To_Go_Deeper/
+  displayName: Do_We_Need_To_Go_Deeper
+  description: Sometimes forces you to use specific doors to enter and/or leave the facility
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726300677884
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - xilophor-LethalNetworkAPI-3.1.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Index154-Do_We_Need_To_Go_Deeper\1.4.0\icon.png
