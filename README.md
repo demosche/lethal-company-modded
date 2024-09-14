@@ -134,4 +134,5 @@ List of mods:<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
  UsualScrap  1.6.5<br>
+ DiminishingReturns  1.0.7<br>
 
