@@ -133,4 +133,5 @@ List of mods:<br>
  CursedScraps  2.0.4<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
+ UsualScrap  1.6.5<br>
 
