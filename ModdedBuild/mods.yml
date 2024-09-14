@@ -3250,4 +3250,27 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\woah25-FairBirds\1.0.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\woah25-FairBirds\icon.png
+- manifestVersion: 1
+  name: Swaggies-BetterEXP
+  authorName: Swaggies
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Swaggies/BetterEXP/
+  displayName: BetterEXP
+  description: Lethal Company mod to replace the vanilla EXP system with a more
+    advanced system. Includes custom Performance Report notes too.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726326391212
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 4
+    patch: 0
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Swaggies-BetterEXP\2.4.0\icon.png
