@@ -139,4 +139,5 @@ List of mods:<br>
  SmartItemSaving  1.2.4<br>
  VentSpawnFix  1.2.1<br>
  True_Darkness_client  1.0.2<br>
+ Better_Shotgun_Tooltip  1.1.1<br>
 
