@@ -1,0 +1,9 @@
+{
+  "name": "FairBirds",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com",
+  "description": "Adapted version of FairGiants to work with Old Birds, credits to the owner of that mod.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

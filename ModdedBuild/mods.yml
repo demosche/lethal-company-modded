@@ -3227,4 +3227,27 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\WhiteSpike-Maneater_Damage_Patch\1.0.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\WhiteSpike-Maneater_Damage_Patch\icon.png
+- manifestVersion: 1
+  name: woah25-FairBirds
+  authorName: woah25
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/woah25/FairBirds/
+  displayName: FairBirds
+  description: Adapted version of FairGiants to work with Old Birds, credits to
+    the owner of that mod.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726326141946
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\woah25-FairBirds\1.0.1\icon.png
