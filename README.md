@@ -132,4 +132,5 @@ List of mods:<br>
  Do_We_Need_To_Go_Deeper  1.4.0<br>
  CursedScraps  2.0.4<br>
  JesterDoorSlam  1.0.0<br>
+ AntiSlimeCamp  2.0.0<br>
 

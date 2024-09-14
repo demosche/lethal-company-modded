@@ -1,0 +1,9 @@
+{
+    "name": "AntiSlimeCamp",
+    "version_number": "2.0.0",
+    "website_url": "",
+    "description": "Forces lazy slimes to do some exercise",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
