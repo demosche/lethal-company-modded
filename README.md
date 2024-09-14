@@ -140,4 +140,5 @@ List of mods:<br>
  VentSpawnFix  1.2.1<br>
  True_Darkness_client  1.0.2<br>
  Better_Shotgun_Tooltip  1.1.1<br>
+ Maneater_Damage_Patch  1.0.1<br>
 

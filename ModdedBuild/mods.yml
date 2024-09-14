@@ -3203,4 +3203,28 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AtomicStudio-Better_Shotgun_Tooltip\1.1.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AtomicStudio-Better_Shotgun_Tooltip\icon.png
+- manifestVersion: 1
+  name: WhiteSpike-Maneater_Damage_Patch
+  authorName: WhiteSpike
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/WhiteSpike/Maneater_Damage_Patch/
+  displayName: Maneater_Damage_Patch
+  description: Mod focused on patching the maneater's behaviour in regards of
+    taking damage to account for how much force the damage is dealt with rather
+    than always consdering it as one point of damage
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726325796612
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\WhiteSpike-Maneater_Damage_Patch\1.0.1\icon.png

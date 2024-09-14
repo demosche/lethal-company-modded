@@ -1,0 +1,9 @@
+{
+  "name": "Maneater_Damage_Patch",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/WhiteSpike/Maneater-Damage-Patch",
+  "description": "Mod focused on patching the maneater's behaviour in regards of taking damage to account for how much force the damage is dealt with rather than always consdering it as one point of damage",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
