@@ -1,0 +1,9 @@
+{
+    "name": "Start_with_Fatality_Board",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/AndrewHack242/Start_with_Fatality_Board",
+    "description": "Unlocks the LethalThings Fatality Board to be on your ship at the start of the run",
+    "dependencies": [
+        "Evaisa-LethalThings-0.10.6"
+    ]
+}

@@ -3089,4 +3089,27 @@
     minor: 0
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\JackEhttack-DiminishingReturns\1.0.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JackEhttack-DiminishingReturns\icon.png
+- manifestVersion: 1
+  name: Hackattack242-Start_with_Fatality_Board
+  authorName: Hackattack242
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Hackattack242/Start_with_Fatality_Board/
+  displayName: Start_with_Fatality_Board
+  description: Unlocks the LethalThings Fatality Board to be on your ship at the
+    start of the run
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726301540618
+  loaders: []
+  dependencies:
+    - Evaisa-LethalThings-0.10.6
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Hackattack242-Start_with_Fatality_Board\1.0.0\icon.png

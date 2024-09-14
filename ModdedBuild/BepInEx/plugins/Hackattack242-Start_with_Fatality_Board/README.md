@@ -1,0 +1,1 @@
+Unlocks the LethalThings Fatality Board to be on your ship at the start of the run
