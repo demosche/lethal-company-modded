@@ -3136,4 +3136,27 @@
     minor: 2
     patch: 4
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SylviBlossom-SmartItemSaving\1.2.4\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SylviBlossom-SmartItemSaving\icon.png
+- manifestVersion: 1
+  name: ButteryStancakes-VentSpawnFix
+  authorName: ButteryStancakes
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/VentSpawnFix/
+  displayName: VentSpawnFix
+  description: Allows indoor enemies to spawn in groups larger than 1, like
+    outdoor and daytime enemies can.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726325184457
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 1
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-VentSpawnFix\1.2.1\icon.png
