@@ -130,4 +130,5 @@ List of mods:<br>
  Biodiversity  0.1.3<br>
  Chameleon  1.1.3<br>
  Do_We_Need_To_Go_Deeper  1.4.0<br>
+ CursedScraps  2.0.4<br>
 

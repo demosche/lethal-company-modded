@@ -2975,4 +2975,29 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Index154-Do_We_Need_To_Go_Deeper\1.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Index154-Do_We_Need_To_Go_Deeper\icon.png
+- manifestVersion: 1
+  name: Lega-CursedScraps
+  authorName: Lega
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Lega/CursedScraps/
+  displayName: CursedScraps
+  description: Some scraps may appear cursed, offering a more attractive price,
+    but you will have to face this curse until reaching the ship.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726301161551
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-HookGenPatcher-0.0.5
+    - Evaisa-LethalLib-0.11.2
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 0
+    patch: 4
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.0.4\icon.png
