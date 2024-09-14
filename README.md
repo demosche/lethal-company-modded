@@ -5,7 +5,7 @@ List of mods:<br>
  LethalLanFixFix  1.0.2<br>
  VoiceHUD  1.0.4<br>
  Skinwalkers  5.0.0<br>
- ReservedItemSlotCore  2.0.36<br>
+ ReservedItemSlotCore  2.0.37<br>
  ReservedFlashlightSlot  2.0.8<br>
  LethalCompany_InputUtils  0.7.7<br>
  AlwaysHearActiveWalkies  1.4.5<br>
@@ -138,7 +138,6 @@ List of mods:<br>
  Start_with_Fatality_Board  1.0.0<br>
  SmartItemSaving  1.2.4<br>
  VentSpawnFix  1.2.1<br>
- True_Darkness_client  1.0.2<br>
  Better_Shotgun_Tooltip  1.1.1<br>
  Maneater_Damage_Patch  1.0.1<br>
  FairBirds  1.0.1<br>

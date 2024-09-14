@@ -1,3 +1,6 @@
+# 2.0.37
++ Fixed a bug when another mod adds/inserts new inventory slots BEFORE the reserved item slots.<br>
+This bug would cause the non-host players to fail to update their start index for the reserved item slots, which would cause some de-sync.
 # 2.0.36
 + Fixed a typo in the code that caused the mod to sometimes fail to detect when the inventory size changes mid-game. This is in place to prevent errors when other mods add inventory slots mid-game.
 # 2.0.35

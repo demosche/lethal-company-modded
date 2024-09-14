@@ -90,13 +90,13 @@
   authorName: FlipMods
   websiteUrl: https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore/
   displayName: ReservedItemSlotCore
-  description: V64 Compatible! The core mod for all ReservedItemSlot mods. Adds
-    functionality for all ReservedItemSlot mods and adds API functions!
+  description: The core mod for all ReservedItemSlot mods. Adds functionality for
+    all ReservedItemSlot mods and adds API functions!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726158977640
+  installedAtTime: 1726345641380
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -105,9 +105,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 36
+    patch: 37
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.37\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
