@@ -1,3 +1,15 @@
+# 1.3.14
+
+## Fixed
+
+- Items being invisible after being removed from the Capsule Hoi-Poi item in the AddonFusion mod
+
+# 1.3.13
+
+## Fixed
+
+- An issue where items that are held by a non-player non-enemy could be invisible after teleporting
+
 # 1.3.12
 
 ## Fixed
