@@ -107,7 +107,7 @@
     minor: 0
     patch: 37
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.37\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -2023,7 +2023,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726159317863
+  installedAtTime: 1726390801641
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2031,10 +2031,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 5
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-JetpackFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-JetpackFixes\1.5.0\icon.png
 - manifestVersion: 1
   name: DaJadeNinja-ChocoQuota
   authorName: DaJadeNinja

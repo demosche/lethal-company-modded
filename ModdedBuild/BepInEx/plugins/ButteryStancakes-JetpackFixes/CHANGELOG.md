@@ -1,3 +1,7 @@
+# v1.5.0
+- Hopefully fixed the bug where the jetpack "drops inputs" when clicking (shakes the screen, but doesn't activate thruster)
+- Fixed the jetpack's broken proximity warning (the beeping) logic
+- Crashes at lethal speed now take into account modded HP values
 # v1.4.5
 - Fixed the jetpack exploding in mid-air if you are wearing a belt bag
 # v1.4.4

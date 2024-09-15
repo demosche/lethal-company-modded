@@ -26,8 +26,10 @@ By default, you will also explode if you're flying too fast at extreme altitudes
 
 Although the main feature of this mod is the fixed crash code, there are several additional issues I've addressed:
 - I fixed the (infamous) battery bug where the jetpack charge drains while it's turned off or dropped on the floor.
+- Hopefully fixed buggy behavior when "feathering" the thruster controls. (Sometimes, in vanilla, it would "drop" inputs and not activate the thruster when you click)
 - Fixed buggy interactions between tulip snakes and jetpacks, in which each would cancel out the other. Now they co-exist, in (nearly) perfect harmony
 - Fixed the jetpack "getting stuck" and storing momentum if your feet graze an object mid-flight
+- Fixed the proximity warning (the beeping) logic being buggy, which caused it to continue playing in open sky, or not start playing when you are near terrain.
 - Fixed jetpack audio being distorted when you're flying around with it. (The Doppler effect shouldn't apply to your own jetpack, just when others are flying it)
 - If enabled in the config file, dropping the jetpack actually transfers momentum to the player, instead of them stopping in place.
 
