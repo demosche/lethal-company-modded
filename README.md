@@ -70,7 +70,7 @@ List of mods:<br>
  LethalLevelLoader  1.3.10<br>
  PoolRooms  0.1.22<br>
  EnemySoundFixes  1.5.9<br>
- CullFactory  1.3.14<br>
+ CullFactory  1.3.15<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.27<br>
  ShockwaveDroneEnemy  0.6.3<br>
