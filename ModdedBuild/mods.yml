@@ -2358,29 +2358,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
 - manifestVersion: 1
-  name: mrov-WeatherRegistry
-  authorName: mrov
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/
-  displayName: WeatherRegistry
-  description: A mod for controlling the game's weather system.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1726588694473
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - mrov-MrovLib-0.2.3
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 1
-    patch: 24
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.24\icon.png
-- manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
   websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/BetaWeatherTweaksBeta/
@@ -3251,3 +3228,26 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Swaggies-BetterEXP\icon.png
+- manifestVersion: 1
+  name: mrov-WeatherRegistry
+  authorName: mrov
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/WeatherRegistry/
+  displayName: WeatherRegistry
+  description: A mod for controlling the game's weather system.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1726672894669
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - mrov-MrovLib-0.2.3
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 25
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.1.25\icon.png

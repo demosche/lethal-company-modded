@@ -1,3 +1,7 @@
+# 0.1.25
+
+- reverted 0.1.24 changes
+
 # 0.1.24
 
 - changed how scrap multipliers are applied: they are not replacing other mod values' anymore
