@@ -1,3 +1,5 @@
+# 1.5.10
+- Fixed mimics not playing hit sounds when the death animation occurs
 # 1.5.9
 - Fixed maneater not playing hit sounds when the death animation occurs
 - Fixed snare fleas screeching after death if they are killed right as they drop from the ceiling

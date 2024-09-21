@@ -40,6 +40,7 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
     - In general, "masked" enemies as well as the actual mask items will be a lot noisier
     - You can disable this change in the config if you don't like it
   - Config setting (disabled by default) to adjust footstep volume/distance to match player footsteps
+  - Fixed hit sound being interrupted by death animation
 - Butlers
   - Fixed corpses still buzzing even once the mask hornets spawn out of it
 - Tulip snakes

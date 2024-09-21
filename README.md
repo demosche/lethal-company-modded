@@ -69,7 +69,7 @@ List of mods:<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.3.10<br>
  PoolRooms  0.1.22<br>
- EnemySoundFixes  1.5.9<br>
+ EnemySoundFixes  1.5.10<br>
  CullFactory  1.3.15<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.27<br>
@@ -141,4 +141,5 @@ List of mods:<br>
  Maneater_Damage_Patch  1.0.1<br>
  FairBirds  1.0.1<br>
  BetterEXP  2.4.0<br>
+ WeatherRegistry  0.1.25<br>
 
