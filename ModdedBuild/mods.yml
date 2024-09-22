@@ -3229,3 +3229,27 @@
     patch: 25
   enabled: true
   icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+- manifestVersion: 1
+  name: BananaPuncher714-LethalQuantities
+  authorName: BananaPuncher714
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/BananaPuncher714/LethalQuantities/
+  displayName: LethalQuantities
+  description: Customize enemies, items, prices, dungeon flows and traps for all
+    moons. Works with custom content and non-intrusive. Great for modpack
+    balancing! Now with a web UI!!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1727024767066
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 9
+  enabled: true
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\BananaPuncher714-LethalQuantities\1.2.9\icon.png

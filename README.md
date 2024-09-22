@@ -141,4 +141,5 @@ List of mods:<br>
  FairBirds  1.0.1<br>
  BetterEXP  2.4.0<br>
  WeatherRegistry  0.1.25<br>
+ LethalQuantities  1.2.9<br>
 
