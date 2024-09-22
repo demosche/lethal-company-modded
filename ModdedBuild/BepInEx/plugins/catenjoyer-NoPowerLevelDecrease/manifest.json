@@ -1,9 +1,0 @@
-﻿{
-  "name": "NoPowerLevelDecrease",
-  "version_number": "1.0.0",
-  "website_url": "",
-  "description": "Stop decreasing used power level on killed enemies",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2100"
-  ]
-}
