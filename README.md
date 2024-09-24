@@ -91,7 +91,7 @@ List of mods:<br>
  JetpackFixes  1.5.0<br>
  ChocoQuota  1.0.9<br>
  TestAccountFixes  1.3.5<br>
- NestFix  1.0.2<br>
+ NestFix  1.1.0<br>
  MalfunctioningDoors  1.12.0<br>
  LethalNetworkAPI  3.3.1<br>
  ProblematicPilotry  1.2.3<br>

@@ -1,3 +1,6 @@
+# 1.1.0
+ - Increased the radius for the navmesh sample, this should allow for more valid spawn positions
+
 # 1.0.2
  - Updated README for v62
 

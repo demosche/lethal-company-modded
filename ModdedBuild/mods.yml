@@ -1440,7 +1440,7 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Dev1A3-LethalFixes\1.2.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Dev1A3-LethalFixes\icon.png
 - manifestVersion: 1
   name: YaBoiDucki-men_stalker
   authorName: YaBoiDucki
@@ -2087,12 +2087,12 @@
   authorName: PureFPSZac
   websiteUrl: https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/
   displayName: NestFix
-  description: v62 | A mod that fixes Baboon Hawk nest spawn positions
+  description: v64 | A mod that fixes Baboon Hawk nest spawn positions
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694293294
+  installedAtTime: 1727194349051
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2100,10 +2100,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 0
-    patch: 2
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\PureFPSZac-NestFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\PureFPSZac-NestFix\1.1.0\icon.png
 - manifestVersion: 1
   name: TestAccount666-MalfunctioningDoors
   authorName: TestAccount666
