@@ -14,6 +14,8 @@ This mod adds multiple new aquatic themed enemies to the game. So far this mod a
 
 - Sea Mines : Nobody knows how they float or how they got there, but all that we know is that the Sea Mines are a new inside hazard. Much like landmines, they explode on touch. However, Sea Mines cannot be jumped over, but can be crouched under. Listen closely to their ghostly beeps, for these pieces of ancient technology cannot be hacked via the terminal or located on the map.
 
+- Big Bertha : An imposing sight, this massive seamine known as "The Mother of all Sea mines" is slow to explode but has a big radius going off of line of sight. So make sure to take cover.
+
 - Urchins : It only takes one to ruin your day. These outside spiky balls damage the player on touch and multiply during the day. Urchins grow over time until they mitosis (split) into two smaller urchins that continue the cycle. They like to spawn at the start of the day in small numbers and then balloon in quantity by the end of the day. However, you can combat this invasive threat with a trusty dose of violence! Give it a whack and eliminate them before it's too late.
 
 - Bell Crab : The Bell Crab is a small crab that hides in Brass Bells, upon picking it up, it will start snipping the player until dropped. When dropped, it will run away and hide again. The Bell Crab can be killed for its scrap.
@@ -47,4 +49,3 @@ If you have any issues related to the mod itself, please contact us on the Letha
 - Blue lobster model : "Blue Lobster (meme)" (https://skfb.ly/oyKvq) by Zyleck is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - Most sound effects are from https://pixabay.com
 - Blahaj Model : "Blahaj" (https://skfb.ly/oGwQt) by Kaine_G is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-- Anchor model : "Old rusted anchor" (https://skfb.ly/6URMB) by trivial.cat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

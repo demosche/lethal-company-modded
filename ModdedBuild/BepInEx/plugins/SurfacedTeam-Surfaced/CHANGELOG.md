@@ -1,3 +1,17 @@
+## 1.4.0
+
+- Added a New Hazard
+
+- Reworked Bruce's balancing
+
+- Bruce can no longer go up ladders
+
+- Fixed Blahuce being conductive
+
+- Fixed drop orientation for the Blahuce Scrap 
+
+- Fixed desync with clownhorn fish buffs
+
 ## 1.3.2
 
 - Reduced the hitbox for the Clownhorn fish
