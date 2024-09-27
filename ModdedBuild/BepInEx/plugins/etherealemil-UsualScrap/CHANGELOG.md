@@ -497,6 +497,42 @@ Planned Additions/Changes - Defib is still being messed with, more bugs, already
 If there are ANY issues, the link to my github is at the top of the page! I am also on the modding discord.
 </details>
 
+<details>
+<summary>Version 1.6.6</summary>
+
+### The mass fix update 1/2
+
+#99% SURE THIS WILL BREAK WITH PREVIOUS SAVES.
+
+It's been a little bit but I've not stopped working on the mod in my free time. This is the first of two updates that contains all of the fixes that have been reported or have been found by me playtesting the mod. Because of the shear amount of playtesting and bug fixing I had to do, I decided to postpone the new items until the next update and most of the extra visual effects and sounds will also be added then.
+
+- Medical kit replenish rate slowed so that 2 or 3 of them will increase the amount of available health more drastically instead of one giving basically infinite health to the entire crew.
+- Medical kit Healthpool is now set to max at the start of each planet.
+- Fixed a couple instances where the handlamp would use battery when it shouldn't.
+- Defibrillator now has sounds and works correctly.
+- Tickets now work as intended.
+- The rose will now apply a small slowness debuff each time it damages you.
+- Brought back a few of my candies as special drops from the candy dispenser. The rest were lost to the void. The candies al do the same thing, they restore 10 health and give a very minor speed boost.
+- Padlocks locking doors is now synced between players.
+- Candy dispenser no longer spawns candy if the ship is in space, is currently in motion, or the current moon doesn't have a time cycle.
+- The injector no longer heals, increases your sprint meter capacity, give more speed, give a jump buff, and changes your sprint meter color while active.
+- The injector also drains your sprint meter and gives you a short slow debuff when the speed expires. Your sprint meter will also change to a seperate color while the slow is active.
+- When used by clients the crowbar will now properly open the doors when unlocking locked doors.
+- Model changes, new color variations for some objects, and improved effects for some objects.
+- Fixed scissors not correctly being registered as a scrap item.
+- Renamed displacement controller to shift controller to avoid terminal issues.
+- Halved the glitch chance of the shift controller in the average connection range.
+- Added a cushion to when the glitchs start randomly rolling in the average connection range so it can't roll to glitch as soon as you leave the great connection range.
+- Spent like 5 hours trying to make a simple screen effect and have nothing to show for it.
+- Switched out most of the objects networking to my own networking and tested it so I ended up redoing most of them several times to get them working correctly and synced. This is what delayed this update so long.
+- The most noticable fixes are above but I fixed an insane amount of bugs that I did not bother recording here.
+
+Planned Additions/Changes - Finish new items, rework the toolbox's function, looking at making a monster at some point but no promises.
+
+May be a couple fix updates after if needed but otherwise I'll be taking a short break. If there are ANY issues, the link to my github is at the top of the page! The mod is also on the modding discord under the name "Usual Scrap" with a space.
+</details>
+
+
 
 
 
