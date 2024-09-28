@@ -2589,30 +2589,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
-  name: Sconeys-Haunted
-  authorName: Sconeys
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/Sconeys/Haunted/
-  displayName: Haunted
-  description: Ever wanted to be haunted while looking for scrap? Well...this is
-    the mod for you!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1721372715352
-  loaders: []
-  dependencies:
-    - Evaisa-LethalLib-0.16.0
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 3
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Haunted\icon.png
-- manifestVersion: 1
   name: ButteryStancakes-WeedKillerFixes
   authorName: ButteryStancakes
   websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/
@@ -3022,7 +2998,7 @@
     minor: 6
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.6.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack

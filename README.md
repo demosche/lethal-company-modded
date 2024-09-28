@@ -113,7 +113,6 @@ List of mods:<br>
  SuperLandmine  1.1.3<br>
  Surfaced  1.4.0<br>
  GeneralImprovements  1.4.4<br>
- Haunted  1.0.3<br>
  WeedKillerFixes  1.1.0<br>
  BarberFixes  1.1.0<br>
  LifetimeCruiserWarranty  1.4.0<br>
