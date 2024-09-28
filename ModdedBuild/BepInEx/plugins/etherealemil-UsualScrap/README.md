@@ -92,7 +92,7 @@ The Tool Box can be used to dismantle landmines and turrets and will produce scr
 </details>
 
 <details>
-<summary>Defibrillator(300c)</summary>
+<summary>Defibrillator(375c)</summary>
 
 Costs 375 credits, Weighs 3
 
