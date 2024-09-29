@@ -1,6 +1,6 @@
 ### Works in V64.
 
-![Preview](https://i.imgur.com/HRaqFR0.png)
+![Preview](https://i.imgur.com/LOazRR9.png)
 
 ## Purchasable Equipment
 <details>

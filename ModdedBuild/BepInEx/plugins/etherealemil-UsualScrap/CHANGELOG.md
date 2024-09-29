@@ -545,6 +545,17 @@ May be a couple fix updates after if needed but otherwise I'll be taking a short
 
 </details>
 
+<details>
+<summary>Version 1.6.8</summary>
+
+### Quick follow up fixes #2
+
+- Fixed crowbar doing it's functions multiple times when used in multiplayer resulting in it one-shotting stuff sometimes and open/closing doors rapidly.
+- Updated content image.
+
+</details>
+
+
 
 
 

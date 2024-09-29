@@ -2986,7 +2986,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1727505057538
+  installedAtTime: 1727599529858
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.16.1
@@ -2996,9 +2996,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.6.8\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack
