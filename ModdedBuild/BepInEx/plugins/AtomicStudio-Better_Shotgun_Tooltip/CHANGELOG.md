@@ -1,3 +1,9 @@
+## v1.2.0
+	-- Changed icon again
+	-- Added 2 new configs
+		-- Customise on text
+		-- Customise off text
+
 ## v1.1.1
 	-- Removed MoreCompany as a dependency!
 

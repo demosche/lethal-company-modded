@@ -22,6 +22,9 @@ The safety tooltip can be confusing at times.
 	(When the safety is off) "The safety is off: [Q]"
 	(When the safety is on) "The safety in on: [Q]"
 
+Customise it to your liking with a customisable on and off messages!
+Just use the keyword "on" or "off" and it auto-colors
+
 Its just a small change but can save you from "accidentally" killing your friends!
 
 This includes a config to change the color of the message, this does need lethalconfig OR on thunderstore change it manually!
