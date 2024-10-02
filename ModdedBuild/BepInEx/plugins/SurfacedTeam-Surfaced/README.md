@@ -2,7 +2,7 @@
 <a href="https://ibb.co/rkPD6bc"><img src="https://i.ibb.co/fMRjp8n/Surfaced-Banner2-2.png" alt="Surfaced-Banner2-2" border="0"></a>
 ## About this mod
 
-This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 7 enemies, 2 scrap, 1 equipment and 1 hazard 
+This mod adds multiple new aquatic themed enemies to the game. So far this mod adds 7 enemies,3 scrap, 1 equipment and 2 hazards 
 
 ## Monster Mechanics (Spoilers ahead!)
 <details>

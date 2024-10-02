@@ -1,3 +1,15 @@
+## 1.4.1
+
+- Fixed Big Bertha not despawning after explosion
+
+- Fixed Blahuce drop orientation for real this time
+
+- Bertha will now detonate nearby Sea mines
+
+- Tweaked Bertha default configs
+
+- Stuffed Big Berthas in the Murder Bird scrap :)
+
 ## 1.4.0
 
 - Added a New Hazard
