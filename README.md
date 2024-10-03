@@ -142,4 +142,5 @@ List of mods:<br>
  WeatherRegistry  0.1.25<br>
  LethalQuantities  1.2.9<br>
  FirstPersonDeath  1.1.4<br>
+ MysteriousHarbingers  0.5.1<br>
 
