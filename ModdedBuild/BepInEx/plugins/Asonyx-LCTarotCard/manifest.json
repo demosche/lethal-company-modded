@@ -1,0 +1,11 @@
+{
+  "namespace": "Asonyx",
+  "name": "LCTarotCard",
+  "description": "Add the cursed tarot card from Phasmophobia into Lethal Company",
+  "version_number": "1.1.1",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/Asonyx/LCTarrotCard/tree/master",
+  "FullName": "Asonyx-LCTarotCard"
+}
