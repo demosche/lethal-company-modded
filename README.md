@@ -141,7 +141,6 @@ List of mods:<br>
  BetterEXP  2.4.0<br>
  WeatherRegistry  0.1.25<br>
  LethalQuantities  1.2.9<br>
- FirstPersonDeath  1.1.4<br>
  MysteriousHarbingers  0.5.1<br>
  LCTarotCard  1.1.1<br>
 
