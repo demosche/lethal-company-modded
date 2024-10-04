@@ -143,4 +143,5 @@ List of mods:<br>
  LethalQuantities  1.2.9<br>
  MysteriousHarbingers  0.5.1<br>
  LCTarotCard  1.1.1<br>
+ FirstPersonDeath  1.1.5<br>
 
