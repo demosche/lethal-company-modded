@@ -1,5 +1,16 @@
 # CHANGELOG
 
+Version 2.0.5
+- Rework of pills: replacement of pills with a new item 'Holy Water'. The functionality is also slightly different -> see README for details
+- Added the 'Penalty Mechanic' -> rework a part of the 'Hiding mechanic', now this tab will only have some global options related to the visibility of curses
+- Rework of 'Exploration': instead of adding a ScanNode for a certain time, it is now possible to see the aura of the door as long as the player is within a certain distance
+- Moved the configurations 'Enable red scan' and 'Enable particle' to the 'Hiding mechanic' tab for better organization
+- Removed the 'Hide particle when grabbing' configuration -> this is now the default behavior, as many particles obstruct the player's view when it's not
+- Added compatibility with the 'AddonFusion' mod -> the capsule Hoi-Poi can no longer contain cursed scraps
+- Changed the spawn method for curses -> now curses spawn when vanilla scraps spawn in the factory, fixing incompatibilities with mods that change item values via the vanilla method
+- Added the 'Hide curse name' config to hide the name of curses with '???'
+- Added the 'Hide scrap value' config to hide the value of curses with '???'
+
 Version 2.0.4
 - Added a check to only apply curses to scraps that spawn in the dungeon (fixes an incompatibility with LethalCasino)
 - Added a check to prevent coop curses from spawning when the player is solo

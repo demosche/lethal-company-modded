@@ -3,22 +3,25 @@ Cursed Scraps is a mod inspired by Strange Objects, revisiting the original conc
 Special thanks to the author of this other mod for their original idea, which inspired me to create my own version.
 
 ## Description
-Some scraps may appear cursed, offering a more attractive price, but you will have to face this curse until you return to the ship.
-When a cursed item is picked up, the curse is shared with the player, but this doesn't prevent another player from acquiring the same curse if they pick up the same item later.
-The curse remains active until the player returns to the ship, where all curses are lifted.
-Storing a cursed item in the ship removes its curse, but its price remains the same.
+Some scraps may appear cursed, offering a more attractive value, but you will have to face this curse until you return to the ship.
+When a cursed scrap is picked up, the curse is shared with the player, but this doesn't prevent another player from acquiring the same curse if they pick up the same scrap later.
+The curse remains active until the player returns to the ship, where all curses are removed.
+Storing a cursed scrap in the ship removes its curse, but its value remains the same.
 
-New pills can appear in the level, with a probability (configurable) of appearance per cursed item spawned.
-Only one can be used at a time, and when used, it immunizes the player against the cursed of the NEXT scrap they pick up.
-However, the scrap will retain its curse, so take the opportunity to bring it back to the ship!
+## Holy Water
+This new item can spawn in the factory, and it can only be used when a curse is affecting the player.
+After using the item, all of the player's curses are removed; however, all of the items the player is carrying will drop to the ground, meaning the player won't be able to safely bring a cursed scrap back to the ship.
 This feature can be disabled.
 
-A configurable mechanic is available to hide curses on scraps :
-- Always - Always hide curses.
-- Never - Never hide curses.
-- Counter - Use a counter to hide curses once a certain number (configurable) of non-cursed items have been picked up.
-- NeverNotNamed - Never hide that a scrap is cursed, but hide the curse by replacing the name with '???'.
-- CounterNotNamed - Use a counter to hide curses once a certain number (configurable) of non-cursed items have been picked up and always hide the curse by replacing the name with '???'.
+## Penalty mechanic
+This new mechanic prevents players from ignoring cursed scraps too much ; each time a new cursed scrap is scanned, a counter increments for all players.
+When the counter reaches a configurable value, the next cursed scrap scanned applies its curse either to the player who scanned it or to the entire team (depending on the chosen difficulty).
+The counter and the list of scanned items are reset to 0 whenever a curse is applied to a player or at the start of the game.
+
+Modes:
+- Hard - Applies the curse to the entire team.
+- Medium - Applies the curse only to the player who scanned the cursed scrap.
+- None - Do not use the mechanic.
 
 ## Curses
 - INHIBITION - Prevents the player from jumping and crouching
@@ -42,7 +45,7 @@ A configurable mechanic is available to hide curses on scraps :
 	- Picked up objects are reduced in size but return to normal size when released
 	- A normal-sized player can push or crush a reduced-sized player
 - EXPLORATION - Prevents the player from exiting or entering the factory through all doors except one
-	- The player is then able to scan the door they must take for a certain amount of time (configurable)
+	- The player is then able to see the aura of the door they need to take from a certain distance (configurable). The aura disappears if they get too close
 	- The door to be taken changes each time they enter or exit the factory
 - COMMUNICATION - This curse affects two players in two stages :
 	- Step 1 :
@@ -55,8 +58,11 @@ A configurable mechanic is available to hide curses on scraps :
 		- The second player picks up the second part of the scrap, and the first player can move again
 		- A timer appears at the top left of the screen for both players. For the first player, the timer replaces the previously displayed distance
 		- Both players must bring the two scrap parts back to the ship before the time runs out, or else... they both die!
+		
+## What happens next?
+- Rework of the 'Communication' and 'Inhibition' curses.
+- 'Synchronization' might be removed because it's too time-consuming - the mechanic will probably be used in another one of my mods, 'Saw Tapes'
+- New curses, including some ideas that were suggested to me (e.g., 'Hot Potato' / 'Fragile').
 
 ## More informations
-I've tried to make the mod as optimized as possible with my knowledge.
-I'm far from being an experienced developer, so if there are people more comfortable than me who have feedback on my code, I'm open to it as it will help me improve.
-For any feedback/suggestions or questions, you can reach me on the 'Lethal Company Modding' Discord server (https://discord.gg/EgQFAq3z) under the same name (username lega2039). DMs are welcome.
+For any feedback/suggestions or questions, you can reach me on the 'Lethal Company Modding' Discord server (https://discord.gg/e4YCbQsx) under the same name (username lega2039). DMs are welcome.
