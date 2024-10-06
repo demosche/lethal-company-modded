@@ -131,7 +131,7 @@ List of mods:<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
  UsualScrap  1.6.8<br>
- DiminishingReturns  1.0.7<br>
+ DiminishingReturns  1.0.8<br>
  Start_with_Fatality_Board  1.0.0<br>
  SmartItemSaving  1.2.4<br>
  VentSpawnFix  1.2.1<br>
@@ -143,5 +143,4 @@ List of mods:<br>
  LethalQuantities  1.2.9<br>
  MysteriousHarbingers  0.5.1<br>
  LCTarotCard  1.1.1<br>
- FirstPersonDeath  1.1.5<br>
 

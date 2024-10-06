@@ -3009,7 +3009,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726301467369
+  installedAtTime: 1728203770020
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3018,9 +3018,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JackEhttack-DiminishingReturns\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\JackEhttack-DiminishingReturns\1.0.8\icon.png
 - manifestVersion: 1
   name: Hackattack242-Start_with_Fatality_Board
   authorName: Hackattack242
