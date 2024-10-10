@@ -3020,7 +3020,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\JackEhttack-DiminishingReturns\1.0.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JackEhttack-DiminishingReturns\icon.png
 - manifestVersion: 1
   name: Hackattack242-Start_with_Fatality_Board
   authorName: Hackattack242
@@ -3229,29 +3229,6 @@
     patch: 9
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\BananaPuncher714-LethalQuantities\icon.png
-- manifestVersion: 1
-  name: InstanceWorld-MysteriousHarbingers
-  authorName: InstanceWorld
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/InstanceWorld/MysteriousHarbingers/
-  displayName: MysteriousHarbingers
-  description: "[V64] A new Monster that teleports things around"
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1727979200122
-  loaders: []
-  dependencies:
-    - Evaisa-LethalLib-0.15.1
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 5
-    patch: 1
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\InstanceWorld-MysteriousHarbingers\icon.png
 - manifestVersion: 1
   name: Asonyx-LCTarotCard
   authorName: Asonyx
