@@ -555,6 +555,33 @@ May be a couple fix updates after if needed but otherwise I'll be taking a short
 
 </details>
 
+<details>
+<summary>Version 1.6.9</summary>
+
+### Update
+
+I don't like going weeks without updating if I can help it so if an item taking long to make (frigid capsule in this case) i'm just going to update with what I have and the item will sit until it's done.
+
+- Removed leftover logging.
+- Fixed injector draining stamina instead of restoring stamina initially.
+- removed injector changing ui colors because of problems, will figure something else out.
+- Shift controller no longer glitches from just being dropped inside the ship.
+- Fixed harmless ticket error.
+- Increased the great connection range of the shift controller by around 30%.
+- Pocketwatch disabled.
+- Hopefully fixed defibrillator bodies being duplicated or remaining upon revival for good.
+- Made some light attempts at fixing a inconsistent invisible model issue upon revival (I tried some light fixes because I don't want to break other stuff doing random changes).
+- Added check so slowing effects won't go negative and reverse your controls.
+- Added Gloomy Capsule.
+- Added Frigid Capsule (Still a bit unstable).
+- Items that spawned on hard moons only now also spawn on any modded moons. Looking into spawning items based on the interior instead of the moon if possible.
+
+Upcoming - Toolbox rebuild,golden ticket changes, some new configs, a few more items eventually.
+
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
+
+</details>
+
 
 
 

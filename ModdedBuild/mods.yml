@@ -2932,7 +2932,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.0.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
@@ -2987,7 +2987,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1727599529858
+  installedAtTime: 1729084637615
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.16.1
@@ -2997,9 +2997,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.6.9\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack
