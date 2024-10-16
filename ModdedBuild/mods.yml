@@ -3112,7 +3112,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AtomicStudio-Better_Shotgun_Tooltip\1.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AtomicStudio-Better_Shotgun_Tooltip\icon.png
 - manifestVersion: 1
   name: WhiteSpike-Maneater_Damage_Patch
   authorName: WhiteSpike
@@ -3193,7 +3193,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726672894669
+  installedAtTime: 1729084716682
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3202,10 +3202,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 1
-    patch: 25
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.2.0\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
