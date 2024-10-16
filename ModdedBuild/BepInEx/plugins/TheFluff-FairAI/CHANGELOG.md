@@ -1,3 +1,9 @@
+# 1.4.1
+Fixed Turret Config.
+
+# 1.4.0
+BIG UPDATE!!! Fixed Turret AI to target and kill all enemies that are killable. Also added more Surfaced traps.
+
 # 1.3.9
 Please let the references to Surfaced work now lol
 

@@ -107,7 +107,7 @@
     minor: 0
     patch: 38
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.38\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -874,14 +874,14 @@
   websiteUrl: https://thunderstore.io/c/lethal-company/p/TheFluff/FairAI/
   displayName: FairAI
   description: Mod To Make Entities Less Racist. Everyone that can die will die by
-    stepping on land mines, sea mine, boombas, turrets, and config support. Now
-    with more config options including checking for players nearby before
-    anything can happen in the mod!
+    stepping on land mines, sea mines, berthas, and boombas. Turrets will also
+    target and shoot anyone without mercy. Can set whether to check for players
+    nearby before trap triggering.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1723131102204
+  installedAtTime: 1729084555600
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -889,10 +889,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 9
+    minor: 4
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.4.1\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb
