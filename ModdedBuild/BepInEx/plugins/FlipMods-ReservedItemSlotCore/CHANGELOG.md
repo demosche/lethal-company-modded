@@ -1,3 +1,6 @@
+# 2.0.38
++ Fixed a bug when adding items to a custom reserved slot within the config, where the mod would incorrectly parse the item names with commas AND spaces in between. This only affect items added to custom reserved slots in the config.
++ NOTE: The mod normally accepts commas between each item name "item1,item2", OR a comma and a space "item1, item2"
 # 2.0.37
 + Fixed a bug when another mod adds/inserts new inventory slots BEFORE the reserved item slots.<br>
 This bug would cause the non-host players to fail to update their start index for the reserved item slots, which would cause some de-sync.
