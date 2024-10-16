@@ -1,3 +1,10 @@
+## v1.4.0
+	-- Fully patched the bug.
+	-- New console report log when launching up the game!
+
+## v1.3.0
+	-- Fixed bug issue where custom text combined with colored would result in the off safety message having the on color.
+
 ## v1.2.0
 	-- Changed icon again
 	-- Added 2 new configs

@@ -2999,7 +2999,7 @@
     minor: 6
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.6.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack
@@ -3102,17 +3102,17 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1727881396636
+  installedAtTime: 1729084687956
   loaders: []
   dependencies: []
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
+    minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AtomicStudio-Better_Shotgun_Tooltip\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AtomicStudio-Better_Shotgun_Tooltip\1.4.0\icon.png
 - manifestVersion: 1
   name: WhiteSpike-Maneater_Damage_Patch
   authorName: WhiteSpike
