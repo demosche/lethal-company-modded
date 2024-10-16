@@ -1,5 +1,23 @@
 # CHANGELOG
 
+Version 2.0.6
+- Code cleaning
+- REWORK curse aura
+- REWORK Communication, see README
+- ADDED 'LethalCompany InputUtils' as a dependency
+- ADDED config 'Cooldown duration' in 'Communication' - no longer used
+- ADDED item, Old Scroll, consumable that allows you to see the aura of the doors for a configurable time
+- ADDED configs 'Min particle scale' and 'Max particle scale' in '_Global_'
+- ADDED new config 'Hide curse line' to hide curse line in scan node
+- ADDED list of curses assigned to a player visible by dead players
+- ADDED inability to teleport players with Communication (if they haven't yet found and used the linked item) and Exploration curses
+- REMOVED Synchronization, too time-consuming - I'm looking for a rework idea that also avoids the 'Coop' system, so that all curses can be affected by the penalty mechanic or in some other way
+- REMOVED config 'Chrono' in 'Communication' - no longer used
+- FIXED use of 'Hide scrap value' config instead of 'Hide curse name' to replace curse name with '???'
+- Increase default penalty counter from 5 to 10
+- Reduce default curse chance from 30 to 20
+- Add key as excluded item to 'Exclusion list' in '_Global_'
+
 Version 2.0.5
 - Rework of pills: replacement of pills with a new item 'Holy Water'. The functionality is also slightly different -> see README for details
 - Added the 'Penalty Mechanic' -> rework a part of the 'Hiding mechanic', now this tab will only have some global options related to the visibility of curses

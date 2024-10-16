@@ -13,6 +13,10 @@ This new item can spawn in the factory, and it can only be used when a curse is 
 After using the item, all of the player's curses are removed; however, all of the items the player is carrying will drop to the ground, meaning the player won't be able to safely bring a cursed scrap back to the ship.
 This feature can be disabled.
 
+## Old Scroll
+Consumable allowing the player to see the door's aura for a configurable amount of time.
+A version may exist for the Communication curse, where if the cursed player is linked to this scroll, it can only be consumed by that player – see curse information below.
+
 ## Penalty mechanic
 This new mechanic prevents players from ignoring cursed scraps too much ; each time a new cursed scrap is scanned, a counter increments for all players.
 When the counter reaches a configurable value, the next cursed scrap scanned applies its curse either to the player who scanned it or to the entire team (depending on the chosen difficulty).
@@ -33,10 +37,6 @@ Modes:
 - ERRANT - Teleports the player randomly when an item is picked up or placed down
 - PARALYSIS - Paralyzes the player when red-scanning
 - SHADOW - All enemies are invisible by default (their sound is still active), scanning reveals them
-- SYNCHRONIZATION - The scrap is split into two parts, when both parts are picked up by two different players, their cameras invert. You must bring both parts back to the ship... or die for the effect to fade
-	- If a player who doesn't have the curse picks up one of the two parts, he is immobilized until another player picks up the other part and the curse takes effect
-	- If a player dies with the effect activated, the other player returns to their camera but is immobilized until another player picks up the other part and the curse takes effect
-	- If no player is available to share the curse, the immobilized player can simply drop the item on the ground to move again
 - DIMINUTIVE - Reduces the player's size and applies the following effects :
 	- The movement speed is reduced
 	- The grab distance is reduced
@@ -45,23 +45,17 @@ Modes:
 	- Picked up objects are reduced in size but return to normal size when released
 	- A normal-sized player can push or crush a reduced-sized player
 - EXPLORATION - Prevents the player from exiting or entering the factory through all doors except one
-	- The player is then able to see the aura of the door they need to take from a certain distance (configurable). The aura disappears if they get too close
+	- The player is then able to see the aura of the door they need to take from a certain distance (configurable); the aura disappears if they get too close
 	- The door to be taken changes each time they enter or exit the factory
-- COMMUNICATION - This curse affects two players in two stages :
-	- Step 1 :
-		- The first player picks up the scrap and is immobilized (it's still possible to drop the scrap to cancel the curse during the first step)
-		- The picked-up scrap is cloned at a distant position from the player
-		- The second player is selected, which is the one closest to the first player
-		- The first player sees numbers appear at the top left of the screen, indicating the distance between the second player and the second part of the scrap
-		- The second player must then retrieve this second part of the scrap, and the first player can assist the second using a Walkie-Talkie to guide them based on the distance
-	- Step 2 :
-		- The second player picks up the second part of the scrap, and the first player can move again
-		- A timer appears at the top left of the screen for both players. For the first player, the timer replaces the previously displayed distance
-		- Both players must bring the two scrap parts back to the ship before the time runs out, or else... they both die!
+- COMMUNICATION - When the player is cursed, the 'Old Scroll' item spawns and is bound to the cursed player:
+	- The item can only be consumed by the cursed player (as long as he remains cursed)
+	- The cursed player cannot leave the dungeon or be teleported until he has used the item
+	- Dead players can help the cursed player to find this item:
+		- Dead players can see the distance between the cursed player and the item
+		- Dead players can send hints to the cursed player by indicating whether they are getting closer or further from the item (through a blue or red particles that the cursed player can see)
 		
 ## What happens next?
-- Rework of the 'Communication' and 'Inhibition' curses.
-- 'Synchronization' might be removed because it's too time-consuming - the mechanic will probably be used in another one of my mods, 'Saw Tapes'
+- Rework of the 'Inhibition' curse.
 - New curses, including some ideas that were suggested to me (e.g., 'Hot Potato' / 'Fragile').
 
 ## More informations
