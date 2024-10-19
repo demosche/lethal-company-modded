@@ -1,3 +1,16 @@
+# 2.5.0
+- Added a new note - "Team Backbone" - given to the player(s) with the most found scrap that made it to ship
+	- The scrap does not have to be returned by the player who found it, any player will count for it
+- Fixed an issue where the headstart feature was not working correctly
+- BetterXP will now update as soon as the Performance Report appears so it is 100% consistent with what is logged with the Job Logging feature
+- Your player's badge that appears to teammates will now be based on your BetterEXP rank instead of vanilla rank (see README for table)
+- Some adjustments have been made to the Death Penalty reduction and contribution & scrap found bonuses
+- Job logs will now include the random map seed, whether or not a meteor shower occurred, and if a single-item day was active
+- Vanilla EXP will now show up on the pause menu, underneath your BetterEXP rank
+	- Chat commands have been removed
+- Jumps will now be counted properly, the jump notes should now work properly
+- Removed support for the version 1.x builds of BetterEXP
+
 # 2.4.0
 - job logging will now include the moon's interior on that day, along with number of objects collected per player
 - job logging will now include scrap collected in the file name when saved to disk

@@ -23,6 +23,7 @@ Here's the list of notes including old and new:
 - **The Pacifist**: was the *only* employee to not kill an entity.
 - **#1 Scavenger**: found the most scrap inside the facility.
 - **Empty-Handed**: found zero scrap during the whole day.
+- **Team Backbone**: found the most scrap that was also returned to ship.
 
 These notes are disabled by default, you can enable them in the config!
 - **Most Jumpy**: jumped the most in a day.
@@ -34,29 +35,14 @@ These notes are disabled by default, you can enable them in the config!
 If any two (or more) players tie on any of these stats, they will all get the note!
 
 ## BetterXP System
-- You will now gain "BetterXP" (BXP) primarily based on scrap collected, and your ability to fully clear the facility of scrap. See the below table for values (where Total Scrap Value is the amount of scrap value needed for a full clear, and Max BXP Possible is the amount of BXP awarded for a full clear):
-
-| Total Scrap Value | Max BXP Possible |
-| :---------------: | :--------------: |
-| 0 - 300 | 0 - 7 |
-| 300 - 500 | 7 - 15 |
-| 500 - 700 | 15 - 25 |
-| 700 - 1000 | 25 - 36 |
-| 1000 - 1600 | 36 - 60 |
-| 1600 - 2000 | 60 - 70 |
-| 2000 - 2500 | 70 - 80 |
-| 2500 - 3000 | 80 - 88 |
-| 3000 - 4000 | 88 - 100 |
-| 4000 - 8000 | 100 - 115 |
-| 8000 - 9999 | 115 - 120 |
-| 9999+ | 120 |
-
+- You will now gain "BetterXP" (BXP) primarily based on scrap collected, and your ability to fully clear the facility of scrap. After a round, you will gain a percentage of a set XP based on how much scrap was available. The percentage you earn is based on how well you full cleared the moon.
 - Depending on how much you contributed for your team, you may receive bonus BXP as a reward.
-    - When playing solo, you are always granted a 25% bonus to your scrap collected.
+  - When playing solo, you are always granted a 20% bonus to your scrap collected.
+  - "Contribution" includes finding scrap, having teammates return your found scrap, and returning other's (or your own) scrap to ship.
 - Dying will lose you a bit of BXP, but you'll lose more and more the higher rank you are.
-- The BXP Penalty for dying is capped at -100 BXP.
-- Killing enemies will earn you BXP, as long as you're the person to finish them off. Using landmines, lightning, or even another enemy to kill an enemy will not grant BXP **unless you damaged it beforehand**. You will also be notified at the bottom of your screen when an enemy dies (configurable).
-    - The more enemies you kill, the less BXP you will get for each kill.
+- The BXP Penalty for dying is capped at -50 BXP, however you may lose up to 60 if your team is wiped.
+- Killing enemies will earn you BXP, as long as you're the person to finish them off. Using landmines, lightning, or even another enemy to kill an enemy will not grant BXP **unless you damaged it beforehand**. You may also enable a notification that shows at the bottom of your screen when an enemy dies in the config.
+  - The more enemies you kill, the less BXP you will get for each kill.
 - Depending on the weather of the moon, you may receive a bonus to your BXP earned from collecting scrap. Be warned though, as dying will also bear a larger penalty.
 
 ### Enemy Bonuses
@@ -64,6 +50,7 @@ If any two (or more) players tie on any of these stats, they will all get the no
 | ----- | :---------: |
 | Tulip Snake | **1 BXP** |
 | Manticoil | **2 BXP** |
+| Modded Enemies | **3 BXP** |
 | Snare Flea | **4 BXP** |
 | Hoarding Bug | **4 BXP** |
 | Thumper | **6 BXP** |
@@ -89,57 +76,61 @@ If any two (or more) players tie on any of these stats, they will all get the no
 | Eclipsed | **+30%** |
 
 ### New Rank Table
-| Rank | BXP |
-| ---- | :-: |
-| Intern | **0 BXP** |
-| Trainee | **25 BXP** |
-| Apprentice | **50 BXP** |
-| Part-Timer | **100 BXP** |
-| Full-Timer | **200 BXP** |
-| Employee | **300 BXP** |
-| Leader | **400 BXP** |
-| Manager | **600 BXP** |
-| Sr. Manager | **800 BXP** |
-| 3rd Boss | **1000 BXP** |
-| 2nd Boss | **1300 BXP** |
-| 1st Boss | **1600 BXP** |
-| 3rd Vice President | **2000 BXP** |
-| 2nd Vice President | **2300 BXP** |
-| 1st Vice President | **2600 BXP** |
-| 3rd Executive V.P. | **3000 BXP** |
-| 2nd Executive V.P. | **3300 BXP** |
-| 1st Executive V.P. | **3600 BXP** |
-| 3rd Deputy President | **4000 BXP** |
-| 2nd Deputy President | **4300 BXP** |
-| 1st Deputy President | **4600 BXP** |
-| President | **5000 BXP** |
-| Sr. President | **5500 BXP** |
-| Vice Chairman | **6000 BXP** |
-| Chairman | **6500 BXP** |
-| First-Class Asset| **7500 BXP** |
-| Co-Founder | **8500 BXP** |
-| Founder | **10000+ BXP** |
+Displayed Vanilla Rank is the badge on your player's suit representing your rank. This will be seen by other players with or without BetterEXP installed.
+
+| Rank | BXP | Displayed<br>Vanilla Rank |
+| ---- | :-: | :------------------------ |
+| Intern | **0 BXP** | **Intern** |
+| Trainee | **25 BXP** |  |
+| Apprentice | **50 BXP** | **Part-Timer** |
+| Part-Timer | **100 BXP** |  |
+| Full-Timer | **200 BXP** | **Employee** |
+| Employee | **300 BXP** |  |
+| Leader | **400 BXP** | **Leader** |
+| Manager | **600 BXP** |  |
+| Sr. Manager | **800 BXP** |  |
+| 3rd Boss | **1000 BXP** | **Boss** |
+| 2nd Boss | **1300 BXP** |  |
+| 1st Boss | **1600 BXP** |  |
+| 3rd Vice President | **2000 BXP** |  |
+| 2nd Vice President | **2300 BXP** |  |
+| 1st Vice President | **2600 BXP** |  |
+| 3rd Executive V.P. | **3000 BXP** |  |
+| 2nd Executive V.P. | **3300 BXP** |  |
+| 1st Executive V.P. | **3600 BXP** |  |
+| 3rd Deputy President | **4000 BXP** |  |
+| 2nd Deputy President | **4300 BXP** |  |
+| 1st Deputy President | **4600 BXP** |  |
+| President | **5000 BXP** |  |
+| Sr. President | **5500 BXP** |  |
+| Vice Chairman | **6000 BXP** |  |
+| Chairman | **6500 BXP** |  |
+| First-Class Asset| **7500 BXP** |  |
+| Co-Founder | **8500 BXP** |  |
+| Founder | **10000+ BXP** |  |
 
 
 ## Things to note
 ### Does BetterEXP replace the old system?
-Nope, the BetterEXP system will run **alongside** the vanilla exp system. After a game, the XP bar will show your BetterXP Rank and XP amount, but your vanilla xp will still secretly be accounted for in the background. At any time, you may type `bxp/vanilla` in the in-game chat to view your current vanilla xp. You may also type `bxp/level` or open the pause menu to view your current BetterXP level.
+Nope, the BetterEXP system will run **alongside** the vanilla exp system. After a game, the XP bar will show your BetterXP Rank and XP amount, but your vanilla xp will still secretly be accounted for in the background. At any time, you may open the pause menu to see your current vanilla rank alongside your BetterXP rank (if you have the pause menu display enabled). You will be able to safely uninstall and reinstall the mod without affecting your vanilla XP, however, **you can not progress your BetterXP level without having the mod active** (duh).
 
 ### Headstart
-When you first load in with the BetterEXP mod, you'll start with 0 BXP at Intern rank. However, if you've played Lethal Company quite a bit, you'll start at a higher BetterXP level than just Intern. You'll receive a notification in-game about what your starting rank is. This will only display once, even if you reinstall the mod. You will be able to safely uninstall and reinstall the mod without affecting your vanilla XP, however, **you can not progress your BetterXP level without having the mod active** (duh).
+When you first load in with the BetterEXP mod, you'll start with 0 BXP at Intern rank. However, if you've played Lethal Company quite a bit, you'll start at a higher BetterXP level than just Intern. 
 | Vanilla Rank | BetterEXP Starting Rank |
 | :----------: | :---------------------: |
 | Part-Timer | **Trainee** |
 | Employee | **Apprentice** |
 | Leader | **Part-Timer** |
-| Boss | **Full-Timer** |
-| Boss (1000 EXP) | **Employee** |
-| Boss (1500 EXP) | **Leader** |
-| Boss (2000 EXP) | **Manager** |
-| Boss (2500 EXP) | **3rd Boss** |
+| Boss | **Employee** |
+| Boss (1000 EXP) | **Manager** |
+| Boss (1500 EXP) | **3rd Boss** |
+| Boss (2000 EXP) | **2nd Boss** |
+| Boss (2500 EXP) | **1st Boss** |
+| Boss (3000 EXP) | **3rd Vice President** |
+| Boss (4500+ EXP) | **2nd Vice President** |
 
 ---
 
-betterexp version 2.4.0
+betterexp version 2.5.0
 
-lethal company version 62+
+lethal company version 60-64+
