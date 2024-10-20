@@ -1,3 +1,6 @@
+# 2.5.1
+adjusted some internal things as this will be a dependency of a future mod :3. updating to this version is not required, there are no further changes.
+
 # 2.5.0
 - Added a new note - "Team Backbone" - given to the player(s) with the most found scrap that made it to ship
 	- The scrap does not have to be returned by the player who found it, any player will count for it
