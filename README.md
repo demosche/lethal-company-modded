@@ -70,7 +70,7 @@ List of mods:<br>
  LethalLevelLoader  1.3.10<br>
  PoolRooms  0.1.22<br>
  EnemySoundFixes  1.5.10<br>
- CullFactory  1.4.2<br>
+ CullFactory  1.4.3<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  1.3.27<br>
  ShockwaveDroneEnemy  0.6.3<br>
@@ -142,4 +142,7 @@ List of mods:<br>
  WeatherRegistry  0.2.1<br>
  LethalQuantities  1.2.9<br>
  LCTarotCard  1.1.1<br>
+ LCCutscene  1.0.0<br>
+ GraphicsAPI  1.0.0<br>
+ Diversity  2.1.2<br>
 
