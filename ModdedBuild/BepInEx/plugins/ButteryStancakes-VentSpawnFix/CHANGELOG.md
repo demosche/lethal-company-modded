@@ -1,3 +1,5 @@
+# v1.2.2
+- Fixed grouped enemies sometimes adding to power count without actually spawning
 # v1.2.1
 - Attempted fix for a somewhat rare NullReferenceException
 # v1.2.0

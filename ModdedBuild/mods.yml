@@ -3080,7 +3080,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726325184457
+  installedAtTime: 1729607388199
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3089,9 +3089,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-VentSpawnFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-VentSpawnFix\1.2.2\icon.png
 - manifestVersion: 1
   name: AtomicStudio-Better_Shotgun_Tooltip
   authorName: AtomicStudio
@@ -3182,7 +3182,7 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Swaggies-BetterEXP\2.5.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Swaggies-BetterEXP\icon.png
 - manifestVersion: 1
   name: mrov-WeatherRegistry
   authorName: mrov
