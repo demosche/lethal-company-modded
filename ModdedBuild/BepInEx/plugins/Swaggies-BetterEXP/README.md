@@ -131,6 +131,6 @@ When you first load in with the BetterEXP mod, you'll start with 0 BXP at Intern
 
 ---
 
-betterexp version 2.5.1
+betterexp version 2.5.2
 
-lethal company version 60-64+
+lethal company version 65-66+

@@ -1,3 +1,7 @@
+# 2.5.2
+- job tracker will log enemy rushes if they happen
+- fixed an issue where enemy kills wouldnt reset at the start of a day
+
 # 2.5.1
 adjusted some internal things as this will be a dependency of a future mod :3. updating to this version is not required, there are no further changes.
 
