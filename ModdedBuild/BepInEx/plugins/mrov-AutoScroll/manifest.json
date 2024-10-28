@@ -1,0 +1,11 @@
+{
+  "namespace": "mrov",
+  "name": "AutoScroll",
+  "description": "A mod for enabling auto-scrolling of ship screen's text.",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/AndreyMrovol/LethalAutoScroll",
+  "FullName": "mrov-AutoScroll"
+}
