@@ -1,6 +1,37 @@
 
 # Changelog #
 
+## 1.6.0 ##
+
+- Add config option to keep bodies after a player is killed
+- Add config option to allow line-of-sight triggered lunges called "proximity sense"
+- Remove HookGenPatcher dependencies since they are already present in downstream dependencies
+
+## 1.5.0 ##
+
+- Add destruction of turrets during chases
+- Add destruction of landmines during chases
+- Slightly adjust movement turning to be more snappy
+
+## 1.4.0 ##
+
+- Fix not being able to traverse slopes and stairs
+- Generally improve player path finding
+- Slightly adjust hitboxes and speed
+
+## 1.3.1 ##
+
+- Rebuild to fix netcode patcher issues
+
+## 1.3.0 ##
+
+- Fix incorrect asset bundle causing errors
+- Rework blood effects
+
+## 1.2.8 ##
+
+- Bump version number to indicate v66 compatibility
+
 ## 1.2.7 ##
 
 - Bump version number to indicate v65 compatibility
