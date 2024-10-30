@@ -20,7 +20,7 @@ List of mods:<br>
  BetterTeleporter  1.2.2<br>
  UnlimitedTZP  0.9.0<br>
  BetterTerminal  0.1.1<br>
- ghostCodes  2.0.6<br>
+ ghostCodes  2.5.0<br>
  LethalThings  0.10.6<br>
  MoreTerminalCommands  1.0.2<br>
  ScannablePlayerItems  1.0.4<br>
@@ -146,4 +146,5 @@ List of mods:<br>
  GraphicsAPI  1.0.0<br>
  Diversity  2.1.2<br>
  AutoScroll  0.0.1<br>
+ OpenLib  0.2.5<br>
 

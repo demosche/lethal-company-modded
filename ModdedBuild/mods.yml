@@ -431,24 +431,24 @@
   authorName: darmuh
   websiteUrl: https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/
   displayName: ghostCodes
-  description: There's a ghost in the terminal and it's sending random broadcast
-    codes to mess with the facility! Also now featuring ghost girl
-    enhancements...
+  description: (Reworked for v66!) There's a ghost in the terminal and it's
+    sending random broadcast codes to mess with the facility!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720350536812
+  installedAtTime: 1730299231505
   loaders: []
-  dependencies: []
+  dependencies:
+    - darmuh-OpenLib-0.2.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
-    patch: 6
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.5.0\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -2931,7 +2931,7 @@
     minor: 0
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.0.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
@@ -3343,3 +3343,26 @@
     patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-AutoScroll\icon.png
+- manifestVersion: 1
+  name: darmuh-OpenLib
+  authorName: darmuh
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/darmuh/OpenLib/
+  displayName: OpenLib
+  description: Open-source development library for LethalCompany, initially
+    created for use with darmuh's Mods
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1730299229478
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 2
+    patch: 5
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
