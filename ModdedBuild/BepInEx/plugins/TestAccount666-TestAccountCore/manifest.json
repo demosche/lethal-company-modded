@@ -1,6 +1,6 @@
 {
     "name": "TestAccountCore",
-    "version_number": "1.9.0",
+    "version_number": "1.9.1",
     "website_url": "https://github.com/Test-Account666/LethalCompany-TestAccountCore",
     "description": "A mod with some common methods I use in my mods",
     "dependencies": [

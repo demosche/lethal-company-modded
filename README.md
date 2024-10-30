@@ -96,7 +96,7 @@ List of mods:<br>
  LethalNetworkAPI  3.3.1<br>
  ProblematicPilotry  1.2.3<br>
  ScaledFallDamage  1.0.2<br>
- TestAccountCore  1.9.0<br>
+ TestAccountCore  1.9.1<br>
  SolidLib  1.2.2<br>
  TurretWhacker  1.0.0<br>
  StaticNetcodeLib  1.1.1<br>
@@ -127,7 +127,7 @@ List of mods:<br>
  Biodiversity  0.1.3<br>
  Chameleon  1.1.3<br>
  Do_We_Need_To_Go_Deeper  1.4.0<br>
- CursedScraps  2.0.6<br>
+ CursedScraps  2.0.7<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
  UsualScrap  1.6.9<br>

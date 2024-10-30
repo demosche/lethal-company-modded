@@ -1,5 +1,12 @@
 # CHANGELOG
 
+Version 2.0.7
+- Version update
+- Update to enable TrickOrTreat to work
+- Added config for a minimum number of items to spawn (within the 'Holy Water' and 'Old Scroll' sections)
+- Nerf some default values
+- Fixed an issue with the Shadow curse not resetting for a monster after being cleansed
+
 Version 2.0.6
 - Code cleaning
 - REWORK curse aura
