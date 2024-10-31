@@ -144,7 +144,7 @@ List of mods:<br>
  LCTarotCard  1.1.1<br>
  LCCutscene  1.0.0<br>
  GraphicsAPI  1.0.0<br>
- Diversity  2.1.2<br>
+ Diversity  3.0.0<br>
  AutoScroll  0.0.1<br>
  OpenLib  0.2.5<br>
 
