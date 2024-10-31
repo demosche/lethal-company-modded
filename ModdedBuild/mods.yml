@@ -437,7 +437,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730299231505
+  installedAtTime: 1730397334444
   loaders: []
   dependencies:
     - darmuh-OpenLib-0.2.5
@@ -446,9 +446,9 @@
   versionNumber:
     major: 2
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.5.1\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -3387,4 +3387,4 @@
     minor: 11
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\notnotnotswipez-MoreCompany\1.11.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
