@@ -448,7 +448,7 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.5.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -3307,7 +3307,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730360378642
+  installedAtTime: 1730441007825
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3318,9 +3318,9 @@
   versionNumber:
     major: 3
     minor: 0
-    patch: 0
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IntegrityChaos-Diversity\3.0.2\icon.png
 - manifestVersion: 1
   name: mrov-AutoScroll
   authorName: mrov

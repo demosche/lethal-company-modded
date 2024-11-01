@@ -163,12 +163,21 @@
 - Fixed the icon for the poster.
 
 ## 3.0.0 Remastered!
-- Diversity hads been fully recoded for better maintainment, optimization and performance!
+- Diversity has been fully recoded for better maintainment, optimization and performance!
 - Added configs for the Walker.
 - Added new mechanics to the Walker.
 - Added lots of lore, voices lines and many mysteries about Diversity!
 - Added compatibility with Wider ship and 2 story ship for the posters.
 - Added config for the stairs.
+- Added stairs exit.
 - Fixed the Bracken's "neck massage".
 - Changed the Watcher spawn logic. He will be more frequent so I suggest to tone down the spawn weight if it's high.
 
+## 3.0.1 Hotfix
+- Added a custom main menu music that is configurable.
+- Fixed an issue related a sound with SoundAPI.
+- Fixed an issue related to saving a game.
+
+## 3.0.2 Hotfix
+- Added a config for the Bracken dimming flashlights.
+- Fixed flashlight dimming breaking the clients sometimes.
