@@ -3192,20 +3192,19 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730143642361
+  installedAtTime: 1730562911603
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - mrov-MrovLib-0.2.7
-    - mrov-AutoScroll-0.0.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 2
-    patch: 4
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.2.6\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
@@ -3320,7 +3319,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IntegrityChaos-Diversity\3.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IntegrityChaos-Diversity\icon.png
 - manifestVersion: 1
   name: mrov-AutoScroll
   authorName: mrov
