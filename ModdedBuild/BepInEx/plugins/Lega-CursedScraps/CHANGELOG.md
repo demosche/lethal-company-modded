@@ -1,5 +1,13 @@
 # CHANGELOG
 
+Version 2.0.8
+- Fixed a bug that allowed items to spawn when deactivated even if they were unregistered
+- Fixed NullReference with SpectateEnemies for Communication curse
+- Removed the possibility of storing a cursed scrap in the BeltBag when a mod allowed scraps to be picked up with it
+- Added more compatibility for viewing door auras with custom interiors
+- Removed the ability to have the Exploration curse on the DevilMansion interior - doors don't have a renderer to show their auras
+- Modified the 'Renderer names' configuration section, as it is no longer linked solely to the Exploration curse
+
 Version 2.0.7
 - Version update
 - Update to enable TrickOrTreat to work

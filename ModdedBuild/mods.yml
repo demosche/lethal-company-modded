@@ -2917,7 +2917,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730287672412
+  installedAtTime: 1730584490941
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2929,9 +2929,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.0.8\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
@@ -3204,7 +3204,7 @@
     minor: 2
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.2.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
