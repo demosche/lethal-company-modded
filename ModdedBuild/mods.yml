@@ -3365,3 +3365,28 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\super_fucking_cool_and_badass_team-Biodiversity\icon.png
+- manifestVersion: 1
+  name: Zaggy1024-OpenBodyCams
+  authorName: Zaggy1024
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Zaggy1024/OpenBodyCams/
+  displayName: OpenBodyCams
+  description: An open-source implementation of a body/head camera that is
+    displayed on the bottom right monitor in the ship, with the goal of
+    appearing almost identical to the player's actual perspective while
+    providing good performance.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1730639225943
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 2
+    minor: 6
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zaggy1024-OpenBodyCams\2.6.0\icon.png
