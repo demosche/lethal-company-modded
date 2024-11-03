@@ -2635,29 +2635,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\33mamaster-LifetimeCruiserWarranty\icon.png
 - manifestVersion: 1
-  name: essie-SoberShip
-  authorName: essie
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/essie/SoberShip/
-  displayName: SoberShip
-  description: Bring back the Vain Shrouds (and fox) and stop them from spawning
-    near the ship
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1725694877454
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 3
-    patch: 0
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\essie-SoberShip\icon.png
-- manifestVersion: 1
   name: Saradora-UnityMDK
   authorName: Saradora
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Saradora/UnityMDK/
@@ -3389,4 +3366,4 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zaggy1024-OpenBodyCams\2.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zaggy1024-OpenBodyCams\icon.png
