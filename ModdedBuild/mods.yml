@@ -1418,7 +1418,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Coppertiel-MaskedEnemyOverhaulFork\3.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Coppertiel-MaskedEnemyOverhaulFork\icon.png
 - manifestVersion: 1
   name: Dev1A3-LethalFixes
   authorName: Dev1A3
@@ -2840,29 +2840,6 @@
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
 - manifestVersion: 1
-  name: super_fucking_cool_and_badass_team-Biodiversity
-  authorName: super_fucking_cool_and_badass_team
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/
-  displayName: Biodiversity
-  description: Expanding the fauna of Lethal Company!
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1726243818647
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.16.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 1
-    patch: 3
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\super_fucking_cool_and_badass_team-Biodiversity\icon.png
-- manifestVersion: 1
   name: ButteryStancakes-Chameleon
   authorName: ButteryStancakes
   websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/
@@ -3388,3 +3365,26 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
+- manifestVersion: 1
+  name: super_fucking_cool_and_badass_team-Biodiversity
+  authorName: super_fucking_cool_and_badass_team
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/
+  displayName: Biodiversity
+  description: Expanding the fauna of Lethal Company!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1730638319325
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.16.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 1
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\super_fucking_cool_and_badass_team-Biodiversity\0.1.3\icon.png
