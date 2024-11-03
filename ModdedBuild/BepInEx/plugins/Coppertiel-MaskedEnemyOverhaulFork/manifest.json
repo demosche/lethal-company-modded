@@ -1,7 +1,7 @@
 {
     "name": "MaskedEnemyOverhaulFork",
-    "version_number": "3.3.0",
+    "version_number": "3.4.0",
     "website_url": "https://github.com/Capital-Asterisk/MaskedEnemyOverhaul",
-    "description": "Hides masks on Masked enemies to mimic your crew. Masked spawn naturally on all moons, set off mines, and more! For v49 and v50. Continuation of HomelessGinger's MaskedEnemyOverhaul",
-    "dependencies": []
+    "description": "Hides masks on Masked enemies to mimic your crew. Masked spawn naturally on all moons, set off mines, and more! For v68. Continuation of HomelessGinger's MaskedEnemyOverhaul",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
