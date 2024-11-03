@@ -41,7 +41,6 @@ List of mods:<br>
  ScanFix  1.0.3<br>
  FairAI  1.4.1<br>
  Terminal_Clock  1.0.6<br>
- Helmet_Cameras  2.1.5<br>
  SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>
  HoarderBugUseItems  1.0.3<br>
@@ -124,7 +123,6 @@ List of mods:<br>
  ExtensionLadderFix  0.0.1<br>
  DoorBreach  1.1.0<br>
  DungeonGenerationPlus  1.1.2<br>
- Biodiversity  0.1.3<br>
  Chameleon  1.1.3<br>
  Do_We_Need_To_Go_Deeper  1.4.0<br>
  CursedScraps  2.0.8<br>
@@ -148,4 +146,6 @@ List of mods:<br>
  AutoScroll  0.0.1<br>
  OpenLib  0.2.5<br>
  MoreCompany  1.11.0<br>
+ Biodiversity  0.1.3<br>
+ OpenBodyCams  2.6.0<br>
 
