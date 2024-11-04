@@ -115,7 +115,6 @@ List of mods:<br>
  WeedKillerFixes  1.1.0<br>
  BarberFixes  1.1.0<br>
  LifetimeCruiserWarranty  1.4.0<br>
- SoberShip  1.3.0<br>
  UnityMDK  1.3.0<br>
  LethalMDK  1.2.0<br>
  ScanTweaks  1.7.0<br>
@@ -144,7 +143,7 @@ List of mods:<br>
  GraphicsAPI  1.0.0<br>
  Diversity  3.0.2<br>
  AutoScroll  0.0.1<br>
- OpenLib  0.2.5<br>
+ OpenLib  0.2.6<br>
  MoreCompany  1.11.0<br>
  Biodiversity  0.1.3<br>
  OpenBodyCams  2.6.0<br>

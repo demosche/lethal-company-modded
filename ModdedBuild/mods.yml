@@ -3285,7 +3285,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730299229478
+  installedAtTime: 1730726837731
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3294,9 +3294,9 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.6\icon.png
 - manifestVersion: 1
   name: notnotnotswipez-MoreCompany
   authorName: notnotnotswipez
