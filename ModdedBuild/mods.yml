@@ -1635,7 +1635,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-ScarletDevilMansion\2.0.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
 - manifestVersion: 1
   name: SolidStone-ShockwaveDroneEnemy
   authorName: SolidStone
@@ -2779,20 +2779,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694944945
+  installedAtTime: 1730810214459
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - IAmBatby-LethalLevelLoader-1.2.3
     - Evaisa-FixPluginTypesSerialization-1.1.1
+    - IAmBatby-LethalLevelLoader-1.2.3
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 2
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-DungeonGenerationPlus\1.2.0\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-Chameleon
   authorName: ButteryStancakes

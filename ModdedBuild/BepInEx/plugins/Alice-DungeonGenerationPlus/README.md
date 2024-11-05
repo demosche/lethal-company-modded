@@ -11,7 +11,7 @@ Please refer to the [wiki](https://git.touhou.dev/Raphtalia/DungeonGenerationPlu
 
 ## Dev Debug Tools
 
-Activate this feature in this mod's config, then press M while inside the ship alone.
+Activate this feature in this mod's config, then press LeftAlt + M while inside the ship alone.
 
 Allows you quickly generate dungeons inside Lethal Company. You can edit most (but not all) values of the DungeonFlow and DunGenExtender assets to quickly see how the changes would affect the dungeon generation.
 
@@ -35,10 +35,11 @@ The prominent feature of this API is the ability to seemlesly add multiple main 
 
 ## Credits
 
-LadyEbony.itch.io - Code\
+LadyAlice.dev - Code\
 YeeHaw - Mod icon\
 @albinogeek (Discord) - Wiki proofreading\
-@bsl (Discord) - Beta testing
+@bsl (Discord) - Beta testing\
+@zaggy1024 (Discord), @plastered_crab (Discord) - Beta testing the MainPathExtender feature and my wiki
 
 #### License
 

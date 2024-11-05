@@ -32,3 +32,17 @@ Removed some hardcoded debug code
 ### 1.1.2
 
 BranchPathMultiSim system now works with all dungeons 
+
+### 1.2.0
+
+Added MainPathExtender feature\
+Renamed ForcedTiles to AdditionalTiles\
+Added SetInOrder behaviour to MainRoomDoorwayGroup\
+Alternate main paths will now end when it reaches the last node in the list like the original DunGen behaviour\
+Added more detailed debug logs when the alternate main path generation fails
+
+Dev Debug Window:\
+LeftAlt + M to open now\
+Added zooming with scroll bar\
+Added Assets panel\
+Some bug/visual fixes
