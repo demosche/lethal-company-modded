@@ -1618,24 +1618,24 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694104952
+  installedAtTime: 1730810163604
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
+    - Lordfirespeed-OdinSerializer-2022.11.9
     - Evaisa-LethalLib-0.11.0
+    - Evaisa-FixPluginTypesSerialization-1.1.1
+    - fumiko-CullFactory-0.9.2
     - IAmBatby-LethalLevelLoader-1.2.3
     - Alice-DungeonGenerationPlus-1.1.2
-    - Evaisa-FixPluginTypesSerialization-1.1.1
-    - Lordfirespeed-OdinSerializer-2022.11.9
-    - fumiko-CullFactory-0.9.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
-    minor: 3
-    patch: 27
+    major: 2
+    minor: 0
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-ScarletDevilMansion\2.0.0\icon.png
 - manifestVersion: 1
   name: SolidStone-ShockwaveDroneEnemy
   authorName: SolidStone
@@ -3366,4 +3366,4 @@
     minor: 2
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png

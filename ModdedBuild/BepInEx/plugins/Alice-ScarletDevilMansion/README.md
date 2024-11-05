@@ -1,8 +1,6 @@
 ### Required by all clients
 
-### Updated for v60-62
-
-### Final v1.3 update. Stay tuned for v2.0
+### Updated for v65-66
 
 # The Scarlet Devil Mansion（紅魔館）
 
@@ -107,14 +105,28 @@ The map is a grayscale representation of what the Scarlet Devil Mansion could lo
 
 <details> 
   <summary>Click here to see the dungeon screenshots</summary>
-  <img src="https://i.imgur.com/xZ9M7aT.png">
-  <img src="https://i.imgur.com/GcbARmV.png">
-  <img src="https://i.imgur.com/EBEfbBG.png">
-  <img src="https://i.imgur.com/k29srZi.png">
+  <img src="https://i.imgur.com/sezggxQ.png">
+  <img src="https://i.imgur.com/bZzj0sV.png">
   
-  <img src="https://i.imgur.com/2Dcs4OI.png">
-  <img src="https://i.imgur.com/hEum11P.png">
-  <img src="https://i.imgur.com/u7uebOz.png">
+  <img src="https://i.imgur.com/KixRi4X.png">
+  <img src="https://i.imgur.com/HLR2t7x.png">
+  
+  <img src="https://i.imgur.com/tf7SYO1.png">
+  <img src="https://i.imgur.com/nN98tIx.png">
+  
+  <img src="https://i.imgur.com/90MA95C.png">
+  <img src="https://i.imgur.com/9iSB9sN.png">
+  
+  <img src="https://i.imgur.com/EB7J1jW.png">
+  <img src="https://i.imgur.com/BkZxl9W.png">
+  
+  <img src="https://i.imgur.com/trxF2si.png">
+  <img src="https://i.imgur.com/QdbbdBF.png">
+  
+  <img src="https://i.imgur.com/chrTisz.png">
+  <img src="https://i.imgur.com/SgIWocP.png">
+  
+  <img src="https://i.imgur.com/Usp7Y7d.png">
 </details>
 
 ### Dungeon Generation
@@ -175,16 +187,22 @@ Many mechanics/enemies deal critical damage. This will deal damage to set the pl
   <img src="https://i.imgur.com/JfyydJv.png">
   
   <br>
+  <b>The Outside</b>
+  <br>
+  Scary I know. Certain rooms and areas has naturally emitting sunlight. Dies off as the day turns to night. Visual weather effects will appear if the moon has a certain weather active.
+  <img src="https://i.imgur.com/nJtieEs.png">
+  
+  <br>
   <b>The Jukebox</b>
   <br>
   Plays songs. They serve no other purpose.
-  <img src="https://i.imgur.com/Tz5ONkI.png">
+  <img src="https://i.imgur.com/LyRRoJs.png">
   
   <br>
   <b>The Portraits</b>
   <br>
   Stares at you. They serve no other purpose.
-  <img src="https://i.imgur.com/APWECSn.png">
+  <img src="https://i.imgur.com/ak85hT5.png">
   
 </details>
 
@@ -252,19 +270,15 @@ The following mods either have unique compatibilities or made to work with SDM:
 * [ReservedKeySlot](https://thunderstore.io/c/lethal-company/p/RogueCodes/ReservedKeySlot/) (The scarlet keys can be placed in the key slot)
 * [Coroner](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) (Enemies and map hazards have unique death messages)
 
-## Roadmap in General
+## Future Development
 
-The development process is generally split into 3 distinct parts:
-
-* Create more rooms, room variants, and polish up the current ones with props, lighting, etc.
-* Add touhou-themed enemies and scrap items
-* Add dungeon mechanics/features (for example the factory's appartatus and jumping puzzles)
+The development process has been halted for the unforeseeable future. Expect small to no updates for long periods of time. Updates will still be released if a game-breaking issue/mod-interaction happens.
 
 ## Credits
 
 Touhou owned by Team Shanghai Alice (ZUN)
 
-LadyEbony.itch.io - Code, Dungeon Design\
+ladyalice.dev - Code, Dungeon Design\
 @Zaggy1024 (Discord) - For their sick help in getting Deep Profiling to work\
 Nitori.itch.io - For their sick advice\
 [XuXiaolan](https://thunderstore.io/c/lethal-company/p/XuXiaolan/) - Snowglobe code (twice)\
