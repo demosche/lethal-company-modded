@@ -30,3 +30,6 @@ The host needs to have the mod installed if anyone in the lobby wants to use it.
 - Whether taking the Apparatus should lift all door restrictions
 - Whether turning off the power using the breaker box should lift all door restrictions
 - Whether all door restrictions should be lifted once only one player is alive
+- Whether entrance controls should be able to activate during flooded weather
+- A grace period so the entrance controls never activate on the first couple days of a save
+- Whether and how players should be notified if entrance controls are active

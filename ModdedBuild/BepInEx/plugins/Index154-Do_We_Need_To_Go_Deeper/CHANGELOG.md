@@ -1,3 +1,8 @@
+## 1.5.0
+- Added a new config setting which prevents the first X days on a fresh save file from having the entrance controls activate. This should serve as a grace period, preventing early softlocks due to a lack of keys. Off by default
+- Added a new config setting which prevents entrance controls activating on flooded moons. Off by default
+- Added a new config setting for disabling the warning popups when landing on a moon with active entrance controls
+
 ## 1.4.0
 - Everyone now gets a warning popup about the entrance controls being active instead of the boring old chat messages
 - Added a config option for re-enabling chat messages (in addition to the popup alert)
