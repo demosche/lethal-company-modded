@@ -2599,7 +2599,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694820318
+  installedAtTime: 1730886085954
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2607,10 +2607,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-BarberFixes\1.2.0\icon.png
 - manifestVersion: 1
   name: 33mamaster-LifetimeCruiserWarranty
   authorName: 33mamaster
@@ -2792,7 +2792,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-DungeonGenerationPlus\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-Chameleon
   authorName: ButteryStancakes

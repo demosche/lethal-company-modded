@@ -6,6 +6,7 @@ Fixes bugs with the Barber:
   - In vanilla, only the first Barber spawned would work as expected. Any future Barbers would slide around with no sound or animations and then eventually get stuck in place.
 - Fixed some unsafe code in the Barber AI, causing them to freeze in place and generate errors in the console.
   - This doesn't happen in vanilla because the code responsible doesn't run at all (due to the first bug)
+- Fixed Barbers not opening doors (and getting stuck moving against closed doors instead)
 - Fixed all Barbers (sometimes) freezing in place indefinitely when the first Barber kills someone that isn't the host.
 - Fixed drumroll sometimes being desynced from the first jump that happens after a player is killed.
 - Fixed the drumroll playing (and overlapping the immediate "parade" sound) when a Barber first spawns.
