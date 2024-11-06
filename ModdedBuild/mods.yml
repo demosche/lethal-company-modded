@@ -3332,18 +3332,18 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730639225943
+  installedAtTime: 1730902787218
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2
-    minor: 6
+    major: 3
+    minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zaggy1024-OpenBodyCams\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zaggy1024-OpenBodyCams\3.0.0\icon.png
 - manifestVersion: 1
   name: darmuh-OpenLib
   authorName: darmuh
@@ -3366,4 +3366,4 @@
     minor: 2
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
