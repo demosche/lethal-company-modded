@@ -2837,7 +2837,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Index154-Do_We_Need_To_Go_Deeper\1.5.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Index154-Do_We_Need_To_Go_Deeper\icon.png
 - manifestVersion: 1
   name: Lega-CursedScraps
   authorName: Lega
@@ -3355,7 +3355,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730739901475
+  installedAtTime: 1730886163084
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3364,6 +3364,6 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 5
+    patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.7\icon.png
