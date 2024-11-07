@@ -146,5 +146,5 @@ List of mods:<br>
  MoreCompany  1.11.0<br>
  Biodiversity  0.1.3<br>
  OpenBodyCams  3.0.0<br>
- OpenLib  0.2.7<br>
+ OpenLib  0.2.8<br>
 
