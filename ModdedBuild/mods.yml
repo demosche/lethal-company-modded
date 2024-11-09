@@ -3378,7 +3378,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731140998446
+  installedAtTime: 1731177145210
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -3386,9 +3386,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.0.8\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
@@ -3454,4 +3454,4 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\McAwesome-CorrectDeathPenalty\1.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\McAwesome-CorrectDeathPenalty\icon.png
