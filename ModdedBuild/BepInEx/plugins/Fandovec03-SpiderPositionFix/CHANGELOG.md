@@ -1,0 +1,26 @@
+- 1.0.7
+	- Agent Jump areaMask is now toggled depending on whenever spider is inside or outside
+		- Credit to AudioKnight for reporting the issue
+	- Spider now marks a position where it started climbing wall. Agent now uses this to warp to nearest navmesh instead of the spider
+		- This fixes an issue agent being teleported to nearest NavMesh regardless if it was behind a wall or not
+	- Added Config:
+		- Toggle to not modify agent areaMask
+		- Toggle for debug logs
+- 1.0.6
+	- Agent gets slowed down when a distance threshold between agent and container is crossed
+	- Rotation no longer snaps when crossing links
+	- Spider is slightly slower on links
+- 1.0.5
+	- rotation patch is not applied when overrideSpiderLookrotation is true
+- 1.0.4
+	- Instead of interpotating meshContainer position and rotation, the mod now interpolates Target position and rotation of the meshContainer. This results in much more natural movement.
+	- Spider looks at the end point of the offMeshLinks when traveling through them for the time being.
+- 1.0.3
+	- Reverted back to Lerp interpolation
+	- Agent now teleports to the nearest navMesh point when the spider crawls off walls.
+	- Slightly loosened the tollerance
+	- removed static from variables. Spiders no longer affect eachother.
+	- Fixed a bug where the patch stopped applying fix after reaching wall possition
+- 1.0.2 - Rewrote the code and tightened tolerance further to make movement look better on stairs and staircases <br>
+- 1.0.1 - Made tolerance tighter, changed lerp to slerp<br>
+- 1.0.0 - Initial release <br>
