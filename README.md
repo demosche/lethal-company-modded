@@ -150,4 +150,5 @@ List of mods:<br>
  SpiderPositionFix  1.0.7<br>
  BarberMaterialTweaks  1.1.0<br>
  High_Quota_Fixes  1.56.4<br>
+ CorrectDeathPenalty  1.0.1<br>
 

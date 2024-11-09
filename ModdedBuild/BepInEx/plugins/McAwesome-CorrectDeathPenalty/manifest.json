@@ -1,0 +1,9 @@
+{
+	"name": "CorrectDeathPenalty",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/McAwesome123/CorrectDeathPenalty",
+	"description": "Corrects the penalty shown when dead bodies are recovered.",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}

@@ -3432,4 +3432,26 @@
     minor: 56
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Chboo1-High_Quota_Fixes\1.56.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Chboo1-High_Quota_Fixes\icon.png
+- manifestVersion: 1
+  name: McAwesome-CorrectDeathPenalty
+  authorName: McAwesome
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/McAwesome/CorrectDeathPenalty/
+  displayName: CorrectDeathPenalty
+  description: Corrects the penalty shown when dead bodies are recovered.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1731141128537
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\McAwesome-CorrectDeathPenalty\1.0.1\icon.png
