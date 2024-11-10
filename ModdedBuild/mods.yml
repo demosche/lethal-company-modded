@@ -2803,7 +2803,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726256288780
+  installedAtTime: 1731218660890
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2811,10 +2811,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 3
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\1.2.0\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
@@ -3388,7 +3388,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.0.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream

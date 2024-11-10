@@ -1,3 +1,9 @@
+# v1.2.0
+- Added screenshots to Thunderstore page
+- Now you can customize which moons have which types of caverns (includes modded levels)
+- New "Gravel" cavern type
+- Fixed helmet condensation not working on Gordion
+- Fixed "EclipsesBlockMusic" setting being ignored
 # v1.1.3
 - Visual improvements and fixes
 # v1.1.2
