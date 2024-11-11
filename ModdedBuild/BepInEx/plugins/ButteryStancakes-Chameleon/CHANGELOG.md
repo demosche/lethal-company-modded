@@ -1,3 +1,5 @@
+# v1.2.1
+- Resolved a potential error when landing on a moon configured to have no cavern types
 # v1.2.0
 - Added screenshots to Thunderstore page
 - Now you can customize which moons have which types of caverns (includes modded levels)
