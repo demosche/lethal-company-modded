@@ -3332,7 +3332,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731218679673
+  installedAtTime: 1731330191679
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3341,9 +3341,9 @@
   versionNumber:
     major: 3
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zaggy1024-OpenBodyCams\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zaggy1024-OpenBodyCams\3.0.3\icon.png
 - manifestVersion: 1
   name: darmuh-OpenLib
   authorName: darmuh
@@ -3388,7 +3388,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
