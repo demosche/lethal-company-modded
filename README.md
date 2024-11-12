@@ -124,7 +124,7 @@ List of mods:<br>
  DungeonGenerationPlus  1.2.0<br>
  Chameleon  1.2.1<br>
  Do_We_Need_To_Go_Deeper  1.5.0<br>
- CursedScraps  2.0.8<br>
+ CursedScraps  2.0.91<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
  UsualScrap  1.6.9<br>

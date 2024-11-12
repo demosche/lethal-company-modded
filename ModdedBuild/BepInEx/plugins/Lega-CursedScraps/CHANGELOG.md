@@ -1,5 +1,14 @@
 # CHANGELOG
 
+Version 2.0.91
+- Adjustment of the README description for the Inhibition curse, which was not clear
+
+Version 2.0.9
+- Updated BeltBag handling with curses when a mod is used to make scraps grabbable: the scraps can be stored, but the curse affects the player
+- Rework of Inhibition (see README for details)
+- Added the Fragile curse (thanks to explodingturtles456 for the idea!)
+- Some refactoring
+
 Version 2.0.8
 - Fixed a bug that allowed items to spawn when deactivated even if they were unregistered
 - Fixed NullReference with SpectateEnemies for Communication curse

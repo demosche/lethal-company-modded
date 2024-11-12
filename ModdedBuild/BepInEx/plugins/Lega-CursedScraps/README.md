@@ -28,7 +28,7 @@ Modes:
 - None - Do not use the mechanic.
 
 ## Curses
-- INHIBITION - Prevents the player from jumping and crouching
+- INHIBITION - Once the curse has been applied, the player will be given a random inhability from among those configured (the default are Jump/Crouch/Sprint/Interact and Scan). Then, this inhability will change every 20 seconds (configurable) as long as the curse is assigned to the player
 - CONFUSION - Reverses movement controls and jump/crouch keys for the player
 - CAPTIVE - Prevents all items carried by the player from being dropped as long as the curse is active
 - BLURRY - Reduces visual clarity on the player's camera
@@ -53,10 +53,10 @@ Modes:
 	- Dead players can help the cursed player to find this item:
 		- Dead players can see the distance between the cursed player and the item
 		- Dead players can send hints to the cursed player by indicating whether they are getting closer or further from the item (through a blue or red particles that the cursed player can see)
-		
-## What happens next?
-- Rework of the 'Inhibition' curse.
-- New curses, including some ideas that were suggested to me (e.g., 'Hot Potato' / 'Fragile').
+- FRAGILE - All objects carried by the player must be handled with care, they can be destroyed if:
+	- The player drops an item without crouching
+	- The player falls from a certain height (better to use ladders)
+	- The player takes damage
 
 ## More informations
 For any feedback/suggestions or questions, you can reach me on the 'Lethal Company Modding' Discord server (https://discord.gg/e4YCbQsx) under the same name (username lega2039). DMs are welcome.
