@@ -2863,7 +2863,7 @@
     minor: 0
     patch: 91
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.0.91\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
@@ -3372,13 +3372,13 @@
   authorName: Fandovec03
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/
   displayName: SpiderPositionFix
-  description: Fixes for the spider getting stuck and desync between agent and
-    mesh container
+  description: Fixes for the spider desync between agent and mesh container and
+    the offset idle animation
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731330150599
+  installedAtTime: 1731407094185
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -3386,9 +3386,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.1.1\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
