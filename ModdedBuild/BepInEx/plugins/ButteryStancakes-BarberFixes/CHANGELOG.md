@@ -1,3 +1,5 @@
+# v1.2.1
+- Publicized some code in the assembly to allow compatibility with other Barber mods
 # v1.2.0
 - Fixed Barbers being unable to open doors
 # v1.1.0
