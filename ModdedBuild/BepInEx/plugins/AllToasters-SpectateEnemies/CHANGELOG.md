@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.7
+- Updated to support v65
+- Fixed an error that displayed when disconnecting (big thanks [1A3](https://github.com/EBro912/SpectateEnemies/pull/16)!)
+
 ## v2.6
 - Updated to support v62
 - Fixed a minor error that would appear when the game starts
