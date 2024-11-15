@@ -1,5 +1,12 @@
 # CHANGELOG
 
+Version 2.1.0
+- When a cursed item is picked up with the BeltBag (via a mod that allows scraps to be picked up), the bag takes on the curse
+- When the bag is dropped in the ship, it and all cursed scraps it contains now lose their curse
+- Fixed the Inhibition curse, which could no longer be applied to a player after they had experienced it once
+- Added a HUD section in config file with two new settings to reposition some displayed texts (names of curses visible to dead players and the distance text for the Communication curse)
+- Moved the setting to enable the information popup when a curse is applied to a player into the HUD section
+
 Version 2.0.91
 - Adjustment of the README description for the Inhibition curse, which was not clear
 

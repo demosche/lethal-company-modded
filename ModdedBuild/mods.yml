@@ -2849,7 +2849,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731407041417
+  installedAtTime: 1731678413955
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2860,10 +2860,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
-    patch: 91
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.1.0\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
@@ -3388,7 +3388,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.1.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
