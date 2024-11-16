@@ -2814,7 +2814,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\1.2.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
@@ -3124,7 +3124,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730960165060
+  installedAtTime: 1731739218445
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3134,9 +3134,9 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.2.8\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
