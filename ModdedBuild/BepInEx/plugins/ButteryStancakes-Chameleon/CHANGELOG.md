@@ -1,3 +1,8 @@
+# v1.2.2
+- Added config settings:
+  - `AutoAdaptSnow`
+  - `PowerOffBreakerBox`
+  - `PowerOffWindows`
 # v1.2.1
 - Resolved a potential error when landing on a moon configured to have no cavern types
 # v1.2.0

@@ -21,6 +21,11 @@ All features are enabled by default but can be disabled if undesired.
 ## Interior
 
 - `DoorLightColors` - The light shining behind the entrance doors (on factory and mineshaft) will change color depending on the current moon and weather conditions.
+- `PowerOffBreakerBox` - Turns off the light on the breaker box when the apparatus gets unplugged.
+
+## Interior - Manor
+
+- `PowerOffWindows` - Turns off the "fake windows" when the breaker box is turned off.
 
 ## Interior - Mineshaft
 
@@ -30,6 +35,7 @@ All features are enabled by default but can be disabled if undesired.
 - `DesertCavesList` - A list of moons that support generating desert caverns.
 - `MesaCavesList` - A list of moons that support generating mesa caverns.
 - `GravelCavesList` - A list of moons that support generating gravel caverns.
+- `AutoAdaptSnow` - Automatically enables ice caverns on modded moons if they are snowy. If you use [Artifice Blizzard](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ArtificeBlizzard/), this will also enable ice caves specifically when the surface is snowy.
 
 # Screenshots
 
