@@ -2541,7 +2541,7 @@
     minor: 4
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.4.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming
@@ -3301,12 +3301,12 @@
   authorName: super_fucking_cool_and_badass_team
   websiteUrl: https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/
   displayName: Biodiversity
-  description: Expanding the fauna of Lethal Company!
+  description: Expanding the flora and fauna of Lethal Company!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730638319325
+  installedAtTime: 1732192436948
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3316,9 +3316,9 @@
   versionNumber:
     major: 0
     minor: 1
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\super_fucking_cool_and_badass_team-Biodiversity\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\super_fucking_cool_and_badass_team-Biodiversity\0.1.4\icon.png
 - manifestVersion: 1
   name: Zaggy1024-OpenBodyCams
   authorName: Zaggy1024

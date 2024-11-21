@@ -1,3 +1,27 @@
+## Version 0.1.4.
+
+- Added 0.1.3. changelog (fuck you power company)
+
+## Version 0.1.3.
+
+#### Ogopogo:
+- Implemented blacklist to prevent wandering on certain moons (Thanks Ccode).
+- Fixed bug where Ogopogo would be able to grab people who are inside the ship. We implemented a check to "block" the grab if the grab box touches a ship-bound player.
+- Fixed a bug where Ogopogo would soft-lock players when the grab box touched two people at the same time.
+- Change default lose range from 70 to 60.
+- A buncha other bugfixes idk
+
+##### Vermin:
+- Fixed them entirely.
+- Made them spawn on Ogopogo as opposed to their water origin.
+- Implemented Vermin moon blacklist, included Adamance and Dine by default since they "un-flood"
+- You can enable em in the defaults now :thumbsup:
+
+##### Aloe:
+- Fixed neck IK script breaking like crazy and causing her to spaz out at times, sorry 'bout that!
+- Fixed typo caused by usage of a different english type which lead to logspam about Aloe's skin color.
+- Changed heal animation to make the Aloe look down.
+
 ## Version 0.1.2.
 
 ##### Ogopogo:
