@@ -1,3 +1,11 @@
+## 1.4.2
+
+- Added a config for Bertha being able to kill enemies
+
+- Fixed layering on all enemies and hazards
+
+- Fed the murder bird more mines
+
 ## 1.4.1
 
 - Fixed Big Bertha not despawning after explosion
