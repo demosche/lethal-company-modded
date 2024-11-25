@@ -2183,7 +2183,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730287655465
+  installedAtTime: 1732511891316
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2191,10 +2191,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 9
-    patch: 1
+    minor: 10
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountCore\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountCore\1.10.0\icon.png
 - manifestVersion: 1
   name: SolidStone-SolidLib
   authorName: SolidStone
@@ -3318,7 +3318,7 @@
     minor: 1
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\super_fucking_cool_and_badass_team-Biodiversity\0.1.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\super_fucking_cool_and_badass_team-Biodiversity\icon.png
 - manifestVersion: 1
   name: Zaggy1024-OpenBodyCams
   authorName: Zaggy1024
