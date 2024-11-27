@@ -10,6 +10,8 @@ All features are enabled by default but can be disabled if undesired.
 
 ## Exterior
 
+- `PlanetPreview` - You can see the planet and moon you are currently orbiting on the ship's external camera. (Restored feature from v38)
+  - Disable this setting if you experience over-exposed lighting on the ship (such as when using [Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/))
 - `FancyEntranceDoors` - Replaces the main entrance doors with the fancy variant when a manor interior generates.
 - `RecolorRandomRocks` - Randomly generated boulders (on the surface) will be snow white on blizzard moons.
 - `RainyMarch` - March will experience near-constant drizzling rain, just like the terminal says. (Does not affect quicksand generation)
@@ -17,6 +19,8 @@ All features are enabled by default but can be disabled if undesired.
   - Choose from `Never`, `Chance`, or `Always`.
   - The specific chance is dynamic and non-configurable.
 - `EclipsesBlockMusic` - Prevent the morning/afternoon ambient tracks from playing during Eclipsed weather, which has its own ambience.
+- `SnowyGiants` - Forest Keepers will blend in more with the environment when they spawn on snowy moons.
+  - If you experience issues with other skin mods, you should disable this.
 
 ## Interior
 

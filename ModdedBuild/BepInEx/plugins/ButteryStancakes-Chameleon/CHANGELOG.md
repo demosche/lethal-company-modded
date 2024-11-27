@@ -1,3 +1,10 @@
+# v1.2.4
+- Fixed the sun disappearing after you get fired
+# v1.2.3
+- Added config settings;
+  - `PlanetPreview`
+  - `SnowyGiants`
+- Improved mod compatibility
 # v1.2.2
 - Added config settings:
   - `AutoAdaptSnow`

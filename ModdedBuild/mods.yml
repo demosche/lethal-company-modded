@@ -2194,7 +2194,7 @@
     minor: 10
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountCore\1.10.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountCore\icon.png
 - manifestVersion: 1
   name: SolidStone-SolidLib
   authorName: SolidStone
@@ -2803,7 +2803,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731739181116
+  installedAtTime: 1732712967119
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2812,9 +2812,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 2
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\1.2.4\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
