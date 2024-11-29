@@ -1,3 +1,32 @@
+# 0.3.2
+
+- weather effects are now correctly synced between clients
+- weather effects are now correctly re-enabled when leaving dungeon
+
+# 0.3.1
+
+- fixed weather effects not enabling properly ([#10](https://github.com/AndreyMrovol/LethalWeatherRegistry/issues/10)) (thanks: `zigzagawaka`, `kidnapperproot`!)
+
+# 0.3.0
+
+- Apparatice will now use WeatherRegistry's scrap value multiplier
+- added _default weight_ and _level weight_ logs to startup
+- added a check to loading weathers from save in case mod list was changed between lobby reloads (thanks, `lunxara`!)
+- added `LevelWeatherTypes` property to `WeatherManager`
+- added `GetCurrentLevelWeather` method to `WeatherManager`
+- added null checks for `Weather.Effect`
+- added an option to change which weather selection algorithm is used
+  - used algorithm will be logged in the console
+- added `BooleanConfigHandler` type and changed `WeatherConfig` to use it
+- changed `screenLevelDescription` to use `.SetText()` (thanks, `iambatby`!)
+- changed the transpilers of vanilla methods so only WeatherRegistry enables weather effects
+- changed how disabled `ConfigHandler` behaves
+  - before it would create a dummy config entry with a description that it's disabled
+  - now it will not create the config entry at all
+- fixed an error introduced in 0.2 with `Weather` properties not being used for default config values (sorry, `voxx`!)
+- Weathers registered by WeatherTweaks will no longer be removed from the registered weathers list
+- marked some properties as virtual
+
 # 0.2.9
 
 - added default weight and level weight logs to startup
