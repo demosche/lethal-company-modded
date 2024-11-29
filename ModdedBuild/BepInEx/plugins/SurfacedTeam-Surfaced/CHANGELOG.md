@@ -1,3 +1,12 @@
+## 1.4.3
+
+- Fixed murder bird not working for clients
+
+- Fed the murder bird even more mines
+
+- Taught Bruce how to backflip
+
+
 ## 1.4.2
 
 - Added a config for Bertha being able to kill enemies
