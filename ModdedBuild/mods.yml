@@ -2540,7 +2540,7 @@
     minor: 4
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.4.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming
@@ -2917,19 +2917,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1732089188612
+  installedAtTime: 1733329618241
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
     - Evaisa-LethalLib-0.16.1
+    - BepInEx-BepInExPack-5.4.2100
+    - Sigurd-CSync-5.0.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 7
-    patch: 0
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.7.2\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack
