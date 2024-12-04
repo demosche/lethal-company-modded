@@ -49,3 +49,4 @@ If you have any issues related to the mod itself, please contact us on the Letha
 - Blue lobster model : "Blue Lobster (meme)" (https://skfb.ly/oyKvq) by Zyleck is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 - Most sound effects are from https://pixabay.com
 - Blahaj Model : "Blahaj" (https://skfb.ly/oGwQt) by Kaine_G is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- Snowman Model : "Snowman" (https://skfb.ly/oFDT9) by alixor22 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

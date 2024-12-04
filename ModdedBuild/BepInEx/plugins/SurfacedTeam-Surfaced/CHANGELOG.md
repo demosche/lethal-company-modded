@@ -1,3 +1,23 @@
+## 1.4.7
+
+- Fixed christmas urchins not being green for clients
+
+- Fixed ugly seam on the bauble that annoyed me
+
+- Readded goopygoblin
+
+## 1.4.6
+
+-Chrismas time fr
+
+## 1.4.5
+
+- The creatures are celebrating chrism!
+
+## 1.4.4
+
+- Taught an old lobster new tricks
+
 ## 1.4.3
 
 - Fixed murder bird not working for clients
@@ -5,7 +25,6 @@
 - Fed the murder bird even more mines
 
 - Taught Bruce how to backflip
-
 
 ## 1.4.2
 
