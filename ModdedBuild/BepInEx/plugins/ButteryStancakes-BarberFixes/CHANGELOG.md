@@ -1,5 +1,7 @@
+# v1.2.2
+- Improved compatibility with custom moons that spawn Barbers outside
 # v1.2.1
-- Publicized some code in the assembly to allow compatibility with other Barber mods
+- Publicized some code in the assembly to allow compatibility with other Barber mods ([Clay Surgeon Overhaul](https://thunderstore.io/c/lethal-company/p/dopadream/ClaySurgeonOverhaul/))
 # v1.2.0
 - Fixed Barbers being unable to open doors
 # v1.1.0

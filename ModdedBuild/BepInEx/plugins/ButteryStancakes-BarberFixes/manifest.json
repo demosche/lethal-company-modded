@@ -1,6 +1,6 @@
 {
     "name": "BarberFixes",
-    "version_number": "1.2.1",
+    "version_number": "1.2.2",
 	"website_url": "https://github.com/ButteryStancakes/BarberFixes",
     "description": "Fixes several issues with Barbers. Now allows restoring spawn behaviors from previous versions of the game.",
     "dependencies": [

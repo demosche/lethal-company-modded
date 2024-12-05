@@ -2598,7 +2598,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731495918125
+  installedAtTime: 1733425157610
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2607,9 +2607,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-BarberFixes\1.2.2\icon.png
 - manifestVersion: 1
   name: 33mamaster-LifetimeCruiserWarranty
   authorName: 33mamaster
@@ -3366,7 +3366,7 @@
     minor: 2
     patch: 10
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.10\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03
