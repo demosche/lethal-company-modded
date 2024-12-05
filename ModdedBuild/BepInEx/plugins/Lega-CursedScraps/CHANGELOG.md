@@ -1,5 +1,11 @@
 # CHANGELOG
 
+Version 2.1.1
+- A lot of refactoring
+- Added compatibility with BeltBagConfig for drop all keybind: curse conditions are now correctly applied
+- Fixed a potential NRE
+- Added an exclusion list to prevent some items from being affected by the Errant curse
+
 Version 2.1.0
 - When a cursed item is picked up with the BeltBag (via a mod that allows scraps to be picked up), the bag takes on the curse
 - When the bag is dropped in the ship, it and all cursed scraps it contains now lose their curse

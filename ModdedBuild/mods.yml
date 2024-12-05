@@ -2609,7 +2609,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-BarberFixes\1.2.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png
 - manifestVersion: 1
   name: 33mamaster-LifetimeCruiserWarranty
   authorName: 33mamaster
@@ -2848,19 +2848,19 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731678413955
+  installedAtTime: 1733425180783
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - Rune580-LethalCompany_InputUtils-0.7.7
     - Evaisa-LethalLib-0.16.1
+    - Rune580-LethalCompany_InputUtils-0.7.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
 - manifestVersion: 1
@@ -2917,7 +2917,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1733329618241
+  installedAtTime: 1733425237374
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.16.1
@@ -2928,9 +2928,9 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.7.3\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack

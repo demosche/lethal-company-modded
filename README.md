@@ -124,10 +124,10 @@ List of mods:<br>
  DungeonGenerationPlus  1.2.0<br>
  Chameleon  1.2.4<br>
  Do_We_Need_To_Go_Deeper  1.5.0<br>
- CursedScraps  2.1.0<br>
+ CursedScraps  2.1.1<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
- UsualScrap  1.7.2<br>
+ UsualScrap  1.7.3<br>
  DiminishingReturns  1.0.8<br>
  Start_with_Fatality_Board  1.0.0<br>
  SmartItemSaving  1.2.4<br>

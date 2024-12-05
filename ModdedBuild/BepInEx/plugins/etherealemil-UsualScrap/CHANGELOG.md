@@ -681,5 +681,16 @@ Quick follow-up update to 1.7.1, check out 1.7.1 for the more important changes 
 
 </details>
 
+<details>
+<summary>Version 1.7.3</summary>
+Quick follow-up follow-up update to 1.7.1, check out 1.7.1 for the other important changes ^^
+
+- Actually removed defib double use.
+- Disabled leftover logging.
+- You can now heal other employees with the medical kit directly.
+- Fixed melee multi-hit for good.
+
+</details>
+
 
 

@@ -1,4 +1,4 @@
-### Works in V64+
+### Works in the latest version! - 12/4/24
 
 ![Preview](https://i.imgur.com/bUpWC4S.png)
 
@@ -44,7 +44,9 @@ Costs 120 credits, Weighs 3
 
 The Medical Kit heals the user overtime when used. It has a limited amount of health it can heal at once (100) but will replenish its available health overtime.
 
-Compared to Bandages, the Medical Kit can heal more health (100) than Bandages can heal (60) and can heal infinitely if given time to replenish.
+Compared to Bandages, the Medical Kit can heal more health (100) than Bandages can heal (60) and can heal infinitely if given time to replenish. 
+
+For Update 1.7.3 users and above - The medkit can now be used to directly heal other employees. This can be done by looking at your fellow employee and using the medkit like you're healing yourself with it, same healthpool and all. The only things to note is that after you start healing them, you will continue to heal them as long as you stay close together! You do not need to stare into the eyes of your fellow employees unless you want to of course.
 
 </details>
 

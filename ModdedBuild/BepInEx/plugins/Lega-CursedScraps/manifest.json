@@ -1,6 +1,6 @@
 {
     "name": "CursedScraps",
-    "version_number": "2.1.0",
+    "version_number": "2.1.1",
     "website_url": "https://github.com/LegaSource/CursedScraps",
     "description": "Some scraps may appear cursed, offering a more attractive price, but you will have to face this curse until reaching the ship.",
     "dependencies": [
