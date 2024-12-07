@@ -692,5 +692,20 @@ Quick follow-up follow-up update to 1.7.1, check out 1.7.1 for the other importa
 
 </details>
 
+<details>
+<summary>Version 1.7.4</summary>
+My modding week continues..
+
+- When using the medical kit to heal fellow employees the rate of healing is now increased! (2x Healing Speed)
+- When the gloomy capsule is charging but in your pocket a new vfx will play around your player to attempt to warn players it is actively about to do something.
+- Defib body removal range shrunk, will rewrite this portion of code to only do the revived body when I have time.
+- Medical kit code optimized and consolidated.
+- Medical kit self healing speed increased very slightly.
+- Healing particles moved slightly and attached to the player so they can still be seen when moving quickly.
+- Fixed medical kit using more of its charge than intended resulting in it running out very quickly.
+- Shift controller battery increased slightly and teleport delay lowered.
+</details>
+
+
 
 
