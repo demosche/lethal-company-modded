@@ -1,3 +1,9 @@
+## 1.4.8
+
+- Fixed gift crab's bell being barely visible
+
+- This christmas, Rodrigo's sea mine heart grew 3 times in size
+
 ## 1.4.7
 
 - Fixed christmas urchins not being green for clients
