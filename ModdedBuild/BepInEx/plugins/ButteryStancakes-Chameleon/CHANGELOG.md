@@ -1,3 +1,11 @@
+# v1.3.0
+- Added config settings: (thx [dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/)!)
+  - `FancyFoliage`
+  - `FancyShrouds`
+  - `FixDoors`
+- Increased the chance for March to be rainy
+  - Also, hopefully fixed compatibility with [Rebalanced Moons](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/)
+- Touched up snowy Keepers' texture
 # v1.2.4
 - Fixed the sun disappearing after you get fired
 # v1.2.3

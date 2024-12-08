@@ -14,6 +14,8 @@ All features are enabled by default but can be disabled if undesired.
   - Disable this setting if you experience over-exposed lighting on the ship (such as when using [Celestial Tint](https://thunderstore.io/c/lethal-company/p/sfDesat/Celestial_Tint/))
 - `FancyEntranceDoors` - Replaces the main entrance doors with the fancy variant when a manor interior generates.
 - `RecolorRandomRocks` - Randomly generated boulders (on the surface) will be snow white on blizzard moons.
+- `FancyFoliage` - Improves the shaders used on foliage to allow light to spread through the leaves.
+- `FancyShrouds` - Applies the same visual improvements from `FancyFoliage` to Vain Shrouds (for [YesFox](https://thunderstore.io/c/lethal-company/p/Dev1A3/YesFox/) users)
 - `RainyMarch` - March will experience near-constant drizzling rain, just like the terminal says. (Does not affect quicksand generation)
 - `StormyGordion` - Gordion will experience near-constant heavy rain, as in the terminal. (Lightning does not strike at The Company)
   - Choose from `Never`, `Chance`, or `Always`.
@@ -26,6 +28,7 @@ All features are enabled by default but can be disabled if undesired.
 
 - `DoorLightColors` - The light shining behind the entrance doors (on factory and mineshaft) will change color depending on the current moon and weather conditions.
 - `PowerOffBreakerBox` - Turns off the light on the breaker box when the apparatus gets unplugged.
+- `FixDoors` - Fixes factory doors not displaying glass on both sides of the frame. Fixes doorknobs looking broken on one side of all door variants (except mineshaft's)
 
 ## Interior - Manor
 
@@ -79,6 +82,10 @@ All features are enabled by default but can be disabled if undesired.
 </details>
 
 # Credits
+
+Thanks to [dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/) for:
+- Initial investigation and implementation of double-sided door materials (for `FixDoors`)
+- Initial investigation and implementation of foliage diffusion (for `FancyFoliage` and `FancyShrouds`)
 
 Thanks to [IAmBatby](https://thunderstore.io/c/lethal-company/p/IAmBatby/) for:
 - Brainstorming ideas about custom content compatibility
