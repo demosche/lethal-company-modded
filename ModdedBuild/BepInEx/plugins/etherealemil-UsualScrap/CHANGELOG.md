@@ -706,6 +706,21 @@ My modding week continues..
 - Shift controller battery increased slightly and teleport delay lowered.
 </details>
 
+<details>
+<summary>Version 1.7.5</summary>
+My modding week ends here. Next update will be a while as I plan to potentially double the amount of unique items and complete the toolbox update, till next time.
+
+- Frigid capsule permanent frosty feet particles fixed hopefully.
+- Frigid capsule slow effect lightened.
+- Handlamp head light moved up a bit so you aren't partially blinded anymore.
+- Added config for buying the crowbar in the store.
+- Fixed pocketwatch not showing up issue hopefully.
+- Emergency Injector changes.
+- Something else I forgot.
+
+</details>
+
+
 
 
 

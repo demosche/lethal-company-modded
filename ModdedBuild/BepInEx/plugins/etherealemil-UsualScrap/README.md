@@ -12,17 +12,17 @@ Compared to vanilla flashlights...
 
 PROS
 
-- The lamp lights up the area around the holder in a radius that is larger than a baby flashlight's light reaches but not as large as a pro-flashlight reaches in one direction.
+- The lamp lights produces light in a radius around you making it useful for seeing things all around you and lighting up small rooms completely.
 
-- The lamp has a noticeably larger battery capacity than the pro-flashlight (It's battery can last almost the entire day when left on constantly).
+- The lamp has a much larger battery capacity than the pro-flashlight (It's battery can last almost the entire day even when left on constantly!).
 
 CONS 
 
-- The light produced by the lamp isn't as clear at long ranges as the pro-flashlight.
+- The light produced by the lamp isn't as clear at long ranges as the pro-flashlight nor does it reach as far.
 
-- The lamp's light is pretty bright if used in fog, gas, smoke, dust storms, etc..
+- The lamp's light can be very bright if used in fog, gas, smoke, dust storms, etc..
 
-Mod Issue - Mods messing with global lighting can drastically affect the Hand Lamp making it basically unusable. Haven't found a universal way to fix this issue unfortunately.
+Mod Issue - Mods messing with lighting can drastically affect the Hand Lamps light. Haven't and probably won't find a universal way to fix this issue.
 
 </details>
 
@@ -46,8 +46,7 @@ The Medical Kit heals the user overtime when used. It has a limited amount of he
 
 Compared to Bandages, the Medical Kit can heal more health (100) than Bandages can heal (60) and can heal infinitely if given time to replenish. 
 
-For Update 1.7.3 users and above - The medkit can now be used to directly heal other employees. This can be done by looking at your fellow employee and using the medkit like you're healing yourself with it, same healthpool and all. The only things to note is that after you start healing them, you will continue to heal them as long as you stay close together! You do not need to stare into the eyes of your fellow employees unless you want to of course.
-
+For Update 1.7.3 users and above - The medkit can now be used to directly heal other employees and heals them faster than normal (2x faster). This can be done by looking at your fellow employee and using the medkit like you're healing yourself with it, same healthpool and all. The only things to note is that after you start healing them, you will continue to heal them as long as you stay close together!
 </details>
 
 <details>
@@ -55,10 +54,10 @@ For Update 1.7.3 users and above - The medkit can now be used to directly heal o
 
 Costs 60 credits, Weighs 1
 
-When used, the Emergency Injector gives you a speed boost, boosts your sprint meter capacity, refills your stamina, and gives you a jump boost.
+When used, the Emergency Injector gives you a speed boost (3x), refills your sprint meter, boosts your sprint meter capacity, and gives you a jump boost.
 
-- The effect lasts for 1 minute. After 1 minute you will receive a severe slowness debuff and your stamina will be drained.
-- If another injector is used while you already have the effect you will quickly take damage and the effect will not stack or be reapplied.
+- The effect lasts for 30 seconds. After 1 minute you will receive 25 damage overtime.
+- If another injector is used while you already have the speed buff you will take 50 damage overtime and won't reapply the speed buff.
 
 </details>
 
@@ -68,7 +67,7 @@ When used, the Emergency Injector gives you a speed boost, boosts your sprint me
 
 Costs 225 credits, Weighs 4
 
-The Shift Controller is a portable teleporter that saves your coordinates and can then teleport you back there as long as it has battery.
+The Shift Controller is a short-range portable teleporter that saves your coordinates and can then teleport you back to that location as long as it has battery.
 
 - The Shift Controller's saved coordinates are set when used the first time, the second use will teleport you back at the cost of some of its battery.
 - The Shift Controller consumes battery slowly after your coordinates have been set.

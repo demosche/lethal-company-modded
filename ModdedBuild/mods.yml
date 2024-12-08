@@ -2813,7 +2813,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\1.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
@@ -2917,7 +2917,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1733551559704
+  installedAtTime: 1733659944170
   loaders: []
   dependencies:
     - Evaisa-LethalLib-0.16.1
@@ -2928,9 +2928,9 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 4
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.7.5\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack
