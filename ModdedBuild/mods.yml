@@ -1442,7 +1442,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\2.5.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
 - manifestVersion: 1
   name: Evaisa-FixPluginTypesSerialization
   authorName: Evaisa
@@ -1717,20 +1717,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1729341246706
+  installedAtTime: 1733659898235
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-LethalLib-0.16.0
+    - Evaisa-LethalLib-0.16.1
     - Evaisa-HookGenPatcher-0.0.5
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 3
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.3.9\icon.png
 - manifestVersion: 1
   name: Sigurd-CSync
   authorName: Sigurd
