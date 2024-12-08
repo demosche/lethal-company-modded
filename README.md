@@ -63,7 +63,7 @@ List of mods:<br>
  Locker  1.6.0<br>
  MaskedEnemyOverhaulFork  3.4.0<br>
  LethalFixes  1.2.4<br>
- men_stalker  2.4.0<br>
+ men_stalker  2.5.0<br>
  FixPluginTypesSerialization  1.1.1<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.3.13<br>

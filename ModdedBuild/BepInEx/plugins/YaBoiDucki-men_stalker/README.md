@@ -143,3 +143,18 @@ I also would like to thank the writers of the lethal company modding's wiki, and
 
         Stalk sequence changes : Men_stalker cannot transition into his chase sequence so long as he hasn't directly stared at a scavenger for a least 5 seconds.
         Explanation : This should make it easier to spot the Men_stalker during his stalk sequence. You now are guaranteed to have at the very least 5 seconds to spot him during the stalk sequence. Additionally, if he didn't had at least 5 seconds of visual contact with a scavenger when his stalking cooldown ends, he will also start to "aggresively" stalk you (Thus giving scavengers more opportunity to catch him)
+- v2.5.0
+        Various changes : 
+        The minimum amount of time the men-stalker has a LOS to a player before it can transition into his rush phase : 5 -> 15
+
+        The chase sequence's timer : Used to start as soon as a scavenger is within 30 units, now it can only start when the men-stalker has a LOS to a scavenger.
+
+        The stalking phase's duration : 55/75 seconds ->  40/60 seconds
+
+        Smoother animation transition 
+
+        Double the spawn probability
+
+        Tweaked the model 
+
+        Explanation : It was decided that the Men-stalker would need to have a longer eye contact with a scavenger (Double) to actually offer the players a chance to spot him. We have also doubled his spawn ratio and shortened his stalking time to make him more present in a game.
