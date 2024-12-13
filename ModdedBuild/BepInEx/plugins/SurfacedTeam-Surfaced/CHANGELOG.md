@@ -1,3 +1,11 @@
+## 1.4.9
+
+- Fixed Rodrigo the snowbird's textures
+
+- Added new sound to scary
+
+- Still not deprecated (suck it code rebirth)
+
 ## 1.4.8
 
 - Fixed gift crab's bell being barely visible
