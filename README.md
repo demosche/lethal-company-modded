@@ -127,7 +127,7 @@ List of mods:<br>
  CursedScraps  2.1.1<br>
  JesterDoorSlam  1.0.0<br>
  AntiSlimeCamp  2.0.0<br>
- UsualScrap  1.7.5<br>
+ UsualScrap  1.7.6<br>
  DiminishingReturns  1.0.8<br>
  Start_with_Fatality_Board  1.0.0<br>
  SmartItemSaving  1.2.4<br>

@@ -720,6 +720,18 @@ My modding week ends here. Next update will be a while as I plan to potentially 
 
 </details>
 
+<details>
+<summary>Version 1.7.6</summary>
+Follow-up ^
+
+- Way too many snow particles.
+- Medical kit now updates the health hud of only the player being healed. Thanks Xu Xiaolan!
+- Defib should now only remove the body of the person it has revived.
+- Removed rose slow until I fix or rethink it.
+
+</details>
+
+
 
 
 
