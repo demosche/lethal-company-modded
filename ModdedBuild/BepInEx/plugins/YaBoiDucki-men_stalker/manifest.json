@@ -1,6 +1,6 @@
 {
     "name": "men_stalker",
-    "version_number": "2.5.0",
+    "version_number": "2.5.5",
     "website_url": "",
     "description": "add a new dungeon monster who heavily rely on prolonged stalking phase and explosive chase phase",
   "dependencies": [

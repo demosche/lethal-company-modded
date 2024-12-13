@@ -312,7 +312,7 @@
     minor: 16
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\0.16.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
@@ -1429,7 +1429,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1733659871371
+  installedAtTime: 1734118893609
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1440,9 +1440,9 @@
   versionNumber:
     major: 2
     minor: 5
-    patch: 0
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\2.5.5\icon.png
 - manifestVersion: 1
   name: Evaisa-FixPluginTypesSerialization
   authorName: Evaisa
