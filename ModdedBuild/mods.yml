@@ -2927,7 +2927,7 @@
     minor: 7
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.7.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack
@@ -3121,7 +3121,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1733659968587
+  installedAtTime: 1734119014804
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3131,9 +3131,9 @@
   versionNumber:
     major: 0
     minor: 3
-    patch: 6
+    patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.3.7\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
