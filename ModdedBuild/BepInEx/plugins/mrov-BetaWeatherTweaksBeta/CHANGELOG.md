@@ -1,3 +1,46 @@
+# 0.24.2
+
+- changes to Blackout:
+  - fixed errors during game startup
+  - apparatus lights won't be disabled anymore
+  - fixed breaker box being non-functional and throwing errors
+    - i was trying to destroy the breakerbox object, which caused errors
+    - now the breaker box will be inactive
+  - reduced the range of floodlights
+- (hopefully) fixed all issues with progressing weathers changing during the landing
+
+# 0.24.1
+
+- added ||Blackout|| weather
+  - ||disables all lights on the planet and in the dungeon||
+  - ||makes the floodlight work like real ones||
+
+# 0.24.0
+
+## Please re-generate your configs!
+
+- changed config entry names
+- added an option to generate all hidden config entries for special weathers (thanks, `dragonmcmx`!)
+- updated how picked weathers are displayed
+- re-introduced foggy patch ||with a twist||
+
+# 0.23.2
+
+- made sure WeatherTweaks weathers are registered before Registry initialization
+- changed configs: `WeatherTweaksWeather` uses `DefaultWeight` instead of `WeightModify`
+- changed some logs
+
+# 0.23.1
+
+- fixed an issue where special weathers weren't properly registered
+
+# 0.23.0
+
+- reworked the whole thing
+
+<details>
+  <summary><b> Changelog from earlier "Beta" version</summary>
+
 # 0.22.0
 
 - removed foggy patch
@@ -113,3 +156,5 @@
 
 - started doing changelog
 - fixed an issue where the game would softlock if any levels had no defined randomWeathers
+
+</details>

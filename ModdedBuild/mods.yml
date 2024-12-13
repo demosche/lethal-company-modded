@@ -2193,7 +2193,7 @@
     minor: 11
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountCore\1.11.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountCore\icon.png
 - manifestVersion: 1
   name: SolidStone-SolidLib
   authorName: SolidStone
@@ -2338,27 +2338,24 @@
   authorName: mrov
   websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/BetaWeatherTweaksBeta/
   displayName: BetaWeatherTweaksBeta
-  description: Beta version of WeatherTweaks - adding combined and progressing
-    weathers to the game.
+  description: Changes to the weather system in Lethal Company.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694512088
+  installedAtTime: 1734118945394
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - xilophor-LethalNetworkAPI-3.0.2
-    - mrov-MrovLib-0.2.2
-    - mrov-WeatherRegistry-0.1.18
+    - mrov-WeatherRegistry-0.3.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 22
-    patch: 0
+    minor: 24
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.24.2\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum

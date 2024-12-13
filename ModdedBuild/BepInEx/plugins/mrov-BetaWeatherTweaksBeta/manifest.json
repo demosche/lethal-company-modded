@@ -1,12 +1,12 @@
 {
-	"name": "BetaWeatherTweaksBeta",
-	"version_number": "0.22.0",
-	"website_url": "https://github.com/AndreyMrovol/LethalWeatherTweaks/pull/11",
-	"description": "Beta version of WeatherTweaks - adding combined and progressing weathers to the game.",
-	"dependencies": [
-		"BepInEx-BepInExPack-5.4.2100",
-		"xilophor-LethalNetworkAPI-3.0.2",
-		"mrov-MrovLib-0.2.2",
-		"mrov-WeatherRegistry-0.1.18"
-	]
+  "namespace": "mrov",
+  "name": "BetaWeatherTweaksBeta",
+  "description": "Changes to the weather system in Lethal Company.",
+  "version_number": "0.24.2",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "mrov-WeatherRegistry-0.3.7"
+  ],
+  "website_url": "https://github.com/AndreyMrovol/LethalWeatherTweaks",
+  "FullName": "mrov-BetaWeatherTweaksBeta"
 }
