@@ -121,7 +121,7 @@ List of mods:<br>
  LethalElements  1.1.8<br>
  ExtensionLadderFix  0.0.1<br>
  DoorBreach  1.1.0<br>
- DungeonGenerationPlus  1.2.0<br>
+ DungeonGenerationPlus  1.3.2<br>
  Chameleon  1.3.0<br>
  Do_We_Need_To_Go_Deeper  1.5.0<br>
  CursedScraps  2.1.1<br>

@@ -46,3 +46,18 @@ LeftAlt + M to open now\
 Added zooming with scroll bar\
 Added Assets panel\
 Some bug/visual fixes
+
+### 1.3.0
+
+Added local Global Props system\
+Added system to add scrap/enemies or edit scrap/enemy weights temporarily before the dungeon generates\
+Added compability with Loadstone to improve dungeon generation performance
+
+### 1.3.1
+
+Bug and UI fixes to Dev Debug Window
+
+### 1.3.2
+
+Bug fixes with crashing related to Loadstone\
+Temporary fix with HarmonyXTranpilerFix
