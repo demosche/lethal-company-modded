@@ -1,5 +1,5 @@
 # ReservedItemSlotCore
-### V64 Compatible!
+### V69 Compatible!
 **The core mod for all ReservedItemSlot mods.**<br><br>
 This mod is required for my ReservedItemSlot mods to work, such as ReservedFlashlightSlot and ReservedWalkieSlot.<br>
 These mods will give you free dedicated inventory slots for their respective item(s). These slots will be shown on the right side of your screen, stacking vertically.<br>

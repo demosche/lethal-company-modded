@@ -1,3 +1,5 @@
+# 2.0.39
++ Fixed issue when purchasing reserved slots is enabled, where the mod would incorrectly set the players' new hotbar size on ship resets, but only when other mods also modify the player's hotbar size at this time, such as HotbarPlus when purchasing slots is enabled for that mod.
 # 2.0.38
 + Fixed a bug when adding items to a custom reserved slot within the config, where the mod would incorrectly parse the item names with commas AND spaces in between. This only affect items added to custom reserved slots in the config.
 + NOTE: The mod normally accepts commas between each item name "item1,item2", OR a comma and a space "item1, item2"
