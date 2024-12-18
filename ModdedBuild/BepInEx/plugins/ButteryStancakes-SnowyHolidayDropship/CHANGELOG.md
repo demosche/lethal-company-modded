@@ -1,3 +1,7 @@
+# v1.1.1
+- Emergency hotfix to make the mod work in v69 again
+  - This will prevent modded dropship music from playing on certain moons (such as [Mycordytum](https://thunderstore.io/c/lethal-company/p/Ssencipe/Overhaul_Moons/)) for now
+  - If this is a dealbreaker, rollback to v1.1.0, just be aware that this means the normal dropship won't appear on vanilla moons
 # v1.1.0
 - v55 support
 # v1.0.4

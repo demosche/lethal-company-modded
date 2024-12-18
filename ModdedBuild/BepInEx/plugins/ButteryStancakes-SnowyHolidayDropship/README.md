@@ -1,7 +1,5 @@
 # Snowy Holiday Dropship
-By default, this mod makes the dropship use the holiday music and appearance (from v45) on snowy moons. (Rend, Dine, Titan)
-
-Note that the dropship will always reset to default when delivering the Company Cruiser (in v55+), since it uses a unique music track.
+By default, this mod makes the dropship use the holiday music and appearance (from v45 and v69) on snowy moons only. (Rend, Dine, Titan)
 
 Also includes some configuration settings:
 - Random chance to use the holiday dropship on normal moons (default is 0%)
