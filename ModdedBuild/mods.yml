@@ -448,7 +448,7 @@
     minor: 5
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.5.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
@@ -1359,7 +1359,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730132291305
+  installedAtTime: 1734525825401
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1369,9 +1369,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\zealsprince-Locker\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\zealsprince-Locker\1.6.1\icon.png
 - manifestVersion: 1
   name: Coppertiel-MaskedEnemyOverhaulFork
   authorName: Coppertiel
