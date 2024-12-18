@@ -1986,7 +1986,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-SnowyHolidayDropship\1.1.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-SnowyHolidayDropship\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-JetpackFixes
   authorName: ButteryStancakes
@@ -2182,7 +2182,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1734118920083
+  installedAtTime: 1734525905724
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2190,10 +2190,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 11
+    minor: 12
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountCore\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountCore\1.12.0\icon.png
 - manifestVersion: 1
   name: SolidStone-SolidLib
   authorName: SolidStone
