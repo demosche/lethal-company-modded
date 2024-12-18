@@ -107,7 +107,7 @@
     minor: 0
     patch: 39
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.39\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -431,24 +431,24 @@
   authorName: darmuh
   websiteUrl: https://thunderstore.io/c/lethal-company/p/darmuh/ghostCodes/
   displayName: ghostCodes
-  description: (Reworked for v66!) There's a ghost in the terminal and it's
+  description: (Reworked for v69!) There's a ghost in the terminal and it's
     sending random broadcast codes to mess with the facility!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1730397334444
+  installedAtTime: 1734525792226
   loaders: []
   dependencies:
-    - darmuh-OpenLib-0.2.5
+    - darmuh-OpenLib-0.2.11
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 5
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-ghostCodes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-ghostCodes\2.5.2\icon.png
 - manifestVersion: 1
   name: Evaisa-LethalThings
   authorName: Evaisa
