@@ -1,6 +1,6 @@
 ### Required by all clients
 
-### Updated for v65-66
+### Updated for v69
 
 # The Scarlet Devil Mansion（紅魔館）
 
@@ -144,7 +144,7 @@ This is all done to increase the chance of the main paths connecting and forming
 
 Besides the dungeon's generation and tiles, the dungeon features a few unique mechanics that can shake up your scavenging adventure, or play a fun distraction.
 
-Many mechanics/enemies deal critical damage. This will deal damage to set the player's health to 5. If the player's health is already below 10, the damage will instead kill them.
+Many mechanics/enemies marks the player for death. This will deal damage to set the player's health to 5. If the player's health is already below 10 OR if they were already marked for death, the damage will instead kill them. Resets on a new day.
 
 <details> 
   <summary>Spoiler warning. Click here to see the features</summary>
@@ -171,7 +171,7 @@ Many mechanics/enemies deal critical damage. This will deal damage to set the pl
   <br>
   <b>The Void</b>
   <br>
-  Jumping puzzles can be found throughout the mansion. Falling in the pit will deal critical damage, then teleport the player to the farthest AI node. Falling in a second time will kill the player. Resets on new day.
+  Jumping puzzles can be found throughout the mansion. Falling in the void will mark the player for death, then teleport the player to the farthest AI node.
   <img src="https://i.imgur.com/LY7GBpy.png">
   
   <br>
@@ -206,9 +206,11 @@ Many mechanics/enemies deal critical damage. This will deal damage to set the pl
   
 </details>
 
-## Dungeon Items and Enemies
+## Dungeon Items
 
-The dungeon contains a few unique scrap items that can only spawn inside the mansion. They each contain a very unique interact feature.
+The dungeon contains a few unique scrap items that can only spawn inside the mansion. They each contain a unique interact feature.
+
+Scraps' value and spawn weight can be configured. They can also be configured to spawn on all moons or to not spawn at all.
 
 <details> 
   <summary>Spoiler warning. Click here to see the items</summary>
@@ -223,7 +225,7 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   <br>
   <b>The Maid's Knife</b>
   <br>
-  Acts like the kitchen knife. Drops from the Maid. You can feed the knife by dealing critical damage to yourself to power it up. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. The attacker takes the critical damage if they attack a fellow player. Does not have the innate one-shot property towards the Butler or Maid. Kills if you stab yourself a second time. Resets on a new day.
+  Acts like the kitchen knife. Drops from the Maid. You can feed the knife to power it up by marking yourself for death. When buffed, the knife can effectively one-shot any killable monster by dealing 50 damage. Loses the buff once it deals damage to anything. If they attack a fellow player instead, the attacker will mark themselves for death. Does not have the innate one-shot property towards the Butler or Maid.
   <br>
   <img src="https://i.imgur.com/DkFE8Wx.png">
   
@@ -236,9 +238,13 @@ The dungeon contains a few unique scrap items that can only spawn inside the man
   
 </details>
 
-The dungeon uses summoning sigils to summon its enemies as opposed to vents. This is only a visual change. All enemies featured in this dungeon can only spawn inside the mansion.
+## Dungeon Enemies
 
-![](https://i.imgur.com/FPW9D7o.png)
+The dungeon uses summoning sigils to summon its enemies as opposed to vents. This is only a visual change.
+
+The dungeon contains variants of existing Lethal Company enemies that can only spawn inside the mansion. They each contain slight gameplay variations.
+
+Enemies' health, speed, spawn weights, or even existence can be configured.
 
 <details> 
   <summary>Spoiler warning. Click here to see the enemies</summary>
@@ -254,7 +260,7 @@ The dungeon uses summoning sigils to summon its enemies as opposed to vents. Thi
   <br>
   Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower and has less health. When killed, drops the Maid's Knife and summons a revenant ghost towards the maid's killer.
   <br>
-  The revenant deals critical damage. It is only fully visible to the maid's killer, and will only target/harm them. They can slowed down by it's target staring it down. Once the revenant deals damage, the target dies, or the target leaves the dungeon, the revenant disappears.
+  The revenant attacks by marking their victim for death. It is only fully visible to the maid's killer, and will only target/harm them. They can slowed down by it's target staring it down. Once the revenant deals damage, the target dies, or the target leaves the dungeon, the revenant disappears.
   <br>
   <img src="https://i.imgur.com/QbUZutS.png">
   
@@ -291,13 +297,15 @@ Vinyis.itch.io - 3D Environment Assets (Hallways)\
 @grandteki (Discord) - Various 3D Assets\
 @mauriciodm (Fiverr) - Maid Assets\
 @solidstone (Discord) - Snowglobe Assets\
-@Schmagons (Instagram) - Snowglobe Doll Assets
+@Schmagons (Instagram) - Snowglobe Doll Assets\
+[Flimichan](https://sketchfab.com/3d-models/low-poly-christmas-tree-2b78bbb6adbc4286af8fc1d37ea0de8d) - Low Poly Christmas Tree
 
 #### Portrait Art
 @Schmagons (Instagram) - Remilia, Sakuya, Medicine, Hime, Kagasa, Yuyuko, Reimu\
 YeeHaw - Flandre, Patchy, Koakuma\
 World's Saddest Halo Fan - Rumia\
 WorthAggravating (Reddit) - Hina
+[Vrabius](https://x.com/vrabius) - "Scarlet" Remilia
 
 #### Audio
 peacock-roy.itch.io - Maid chase and dungeon entrance music. Various SFX\

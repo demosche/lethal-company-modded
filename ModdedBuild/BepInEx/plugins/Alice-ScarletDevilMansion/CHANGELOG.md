@@ -1,3 +1,15 @@
+### 2.1.0
+
+Updated for v69\
+Added more config fields for scrap items and enemies\
+Added christmas trees to mayor\
+Each main path will generate a minimum of one fire exit and painting if possible\
+Slightly shrinked the size of the vanilla dungeon\
+All critical damage mechanics renamed to "marked for death." Being marked for death by any mechanic twice will kill the player regardless of the source.\
+Revenant properly slows down when being stared down\
+The code to inject items/enemies when SDM dungeon loads has been changed. May cause bugs please let me know if they occur\
+Added new portrait art
+
 ### 2.0.0
 
 Updated for v65/66\
