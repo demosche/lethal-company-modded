@@ -2356,7 +2356,7 @@
     minor: 24
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.24.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -2776,7 +2776,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1734525928986
+  installedAtTime: 1734715037518
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2787,9 +2787,9 @@
   versionNumber:
     major: 1
     minor: 3
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-DungeonGenerationPlus\1.3.3\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-Chameleon
   authorName: ButteryStancakes
