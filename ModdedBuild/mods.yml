@@ -2789,7 +2789,7 @@
     minor: 3
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-DungeonGenerationPlus\1.3.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-Chameleon
   authorName: ButteryStancakes
@@ -3122,7 +3122,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1734119014804
+  installedAtTime: 1734715059753
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3132,9 +3132,9 @@
   versionNumber:
     major: 0
     minor: 3
-    patch: 7
+    patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.3.9\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
