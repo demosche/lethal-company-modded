@@ -3386,7 +3386,7 @@
     minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.2.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
@@ -3419,7 +3419,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731141075213
+  installedAtTime: 1735370026200
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3428,9 +3428,9 @@
   versionNumber:
     major: 1
     minor: 56
-    patch: 4
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Chboo1-High_Quota_Fixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Chboo1-High_Quota_Fixes\1.56.5\icon.png
 - manifestVersion: 1
   name: McAwesome-CorrectDeathPenalty
   authorName: McAwesome
