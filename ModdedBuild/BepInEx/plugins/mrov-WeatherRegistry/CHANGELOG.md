@@ -1,3 +1,26 @@
+# 0.3.13
+
+- fixed a compatibility issue with `FacilityMeltdown` where the scrap multiplier would be applied twice
+- added a `WeatherManager.WeatherDisplayOverride` method to override displayed weather condition
+
+# 0.3.12
+
+- bumped MrovLib to fix string resolving issues
+- publicized config entries in `RegistryWeatherConfig`
+- added an example class [`WeatherModExtendedConfig`](https://github.com/AndreyMrovol/LethalWeatherRegistry/blob/main/WeatherRegistry/Modules/WeatherModExtendedConfig.cs) to showcase extending `RegistryWeatherConfig` for mod developers
+
+# 0.3.11
+
+- made proper use of `Settings` class (fix proposal to [#13](https://github.com/AndreyMrovol/LethalWeatherRegistry/issues/13))
+- bumped MrovLib
+
+# 0.3.10
+
+- readded "_small things that add content to the game_" since it was missing for a long time
+- changed config description of `LevelFilters` to be more understandable (thanks, `autumnis`)
+- added `FilteringOption` constructor to `BooleanConfigHandler`
+- publicized `Weather.Config` (thanks, `voxx`!)
+
 # 0.3.9
 
 - fixed `WeatherEffectController` introduced in v0.3.8
