@@ -77,7 +77,7 @@ List of mods:<br>
  Gnomes  2.1.19<br>
  Remnants  1.3.9<br>
  CSync  5.0.1<br>
- DramaMask  2.1.3<br>
+ DramaMask  2.1.4<br>
  Lethal_Doors_Fixed  1.1.0<br>
  LCMaxSoundsFix  1.2.0<br>
  MeleeFixes  1.3.1<br>
