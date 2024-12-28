@@ -2356,7 +2356,7 @@
     minor: 24
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.24.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -2481,7 +2481,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1720374441438
+  installedAtTime: 1735369835136
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2490,9 +2490,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 0
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Piggy-CruiserMap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-CruiserMap\1.0.5\icon.png
 - manifestVersion: 1
   name: phawitpp-SuperLandmine
   authorName: phawitpp

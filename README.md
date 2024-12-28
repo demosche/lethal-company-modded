@@ -108,7 +108,7 @@ List of mods:<br>
  ToilHead  1.7.2<br>
  CruiserImproved  1.4.1<br>
  BetterVehicleControls  1.1.3<br>
- CruiserMap  1.0.0<br>
+ CruiserMap  1.0.5<br>
  SuperLandmine  1.1.3<br>
  Surfaced  1.4.9<br>
  GeneralImprovements  1.4.4<br>
