@@ -3364,29 +3364,29 @@
     minor: 2
     patch: 12
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.12\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03
   websiteUrl: https://thunderstore.io/c/lethal-company/p/Fandovec03/SpiderPositionFix/
   displayName: SpiderPositionFix
-  description: Fixes for the spider desync between agent and mesh container and
-    the offset idle animation
+  description: Host fixes for the spider position desync between agent and mesh
+    container and client-side fix for the offset idle animation
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731587703825
+  installedAtTime: 1735370001994
   loaders: []
   dependencies: []
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
-    patch: 2
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.2.0\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
