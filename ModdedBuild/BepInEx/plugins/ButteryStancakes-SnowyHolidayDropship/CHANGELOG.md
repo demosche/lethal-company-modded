@@ -1,3 +1,7 @@
+# v1.1.3
+- Re-upload because I forgot the asset bundle in v1.1.2
+# v1.1.2
+- Fixed vanilla bug where the star and decorative lights are visible in the sky before the dropship appears
 # v1.1.1
 - Emergency hotfix to make the mod work in v69 again
   - This will prevent modded dropship music from playing on certain moons (such as [Mycordytum](https://thunderstore.io/c/lethal-company/p/Ssencipe/Overhaul_Moons/)) for now
