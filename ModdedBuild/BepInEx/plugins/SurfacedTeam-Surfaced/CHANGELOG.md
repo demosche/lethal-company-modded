@@ -1,3 +1,11 @@
+## 1.5.0
+
+- Reverted Chrism mode changes
+
+- Potentially fixed Clownhorn fish giving persistent effects
+
+- Buffed Clownhord fish positive effects
+
 ## 1.4.9
 
 - Fixed Rodrigo the snowbird's textures
