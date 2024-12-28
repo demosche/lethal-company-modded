@@ -675,7 +675,7 @@
     minor: 0
     patch: 11
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-JesterStompShake\1.0.11\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Piggy-JesterStompShake\icon.png
 - manifestVersion: 1
   name: MrHydralisk-EnhancedRadarBooster
   authorName: MrHydralisk
@@ -881,7 +881,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1729084555600
+  installedAtTime: 1735369603833
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -890,9 +890,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.4.2\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb

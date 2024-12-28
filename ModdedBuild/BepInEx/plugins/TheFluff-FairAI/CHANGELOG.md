@@ -1,3 +1,6 @@
+# 1.4.2
+Possibly fixed issue where when an enemy is killed the turret sometimes infinitely shoots its corpse.
+
 # 1.4.1
 Fixed Turret Config.
 
