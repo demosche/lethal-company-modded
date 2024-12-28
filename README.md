@@ -146,7 +146,7 @@ List of mods:<br>
  MoreCompany  1.11.0<br>
  Biodiversity  0.1.4<br>
  OpenBodyCams  3.0.3<br>
- OpenLib  0.2.11<br>
+ OpenLib  0.2.12<br>
  SpiderPositionFix  1.1.2<br>
  BarberMaterialTweaks  1.1.1<br>
  High_Quota_Fixes  1.56.4<br>
