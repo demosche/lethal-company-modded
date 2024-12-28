@@ -1,3 +1,22 @@
+# v1.4.1
+- Fixed some old config settings still being visible after loading a new version
+- Fixed `WindowVariants` not working unless `PowerOffWindows` was also enabled
+# v1.4.0
+- More treats from [dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/):
+  - `FogQuality`
+  - `FogReprojection`
+  - `FixTitanVolume`
+  - `FixArtificeVolume`
+- Added config settings:
+  - `FixDoorSounds`
+  - `WindowVariants`
+  - `WeatherAmbience`
+- Improvements to `DoorLightColors`
+  - New colors for Stormy, Flooded, and Foggy weather
+  - Now changes color as it gets darker outside
+- General improvements to custom content compatibility
+  - `FixDoorMeshes` should no longer cause softlocks on certain custom moons/interiors
+  - [Rebalanced Moons](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/) should now support `FancyEntranceDoors` (except on Dine)
 # v1.3.0
 - Added config settings: (thx [dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/)!)
   - `FancyFoliage`
