@@ -664,7 +664,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1735369553944
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -673,9 +673,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 8
+    patch: 11
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Piggy-JesterStompShake\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Piggy-JesterStompShake\1.0.11\icon.png
 - manifestVersion: 1
   name: MrHydralisk-EnhancedRadarBooster
   authorName: MrHydralisk
@@ -3134,7 +3134,7 @@
     minor: 3
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.3.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
