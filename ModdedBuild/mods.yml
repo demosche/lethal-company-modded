@@ -2332,7 +2332,7 @@
     minor: 2
     patch: 13
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.13\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
 - manifestVersion: 1
   name: mrov-BetaWeatherTweaksBeta
   authorName: mrov
@@ -2343,20 +2343,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1734714998427
+  installedAtTime: 1735369806391
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - mrov-WeatherRegistry-0.3.7
+    - mrov-WeatherRegistry-0.3.13
     - xilophor-LethalNetworkAPI-3.3.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 24
-    patch: 4
+    patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.24.7\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
