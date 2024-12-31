@@ -68,7 +68,7 @@ List of mods:<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.3.13<br>
  PoolRooms  0.1.22<br>
- EnemySoundFixes  1.5.10<br>
+ EnemySoundFixes  1.6.0<br>
  CullFactory  1.6.0<br>
  OdinSerializer  2022.11.9<br>
  ScarletDevilMansion  2.1.0<br>

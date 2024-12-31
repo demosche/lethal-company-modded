@@ -1,3 +1,11 @@
+# 1.6.0
+- Rolled back a few tulip snake changes from v1.4.0 since it didn't play nice with mods
+- Several fixes to doors
+  - The same random clip now plays on both sides of the entrance door
+  - Entrance door sounds now play over walkie-talkies when players enter/exit the building (like mimics)
+  - Mimics now play entrance door sounds on both sides when entering/exiting the building (like players)
+  - Fixed factory doors, locker doors, and breaker box having backwards open/closed sounds.
+  - Fixed cabin doors on Rend and Adamance still using the steel door sounds.
 # 1.5.10
 - Fixed mimics not playing hit sounds when the death animation occurs
 # 1.5.9

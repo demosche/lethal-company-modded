@@ -41,10 +41,10 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
     - You can disable this change in the config if you don't like it
   - Config setting (disabled by default) to adjust footstep volume/distance to match player footsteps
   - Fixed hit sound being interrupted by death animation
+  - Fixed entrance door sounds not playing on both sides of the door when entering/exiting the building
 - Butlers
   - Fixed corpses still buzzing even once the mask hornets spawn out of it
 - Tulip snakes
-  - Fixed "scurry" sounds sometimes playing while not walking
   - Scurry sounds now properly re-randomize their pitch when they play
   - Failsafe to prevent tulip snakes from making noises after death
   - Fixed missing hit sound effect
@@ -73,5 +73,10 @@ Despite the (now outdated) name, this mod also fixes a few other sounds unrelate
   - Fixed tire contact audio still playing while the car is midair
   - Fixed warning alarm playing while car is attached to the magnet (and immune to damage)
   - Added config setting to mute Cruiser audio in orbit (engine, horn, radio, etc.)
-- Fixed the garage door on Experimentation not playing sounds when it slides closed
+- Doors
+  - Fixed backwards open/close SFX on factory doors, lockers, and the breaker box
+  - Fixed shed doors (Rend and Adamance) not utilizing wood door SFX
+  - Fixed the garage door on Experimentation not playing sounds when it slides closed
+  - Entrance doors now play the same random audio clip on both sides
+  - Entrance door audio now plays through walkie-talkies
 - Fixed "Hey" voice when ship gets struck by lightning

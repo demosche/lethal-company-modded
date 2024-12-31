@@ -892,7 +892,7 @@
     minor: 4
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.4.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb
@@ -1550,7 +1550,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1726908376617
+  installedAtTime: 1735638117458
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1558,10 +1558,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 5
-    patch: 10
+    minor: 6
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.6.0\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
