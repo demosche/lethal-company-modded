@@ -1561,7 +1561,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
@@ -1573,7 +1573,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735369643664
+  installedAtTime: 1735638145163
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1582,9 +1582,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 0
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\fumiko-CullFactory\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\fumiko-CullFactory\1.6.2\icon.png
 - manifestVersion: 1
   name: Lordfirespeed-OdinSerializer
   authorName: Lordfirespeed
