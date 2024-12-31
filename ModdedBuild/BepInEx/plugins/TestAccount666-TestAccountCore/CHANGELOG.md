@@ -1,5 +1,14 @@
 # TestAccountCore
 
+## 1.13.1
+
+\* Fixed typo in enemy configs<br>
+
+## 1.13.0
+
+\+ Added enemy loading<br>
+\+ Added loaders that return all scriptable objects that were handled<br>
+
 ## 1.12.0
 
 \+ Added a bool to reflect on the registered state of stuff<br>
