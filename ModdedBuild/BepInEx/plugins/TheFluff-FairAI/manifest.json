@@ -1,6 +1,6 @@
 {
   "name": "FairAI",
-  "version_number": "1.4.2",
+  "version_number": "1.4.3",
   "website_url": "https://github.com/goldenkittenplays",
   "description": "Mod To Make Entities Less Racist. Everyone that can die will die by stepping on land mines, sea mines, berthas, and boombas. Turrets will also target and shoot anyone without mercy. Can set whether to check for players nearby before trap triggering.",
   "dependencies": [

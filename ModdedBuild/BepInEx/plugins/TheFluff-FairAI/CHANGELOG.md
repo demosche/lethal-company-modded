@@ -1,3 +1,6 @@
+# 1.4.3
+Added Config for Surfaced Traps. This version for sure fixes all the errors. probably...
+
 # 1.4.2
 Possibly fixed issue where when an enemy is killed the turret sometimes infinitely shoots its corpse.
 

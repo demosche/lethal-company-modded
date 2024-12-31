@@ -881,7 +881,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735369603833
+  installedAtTime: 1735638082535
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -890,9 +890,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TheFluff-FairAI\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TheFluff-FairAI\1.4.3\icon.png
 - manifestVersion: 1
   name: NotAtomicBomb-Terminal_Clock
   authorName: NotAtomicBomb
@@ -3430,7 +3430,7 @@
     minor: 56
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Chboo1-High_Quota_Fixes\1.56.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Chboo1-High_Quota_Fixes\icon.png
 - manifestVersion: 1
   name: McAwesome-CorrectDeathPenalty
   authorName: McAwesome

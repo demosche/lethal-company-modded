@@ -39,7 +39,7 @@ List of mods:<br>
  CoilHeadStare  1.0.9<br>
  ShipLoot  1.1.0<br>
  ScanFix  1.0.3<br>
- FairAI  1.4.2<br>
+ FairAI  1.4.3<br>
  Terminal_Clock  1.0.6<br>
  SaveOurLoot  1.4.2<br>
  HideChat  1.0.0<br>
