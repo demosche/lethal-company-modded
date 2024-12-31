@@ -1,3 +1,7 @@
+# v1.4.2
+- Migrated `FixDoorSounds` to [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/)
+- Fixed a bug with `DoorLightColors` when leaving a moon late in the night and relanding in the same hosted game
+- Removed several bits of redundant [Rebalanced Moons](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/) compatibility code
 # v1.4.1
 - Fixed some old config settings still being visible after loading a new version
 - Fixed `WindowVariants` not working unless `PowerOffWindows` was also enabled

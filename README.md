@@ -122,7 +122,7 @@ List of mods:<br>
  ExtensionLadderFix  0.0.1<br>
  DoorBreach  1.2.1<br>
  DungeonGenerationPlus  1.3.3<br>
- Chameleon  1.4.1<br>
+ Chameleon  1.4.2<br>
  Do_We_Need_To_Go_Deeper  1.5.0<br>
  CursedScraps  2.1.1<br>
  JesterDoorSlam  1.0.0<br>

@@ -47,8 +47,7 @@ Most features are enabled by default, but all can be disabled if undesired.
 - `DoorLightColors` - The light shining behind the entrance doors (on factory and mineshaft) will change color depending on the current moon, weather conditions, and time of day.
 - `PowerOffBreakerBox` - Turns off the light on the breaker box when the apparatus gets unplugged.
 - `FixDoorMeshes` - Fixes factory doors not displaying glass on both sides of the frame. Fixes doorknobs looking broken on one side of all door variants (except mineshaft's)
-- `FixDoorSounds` - Fixes factory doors, breaker box, and locker doors (from the factory loot rooms) having backwards open/close sound effects.
-- `WeatherAmbience` - Makes heavy rain and blizzards faintly audible while inside of the building.
+- `WeatherAmbience` - Makes rain and blizzards faintly audible while inside of the building.
   - Volume slider goes from 0 (0%) to 1 (100%).
 
 <details>
