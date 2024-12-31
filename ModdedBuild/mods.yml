@@ -2812,7 +2812,7 @@
     minor: 4
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\1.4.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
@@ -2940,7 +2940,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1728203770020
+  installedAtTime: 1735638356595
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2949,9 +2949,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JackEhttack-DiminishingReturns\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\JackEhttack-DiminishingReturns\1.0.9\icon.png
 - manifestVersion: 1
   name: Hackattack242-Start_with_Fatality_Board
   authorName: Hackattack242
