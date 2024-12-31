@@ -2951,7 +2951,7 @@
     minor: 0
     patch: 9
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\JackEhttack-DiminishingReturns\1.0.9\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\JackEhttack-DiminishingReturns\icon.png
 - manifestVersion: 1
   name: Hackattack242-Start_with_Fatality_Board
   authorName: Hackattack242
@@ -3123,7 +3123,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735369944147
+  installedAtTime: 1735638403406
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3133,9 +3133,9 @@
   versionNumber:
     major: 0
     minor: 3
-    patch: 13
+    patch: 15
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.3.15\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714

@@ -1,3 +1,13 @@
+# 0.3.15
+
+- added a check to `LungProp` patch to check if scrap multipliers are active
+- fixed an issue with `EntranceTeleportPatch` not resetting after lobby reload (thanks, `purpletheproto`!)
+
+# 0.3.14
+
+- redone apparatus patch
+- fixed SunAnimator not resetting correctly between moons (thanks, `voxx`!)
+
 # 0.3.13
 
 - fixed a compatibility issue with `FacilityMeltdown` where the scrap multiplier would be applied twice
