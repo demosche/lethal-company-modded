@@ -2193,7 +2193,7 @@
     minor: 13
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountCore\1.13.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountCore\icon.png
 - manifestVersion: 1
   name: SolidStone-SolidLib
   authorName: SolidStone
@@ -2343,20 +2343,21 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735369806391
+  installedAtTime: 1735638235044
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - mrov-WeatherRegistry-0.3.13
+    - mrov-MrovWeathers-0.0.1
     - xilophor-LethalNetworkAPI-3.3.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 24
-    patch: 7
+    minor: 25
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-BetaWeatherTweaksBeta\0.25.1\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -3453,3 +3454,26 @@
     patch: 1
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\McAwesome-CorrectDeathPenalty\icon.png
+- manifestVersion: 1
+  name: mrov-MrovWeathers
+  authorName: mrov
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/MrovWeathers/
+  displayName: MrovWeathers
+  description: New weather conditions, by mrov
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1735638234878
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - mrov-WeatherRegistry-0.3.13
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 0
+    minor: 0
+    patch: 3
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovWeathers\icon.png

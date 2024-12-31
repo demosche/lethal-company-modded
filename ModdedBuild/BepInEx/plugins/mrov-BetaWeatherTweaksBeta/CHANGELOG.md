@@ -1,3 +1,14 @@
+# 0.25.1
+
+- fixed special weathers not using level weights (thanks, `zetaarcade`!)
+
+# 0.25.0
+
+- moved weathers to [MrovWeathers](https://thunderstore.io/c/lethal-company/p/mrov/MrovWeathers/)
+- fixed an error when there's no `randomWeather` found for a given level-weather pair (thanks, `generic_gmd`!)
+- fixed a bug where uncertain weathers would appear on Gordion (thanks, `dragonmcmx`!)
+- fixed ship fog (thanks, `instaplayer`!)
+
 # 0.24.7
 
 - moved `TextPostProcess` patch to `WeatherRegistry`
