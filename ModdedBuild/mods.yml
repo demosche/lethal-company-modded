@@ -1573,7 +1573,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735638145163
+  installedAtTime: 1735762368238
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1582,9 +1582,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\fumiko-CullFactory\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\fumiko-CullFactory\1.6.3\icon.png
 - manifestVersion: 1
   name: Lordfirespeed-OdinSerializer
   authorName: Lordfirespeed
@@ -3135,7 +3135,7 @@
     minor: 3
     patch: 15
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.3.15\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
