@@ -679,6 +679,8 @@ Quick follow-up update to 1.7.1, check out 1.7.1 for the more important changes 
 - Removed double use on the defib. Increased the defib's battery usage due to this.
 - Added configs back for the pocketwatch.
 
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
+
 </details>
 
 <details>
@@ -689,6 +691,8 @@ Quick follow-up follow-up update to 1.7.1, check out 1.7.1 for the other importa
 - Disabled leftover logging.
 - You can now heal other employees with the medical kit directly.
 - Fixed melee multi-hit for good.
+
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
 
 </details>
 
@@ -704,6 +708,9 @@ My modding week continues..
 - Healing particles moved slightly and attached to the player so they can still be seen when moving quickly.
 - Fixed medical kit using more of its charge than intended resulting in it running out very quickly.
 - Shift controller battery increased slightly and teleport delay lowered.
+
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
+
 </details>
 
 <details>
@@ -718,16 +725,38 @@ My modding week ends here. Next update will be a while as I plan to potentially 
 - Emergency Injector changes.
 - Something else I forgot.
 
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
+
 </details>
 
 <details>
 <summary>Version 1.7.6</summary>
-Follow-up ^
+1.7.5 Follow-up 
 
 - Way too many snow particles.
 - Medical kit now updates the health hud of only the player being healed. Thanks Xu Xiaolan!
 - Defib should now only remove the body of the person it has revived.
 - Removed rose slow until I fix or rethink it.
+
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
+
+</details>
+
+<details>
+<summary>Version 1.7.7</summary>
+Sorry I left the capsule broken for so long, things got busy.
+
+- Fixed weather continuing to play when teleported indoors with the gloomy capsule.
+- Optimized walking cane code a bit.
+- Got frigid capsule in a working state so I will no longer touch it ever again, some configs are planned.
+- Reduced the slow severity of the frigid capsule massively and prevented it from unintentionally scaling with the amount of players in the lobby.
+- Happy mistake but the frigid capsule now slows you less if you're not holding it and only running through it.
+- Some store items now have a config option to spawn as scrap items. 
+- Updated modpage descriptions.
+
+I've currently hit a creativity brick wall redoing the toolbox so if you have an ideas for changes that you'd be happy to share I'd love to hear them! Contacts below. Either way, the toolbox changes are coming next update!
+
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" with a space.
 
 </details>
 

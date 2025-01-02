@@ -1,4 +1,4 @@
-### Works in the latest version! - 12/4/24
+### Works in the latest version! - 1/1/25 Happy new year!
 
 ![Preview](https://i.imgur.com/bUpWC4S.png)
 
@@ -210,8 +210,6 @@ Average value, Weighs 1, Spawns on S and above difficulty moons rarely
 
 The rose damages you a little when picked up or equipped.
 
-- You will recieve a small slowness debuff everytime it damages you.
-
 </details>
 
 <details>
@@ -220,11 +218,11 @@ The rose damages you a little when picked up or equipped.
 
 Low value/High Value, Weighs 1, Spawns on S and above difficulty moons
 
-The Regular Ticket of Exchange is a common low value item that can be used ONCE to transform any item into a gift box, essentially exchanging it for something else.
+The Regular Ticket of Exchange is a common low value consumable item that can be used ONCE to transform any item into a gift box, essentially exchanging it for something else.
 
-The Golden Ticket of Exchange is extremely rare and high value item that does the same thing it predecessor does but will make FIVE gift boxs instead of one.
+The Golden Ticket of Exchange is a extremely rare and high value consumable item that does the same thing it predecessor does but has FIVE uses instead of one.
 
-Ticket are disabled while inside the company cruiser to avoid breaking the game. I don't know why it was breaking.
+Ticket are disabled while inside the company cruiser to avoid severely breaking the game.
 
 </details>
 
