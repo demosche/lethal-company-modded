@@ -2,7 +2,7 @@
   "namespace": "mrov",
   "name": "BetaWeatherTweaksBeta",
   "description": "Changes to the weather system in Lethal Company.",
-  "version_number": "0.25.1",
+  "version_number": "0.25.2",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "mrov-WeatherRegistry-0.3.13",
