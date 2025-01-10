@@ -2766,7 +2766,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-DoorBreach\1.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-DoorBreach\icon.png
 - manifestVersion: 1
   name: Alice-DungeonGenerationPlus
   authorName: Alice
@@ -3027,22 +3027,22 @@
   authorName: AtomicStudio
   websiteUrl: https://thunderstore.io/c/lethal-company/p/AtomicStudio/Better_Shotgun_Tooltip/
   displayName: Better_Shotgun_Tooltip
-  description: Tells you if the safety is On or Off!
+  description: Inhances the tooltips of the shotgun such as safety and ammo loaded.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1729084687956
+  installedAtTime: 1736500029020
   loaders: []
   dependencies: []
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
+    minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AtomicStudio-Better_Shotgun_Tooltip\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AtomicStudio-Better_Shotgun_Tooltip\1.5.0\icon.png
 - manifestVersion: 1
   name: WhiteSpike-Maneater_Damage_Patch
   authorName: WhiteSpike

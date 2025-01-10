@@ -1,8 +1,8 @@
 {
     "name": "Better_Shotgun_Tooltip",
-    "version_number": "1.4.0",
+    "version_number": "1.5.0",
     "website_url": "https://discord.gg/38hGSYrPyj",
-    "description": "Tells you if the safety is On or Off!",
+    "description": "Inhances the tooltips of the shotgun such as safety and ammo loaded.",
     "dependencies": [
         
     ]
