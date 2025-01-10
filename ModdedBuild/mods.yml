@@ -3042,7 +3042,7 @@
     minor: 5
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AtomicStudio-Better_Shotgun_Tooltip\1.5.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AtomicStudio-Better_Shotgun_Tooltip\icon.png
 - manifestVersion: 1
   name: WhiteSpike-Maneater_Damage_Patch
   authorName: WhiteSpike
@@ -3420,7 +3420,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735370026200
+  installedAtTime: 1736500051317
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3429,9 +3429,9 @@
   versionNumber:
     major: 1
     minor: 56
-    patch: 5
+    patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Chboo1-High_Quota_Fixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Chboo1-High_Quota_Fixes\1.56.7\icon.png
 - manifestVersion: 1
   name: McAwesome-CorrectDeathPenalty
   authorName: McAwesome

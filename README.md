@@ -149,7 +149,7 @@ List of mods:<br>
  OpenLib  0.2.12<br>
  SpiderPositionFix  1.2.0<br>
  BarberMaterialTweaks  1.1.1<br>
- High_Quota_Fixes  1.56.5<br>
+ High_Quota_Fixes  1.56.7<br>
  CorrectDeathPenalty  1.0.1<br>
  MrovWeathers  0.0.3<br>
 
