@@ -1561,7 +1561,7 @@
     minor: 6
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.6.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
@@ -2182,7 +2182,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735638205179
+  installedAtTime: 1736499939047
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2190,10 +2190,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 13
-    patch: 1
+    minor: 14
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-TestAccountCore\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-TestAccountCore\1.14.0\icon.png
 - manifestVersion: 1
   name: SolidStone-SolidLib
   authorName: SolidStone
