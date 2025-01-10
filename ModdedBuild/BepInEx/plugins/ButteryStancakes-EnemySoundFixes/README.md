@@ -59,6 +59,7 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
   - Fixed missing death sound effect
   - Fixed hit sound being interrupted by death animation
   - Fixed several sounds (footsteps, mandible clicking, etc.) still playing after death
+  - Fixed clicking mandibles when spawning as a baby
 
 ## Other
 Despite the (now outdated) name, this mod also fixes a few other sounds unrelated to enemies:

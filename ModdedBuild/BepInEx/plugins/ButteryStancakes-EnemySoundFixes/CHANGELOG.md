@@ -1,3 +1,5 @@
+# 1.6.1
+- Fixed maneater clicking its mandibles when freshly spawning
 # 1.6.0
 - Rolled back a few tulip snake changes from v1.4.0 since it didn't play nice with mods
 - Several fixes to doors
