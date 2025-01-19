@@ -3340,7 +3340,7 @@
     minor: 2
     patch: 13
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.13\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03
@@ -3352,7 +3352,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735370001994
+  installedAtTime: 1737273904684
   loaders: []
   dependencies: []
   incompatibilities: []
@@ -3360,9 +3360,9 @@
   versionNumber:
     major: 1
     minor: 2
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Fandovec03-SpiderPositionFix\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Fandovec03-SpiderPositionFix\1.2.1\icon.png
 - manifestVersion: 1
   name: dopadream-BarberMaterialTweaks
   authorName: dopadream
