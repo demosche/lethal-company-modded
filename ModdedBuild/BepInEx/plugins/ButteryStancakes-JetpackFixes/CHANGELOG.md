@@ -1,3 +1,5 @@
+# v1.5.1
+- Fixed the player being "dragged with the ship" if you fly away from it while it is landing
 # v1.5.0
 - Hopefully fixed the bug where the jetpack "drops inputs" when clicking (shakes the screen, but doesn't activate thruster)
 - Fixed the jetpack's broken proximity warning (the beeping) logic
