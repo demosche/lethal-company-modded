@@ -1,4 +1,24 @@
 <details>
+<summary> v1.5.2 - Major Bug Fix 2 </summary>
+
+- The shotgun still tweaks out when switching when on custom tooltips
+- Automatic detection of on and off only work when lowercase for colors
+- Turning on Ammo indicator no longer breaks the shotgun safety
+- Ammo indicator can now be turned off (I forgot to add a check)
+- Massive README update :low_taper_fade:
+- Colors can now be toggled off again
+
+</details>
+
+<details>
+<summary> v1.5.1 - Major Bug Fix </summary>
+
+- The shotgun UI no longer shows on everyones screen
+- Added more checks to make sure its the owner only
+
+</details>
+
+<details>
 <summary> v1.5.0 - Major Update </summary>
 
 - Shortened the download size by alot-ish
