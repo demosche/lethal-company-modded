@@ -102,7 +102,6 @@ List of mods:<br>
  LethalConfig  1.4.3<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.2.17<br>
- BetaWeatherTweaksBeta  0.25.2<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.3<br>
  ToilHead  1.7.2<br>
@@ -152,4 +151,5 @@ List of mods:<br>
  High_Quota_Fixes  1.56.7<br>
  CorrectDeathPenalty  1.0.1<br>
  MrovWeathers  0.0.3<br>
+ WeatherTweaks  1.0.1<br>
 

@@ -2332,32 +2332,7 @@
     minor: 2
     patch: 17
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.17\icon.png
-- manifestVersion: 1
-  name: mrov-BetaWeatherTweaksBeta
-  authorName: mrov
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/BetaWeatherTweaksBeta/
-  displayName: BetaWeatherTweaksBeta
-  description: Changes to the weather system in Lethal Company.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1736499983677
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - mrov-WeatherRegistry-0.3.13
-    - mrov-MrovWeathers-0.0.1
-    - xilophor-LethalNetworkAPI-3.3.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 0
-    minor: 25
-    patch: 2
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-BetaWeatherTweaksBeta\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -3477,3 +3452,27 @@
     patch: 3
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovWeathers\icon.png
+- manifestVersion: 1
+  name: mrov-WeatherTweaks
+  authorName: mrov
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/
+  displayName: WeatherTweaks
+  description: Difficulty tweaks to the weather system in Lethal Company.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1737273571979
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+    - mrov-WeatherRegistry-0.3.16
+    - xilophor-LethalNetworkAPI-3.3.1
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 1
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherTweaks\1.0.1\icon.png
