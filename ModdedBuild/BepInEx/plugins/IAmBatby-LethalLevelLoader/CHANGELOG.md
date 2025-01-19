@@ -1,6 +1,77 @@
 **Changelog**
 --
 
+**<details><summary>Version 1.4.5</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Fixed issue where SpawnSyncedObjects in Tile Injection TileSets were not being network registered
+
+</details>
+
+</details>
+
+**<details><summary>Version 1.4.4</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Fixed additional networking issues related to AssetBundle Hotloading
+
+</details>
+
+</details>
+
+**<details><summary>Version 1.4.3</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Fixed issue with onBundlesFinishedLoading callback not being invoked
+* Re-wrote AssetBundle Hotloading networking to hopefully improve issues in multiplayer and pre-existing saves
+* Fixed issue with custom content that is manually registered not being processed correctly
+
+</details>
+
+</details>
+
+**<details><summary>Version 1.4.2</summary>**
+
+**<details><summary>Features</summary>**
+
+* Added OverrideNoun value to ExtendedLevel, allowing authors to optionally modify the word used when accessing the level from the Terminal
+
+</details>
+
+**<details><summary>Fixes</summary>**
+
+* Fixed issue with ContentTags failing to be applied to Vanilla content
+
+</details>
+
+</details>
+
+**<details><summary>Version 1.4.1</summary>**
+
+**<details><summary>Fixes</summary>**
+
+* Fixed issue with older mods not being registered correctly
+* Improved stalling during AssetBundle unloading on initial load
+
+</details>
+
+</details>
+
+**<details><summary>Version 1.4.0</summary>**
+
+**<details><summary>Features</summary>**
+
+* Overhauled AssetBundleLoading system
+* Added Scene AssetBundle hot-reloading
+
+
+</details>
+
+</details>
+
 **<details><summary>Version 1.3.8</summary>**
 
 **<details><summary>Features</summary>**
