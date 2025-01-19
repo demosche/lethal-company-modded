@@ -1,3 +1,29 @@
+### 2.2.1
+
+Fixed crashing lol bad dev forgot to include some .pngs
+
+### 2.2.0
+
+Updated for LLL 1.4.0\
+Added new dungeon variant\
+Added new scrap item\
+Separated configs into the main mod and each of the individual dungeon's generation
+
+Void rooms with missing paths are slightly easier\
+Enlarged 2F library rooms\
+Added a bit more space to the 1F library rooms\
+Added collision to the christmas trees\
+Fire exits will no longer spawn close to each other\
+Hallway rooms: removed some tiles, reduced some of the blood spam, added decorations
+
+Fixed revenant slowly down even when you aren't looking at it\
+Fixed vent effects and sounds to work\
+Knights and Revenants now play a summoning effect when they spawn on props\
+Knights no longer trigger vent effects\
+Revenants now spawn at a vent instead of on the maid if no props exists\
+Fixed loot interaction with CodeRebirth's Gal enemies
+
+
 ### 2.1.0
 
 Updated for v69\

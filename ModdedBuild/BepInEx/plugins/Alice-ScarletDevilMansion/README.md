@@ -1,6 +1,6 @@
 ### Required by all clients
 
-### Updated for v69
+### Updated for v69 and LLL 1.4.0
 
 # The Scarlet Devil Mansion（紅魔館）
 
@@ -25,7 +25,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   <img src="https://i.imgur.com/nilE9tF.png">
   <img src="https://i.imgur.com/gDwj1XQ.png">
   
-  Go to "Custom Dungeon: Scarlet Devil Mansion" section. You **must** set this to true.
+  Go to "Custom Dungeon: Scarlet Foyer" or "Custom Dungeon: Scarlet Basement" section. You **must** set this to true.
   
   <img src="https://i.imgur.com/aGqG47H.png">
   
@@ -57,7 +57,7 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   <img src="https://i.imgur.com/nilE9tF.png">
   <img src="https://i.imgur.com/gDwj1XQ.png">
   
-  「Custom Dungeon: Scarlet Devil Mansion」セクションに進む。これをtrueに設定する**必要**がある。
+  「Custom Dungeon: Scarlet Foyer」、または「Custom Dungeon: Scarlet Basement」セクションに進む。これをtrueに設定する**必要**がある。
   
   <img src="https://i.imgur.com/aGqG47H.png">
   
@@ -75,9 +75,25 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
   
 </details>
 
+## Dungeon Variations
+
+This mod adds two dungeons. These dungeons have different entrance rooms and different dungeon generation values; otherwise they are essentially the same dungeon.
+
+![](https://i.imgur.com/ESHNKPd.png)
+
+Enter in a 2F foyer room with doorways to the sides and a few doorways to the front. Dungeon generation goes both upward and downward. Main paths are short but branching paths are common. Contains a clock and a few presents.
+
+More common on Rend.
+
+![](https://i.imgur.com/d0gCVao.png)
+
+Enter in a 2F basement room with only doorways to the sides. Dungeon generation goes downwards. Main paths are slightly longer but branching paths are a bit rarer and shorter. Contains a vent and a defensive weapon.
+
+More common on Dine.
+
 ## Designed for All Parties
 
-The dungeon features a config presets to accommodate the majority of party sizes and preferences.  These can be found in the _Presets section in the config. These will automatically overwrite the config settings as the preset values get updated. You can disable the automatic overwrite in the config as well. The preset feature is a lot easier to use with [Lethal Config](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/).
+The dungeon features a config presets to accommodate the majority of party sizes and preferences.  These can be found in the _Presets section in the dungeon config. These will automatically overwrite the config settings as the preset values get updated. You can disable the automatic overwrite in the config as well. The preset feature is a lot easier to use with [Lethal Config](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/).
 
 You must load up Lethal Company once with this mod enabled to create the config. All configs are synced by the host.
 
@@ -189,7 +205,7 @@ Many mechanics/enemies marks the player for death. This will deal damage to set 
   <br>
   <b>The Outside</b>
   <br>
-  Scary I know. Certain rooms and areas has naturally emitting sunlight. Dies off as the day turns to night. Visual weather effects will appear if the moon has a certain weather active.
+  Certain rooms and areas has naturally emitting sunlight. Dies off as the day turns to night. Visual weather effects will appear if the moon has a certain weather active.
   <img src="https://i.imgur.com/nJtieEs.png">
   
   <br>
@@ -217,9 +233,15 @@ Scraps' value and spawn weight can be configured. They can also be configured to
   <br>
   <b>The Decorative Crystals</b>
   <br>
-  An average valued scrap item with a bit of weight. Comes in many colours. Can be combined with a flashlight in your inventory to create a new decorative flashlight with a recharged and improved battery, a colored light bulb, half of the crystals original value. This leaves behind a shattered decorative crystal which has the leftover 50% value, which can also be used to create another decorative flashlight (this completely destroys the crystal).
+  An average valued scrap item with a bit of weight. Comes in many colours. Can be combined with a flashlight in your inventory to create a decorative flashlight and a shattered decorative crystal. Both items receive half of the crystal's value. The shattered crystal can also be used to create a new decorative crystal, but the crystal will be fully destroyed.
   <br>
   <img src="https://i.imgur.com/bYaIofR.png">
+  
+  <br>
+  <b>The Decorative Flashlights</b>
+  <br>
+  Created with any flashlight and a decorative crystal. Comes fully charged with a colored light blub. Has more battery than the original flashlight.
+  <br>
   <img src="https://i.imgur.com/2OQdNlf.png">
   
   <br>
@@ -235,6 +257,13 @@ Scraps' value and spawn weight can be configured. They can also be configured to
   A highly valued 2-handed scrap item. Comes in many doll variants. Activate it to see it jingle.
   <br>
   <img src="https://i.imgur.com/p0GF7KJ.png">
+  
+  <br>
+  <b>The Gohei</b>
+  <br>
+  A well valued defensive scrap item. It's a shovel. Hold it to be alerted to nearby enemies.
+  <br>
+  <img src="https://i.imgur.com/RR8CQ8y.png">
   
 </details>
 
@@ -260,9 +289,14 @@ Enemies' health, speed, spawn weights, or even existence can be configured.
   <br>
   Acts like a regular butler, but kills very quickly. As a tradeoff, it is slower and has less health. When killed, drops the Maid's Knife and summons a revenant ghost towards the maid's killer.
   <br>
-  The revenant attacks by marking their victim for death. It is only fully visible to the maid's killer, and will only target/harm them. They can slowed down by it's target staring it down. Once the revenant deals damage, the target dies, or the target leaves the dungeon, the revenant disappears.
-  <br>
   <img src="https://i.imgur.com/QbUZutS.png">
+  
+  <br>
+  <b>The Revenant</b>
+  <br>
+  Spawns when a maid is killed. Attacks by marking their victim for death. Only fully visible to the maid's killer, and will only target/harm them. Can slowed down by it's target staring it down. Once the revenant deals damage, the target dies, or the target leaves the dungeon, the revenant disappears.
+  <br>
+  <img src="https://i.imgur.com/Zv2y4Sf.png">
   
 </details>
 
@@ -270,7 +304,7 @@ Enemies' health, speed, spawn weights, or even existence can be configured.
 
 The following mods either have unique compatibilities or made to work with SDM:
 * [LethalConfig](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) (Config presets are easier to use with this mod)
-* [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (Custom fire exits can also be mimics. Interior name **must** be added to the Mimics config under Interior whitelist. Name is "SDMLevel")
+* [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (Custom fire exits can also be mimics)
 * [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/) (Can be activated by the dungeon event. **Must** be enabled in the config)
 * [ReservedFlashlightSlot](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot/) (The decorative flashights can be placed in the flashlight slot)
 * [ReservedKeySlot](https://thunderstore.io/c/lethal-company/p/RogueCodes/ReservedKeySlot/) (The scarlet keys can be placed in the key slot)
@@ -278,7 +312,15 @@ The following mods either have unique compatibilities or made to work with SDM:
 
 ## Future Development
 
-The development process has been halted for the unforeseeable future. Expect small to no updates for long periods of time. Updates will still be released if a game-breaking issue/mod-interaction happens.
+We have returned.
+
+The development process is generally split into 3 distinct parts:
+
+* Create more rooms, room variants, and polish up the current ones with props, lighting, etc.
+* Add touhou-themed enemies and scrap items
+* Add dungeon mechanics/features (for example the factory's appartatus and jumping puzzles)
+
+Please consider supporting future development [here](https://buymeacoffee.com/ladyalice). 
 
 ## Credits
 
@@ -304,13 +346,14 @@ Vinyis.itch.io - 3D Environment Assets (Hallways)\
 @Schmagons (Instagram) - Remilia, Sakuya, Medicine, Hime, Kagasa, Yuyuko, Reimu\
 YeeHaw - Flandre, Patchy, Koakuma\
 World's Saddest Halo Fan - Rumia\
-WorthAggravating (Reddit) - Hina
+WorthAggravating (Reddit) - Hina\
 [Vrabius](https://x.com/vrabius) - "Scarlet" Remilia
 
 #### Audio
 peacock-roy.itch.io - Maid chase and dungeon entrance music. Various SFX\
 @solidstone (Discord) - Snowglobe jingle\
-[@StasGavrik](https://www.youtube.com/@StasGavrik) - Jukebox music
+[@StasGavrik](https://www.youtube.com/@StasGavrik) - Jukebox music\
+[@silentbirdofgensokyo](https://www.youtube.com/@silentbirdofgensokyo) - Jukebox music
 
 #### License
 
