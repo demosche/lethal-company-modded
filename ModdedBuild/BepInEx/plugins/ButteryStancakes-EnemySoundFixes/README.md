@@ -1,13 +1,13 @@
 # Enemy Sound Fixes
 Fixes numerous issues with missing sound effects, or SFX playing when they shouldn't. Using [LCMaxSoundsFix](https://thunderstore.io/c/lethal-company/p/Hardy/LCMaxSoundsFix/) in addition to this mod is *highly* recommended, but not required.
-- Brackens
+- Bracken
   - Fixed hit sound being interrupted by death animation
 - Snare fleas
   - Fixed shrieking when hitting its dead body
   - Fixed chasing "footsteps" and suffocation noises not looping
   - Fixed footsteps continuing while dead or clinging to a player's head
   - Fixed improperly pitched scream when dropping from the ceiling after being damaged
-- Thumper
+- Thumpers
   - "Fixed"(?) thunder sounds playing from voice when losing track of the player
     - Can be re-enabled in config
 - Eyeless dogs
@@ -47,6 +47,7 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
 - Tulip snakes
   - Scurry sounds now properly re-randomize their pitch when they play
   - Failsafe to prevent tulip snakes from making noises after death
+  - Fixed wingflap volume being too low if you're standing still when it starts
   - Fixed missing hit sound effect
 - Kidnapper fox
   - Fixed hurt sound not playing after tongue is broken

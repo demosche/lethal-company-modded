@@ -1,3 +1,6 @@
+# 1.6.2
+- Actually fixed tulip snake wing flapping (the changes from v1.4.0 were a red herring all along)
+- Fixed a potential issue with entrance doors in custom content
 # 1.6.1
 - Fixed maneater clicking its mandibles when freshly spawning
 # 1.6.0
