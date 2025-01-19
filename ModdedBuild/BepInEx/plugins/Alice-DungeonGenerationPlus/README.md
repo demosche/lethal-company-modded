@@ -2,7 +2,7 @@
 
 An API to expand the compatibilities of Lethal Company's dungeon generation.
 
-This mod is for interior modders to add to their projects if they so desire. By itself, this mod cannot improve the dungeon generation of vanilla dungeons.
+This mod is for interior modders to add to their projects if they so desire. By itself, this mod *cannot* improve the dungeon generation of vanilla dungeons.
 
 This API was originally a part of the custom interior, [Scarlet Devil Mansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/).
 
@@ -21,17 +21,29 @@ See this [thread](https://discordapp.com/channels/1168655651455639582/1268936081
 
 The prominent feature of this API is the ability to seemlesly add multiple main paths to your interior. Below are some examples.
 
+### Vanilla interior examples
+
 ![](https://i.imgur.com/XvygIZx.png)
 
 ![](https://i.imgur.com/GKZVqOa.png)
+
+### [Scarlet Devil Mansion](https://thunderstore.io/c/lethal-company/p/Alice/ScarletDevilMansion/) (Modded) interior examples
 
 ![](https://i.imgur.com/nN5Zz5e.png)
 
 ![](https://i.imgur.com/ogrUKAI.png)
 
+### [Company Mines](https://thunderstore.io/c/lethal-company/p/LC_Into_the_Darkness_Team/CompanyMines/) (Indev Modded) interior examples
+
 ![](https://i.imgur.com/IRjMb9V.png)
 
 ![](https://i.imgur.com/URTcLNF.png)
+
+### [Half Life Black Mesa](https://thunderstore.io/c/lethal-company/p/Plastered_Crab/Black_Mesa_Half_Life_Moon_Interior/) (Modded) interior examples
+
+![](https://i.imgur.com/9OSpgtV.jpeg)
+
+![](https://i.imgur.com/GF0xZBt.jpeg)
 
 ## Mod Compatibilities
 

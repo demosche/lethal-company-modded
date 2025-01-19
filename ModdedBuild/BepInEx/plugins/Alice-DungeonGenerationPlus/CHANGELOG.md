@@ -1,3 +1,7 @@
+### 1.3.4
+Added DetailedGlobalSettings system\
+Updated for LLL 1.4.0
+
 ### 1.3.3
 
 Proper fix with HarmonyXTranpilerFix
