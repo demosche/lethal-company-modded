@@ -926,7 +926,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1737273292331
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -934,10 +934,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 2
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-SaveOurLoot\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-SaveOurLoot\1.5.0\icon.png
 - manifestVersion: 1
   name: Monkeytype-HideChat
   authorName: Monkeytype
@@ -3431,7 +3431,7 @@
     minor: 56
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Chboo1-High_Quota_Fixes\1.56.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Chboo1-High_Quota_Fixes\icon.png
 - manifestVersion: 1
   name: McAwesome-CorrectDeathPenalty
   authorName: McAwesome
