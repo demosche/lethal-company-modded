@@ -1,5 +1,13 @@
 # Malfunctioning Doors Mod
 
+## 1.13.1<br>
+
+\* Fixed Random ever becoming null<br>
+
+## 1.13.0<br>
+
+\* Fixed compatibility with DoorBreach<br>
+
 ## 1.12.0<br>
 
 \* Fixed Ghost Hand Malfunction<br>
