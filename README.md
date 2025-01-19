@@ -101,7 +101,7 @@ List of mods:<br>
  StaticNetcodeLib  1.1.1<br>
  LethalConfig  1.4.3<br>
  MapHazardsMoves  1.0.2<br>
- MrovLib  0.2.14<br>
+ MrovLib  0.2.17<br>
  BetaWeatherTweaksBeta  0.25.2<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.3<br>
