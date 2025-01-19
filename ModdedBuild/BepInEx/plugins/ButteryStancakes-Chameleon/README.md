@@ -21,7 +21,6 @@ Most features are enabled by default, but all can be disabled if undesired.
   - Since it's not a drop-in improvement, it is disabled by default, but give it a try if `FogQuality` settings are too expensive for you!
 - `FixTitanVolume` - Fixes Titan using the wrong volumetric profile. (Most notably, the sky is erroneously a lot brighter than the other snowy moons)
 - `FixArtificeVolume` - Fixes Artifice's volumetric profile, which has the exact opposite issue of Titan (uses the snowy profile instead of the default)
-  - This change is a lot more subjective, and thus is disabled by default.
   - It makes the sky a lot clearer, and in general, makes everything brighter and feel more lively
   
 </details>
@@ -36,7 +35,9 @@ Most features are enabled by default, but all can be disabled if undesired.
   - Choose from `Never`, `Chance`, or `Always`.
   - The specific chance is dynamic and non-configurable.
 - `EclipsesBlockMusic` - Prevent the morning/afternoon ambient tracks from playing during Eclipsed weather, which has its own ambience.
-- `SnowyGiants` - Forest Keepers will blend in more with the environment when they spawn on snowy moons.
+- `GiantSkins` - Forest Keepers will blend in more with the environment.
+  - When spawning on snowy moons, they will be coated in snow like the trees.
+  - When burnt to death by an explosion, their body will appear charred.
   - If you experience issues with other skin mods, you should disable this.
 
 </details>
@@ -76,42 +77,63 @@ Most features are enabled by default, but all can be disabled if undesired.
 
 <details>
 <summary>Caverns - Desert</summary>
-<img src="https://i.imgur.com/8XjbTuJ.png" alt="Desert #1" width="640"/>
-<img src="https://i.imgur.com/mp8ON5D.png" alt="Desert #2" width="640"/>
-<img src="https://i.imgur.com/v2Q1hHu.png" alt="Desert #3" width="640"/>
-<img src="https://i.imgur.com/JQOW2VS.png" alt="Desert #4" width="640"/>
+<img src="https://i.ibb.co/SXQS278/desert1.png" alt="Desert #1" width="640"/>
+<img src="https://i.ibb.co/m8Y4D8W/desert2.png" alt="Desert #2" width="640"/>
+<img src="https://i.ibb.co/284s47h/desert3.png" alt="Desert #3" width="640"/>
+<img src="https://i.ibb.co/0r36tRF/desert4.png" alt="Desert #4" width="640"/>
 </details>
 <details>
 <summary>Caverns - Mesa</summary>
-<img src="https://i.imgur.com/y920SET.png" alt="Mesa #1" width="640"/>
-<img src="https://i.imgur.com/D9HkxEA.png" alt="Mesa #2" width="640"/>
-<img src="https://i.imgur.com/lyVJ2O0.png" alt="Mesa #3" width="640"/>
+<img src="https://i.ibb.co/T0HyBGW/mesa1.png" alt="Mesa #1" width="640"/>
+<img src="https://i.ibb.co/vL2ZNYv/mesa2.png" alt="Mesa #2" width="640"/>
+<img src="https://i.ibb.co/L9H49gx/mesa3.png" alt="Mesa #3" width="640"/>
 </details>
 <details>
 <summary>Caverns - Gravel</summary>
-<img src="https://i.imgur.com/VqT9cri.png" alt="Gravel #1" width="640"/>
-<img src="https://i.imgur.com/dKZk5zW.png" alt="Gravel #2" width="640"/>
-<img src="https://i.imgur.com/dEgrBUm.png" alt="Gravel #3" width="640"/>
-<img src="https://i.imgur.com/g0JCUoU.png" alt="Gravel #4" width="640"/>
+<img src="https://i.ibb.co/yf7jJLx/gravel1.png" alt="Gravel #1" width="640"/>
+<img src="https://i.ibb.co/F4s5Tb7/gravel2.png" alt="Gravel #2" width="640"/>
+<img src="https://i.ibb.co/524QVLM/gravel3.png" alt="Gravel #3" width="640"/>
+<img src="https://i.ibb.co/vqwvJ0t/gravel4.png" alt="Gravel #4" width="640"/>
 </details>
 <details>
 <summary>Caverns - Ice</summary>
-<img src="https://i.imgur.com/UA5itVd.png" alt="Ice #1" width="640"/>
-<img src="https://i.imgur.com/zvnEmkX.png" alt="Ice #2" width="640"/>
-<img src="https://i.imgur.com/syLfMkk.png" alt="Ice #3" width="640"/>
-<img src="https://i.imgur.com/VHqPrPV.png" alt="Ice #4" width="640"/>
+<img src="https://i.ibb.co/w7TRj6z/ice1.png" alt="Ice #1" width="640"/>
+<img src="https://i.ibb.co/7VVp171/ice2.png" alt="Ice #2" width="640"/>
+<img src="https://i.ibb.co/bg4BkY5/ice3.png" alt="Ice #3" width="640"/>
+<img src="https://i.ibb.co/nkn96mb/ice4.png" alt="Ice #4" width="640"/>
 </details>
 <details>
 <summary>Caverns - Amethyst</summary>
-<img src="https://i.imgur.com/YJdbTRj.png" alt="Amethyst #1" width="640"/>
-<img src="https://i.imgur.com/ARmyWce.png" alt="Amethyst #2" width="640"/>
-<img src="https://i.imgur.com/KzzJVEK.png" alt="Amethyst #3" width="640"/>
-<img src="https://i.imgur.com/n4cVj2q.png" alt="Amethyst #4" width="640"/>
+<img src="https://i.ibb.co/FW12Rsr/amethyst1.png" alt="Amethyst #1" width="640"/>
+<img src="https://i.ibb.co/km7x4Tm/amethyst2.png" alt="Amethyst #2" width="640"/>
+<img src="https://i.ibb.co/GMHpvMC/amethyst3.png" alt="Amethyst #3" width="640"/>
+<img src="https://i.ibb.co/SV8VzZY/amethyst4.png" alt="Amethyst #4" width="640"/>
 </details>
 <details>
 <summary>Manor - "Window" variants</summary>
-<img src="https://i.imgur.com/0EivcoG.png" alt="Experimentation, Assurance, Offense" width="640"/>
-<img src="https://i.imgur.com/PpoXOx3.png" alt="Rend, Dine, Titan" width="640"/>
+<img src="https://i.ibb.co/rc9WJ16/offense-window.png" alt="Experimentation, Assurance, Offense" width="640"/>
+<img src="https://i.ibb.co/kqS0w5X/rend-window.png" alt="Rend, Dine, Titan" width="640"/>
+<img src="https://i.ibb.co/gryYNdB/embrion-window.png" alt="Embrion" width="640"/>
+</details>
+<details>
+<summary>Forest Keepers</summary>
+<img src="https://i.ibb.co/1KG1bYd/snowygiant.png" alt="Snowy giant" width="640"/>
+<img src="https://i.ibb.co/xLqW5MP/burntgiant.png" alt="Burnt giant" width="640"/>
+</details>
+<details>
+<summary>Foliage</summary>
+<img src="https://i.ibb.co/5sBCprV/foliagevanilla.png" alt="FancyFoliage and FancyShrouds disabled" width="640"/>
+<img src="https://i.ibb.co/7WhtYhS/foliagefix.png" alt="FancyFoliage and FancyShrouds enabled" width="640"/>
+</details>
+<details>
+<summary>Titan</summary>
+<img src="https://i.ibb.co/3hgWpzs/titanvanilla.png" alt="FixTitanVolume disabled" width="640"/>
+<img src="https://i.ibb.co/hgdGVsz/titanfix.png" alt="FixTitanVolume enabled" width="640"/>
+</details>
+<details>
+<summary>Artifice</summary>
+<img src="https://i.ibb.co/sF08rgG/artificevanilla.png" alt="FixArtificeVolume disabled" width="640"/>
+<img src="https://i.ibb.co/7V003WH/artificefix.png" alt="FixArtificeVolume enabled" width="640"/>
 </details>
 
 # Credits

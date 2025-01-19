@@ -1,3 +1,22 @@
+# v2.0.2
+- Fixed `FancyEntranceDoors` causing softlocks on custom moons
+# v2.0.1
+- Reuploaded README because imgur broke all of my screenshots
+# v2.0.0
+- Complete refactor of internals
+- Expanded on `SnowyGiants` setting (now `GiantSkins`)
+  - Now includes a charred skin for giants burning to death
+  - Also fixed the config setting being ignored (so you can now actually disable it)
+- Changed `RainyMarch` behavior
+  - "Mild" weather now always has rain (no longer a random chance)
+  - Rain will no longer occur during foggy weather and eclipses
+- Expanded on `RecolorRandomRocks` setting
+  - Forest moons now have gray boulders instead of sandstone
+  - Embrion now has amethyst boulders
+- Expanded `PlanetPreview`
+  - Artifice now has a unique appearance
+  - Embrion now has a unique appearance
+- Added a few more preview screenshots
 # v1.4.2
 - Migrated `FixDoorSounds` to [Enemy Sound Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/EnemySoundFixes/)
 - Fixed a bug with `DoorLightColors` when leaving a moon late in the night and relanding in the same hosted game
