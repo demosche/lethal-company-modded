@@ -41,7 +41,7 @@ List of mods:<br>
  ScanFix  1.0.3<br>
  FairAI  1.4.3<br>
  Terminal_Clock  1.0.6<br>
- SaveOurLoot  1.5.0<br>
+ SaveOurLoot  1.5.1<br>
  HideChat  1.0.0<br>
  HoarderBugUseItems  1.0.3<br>
  LCLightsStartOffMod  2.0.5<br>

@@ -107,7 +107,7 @@
     minor: 0
     patch: 40
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.40\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -926,7 +926,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737273292331
+  installedAtTime: 1737789453147
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -935,9 +935,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-SaveOurLoot\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-SaveOurLoot\1.5.1\icon.png
 - manifestVersion: 1
   name: Monkeytype-HideChat
   authorName: Monkeytype
