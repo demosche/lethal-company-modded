@@ -937,7 +937,7 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\MrHydralisk-SaveOurLoot\1.5.1\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\MrHydralisk-SaveOurLoot\icon.png
 - manifestVersion: 1
   name: Monkeytype-HideChat
   authorName: Monkeytype
@@ -2160,7 +2160,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1737789651966
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2169,9 +2169,9 @@
   versionNumber:
     major: 1
     minor: 0
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ScaledFallDamage\icon.png
+  icon: C:\Users\PRZERGANA\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ScaledFallDamage\1.0.3\icon.png
 - manifestVersion: 1
   name: TestAccount666-TestAccountCore
   authorName: TestAccount666

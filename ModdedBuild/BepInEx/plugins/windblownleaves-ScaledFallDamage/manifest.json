@@ -1,6 +1,6 @@
 {
     "name": "ScaledFallDamage",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "",
     "description": "Scales fall damage with carried weight. Lightweight and customisable.",
     "dependencies": [

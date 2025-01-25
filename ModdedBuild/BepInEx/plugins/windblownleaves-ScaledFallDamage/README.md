@@ -1,8 +1,8 @@
 # ScaledFallDamage
 
-Don't you just HATE watching that one friend who plays much better than you make it back to the ship at 9:30 carrying 4 gold bars? I bet they feel all high and mighty, too. Look at that smug face. Fret not, for with this mod, you can watch them accidentally turn themselves into crewmate goo from a 2 meter drop, laughing maniacally as their ragdoll body flaps around the map lifelessly, letting YOU deliver the loot they were carrying. That'll teach 'em.
+Don't you just HATE watching that one friend who plays much better than you make it back to the ship at 11:30 PM carrying 4 gold bars? I bet they feel all high and mighty, too. Look at that smug face. Fret not, for with this mod, you can watch them accidentally turn themselves into crewmate goo from a 2 meter drop, laughing maniacally as their ragdoll body flaps around the map lifelessly, letting YOU deliver the loot they were carrying. That'll teach 'em.
 
-Developed for v50.
+Compiled for v69.
 
 ## Features
 - Fall damage will now scale with carried weight.
@@ -23,7 +23,7 @@ The mod can be configured by editing `windblownleaves.scaledfalldamage.cfg` in t
 Unlike some other implementations, this mod does not hook into Update() - code is only run once each time a player lands. This is a lot more performant.
 
 The formula used is:
-`weightFactor = 1.0f + tuningParemeter * (carryWeight* - 1)`,
+`weightFactor = 1.0f + tuningParameter * (carryWeight* - 1)`,
 where `weightFactor` is then multiplied with the internally used `fallValue`. In simplified terms, the game then checks this value and applies the following damage values:
 
 `fallValue` > 48.5: 100 damage (death)\
@@ -35,13 +35,3 @@ where `weightFactor` is then multiplied with the internally used `fallValue`. In
 
 ## Issues
 - Configuration files do not automatically sync at this time. For a consistent experience, please make sure everyone is using the same config settings. I will address this in a coming update.
-
-## Changelog
-- 1.0.0:
-    - Initial Release
-- 1.0.1:
-    - Changed config code to enable LethalConfig compatibility.
-    - Changed damage calculation formula. There is now a small permissible distance you can safely fall no matter what, preventing jumps with super-heavy modded scrap from killing you (looking at you, anvil).
-- 1.0.2:
-    - Removed LobbyCompatibility requirement.
-    - Edited readme file.
