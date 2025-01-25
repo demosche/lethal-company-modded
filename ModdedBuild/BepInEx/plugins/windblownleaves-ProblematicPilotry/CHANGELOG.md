@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.3.3
+- Maybe un-broke the mod, attempt 3
+
+## 1.3.2
+- Fixed (hopefully) an even bigger oopsie with synchronisation <<<<:)
+
+## 1.3.1
+- Fixed an oopsie when landing at the company <:)
+
+## 1.3.0
+- Cruiser should work. Big thanks to Temmie!
+
 ## 1.2.3
 - Changed navmesh-related methods to use only the "Walkable" navmesh area, hopefully fixing rare instances where things could land on top of the old vanilla position (i.e. in the air).
 - Added a "vanilla" blacklist/whitelist option which is shorthand for including all vanilla planets.
