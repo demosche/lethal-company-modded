@@ -79,13 +79,13 @@ This dungeon blends very well with the [Sanguine moon](https://thunderstore.io/c
 
 This mod adds two dungeons. These dungeons have different entrance rooms and different dungeon generation values; otherwise they are essentially the same dungeon.
 
-![](https://i.imgur.com/ESHNKPd.png)
+![](https://i.imgur.com/QXhiu8A.png)
 
 Enter in a 2F foyer room with doorways to the sides and a few doorways to the front. Dungeon generation goes both upward and downward. Main paths are short but branching paths are common. Contains a clock and a few presents.
 
 More common on Rend.
 
-![](https://i.imgur.com/d0gCVao.png)
+![](https://i.imgur.com/USepLUb.png)
 
 Enter in a 2F basement room with only doorways to the sides. Dungeon generation goes downwards. Main paths are slightly longer but branching paths are a bit rarer and shorter. Contains a vent and a defensive weapon.
 
@@ -97,19 +97,19 @@ The dungeon features a config presets to accommodate the majority of party sizes
 
 You must load up Lethal Company once with this mod enabled to create the config. All configs are synced by the host.
 
-![](https://i.imgur.com/H33RuzY.png)
+![](https://i.imgur.com/4Hsn3Qs.png)
 
 The __Default__ preset. Designed for larger parties of 3 to 4+ players, this dungeon preset will create three main paths (as opposed to the game's single path) that's about half as big as a normal mansion. Scrap, enemy, and map hazard count are increased to fit the larger dungeon. 
 
-![](https://i.imgur.com/7fQYIgV.png)
+![](https://i.imgur.com/s4APICO.png)
 
 The __Small__ preset. Designed for smaller parties of 1 to 3 players, this dungeon preset is a smaller variant of the Default preset. It will instead create two main paths. As well, the scrap and map hazard count are only slightly increased.
 
-![](https://i.imgur.com/XQDpxwL.png)
+![](https://i.imgur.com/t0HV6w7.png)
 
 The __MoreLoot__ and __BitMoreLoot__ preset. Designed for parties who seek high risk, hish reward, these dungeon presets are variants of the Default and Small preset. These massively increases scrap, enemy, and map hazard count.
 
-![](https://i.imgur.com/PFUOMbo.png)
+![](https://i.imgur.com/k6jJBiu.png)
 
 The __Vanilla__ preset. Designed for parties who just want a vanilla dungeon experience. This tries to emulate Lethal Company's vanilla dungeon generation.
 

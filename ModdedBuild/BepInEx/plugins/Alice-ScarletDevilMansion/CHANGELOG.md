@@ -1,3 +1,7 @@
+### 2.2.2
+
+Fixed me serializing stuff that I really shouldn't be. May stop certain crashes
+
 ### 2.2.1
 
 Fixed crashing lol bad dev forgot to include some .pngs
