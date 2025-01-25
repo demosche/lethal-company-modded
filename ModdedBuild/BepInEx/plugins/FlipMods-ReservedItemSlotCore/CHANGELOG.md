@@ -1,3 +1,5 @@
+# 2.0.40
++ Fixed minor bug where the mod would throw harmless errors in the console if you didn't have the TooManyEmotes mod. These are now ignored.
 # 2.0.39
 + Fixed issue when purchasing reserved slots is enabled, where the mod would incorrectly set the players' new hotbar size on ship resets, but only when other mods also modify the player's hotbar size at this time, such as HotbarPlus when purchasing slots is enabled for that mod.
 # 2.0.38
