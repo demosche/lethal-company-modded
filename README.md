@@ -64,7 +64,7 @@ List of mods:<br>
  MaskedEnemyOverhaulFork  3.4.0<br>
  LethalFixes  1.2.5<br>
  men_stalker  2.5.5<br>
- FixPluginTypesSerialization  1.1.1<br>
+ FixPluginTypesSerialization  1.1.2<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.4.6<br>
  PoolRooms  0.1.22<br>

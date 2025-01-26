@@ -8,7 +8,7 @@ This solve a bug where custom Serializable structs and such stored in plugin ass
 
 - Copy the `BepInEx/patchers/FixPluginTypesSerialization` folder into your `BepInEx/patchers` folder.
 
-- Copy the `BepInEx/config/FixPluginTypesSerialization.cfg` folder into your `BepInEx/config` folder.
+- Copy the `BepInEx/config/FixPluginTypesSerialization.cfg` file into your `BepInEx/config` folder.
 
 ### Special Thanks
 
