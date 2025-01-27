@@ -57,6 +57,9 @@ Modes:
 	- The player drops an item without crouching
 	- The player falls from a certain height (better to use ladders)
 	- The player takes damage
+- ONE FOR ALL - The cursed player must be protected at all costs, if they die everyone dies!
+- SACRIFICE - The cursed player takes all damage inflicted on other players
+	- If another player is one-shot (e.g. fall damage), they swap positions with the cursed player who dies in their place
 
 ## More informations
 For any feedback/suggestions or questions, you can reach me on the 'Lethal Company Modding' Discord server (https://discord.gg/e4YCbQsx) under the same name (username lega2039). DMs are welcome.
