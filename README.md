@@ -99,7 +99,7 @@ List of mods:<br>
  SolidLib  1.2.2<br>
  TurretWhacker  1.0.0<br>
  StaticNetcodeLib  1.1.1<br>
- LethalConfig  1.4.3<br>
+ LethalConfig  1.4.4<br>
  MapHazardsMoves  1.0.2<br>
  MrovLib  0.2.17<br>
  Longer_Day  1.0.0<br>

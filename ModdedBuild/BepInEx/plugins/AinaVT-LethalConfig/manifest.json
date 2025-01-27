@@ -1,7 +1,7 @@
 {
     "name": "LethalConfig",
     "author": "AinaVT",
-    "version_number": "1.4.3",
+    "version_number": "1.4.4",
     "website_url": "https://github.com/AinaVT/LethalConfig",
     "description": "Provides an in-game config menu for players to edit their configs, and an API for other mods to use and customize their entries.",
     "dependencies": [

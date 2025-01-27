@@ -1464,7 +1464,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-FixPluginTypesSerialization\1.1.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-FixPluginTypesSerialization\icon.png
 - manifestVersion: 1
   name: MaxWasUnavailable-LethalModDataLib
   authorName: MaxWasUnavailable
@@ -2273,7 +2273,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1727194371951
+  installedAtTime: 1738005678186
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2282,9 +2282,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 3
+    patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AinaVT-LethalConfig\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AinaVT-LethalConfig\1.4.4\icon.png
 - manifestVersion: 1
   name: Wexop-MapHazardsMoves
   authorName: Wexop

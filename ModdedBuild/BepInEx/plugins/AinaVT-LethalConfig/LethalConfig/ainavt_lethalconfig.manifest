@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3167740036
+CRC: 2150988611
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fad720947932e4510eaf3764c78d904e
+    Hash: 8877a8b38f41da5cf68dc20c3f8ce4d4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2b7a351616635083526acacccdef08b8
+    Hash: b5585bf6bbf27904bb34c123657d2ec7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fad720947932e4510eaf3764c78d904e
+    Hash: 8877a8b38f41da5cf68dc20c3f8ce4d4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -213,6 +213,7 @@ Assets:
 - Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text Component Icon.psd
 - Assets/Prefabs/Components/EnumDropDownItem.prefab
 - Assets/Prefabs/Components/TextDropDownItem.prefab
+- Assets/Prefabs/SearchBar.prefab
 - Assets/icon.png
 - Assets/Animations/ConfigMenuNotification/NotificationDisappear.anim
 - Assets/Prefabs/Components/TextInputFieldItem.prefab
@@ -224,6 +225,7 @@ Assets:
 - Assets/AudioClips/ChangeValueSFX.ogg
 - Assets/Prefabs/ModListItem.prefab
 - Assets/Prefabs/Components/FloatStepSliderItem.prefab
+- Assets/Sprite/search.png
 - Assets/Prefabs/Components/BoolCheckBoxItem.prefab
 - Assets/Prefabs/Components/FloatSliderItem.prefab
 - Assets/Sprite/DialogueBoxSimple.png
