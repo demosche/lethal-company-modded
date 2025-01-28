@@ -4,7 +4,7 @@
 
 Due to uneconomical human resource policies, the Company has run into some financial trouble, unfortunately forcing it to downgrade their autopilot navigation systems to older, less accurate models... This mod makes the player ship and item dropship land in a random position each time.
 
-Compatible with v69. Navmesh issues persist and will be addressed in a coming update. Use two-story/wider ship mod; these fix that issue.
+Compatible with v69.
 
 ## Features
 - The player ship and item dropship will land in a random* position on each landing/purchase.
@@ -58,10 +58,9 @@ As of version 1.2.0, the algorithm basically functions in the following way:
 The loop keeps going on until a position is found or the maximum number of iterations is reached. Relevant objects are then moved to the new location with specific offsets to keep relative positions intact.
 
 ## Special Thanks
-To AudioKnight and MrMiinxx on YouTube for their videos, which got me started initially, and to the Lethal Company Modding Discord server, specifically to Hamunii and especially to IAmBatby for their assistance, and to the Lethal Company Modding Wiki. Thanks to the developers of all the mod's requirements, especially to xilophor for his Lethal Network API. I'm also grateful to multiple people in my mod's Discord thread for providing suggestions, help and support, especially Autumnis, NecroWing and s1ckboy! Thank you to Temmie for helping me a lot with cruiser compatibility.
+To AudioKnight and MrMiinxx on YouTube for their videos, which got me started initially, and to the Lethal Company Modding Discord server, specifically to Hamunii and especially to IAmBatby for their assistance, and to the Lethal Company Modding Wiki. Thanks to the developers of all the mod's requirements, especially to xilophor for his Lethal Network API. I'm also grateful to multiple people in my mod's Discord thread for providing suggestions, help and support, especially Autumnis, NecroWing and s1ckboy! Thank you to Temmie for helping me a lot with cruiser compatibility. Thanks to mborsh for assistance with with navmesh issues.
 
 ## Issues
 - Configuration files do not automatically sync at this time. However, since all calculations are done server-side, this should lead to no issues regardless.
 - Some custom moons, depending on their setup, may occasionally come with various compatibility issues. See "compatibility" section.
 - Generic Moons, specifically, seems to come with an slight issue where the item dropship will land partly inside the ground. I'm not exactly sure why this is; the author might have moved the dropship inside of its container or such.
-- Navmesh doesn't properly generate for the updated location. Enemies may appear to walk through the ship.

@@ -1,13 +1,22 @@
 # Changelog
 
+## 1.3.5
+- Fixed an error on clients and resulting desyncs.
+
+## 1.3.4
+- Fixed navmesh issues - navmesh should now regenerate at the beginning of the level. Thanks to mborsh for assistance.
+- Added an option to disable navmesh placement and regeneration for compatibility.
+- Added a QoL option to let the item dropship land sooner (configurable). This is intended as a full replacement for mods like FasterItemDropship but comes disabled by default.
+- Lowered RandomDistance default for both the dropship and the landing ship from 50 to 10 with the intention to prevent bad spots. Recommended to either delete and regenerate your config or adjust this value yourself.
+
 ## 1.3.3
-- Maybe un-broke the mod, attempt 3
+- Fixed issue with synchronisation.
 
 ## 1.3.2
-- Fixed (hopefully) an even bigger oopsie with synchronisation <<<<:)
+- Attempted to fix an issue with synchronisation.
 
 ## 1.3.1
-- Fixed an oopsie when landing at the company <:)
+- Fixed an issue when landing at the Company.
 
 ## 1.3.0
 - Cruiser should work. Big thanks to Temmie!
