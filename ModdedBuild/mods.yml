@@ -3498,4 +3498,26 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SpookyBuddy-CustomOutsideObjects\1.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SpookyBuddy-CustomOutsideObjects\icon.png
+- manifestVersion: 1
+  name: FiligraniCringeGang-ProperOxygen
+  authorName: FiligraniCringeGang
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/FiligraniCringeGang/ProperOxygen/
+  displayName: ProperOxygen
+  description: Fair rework of vanila oxygen system
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1738087278050
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FiligraniCringeGang-ProperOxygen\1.0.0\icon.png

@@ -153,4 +153,5 @@ List of mods:<br>
  MrovWeathers  0.0.3<br>
  WeatherTweaks  1.0.1<br>
  CustomOutsideObjects  1.3.0<br>
+ ProperOxygen  1.0.0<br>
 
