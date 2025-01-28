@@ -796,8 +796,8 @@
     major: 0
     minor: 5
     patch: 2
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Woecust-Immersive_Visor\icon.png
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Woecust-Immersive_Visor\0.5.2\icon.png
 - manifestVersion: 1
   name: TwinDimensionalProductions-CoilHeadStare
   authorName: TwinDimensionalProductions
@@ -2836,7 +2836,7 @@
     minor: 1
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.1.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
