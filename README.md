@@ -152,4 +152,5 @@ List of mods:<br>
  CorrectDeathPenalty  1.0.1<br>
  MrovWeathers  0.0.3<br>
  WeatherTweaks  1.0.1<br>
+ CustomOutsideObjects  1.3.0<br>
 
