@@ -2583,7 +2583,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-BarberFixes\1.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-BarberFixes\icon.png
 - manifestVersion: 1
   name: 33mamaster-LifetimeCruiserWarranty
   authorName: 33mamaster
@@ -2776,7 +2776,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737273723481
+  installedAtTime: 1738247041591
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2784,10 +2784,10 @@
   optionalDependencies: []
   versionNumber:
     major: 2
-    minor: 0
-    patch: 2
+    minor: 1
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\2.1.0\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154

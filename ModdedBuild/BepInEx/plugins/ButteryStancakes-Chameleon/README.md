@@ -55,7 +55,13 @@ Most features are enabled by default, but all can be disabled if undesired.
 <summary>Interior - Manor</summary>
 
 - `PowerOffWindows` - Turns off the "fake windows" when the breaker box is turned off.
-- `WindowVariants` - Changes the images on the \"fake windows\" to better match the exterior of the current moon.
+- `PastureWindowsList` - A list of moons that support the vanilla window variant.
+- `CanyonWindowsList` - A list of moons that support the canyon window variant.
+- `SnowyWindowsList` - A list of moons that support the snowy window variant.
+- `FloweryWindowsList` - A list of moons that support the "flowery" window variant.
+- `BeachWindowsList` - A list of moons that support the beach window variant.
+- `HotSpringsWindowsList` - A list of moons that support the hot springs window variant.
+- `BrokenScreenWindowsList` - A list of moons that support the broken screen window variant.
 
 </details>
 
@@ -77,63 +83,92 @@ Most features are enabled by default, but all can be disabled if undesired.
 
 <details>
 <summary>Caverns - Desert</summary>
+
 <img src="https://i.ibb.co/SXQS278/desert1.png" alt="Desert #1" width="640"/>
 <img src="https://i.ibb.co/m8Y4D8W/desert2.png" alt="Desert #2" width="640"/>
 <img src="https://i.ibb.co/284s47h/desert3.png" alt="Desert #3" width="640"/>
 <img src="https://i.ibb.co/0r36tRF/desert4.png" alt="Desert #4" width="640"/>
+
 </details>
+
 <details>
 <summary>Caverns - Mesa</summary>
+
 <img src="https://i.ibb.co/T0HyBGW/mesa1.png" alt="Mesa #1" width="640"/>
 <img src="https://i.ibb.co/vL2ZNYv/mesa2.png" alt="Mesa #2" width="640"/>
 <img src="https://i.ibb.co/L9H49gx/mesa3.png" alt="Mesa #3" width="640"/>
+
 </details>
+
 <details>
 <summary>Caverns - Gravel</summary>
+
 <img src="https://i.ibb.co/yf7jJLx/gravel1.png" alt="Gravel #1" width="640"/>
 <img src="https://i.ibb.co/F4s5Tb7/gravel2.png" alt="Gravel #2" width="640"/>
 <img src="https://i.ibb.co/524QVLM/gravel3.png" alt="Gravel #3" width="640"/>
 <img src="https://i.ibb.co/vqwvJ0t/gravel4.png" alt="Gravel #4" width="640"/>
+
 </details>
+
 <details>
 <summary>Caverns - Ice</summary>
+
 <img src="https://i.ibb.co/w7TRj6z/ice1.png" alt="Ice #1" width="640"/>
 <img src="https://i.ibb.co/7VVp171/ice2.png" alt="Ice #2" width="640"/>
 <img src="https://i.ibb.co/bg4BkY5/ice3.png" alt="Ice #3" width="640"/>
 <img src="https://i.ibb.co/nkn96mb/ice4.png" alt="Ice #4" width="640"/>
+
 </details>
+
 <details>
 <summary>Caverns - Amethyst</summary>
+
 <img src="https://i.ibb.co/FW12Rsr/amethyst1.png" alt="Amethyst #1" width="640"/>
 <img src="https://i.ibb.co/km7x4Tm/amethyst2.png" alt="Amethyst #2" width="640"/>
 <img src="https://i.ibb.co/GMHpvMC/amethyst3.png" alt="Amethyst #3" width="640"/>
 <img src="https://i.ibb.co/SV8VzZY/amethyst4.png" alt="Amethyst #4" width="640"/>
+
 </details>
+
 <details>
 <summary>Manor - "Window" variants</summary>
+
 <img src="https://i.ibb.co/rc9WJ16/offense-window.png" alt="Experimentation, Assurance, Offense" width="640"/>
 <img src="https://i.ibb.co/kqS0w5X/rend-window.png" alt="Rend, Dine, Titan" width="640"/>
 <img src="https://i.ibb.co/gryYNdB/embrion-window.png" alt="Embrion" width="640"/>
+
 </details>
+
 <details>
 <summary>Forest Keepers</summary>
+
 <img src="https://i.ibb.co/1KG1bYd/snowygiant.png" alt="Snowy giant" width="640"/>
 <img src="https://i.ibb.co/xLqW5MP/burntgiant.png" alt="Burnt giant" width="640"/>
-</details>
+
+</details
+
 <details>
 <summary>Foliage</summary>
+
 <img src="https://i.ibb.co/5sBCprV/foliagevanilla.png" alt="FancyFoliage and FancyShrouds disabled" width="640"/>
 <img src="https://i.ibb.co/7WhtYhS/foliagefix.png" alt="FancyFoliage and FancyShrouds enabled" width="640"/>
+
 </details>
+
 <details>
 <summary>Titan</summary>
+
 <img src="https://i.ibb.co/3hgWpzs/titanvanilla.png" alt="FixTitanVolume disabled" width="640"/>
 <img src="https://i.ibb.co/hgdGVsz/titanfix.png" alt="FixTitanVolume enabled" width="640"/>
+
 </details>
+
 <details>
 <summary>Artifice</summary>
+
 <img src="https://i.ibb.co/sF08rgG/artificevanilla.png" alt="FixArtificeVolume disabled" width="640"/>
 <img src="https://i.ibb.co/7V003WH/artificefix.png" alt="FixArtificeVolume enabled" width="640"/>
+
 </details>
 
 # Credits
@@ -145,9 +180,10 @@ Thanks to [dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/) for
 - Fog quality adjustments (for `FogQuality`)
 
 Thanks to [IAmBatby](https://thunderstore.io/c/lethal-company/p/IAmBatby/) for:
-- Brainstorming ideas about custom content compatibility
-- Offering some sample code
 - Conceptualizing the final version of the icon
+- Consultation for custom content compatibility
+
+Thanks to [JackdeDestroyer](https://thunderstore.io/c/lethal-company/p/JackdeDestroyer/Jacks_AMAZING_vanilla_like_painting_PAINTING_MOD/) for suggesting window variants for manors (Consider checking out their [amazing vanilla like painting painting mod](https://thunderstore.io/c/lethal-company/p/JackdeDestroyer/Jacks_AMAZING_vanilla_like_painting_PAINTING_MOD/), which makes a good companion for Chameleon)
 
 Thanks to [nickham13](https://thunderstore.io/c/lethal-company/p/nickham13/) for the excellent name
 

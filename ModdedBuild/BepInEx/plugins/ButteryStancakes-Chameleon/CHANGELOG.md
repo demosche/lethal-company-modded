@@ -1,3 +1,9 @@
+# v2.1.0
+- Re-implementation of `WindowVariants`
+  - Added several new varieties of windows (for modded moons)
+  - Now uses weighted lists like the mineshaft caverns for better customization
+  - Windows no longer turn solid black when powered off
+- Performance improvements
 # v2.0.2
 - Fixed `FancyEntranceDoors` causing softlocks on custom moons
 # v2.0.1
