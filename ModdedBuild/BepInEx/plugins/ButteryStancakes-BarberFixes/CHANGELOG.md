@@ -1,3 +1,12 @@
+# v1.3.0
+- [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
+- Increased the maximum value for `MaxCount`
+- Replaced `SpawnInPairs` setting with new `SpawnInGroupsOf` setting
+# v1.2.3
+- Replaced `OnlyOneBarber` setting with new `MaxCount` setting
+- Reduced lag spikes
+  - When a new Barber spawns
+  - When Barbers accelerate hourly
 # v1.2.2
 - Improved compatibility with custom moons that spawn Barbers outside
 # v1.2.1

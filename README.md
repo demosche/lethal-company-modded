@@ -112,7 +112,7 @@ List of mods:<br>
  Surfaced  1.5.0<br>
  GeneralImprovements  1.4.4<br>
  WeedKillerFixes  1.1.0<br>
- BarberFixes  1.2.2<br>
+ BarberFixes  1.3.0<br>
  LifetimeCruiserWarranty  1.4.0<br>
  UnityMDK  1.3.0<br>
  LethalMDK  1.2.0<br>

@@ -12,6 +12,7 @@ Fixes bugs with the Barber:
 - Fixed the drumroll playing (and overlapping the immediate "parade" sound) when a Barber first spawns.
 
 Also adds some config settings to re-enable certain behaviors:
-- `OnlyOneBarber` - When disabled, up to 8 Barbers are allowed to spawn in one day, like before v62. In vanilla, Barbers have been spawn-capped at 1, likely to hide the synchronization issues mentioned above.
-- `SpawnInPairs` - When enabled, Barbers will spawn in groups of 2, like "intended" in the first v55 beta. [VentSpawnFix](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/VentSpawnFix/) is REQUIRED for this to function!
+- `MaxCount` - Lets you set the number of Barbers allowed to spawn during a single day. From v55-v61, this was set to 8. This was set to 1 in v62, likely to hide the synchronization issues mentioned above.
+- `SpawnInGroupsOf` - Lets you set how many additional Barbers will try to spawn if a Barber is assigned to a vent. In v55, this was set to 2. This was set to 1 in v56, since vanilla never supported grouped indoor monsters.
+  - [VentSpawnFix](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/VentSpawnFix/) is REQUIRED for values greater than 1 to function!
 - `DrumrollFromAll` - When enabled, all Barbers will do a drumroll before they "jump." In vanilla, only the original Barber plays the drumroll. It's unclear whether this is intended or an oversight (the code is inconclusive)
