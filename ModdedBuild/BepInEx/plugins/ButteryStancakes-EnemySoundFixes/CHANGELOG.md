@@ -1,3 +1,6 @@
+# 1.6.3
+- Fixed giants not stomping when ignited
+  - It was me. I caused this bug 😢
 # 1.6.2
 - Actually fixed tulip snake wing flapping (the changes from v1.4.0 were a red herring all along)
 - Fixed a potential issue with entrance doors in custom content
