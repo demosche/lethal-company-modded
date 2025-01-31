@@ -1,3 +1,9 @@
+## 1.5.1
+
+- More lobter sounds :)
+
+- Fixed some of the previous new lobster sounds not playing
+
 ## 1.5.0
 
 - Reverted Chrism mode changes
