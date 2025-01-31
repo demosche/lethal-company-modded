@@ -1,3 +1,5 @@
+# v1.5.2
+- Fixed critical audio from [Jetpack Warning](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/) not playing
 # v1.5.1
 - Fixed the player being "dragged with the ship" if you fly away from it while it is landing
 # v1.5.0

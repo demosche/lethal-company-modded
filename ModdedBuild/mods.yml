@@ -1999,7 +1999,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737273447395
+  installedAtTime: 1738326399823
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2008,9 +2008,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-JetpackFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-JetpackFixes\1.5.2\icon.png
 - manifestVersion: 1
   name: DaJadeNinja-ChocoQuota
   authorName: DaJadeNinja
@@ -2787,7 +2787,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\2.1.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
