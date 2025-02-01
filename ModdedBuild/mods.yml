@@ -3567,26 +3567,3 @@
     patch: 0
   enabled: true
   icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\LethalCompanyModding-RuntimeIcons\icon.png
-- manifestVersion: 1
-  name: dragonmcmx-AudibleHydraulics
-  authorName: dragonmcmx
-  websiteUrl: https://thunderstore.io/c/lethal-company/p/dragonmcmx/AudibleHydraulics/
-  displayName: AudibleHydraulics
-  description: Dogs will hear the ship door. Be careful letting your friends in...
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1738411508518
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-HookGenPatcher-0.0.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 1
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\dragonmcmx-AudibleHydraulics\1.0.1\icon.png
