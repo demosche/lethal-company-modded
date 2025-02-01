@@ -119,7 +119,7 @@ List of mods:<br>
  ScanTweaks  1.7.0<br>
  LethalElements  1.1.8<br>
  ExtensionLadderFix  0.0.1<br>
- DoorBreach  1.3.1<br>
+ DoorBreach  1.4.0<br>
  DungeonGenerationPlus  1.3.4<br>
  Chameleon  2.1.0<br>
  Do_We_Need_To_Go_Deeper  1.5.0<br>

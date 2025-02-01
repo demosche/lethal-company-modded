@@ -2514,7 +2514,7 @@
     minor: 5
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.5.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming
@@ -2730,7 +2730,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737273615944
+  installedAtTime: 1738395585702
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2738,10 +2738,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 1
+    minor: 4
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TestAccount666-DoorBreach\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TestAccount666-DoorBreach\1.4.0\icon.png
 - manifestVersion: 1
   name: Alice-DungeonGenerationPlus
   authorName: Alice
