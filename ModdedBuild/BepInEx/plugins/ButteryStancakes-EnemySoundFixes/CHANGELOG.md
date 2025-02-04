@@ -1,3 +1,5 @@
+# 1.6.4
+- Fixed mineshaft doors muffling their own audio as if they were behind a wall
 # 1.6.3
 - Fixed giants not stomping when ignited
   - It was me. I caused this bug 😢

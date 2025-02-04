@@ -78,6 +78,7 @@ Despite the (now outdated) name, this mod also fixes a few other sounds unrelate
 - Doors
   - Fixed backwards open/close SFX on factory doors, lockers, and the breaker box
   - Fixed shed doors (Rend and Adamance) not utilizing wood door SFX
+  - Fixed mineshaft doors occluding their own audio (sounding muffled) from one side
   - Fixed the garage door on Experimentation not playing sounds when it slides closed
   - Entrance doors now play the same random audio clip on both sides
   - Entrance door audio now plays through walkie-talkies
