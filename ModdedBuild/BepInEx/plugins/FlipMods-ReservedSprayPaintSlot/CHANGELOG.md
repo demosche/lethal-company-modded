@@ -1,3 +1,5 @@
+# 1.1.3
++ Added dedicated hotkey to toggle to the reserved spraypaint slot. Only usable with InputUtils. Unbound by default.
 # 1.1.2
 + Updated mod description for latest update compatibility.
 # 1.1.1

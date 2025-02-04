@@ -34,7 +34,7 @@ List of mods:<br>
  EnhancedRadarBooster  1.7.1<br>
  BetterSprayPaint  2.0.9<br>
  GamblingMachineAtTheCompany  1.3.5<br>
- ReservedSprayPaintSlot  1.1.2<br>
+ ReservedSprayPaintSlot  1.1.3<br>
  Immersive_Visor  0.5.2<br>
  CoilHeadStare  1.0.9<br>
  ShipLoot  1.1.0<br>
