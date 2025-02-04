@@ -3087,7 +3087,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Swaggies-BetterEXP\2.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Swaggies-BetterEXP\icon.png
 - manifestVersion: 1
   name: mrov-WeatherRegistry
   authorName: mrov
@@ -3329,7 +3329,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737273838758
+  installedAtTime: 1738652098287
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3338,9 +3338,9 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 13
+    patch: 14
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.14\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03
