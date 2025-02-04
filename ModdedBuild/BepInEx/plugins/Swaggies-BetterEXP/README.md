@@ -1,6 +1,6 @@
 # BetterEXP
 
-**BetterEXP** is a Lethal Company mod looking to spice up the current experience system in the game. Right now the XP system feels a bit clunky and not a good (enough) measure of a player's true experience working for The Company, so I've created BetterEXP to hopefully make the XP system feel much more satisfying and rewarding/punishing, depending on your actions. This is a **client-sided** mod, meaning nobody else needs it for it to work! BetterEXP functions perfectly in completely vanilla lobbies.
+**BetterEXP** is a Lethal Company mod looking to spice up the current experience system in the game. Right now the XP system feels a bit clunky and not a good (enough) measure of a player's true experience working for The Company, so I've created BetterEXP to hopefully make the XP system feel much more satisfying and rewarding/punishing, depending on your actions. This is a **client-sided** mod, meaning nobody else needs it for it to work! BetterEXP functions perfectly in completely vanilla lobbies. *Thanks for half a million! :3*
 
 If you would like to help, give ideas, report bugs, or just play Lethal Company with me, you can contact me on Discord `@swaggies`. Shoot me a message anytime and I'll get back as soon as I can!
 
@@ -24,6 +24,8 @@ Here's the list of notes including old and new:
 - **#1 Scavenger**: found the most scrap inside the facility.
 - **Empty-Handed**: found zero scrap during the whole day.
 - **Team Backbone**: found the most scrap that was also returned to ship.
+- **The Venturer**: explored the most of the facility.
+- **Least Venturous**: explored the least of the facility.
 
 These notes are disabled by default, you can enable them in the config!
 - **Most Jumpy**: jumped the most in a day.
@@ -41,9 +43,9 @@ If any two (or more) players tie on any of these stats, they will all get the no
   - "Contribution" includes finding scrap, having teammates return your found scrap, and returning other's (or your own) scrap to ship.
 - Dying will lose you a bit of BXP, but you'll lose more and more the higher rank you are.
 - The BXP Penalty for dying is capped at -50 BXP, however you may lose up to 60 if your team is wiped.
-- Killing enemies will earn you BXP, as long as you're the person to finish them off. Using landmines, lightning, or even another enemy to kill an enemy will not grant BXP **unless you damaged it beforehand**. You may also enable a notification that shows at the bottom of your screen when an enemy dies in the config.
+- Killing enemies will earn you BXP, as long as you're the person to finish them off. Using landmines, lightning, or even another enemy to kill an enemy will not grant BXP **unless you damaged it recently beforehand**. You may also enable a notification that shows at the bottom of your screen when an enemy dies in the config.
   - The more enemies you kill, the less BXP you will get for each kill.
-- Depending on the weather of the moon, you may receive a bonus to your BXP earned from collecting scrap. Be warned though, as dying will also bear a larger penalty.
+- If there is active weather on the moon, you may receive a bonus to your BXP earned from finding and collecting scrap, the amplifier of which depending on what weather it is.
 
 ### Enemy Bonuses
 | Enemy | Base BXP |
@@ -66,14 +68,14 @@ If any two (or more) players tie on any of these stats, they will all get the no
 | Forest Giant | **16 BXP** |
 
 ### Weather Bonuses
-| Weather | Scrap/Death Multiplier |
+| Weather | BXP Bonus |
 | :-----: | :--------------------: |
 | None | 0% |
-| Rainy | **+10%** |
-| Foggy | **+15%** |
-| Flooded | **+20%** |
-| Stormy | **+25%** |
-| Eclipsed | **+30%** |
+| Rainy | **+5%** |
+| Foggy | **+10%** |
+| Flooded | **+15%** |
+| Stormy | **+20%** |
+| Eclipsed | **+25%** |
 
 ### New Rank Table
 Displayed Vanilla Rank is the badge on your player's suit representing your rank. This will be seen by other players with or without BetterEXP installed.
@@ -112,7 +114,7 @@ Displayed Vanilla Rank is the badge on your player's suit representing your rank
 
 ## Things to note
 ### Does BetterEXP replace the old system?
-Nope, the BetterEXP system will run **alongside** the vanilla exp system. After a game, the XP bar will show your BetterXP Rank and XP amount, but your vanilla xp will still secretly be accounted for in the background. At any time, you may open the pause menu to see your current vanilla rank alongside your BetterXP rank (if you have the pause menu display enabled). You will be able to safely uninstall and reinstall the mod without affecting your vanilla XP, however, **you can not progress your BetterXP level without having the mod active** (duh).
+Nope, the BetterEXP system will run **alongside** the vanilla exp system. After a game, the XP bar will show your BetterXP Rank and XP amount, but your vanilla xp will still be accounted for in the background. At any time, you may open the pause menu to see your current vanilla rank alongside your BetterXP rank (if you have the pause menu display enabled). You will be able to safely uninstall and reinstall the mod without affecting your vanilla XP, however, **you can not progress your BetterXP level without having the mod active** (duh).
 
 ### Headstart
 When you first load in with the BetterEXP mod, you'll start with 0 BXP at Intern rank. However, if you've played Lethal Company quite a bit, you'll start at a higher BetterXP level than just Intern. 
@@ -131,6 +133,6 @@ When you first load in with the BetterEXP mod, you'll start with 0 BXP at Intern
 
 ---
 
-betterexp version 2.5.2
+betterexp version 2.6.0
 
-lethal company version 65-66+
+lethal company version 65-69+

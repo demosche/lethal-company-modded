@@ -1,9 +1,9 @@
-# 2.5.2
-- job tracker will log enemy rushes if they happen
-- fixed an issue where enemy kills wouldnt reset at the start of a day
-
-# 2.5.1
-adjusted some internal things as this will be a dependency of a future mod :3. updating to this version is not required, there are no further changes.
+# 2.6.0
+- Added two new notes - "The Venturer" and "Least Venturous" - enabled by default, given to players who explores the most and least of the facility respectively.
+	- Exploration is counted based on each player's field of view. Most of the time, seeing into an area is enough to count it as "explored" for yourself (as long as area isn't obstructed by any solid objects). The Venturer and Least Venturous will show the percentage of the indoor area explored by that player. There is currently no tracking for exploration as a team, only individually.
+- Job logs will now include if indoor fog is present, and the area exploration stats for each player as explained above
+- Lowered the weather bonuses given and removed weather bonuses affecting the death penalty.
+	- *(dev note) imo it was just weird that dying was punished more depending on the weather, and in addition, dying should not be the only thing that negatively affects bxp, however due to the general major usage of mods, i dont believe creating a more complex system is necessary (for the time being at least).*
 
 # 2.5.0
 - Added a new note - "Team Backbone" - given to the player(s) with the most found scrap that made it to ship
