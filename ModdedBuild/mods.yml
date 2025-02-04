@@ -96,7 +96,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737789259838
+  installedAtTime: 1738651847147
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -105,9 +105,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 40
+    patch: 42
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.42\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -1730,7 +1730,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
 - manifestVersion: 1
   name: Sigurd-CSync
   authorName: Sigurd

@@ -1,3 +1,8 @@
+# 2.0.42
++ Removed a debug error log notifying when you finished syncing with the host. It wasn't a real error and was meant to be removed when 2.0.41 was pushed.
+# 2.0.41
++ Fixed issue when spawning some non-vanilla flashlights (from othe mods) on mimics, they would error and cause issues with that light source.
++ Added some compatibility notes in the README.
 # 2.0.40
 + Fixed minor bug where the mod would throw harmless errors in the console if you didn't have the TooManyEmotes mod. These are now ignored.
 # 2.0.39

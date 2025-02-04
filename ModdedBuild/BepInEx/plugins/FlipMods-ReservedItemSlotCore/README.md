@@ -59,6 +59,7 @@ Negative priority will force the item slots to appear on the right side of the s
 ## Mod Compatibility
 + HotbarPlus is compatible!
 + LethalThings Utility Belt is (or should be) compatible! (hopefully stays that way)
++ LethalProgression has been known to cause some issues and errors with syncing items slots between clients. (Doesn't happen all the time, however. Unsure why this happens)
 + <strong>This mod may not play well with Advanced Company. Use at your own risk!</strong>
 + Other mods that can add hotbar slots are not guaranteed to work.
 + Other mods that might re-arrange the hotbar slots (HUD) are not guaranteed to play nicely with these mods, but *might* technically work.
