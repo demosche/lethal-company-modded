@@ -1730,7 +1730,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\KawaiiBone-Remnants\1.4.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\KawaiiBone-Remnants\icon.png
 - manifestVersion: 1
   name: Sigurd-CSync
   authorName: Sigurd
@@ -2273,7 +2273,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1738005678186
+  installedAtTime: 1738652019561
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2282,9 +2282,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 4
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\AinaVT-LethalConfig\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\AinaVT-LethalConfig\1.4.5\icon.png
 - manifestVersion: 1
   name: Wexop-MapHazardsMoves
   authorName: Wexop
