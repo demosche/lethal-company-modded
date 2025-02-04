@@ -1,3 +1,7 @@
+# 2.0.10
++ Accidentally pushed old testing code in the 2.0.9 which caused flashlights in your regular inventory to not properly transfer the light source off of the flashlight when swapping away from the item. Whoops.
+# 2.0.9
++ Added dedicated hotkey to toggle to the reserved flashlight slot. Only usable with InputUtils. Unbound by default.
 # 2.0.8
 + Added a config option to remove the Laser Pointer from the Reserved Flashlight Slot. (Again? Didn't I do this in 2.0.6??)
 # 2.0.7
