@@ -1512,7 +1512,7 @@
     minor: 4
     patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IAmBatby-LethalLevelLoader\1.4.8\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
 - manifestVersion: 1
   name: skidz-PoolRooms
   authorName: skidz
@@ -1524,21 +1524,21 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1738651947189
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
     - Evaisa-HookGenPatcher-0.0.5
-    - Evaisa-LethalLib-0.15.1
-    - IAmBatby-LethalLevelLoader-1.2.3
+    - Evaisa-LethalLib-0.16.2
+    - IAmBatby-LethalLevelLoader-1.4.6
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 0
     minor: 1
-    patch: 22
+    patch: 23
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\skidz-PoolRooms\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\skidz-PoolRooms\0.1.23\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-EnemySoundFixes
   authorName: ButteryStancakes

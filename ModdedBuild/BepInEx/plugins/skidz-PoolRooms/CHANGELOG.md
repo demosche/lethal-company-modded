@@ -1,3 +1,19 @@
+**<details><summary>Version 0.1.23</summary>**
+
+* Updated to latest LethalLevelLoader and other dependencies
+* The Sauna room always has a light now and improved lighting
+* Pool water added to the main pool and fixed the pool water in the bridges room
+* Water in the main pool room is sinkable / drownable and will hinder the players movement. Other knee high water areas will no longer hinder the players movement
+* Reduced dungeon generation path size which should improve loot distribution
+* Reduced the number of bathrooms spawned
+* Removed extra stalls in female bathroom for gameplay reasons
+* Reduced package size by enabling crunch and ensuring textures stay at max 512
+* Assigned surface tags to walkable surfaces for tiles, metal, and wood so proper footstep sounds play now
+* Bathroom toilets are now the same as the ship toilets and are also flushable like the ship toilets
+* The pool ball is now kickable
+
+</details>
+
 **<details><summary>Version 0.1.22</summary>**
 
 * Update for LethalLevelLoader API updates

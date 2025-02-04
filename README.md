@@ -67,7 +67,7 @@ List of mods:<br>
  FixPluginTypesSerialization  1.1.2<br>
  LethalModDataLib  1.2.2<br>
  LethalLevelLoader  1.4.8<br>
- PoolRooms  0.1.22<br>
+ PoolRooms  0.1.23<br>
  EnemySoundFixes  1.6.3<br>
  CullFactory  1.7.0<br>
  OdinSerializer  2022.11.9<br>
