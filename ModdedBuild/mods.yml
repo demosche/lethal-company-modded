@@ -2836,7 +2836,7 @@
     minor: 1
     patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lega-CursedScraps\2.1.3\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lega-CursedScraps\icon.png
 - manifestVersion: 1
   name: Terraformer9x-JesterDoorSlam
   authorName: Terraformer9x
@@ -3554,7 +3554,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1738087361505
+  installedAtTime: 1738907079780
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3564,6 +3564,6 @@
   versionNumber:
     major: 0
     minor: 3
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\LethalCompanyModding-RuntimeIcons\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\LethalCompanyModding-RuntimeIcons\0.3.1\icon.png
