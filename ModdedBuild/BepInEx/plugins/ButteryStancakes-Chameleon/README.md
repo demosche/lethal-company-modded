@@ -55,6 +55,7 @@ Most features are enabled by default, but all can be disabled if undesired.
 <summary>Interior - Manor</summary>
 
 - `PowerOffWindows` - Turns off the "fake windows" when the breaker box is turned off.
+- `BlackoutWindows` - When windows are powered off, they will be solid black, instead of faintly displaying the current window graphic.
 - `PastureWindowsList` - A list of moons that support the vanilla window variant.
 - `CanyonWindowsList` - A list of moons that support the canyon window variant.
 - `SnowyWindowsList` - A list of moons that support the snowy window variant.
@@ -133,9 +134,9 @@ Most features are enabled by default, but all can be disabled if undesired.
 <details>
 <summary>Manor - "Window" variants</summary>
 
-<img src="https://i.ibb.co/rc9WJ16/offense-window.png" alt="Experimentation, Assurance, Offense" width="640"/>
-<img src="https://i.ibb.co/kqS0w5X/rend-window.png" alt="Rend, Dine, Titan" width="640"/>
-<img src="https://i.ibb.co/gryYNdB/embrion-window.png" alt="Embrion" width="640"/>
+<img src="https://i.ibb.co/rc9WJ16/offense-window.png" alt="Canyon" width="640"/>
+<img src="https://i.ibb.co/kqS0w5X/rend-window.png" alt="Snowy" width="640"/>
+<img src="https://i.ibb.co/gryYNdB/embrion-window.png" alt="Beach" width="640"/>
 
 </details>
 

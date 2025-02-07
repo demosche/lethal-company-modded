@@ -1,3 +1,6 @@
+# v2.1.1
+- Added `BlackoutWindows` setting
+- Fixed incompatibility I accidentally caused for [Rebalanced Moons](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/) with v2.1
 # v2.1.0
 - Re-implementation of `WindowVariants`
   - Added several new varieties of windows (for modded moons)

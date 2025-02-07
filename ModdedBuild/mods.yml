@@ -2537,7 +2537,7 @@
     minor: 4
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.4.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-WeedKillerFixes
   authorName: ButteryStancakes
@@ -2776,7 +2776,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1738247041591
+  installedAtTime: 1738906978576
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2785,9 +2785,9 @@
   versionNumber:
     major: 2
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-Chameleon\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-Chameleon\2.1.1\icon.png
 - manifestVersion: 1
   name: Index154-Do_We_Need_To_Go_Deeper
   authorName: Index154
