@@ -1789,7 +1789,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694183521
+  installedAtTime: 1738906654197
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1797,10 +1797,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 1
+    minor: 2
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Entity378-Lethal_Doors_Fixed\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Entity378-Lethal_Doors_Fixed\1.2.0\icon.png
 - manifestVersion: 1
   name: Hardy-LCMaxSoundsFix
   authorName: Hardy
@@ -3340,7 +3340,7 @@
     minor: 2
     patch: 14
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.2.14\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03

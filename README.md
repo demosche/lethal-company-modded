@@ -78,7 +78,7 @@ List of mods:<br>
  Remnants  1.4.1<br>
  CSync  5.0.1<br>
  DramaMask  2.1.4<br>
- Lethal_Doors_Fixed  1.1.0<br>
+ Lethal_Doors_Fixed  1.2.0<br>
  LCMaxSoundsFix  1.2.0<br>
  MeleeFixes  1.3.1<br>
  Runtime_Netcode_Patcher  0.2.5<br>
