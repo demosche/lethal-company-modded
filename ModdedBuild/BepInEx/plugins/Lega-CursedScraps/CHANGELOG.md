@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Version 2.1.3
+- Code cleaning
+- Fixed an incompatibility with the grabbable turrets from Brutal Company
+
 ## Version 2.1.2
 - Game version update
 - Added the "One For All" curse
