@@ -1,6 +1,6 @@
 ### Required by all clients
 
-### Updated for v69 and LLL 1.4.0
+### Big changes to dungeon generation
 
 # The Scarlet Devil Mansion（紅魔館）
 
@@ -81,13 +81,13 @@ This mod adds two dungeons. These dungeons have different entrance rooms and dif
 
 ![](https://i.imgur.com/QXhiu8A.png)
 
-Enter in a 2F foyer room with doorways to the sides and a few doorways to the front. Dungeon generation goes both upward and downward. Main paths are short but branching paths are common. Contains a clock and a few presents.
+Enter in a 2F foyer room with doorways to the sides and a few doorways to the front. Dungeon generation goes both upward and downward. Large rooms and branching paths are common, but the main paths are short. Contains a clock and a few presents.
 
 More common on Rend.
 
 ![](https://i.imgur.com/USepLUb.png)
 
-Enter in a 2F basement room with only doorways to the sides. Dungeon generation goes downwards. Main paths are slightly longer but branching paths are a bit rarer and shorter. Contains a vent and a defensive weapon.
+Enter in a 2F basement room with only doorways to the sides. Dungeon generation goes downwards. Main paths are longer, but large rooms and branching rooms are less common. Contains a vent and a defensive weapon.
 
 More common on Dine.
 
@@ -127,14 +127,15 @@ The map is a grayscale representation of what the Scarlet Devil Mansion could lo
   <img src="https://i.imgur.com/KixRi4X.png">
   <img src="https://i.imgur.com/HLR2t7x.png">
   
-  <img src="https://i.imgur.com/tf7SYO1.png">
-  <img src="https://i.imgur.com/nN98tIx.png">
+  <img src="https://i.imgur.com/DqvIgKb.png">
+  <img src="https://i.imgur.com/rRbKoPS.png">
+  <img src="https://i.imgur.com/ad8UUwY.png">
   
   <img src="https://i.imgur.com/90MA95C.png">
   <img src="https://i.imgur.com/9iSB9sN.png">
   
   <img src="https://i.imgur.com/EB7J1jW.png">
-  <img src="https://i.imgur.com/BkZxl9W.png">
+  <img src="https://i.imgur.com/rpnIHhc.png">
   
   <img src="https://i.imgur.com/trxF2si.png">
   <img src="https://i.imgur.com/QdbbdBF.png">
@@ -142,7 +143,7 @@ The map is a grayscale representation of what the Scarlet Devil Mansion could lo
   <img src="https://i.imgur.com/chrTisz.png">
   <img src="https://i.imgur.com/SgIWocP.png">
   
-  <img src="https://i.imgur.com/Usp7Y7d.png">
+  <img src="https://i.imgur.com/VSKzRob.png">
 </details>
 
 ### Dungeon Generation
@@ -343,7 +344,7 @@ Vinyis.itch.io - 3D Environment Assets (Hallways)\
 [Flimichan](https://sketchfab.com/3d-models/low-poly-christmas-tree-2b78bbb6adbc4286af8fc1d37ea0de8d) - Low Poly Christmas Tree
 
 #### Portrait Art
-@Schmagons (Instagram) - Remilia, Sakuya, Medicine, Hime, Kagasa, Yuyuko, Reimu\
+@Schmagons (Instagram) - Remilia (x2), Sakuya (x2), Medicine, Hime, Kagasa, Yuyuko, Reimu, Maribel, Renko\
 YeeHaw - Flandre, Patchy, Koakuma\
 World's Saddest Halo Fan - Rumia\
 WorthAggravating (Reddit) - Hina\

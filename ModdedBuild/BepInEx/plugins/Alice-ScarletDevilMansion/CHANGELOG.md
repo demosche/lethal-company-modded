@@ -1,3 +1,15 @@
+### 2.3.0
+Redid dungeon generation. All dungeons generate hallway tiles more often, have longer main paths, and shorter branching paths.\
+Retextured and redid the hallway rooms\
+Added new stair rooms\
+Redid all void rooms
+
+Added some new visual effects to the portraits and void\
+Added some sound effects for using the jukebox
+
+Adjusted hitbox of the maid's dropped knife to match her full body initially\
+Fixed blood from the maid and her knife to not be weirdly shiny white
+
 ### 2.2.2
 
 Fixed me serializing stuff that I really shouldn't be. May stop certain crashes
