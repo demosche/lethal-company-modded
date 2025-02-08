@@ -1,3 +1,7 @@
+### 1.4.0
+DoorwayClean is now obselete. Replaced with new scripting system\
+Added the Zaggy™ patch so LLL works inside the Unity Editor 
+
 ### 1.3.4
 Added DetailedGlobalSettings system\
 Updated for LLL 1.4.0

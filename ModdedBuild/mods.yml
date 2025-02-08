@@ -1845,7 +1845,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-MeleeFixes\1.4.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-MeleeFixes\icon.png
 - manifestVersion: 1
   name: Ozone-Runtime_Netcode_Patcher
   authorName: Ozone
@@ -2752,20 +2752,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1737273652115
+  installedAtTime: 1739014673689
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - IAmBatby-LethalLevelLoader-1.4.0
     - Evaisa-FixPluginTypesSerialization-1.1.1
+    - IAmBatby-LethalLevelLoader-1.4.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 4
+    minor: 4
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-DungeonGenerationPlus\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-DungeonGenerationPlus\1.4.0\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-Chameleon
   authorName: ButteryStancakes
