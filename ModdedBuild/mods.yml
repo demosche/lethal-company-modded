@@ -1634,7 +1634,7 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Alice-ScarletDevilMansion\2.3.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Alice-ScarletDevilMansion\icon.png
 - manifestVersion: 1
   name: SolidStone-ShockwaveDroneEnemy
   authorName: SolidStone
@@ -1834,7 +1834,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694204979
+  installedAtTime: 1739014648906
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1842,10 +1842,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 3
-    patch: 1
+    minor: 4
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-MeleeFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-MeleeFixes\1.4.0\icon.png
 - manifestVersion: 1
   name: Ozone-Runtime_Netcode_Patcher
   authorName: Ozone

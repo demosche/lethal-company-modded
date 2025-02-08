@@ -1,3 +1,5 @@
+# v1.4.0
+- Ported over some shotgun fixes from [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
 # v1.3.1
 - Re-upload to update Thunderstore description for v60
 # v1.3.0
