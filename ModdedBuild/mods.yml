@@ -3339,7 +3339,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.3.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03
@@ -3438,7 +3438,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735638234878
+  installedAtTime: 1739689875474
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3448,9 +3448,9 @@
   versionNumber:
     major: 0
     minor: 0
-    patch: 3
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovWeathers\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovWeathers\0.0.5\icon.png
 - manifestVersion: 1
   name: mrov-WeatherTweaks
   authorName: mrov

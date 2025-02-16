@@ -1,3 +1,12 @@
+# 0.0.5
+
+- fixed the placeholders not working in the config (thanks, `dopadream`!)
+
+# 0.0.4
+
+- fixed an issue where turret lights would be disabled during `Blackout`
+- added foggy weather overrides (moved from `WeatherTweaks`)
+
 # 0.0.3
 
 - fixed README not being updated 😶
