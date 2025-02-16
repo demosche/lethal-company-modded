@@ -135,7 +135,7 @@ List of mods:<br>
  Maneater_Damage_Patch  1.0.1<br>
  FairBirds  1.0.1<br>
  BetterEXP  2.6.0<br>
- WeatherRegistry  0.3.16<br>
+ WeatherRegistry  0.4.2<br>
  LethalQuantities  1.2.9<br>
  LCTarotCard  1.1.1<br>
  LCCutscene  1.0.0<br>

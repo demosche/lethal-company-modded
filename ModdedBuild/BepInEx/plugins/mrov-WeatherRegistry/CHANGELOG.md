@@ -1,3 +1,20 @@
+# 0.4.2
+
+- (hopefully) fixed weather effects not enabling correctly on progressing weathers (thanks, `glacialstage`!)
+- fixed weather effects re-enabling themselves in an infinite loop (thanks, `xuxiaolan`!)
+- fixed config resolvers not ignoring duplicate entries (thanks, `llkiur`!)
+
+# 0.4.1
+
+- fixed an issue with negative index being called in an array (thanks, `iam_sympathy`!)
+
+# 0.4.0
+
+- added `WeatherMatcher` and `LevelMatcher` (not fully implemented yet!)
+- changed `WeatherSync` to allow syncing multiple weather effects (thanks, `xuxiaolan`!)
+- fixed an issue with WeatherRegistry disabling JWeatherOverrides (thanks, `nikkidarkmatter`!)
+- fixed an issue with Orbits compatibility patch (thanks, `fiufki`!)
+
 # 0.3.16
 
 - added `WeatherResolvable` classes
