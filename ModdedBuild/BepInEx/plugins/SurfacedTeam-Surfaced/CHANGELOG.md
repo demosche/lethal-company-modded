@@ -1,3 +1,7 @@
+## 1.5.2
+
+- Made the Murder Bird more rotund and cute (Not any less deadly)
+
 ## 1.5.1
 
 - More lobter sounds :)
@@ -36,7 +40,7 @@
 
 ## 1.4.6
 
--Chrismas time fr
+- Chrismas time fr
 
 ## 1.4.5
 

@@ -2,7 +2,7 @@
   "namespace": "Surfaced",
   "name": "Surfaced",
   "description": "Adds Sea Creatures on land",
-  "version_number": "1.5.1",
+  "version_number": "1.5.2",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Evaisa-LethalLib-0.15.1",
