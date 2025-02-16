@@ -3109,7 +3109,7 @@
     minor: 4
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.4.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
@@ -3328,7 +3328,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1738652098287
+  installedAtTime: 1739689854521
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3336,10 +3336,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 2
-    patch: 14
+    minor: 3
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\darmuh-OpenLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\darmuh-OpenLib\0.3.1\icon.png
 - manifestVersion: 1
   name: Fandovec03-SpiderPositionFix
   authorName: Fandovec03
