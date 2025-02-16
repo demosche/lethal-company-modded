@@ -1,3 +1,6 @@
+# 1.6.5
+- Fixed vents continuing to make noise after a monster spawns out of them
+- Fixed nutcrackers using normal vent sounds (or vice versa - normal enemies using nutcracker vent sounds)
 # 1.6.4
 - Fixed mineshaft doors muffling their own audio as if they were behind a wall
 # 1.6.3
