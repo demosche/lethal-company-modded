@@ -1,3 +1,14 @@
+### 2.3.1
+Increased bounds for all dungeon variants to decrease failure chance\
+Larger rooms now try to spread their doorways around\
+Added new broken doorways for certain rooms\
+Scarlet Basement now prefers to generate downwards\
+Hallway lights are brighter
+
+Fixed some issues with hallway visuals and error spamming\
+Fixed some issues with Maids and Revenants in multiplayer\
+Fixed issues pertaining to moons with high amounts (6+) of fire exits
+
 ### 2.3.0
 Redid dungeon generation. All dungeons generate hallway tiles more often, have longer main paths, and shorter branching paths.\
 Retextured and redid the hallway rooms\
