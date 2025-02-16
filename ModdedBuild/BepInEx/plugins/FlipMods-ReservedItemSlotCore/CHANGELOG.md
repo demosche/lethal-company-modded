@@ -1,3 +1,5 @@
+# 2.0.43
++ This mod will now ignore errors caused by the TooManyEmotesCompat patch when the local player performs an emote. These errors are usually caused by a separate mod (usually indirectly). This should prevent further bugs from occuring with this mod, or with TooManyEmotes, but the problem mod still may cause other issues.
 # 2.0.42
 + Removed a debug error log notifying when you finished syncing with the host. It wasn't a real error and was meant to be removed when 2.0.41 was pushed.
 # 2.0.41
