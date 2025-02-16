@@ -1,5 +1,13 @@
 # TestAccountCore
 
+## 1.14.2
+
+\* Fixed `alwaysUnlocked` Unlockables spawning outside the ship<br>
+
+## 1.14.1
+
+\* Fixed `alwaysUnlocked` Unlockables never spawning<br>
+
 ## 1.14.0
 
 \+ Added `UnloadBundle` method<br>
