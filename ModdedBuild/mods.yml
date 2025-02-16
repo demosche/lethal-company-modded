@@ -2537,19 +2537,18 @@
     minor: 4
     patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.4.6\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-WeedKillerFixes
   authorName: ButteryStancakes
   websiteUrl: https://thunderstore.io/c/lethal-company/p/ButteryStancakes/WeedKillerFixes/
   displayName: WeedKillerFixes
-  description: Fixes several gamebreaking issues with weed killer, including a
-    softlock with the Company Cruiser.
+  description: Fixes several gamebreaking issues with weed killer.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694688235
+  installedAtTime: 1739689772266
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2558,9 +2557,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-WeedKillerFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-WeedKillerFixes\1.1.1\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-BarberFixes
   authorName: ButteryStancakes
