@@ -134,7 +134,7 @@ List of mods:<br>
  Better_Shotgun_Tooltip  1.5.2<br>
  Maneater_Damage_Patch  1.0.1<br>
  FairBirds  1.0.1<br>
- BetterEXP  2.6.0<br>
+ BetterEXP  2.6.2<br>
  WeatherRegistry  0.4.2<br>
  LethalQuantities  1.2.9<br>
  LCTarotCard  1.1.1<br>

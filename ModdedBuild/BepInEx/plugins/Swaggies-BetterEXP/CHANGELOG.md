@@ -1,3 +1,15 @@
+# 2.6.2
+- added a "special feature" for a certain betterexp veteran.
+
+# 2.6.1
+- Fixed an issue where the "Scrap You Found" color would be gray if you collected 0 scrap (its never supposed to be gray)
+- Fixed an issue where the job length would not be reset and The Venturer note would be bugged when using Lethal Level Loader
+- Fixed an issue where nodes within 5 units of a player weren't getting marked as "cleared"
+- Removed the Weather Bonus from showing up in the round summary and instead combined its bonus xp with scrap collected
+- Renamed and reordered most of the hidden ranks to make it feel more special and progressive
+- Job logs will now includes the total clearance for the entire team
+	- Job logging can be enabled in the config
+
 # 2.6.0
 - Added two new notes - "The Venturer" and "Least Venturous" - enabled by default, given to players who explores the most and least of the facility respectively.
 	- Exploration is counted based on each player's field of view. Most of the time, seeing into an area is enough to count it as "explored" for yourself (as long as area isn't obstructed by any solid objects). The Venturer and Least Venturous will show the percentage of the indoor area explored by that player. There is currently no tracking for exploration as a team, only individually.
