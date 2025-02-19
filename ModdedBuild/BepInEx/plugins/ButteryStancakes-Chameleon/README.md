@@ -35,6 +35,9 @@ Most features are enabled by default, but all can be disabled if undesired.
   - Choose from `Never`, `Chance`, or `Always`.
   - The specific chance is dynamic and non-configurable.
 - `EclipsesBlockMusic` - Prevent the morning/afternoon ambient tracks from playing during Eclipsed weather, which has its own ambience.
+- `ReworkFoggyWeather` - Alters the mechanics of foggy weather to make it blend a bit better with the moon's palette.
+  - This only works for vanilla levels!
+  - It is compatible with [Rebalanced Moons](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/) as well
 - `GiantSkins` - Forest Keepers will blend in more with the environment.
   - When spawning on snowy moons, they will be coated in snow like the trees.
   - When burnt to death by an explosion, their body will appear charred.
@@ -136,7 +139,10 @@ Most features are enabled by default, but all can be disabled if undesired.
 
 <img src="https://i.ibb.co/rc9WJ16/offense-window.png" alt="Canyon" width="640"/>
 <img src="https://i.ibb.co/kqS0w5X/rend-window.png" alt="Snowy" width="640"/>
+<img src="https://i.ibb.co/7xcTmzHS/meadowwindow.png" alt="Flowery" width="640"/>
 <img src="https://i.ibb.co/gryYNdB/embrion-window.png" alt="Beach" width="640"/>
+<img src="https://i.ibb.co/pGS3GpN/springswindow.png" alt="Hot Springs" width="640"/>
+<img src="https://i.ibb.co/HDp6Kzg8/brokenscreenwindow.png" alt="Broken Screen" width="640"/>
 
 </details>
 
@@ -146,7 +152,7 @@ Most features are enabled by default, but all can be disabled if undesired.
 <img src="https://i.ibb.co/1KG1bYd/snowygiant.png" alt="Snowy giant" width="640"/>
 <img src="https://i.ibb.co/xLqW5MP/burntgiant.png" alt="Burnt giant" width="640"/>
 
-</details
+</details>
 
 <details>
 <summary>Foliage</summary>
@@ -172,6 +178,18 @@ Most features are enabled by default, but all can be disabled if undesired.
 
 </details>
 
+<details>
+<summary>Foggy</summary>
+
+<img src="https://i.ibb.co/G4n1pN4m/foggyvow0.png" alt="Foggy Vow #1" width="640"/>
+<img src="https://i.ibb.co/FqDwwN02/foggyvow1.png" alt="Foggy Vow #1 (reworked)" width="640"/>
+<img src="https://i.ibb.co/Ndz2cgB3/foggyvow2.png" alt="Foggy Vow #2" width="640"/>
+<img src="https://i.ibb.co/TBR9GdYZ/foggyvow3.png" alt="Foggy Vow #2 (reworked)" width="640"/>
+<img src="https://i.ibb.co/pvFG0LCq/embyfog0.png" alt="Foggy Embrion" width="640"/>
+<img src="https://i.ibb.co/vxBmW1w7/embyfog1.png" alt="Foggy Embrion (reworked)" width="640"/>
+
+</details>
+
 # Credits
 
 Thanks to [dopadream](https://thunderstore.io/c/lethal-company/p/dopadream/) for initial investigation and implementation of several config settings:
@@ -184,7 +202,7 @@ Thanks to [IAmBatby](https://thunderstore.io/c/lethal-company/p/IAmBatby/) for:
 - Conceptualizing the final version of the icon
 - Consultation for custom content compatibility
 
-Thanks to [JackdeDestroyer](https://thunderstore.io/c/lethal-company/p/JackdeDestroyer/Jacks_AMAZING_vanilla_like_painting_PAINTING_MOD/) for suggesting window variants for manors (Consider checking out their [amazing vanilla like painting painting mod](https://thunderstore.io/c/lethal-company/p/JackdeDestroyer/Jacks_AMAZING_vanilla_like_painting_PAINTING_MOD/), which makes a good companion for Chameleon)
+Thanks to [JackdeDestroyer](https://thunderstore.io/c/lethal-company/p/JackdeDestroyer/) for suggesting window variants for manors (Consider checking out their [amazing vanilla like painting painting mod](https://thunderstore.io/c/lethal-company/p/JackdeDestroyer/Jacks_AMAZING_vanilla_like_painting_PAINTING_MOD/), which makes a good companion for Chameleon)
 
 Thanks to [nickham13](https://thunderstore.io/c/lethal-company/p/nickham13/) for the excellent name
 

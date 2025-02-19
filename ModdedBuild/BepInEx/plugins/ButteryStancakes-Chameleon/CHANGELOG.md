@@ -1,3 +1,7 @@
+# v2.1.2
+- Fixed snow disappearing from giants when they chase players
+- Fixed `PowerOffBreakerBox` only working for the first round you unplug the apparatus
+- Added `ReworkFoggyWeather` setting
 # v2.1.1
 - Added `BlackoutWindows` setting
 - Fixed incompatibility I accidentally caused for [Rebalanced Moons](https://thunderstore.io/c/lethal-company/p/dopadream/RebalancedMoonsBeta/) with v2.1
