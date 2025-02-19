@@ -564,7 +564,7 @@
     minor: 6
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\doggosuki-Huntdown\1.6.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\doggosuki-Huntdown\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
@@ -2526,7 +2526,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1739689754156
+  installedAtTime: 1739980767386
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2535,9 +2535,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 6
+    patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.4.7\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-WeedKillerFixes
   authorName: ButteryStancakes
