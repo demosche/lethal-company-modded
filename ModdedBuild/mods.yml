@@ -156,7 +156,7 @@
     minor: 7
     patch: 10
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Rune580-LethalCompany_InputUtils\0.7.10\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Rune580-LethalCompany_InputUtils\icon.png
 - manifestVersion: 1
   name: Suskitech-AlwaysHearActiveWalkies
   authorName: Suskitech
@@ -1499,20 +1499,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1739689627380
+  installedAtTime: 1740160964681
   loaders: []
   dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - Evaisa-FixPluginTypesSerialization-1.1.1
     - MaxWasUnavailable-LethalModDataLib-1.2.2
+    - Evaisa-FixPluginTypesSerialization-1.1.1
+    - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 4
-    patch: 10
+    patch: 11
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IAmBatby-LethalLevelLoader\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IAmBatby-LethalLevelLoader\1.4.11\icon.png
 - manifestVersion: 1
   name: skidz-PoolRooms
   authorName: skidz
