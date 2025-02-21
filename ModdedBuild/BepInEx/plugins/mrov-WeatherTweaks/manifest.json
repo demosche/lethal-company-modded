@@ -2,7 +2,7 @@
   "namespace": "mrov",
   "name": "WeatherTweaks",
   "description": "Difficulty tweaks to the weather system in Lethal Company.",
-  "version_number": "1.0.3",
+  "version_number": "1.1.0",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "mrov-WeatherRegistry-0.3.16",
