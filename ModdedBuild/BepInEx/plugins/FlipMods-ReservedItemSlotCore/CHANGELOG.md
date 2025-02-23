@@ -1,3 +1,6 @@
+# 2.0.44
++ Removed the delay after syncing your reserved item slots with the host. Your reserved item slots will apply to your item slots immediately, hopefully preventing errors from other mods that may try to reference those slots before they're actually created.<br>
+I cannot fully remember why I had the delay there, and hopefully there wasn't a specific reason that I'm forgetting.
 # 2.0.43
 + This mod will now ignore errors caused by the TooManyEmotesCompat patch when the local player performs an emote. These errors are usually caused by a separate mod (usually indirectly). This should prevent further bugs from occuring with this mod, or with TooManyEmotes, but the problem mod still may cause other issues.
 # 2.0.42
