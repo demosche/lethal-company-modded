@@ -3109,7 +3109,7 @@
     minor: 5
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.5.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
@@ -3461,20 +3461,20 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1740161015044
+  installedAtTime: 1740296397722
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
-    - mrov-WeatherRegistry-0.3.16
+    - mrov-WeatherRegistry-0.5.1
     - xilophor-LethalNetworkAPI-3.3.1
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 1
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherTweaks\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherTweaks\1.1.1\icon.png
 - manifestVersion: 1
   name: SpookyBuddy-CustomOutsideObjects
   authorName: SpookyBuddy
