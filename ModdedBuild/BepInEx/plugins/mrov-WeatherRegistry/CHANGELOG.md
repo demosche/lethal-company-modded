@@ -1,3 +1,19 @@
+# 0.5.2
+
+- fixed a MASSIVE OOPSIE [#23](https://github.com/AndreyMrovol/LethalWeatherRegistry/issues/23) - thank you to everyone who reported this issue!
+
+# 0.5.1
+
+- fixed a small oopsie
+
+# 0.5.0
+
+- changed the saved data type
+  - this will prevent combined/progressing weathers from being re-applied incorrectly after a lobby reload
+- changed the default value of `PlanetVideos` to `true`
+- fixed [an issue](https://github.com/AndreyMrovol/LethalWeatherTweaks/issues/44) with WeatherRegistry incorrectly restoring weathers after a lobby reload (thanks, `coollkkps`!)
+- fixed some optimization issues in WeatherManager (thanks, `zaggy1024`!)
+
 # 0.4.3
 
 - changed default level filter to include all company levels
