@@ -553,7 +553,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1739980742447
+  installedAtTime: 1740498391330
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -562,9 +562,9 @@
   versionNumber:
     major: 1
     minor: 6
-    patch: 0
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\doggosuki-Huntdown\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\doggosuki-Huntdown\1.6.2\icon.png
 - manifestVersion: 1
   name: tinyhoot-ShipLobby
   authorName: tinyhoot
@@ -3474,7 +3474,7 @@
     minor: 1
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherTweaks\1.1.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherTweaks\icon.png
 - manifestVersion: 1
   name: SpookyBuddy-CustomOutsideObjects
   authorName: SpookyBuddy
