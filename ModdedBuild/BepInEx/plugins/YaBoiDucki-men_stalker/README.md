@@ -179,3 +179,9 @@ I also would like to thank the writers of the lethal company modding's wiki, and
 - v2.5.4
 
         ...
+
+- v2.5.7
+
+        Bug fixing, if there is.
+
+        Slight increase in "Rushing" speed (9.5 -> 10.5)
