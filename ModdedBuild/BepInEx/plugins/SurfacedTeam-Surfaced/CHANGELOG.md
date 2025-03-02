@@ -1,3 +1,7 @@
+## 1.5.3
+
+- Added a config to configure the Bertha explosion timer (Should've done this a long time ago)
+
 ## 1.5.2
 
 - Made the Murder Bird more rotund and cute (Not any less deadly)
