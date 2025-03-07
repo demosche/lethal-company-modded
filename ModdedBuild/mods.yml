@@ -3109,7 +3109,7 @@
     minor: 5
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.5.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
@@ -3438,7 +3438,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1739689875474
+  installedAtTime: 1741352153138
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3448,9 +3448,9 @@
   versionNumber:
     major: 0
     minor: 0
-    patch: 5
+    patch: 6
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovWeathers\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovWeathers\0.0.6\icon.png
 - manifestVersion: 1
   name: mrov-WeatherTweaks
   authorName: mrov

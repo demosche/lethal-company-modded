@@ -150,7 +150,7 @@ List of mods:<br>
  BarberMaterialTweaks  1.1.1<br>
  High_Quota_Fixes  1.56.7<br>
  CorrectDeathPenalty  1.0.1<br>
- MrovWeathers  0.0.5<br>
+ MrovWeathers  0.0.6<br>
  WeatherTweaks  1.1.1<br>
  CustomOutsideObjects  1.3.0<br>
  ProperOxygen  1.0.0<br>
