@@ -1,3 +1,5 @@
+# v1.2.3
+- [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
 # v1.2.2
 - Fixed grouped enemies sometimes adding to power count without actually spawning
 # v1.2.1

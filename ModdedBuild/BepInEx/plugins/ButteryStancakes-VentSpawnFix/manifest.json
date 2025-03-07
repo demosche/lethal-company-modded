@@ -1,6 +1,6 @@
 {
     "name": "VentSpawnFix",
-    "version_number": "1.2.2",
+    "version_number": "1.2.3",
 	"website_url": "https://github.com/ButteryStancakes/VentSpawnFix",
     "description": "Allows indoor enemies to spawn in groups larger than 1, like outdoor and daytime enemies can.",
     "dependencies": [
