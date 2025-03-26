@@ -38,9 +38,14 @@ Negative priority will force the item slots to appear on the right side of the s
 
 
 ## Supports InputUtils
-- Any relevant hotkeys for this mod can be managed in the in-game keybind menu.
-- InputUtils is not a dependency, but is recommended!<br><br>
++ Any relevant hotkeys for this mod can be managed in the in-game keybind menu.
++ InputUtils is not a dependency, but is recommended!<br><br>
 
+## LCVR Compatible
++ Players running the LCVR mod AND are in VR mode will be able to scroll to the reserved item slots hotbar by scrolling.
++ All keybinds for swapping to/from the reserved item slots will be disabled for these players.
++ For technical reasons, if LCVR is enabled at all, swapping between items in your reserved item slots will NOT skip empty slots as it usually would. This applies to *all* players, not just those in VR mode.
++ If this compat has any issues, such as de-syncs, please let me know on the mod's github page. Thank you!
 
 ## API Support (examples below)
 + Adds API features for developers to use to easily create their own Reserved Item Slot mods, or to add their items to existing Reserved Item Slots.
