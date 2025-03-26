@@ -146,7 +146,7 @@ List of mods:<br>
  Biodiversity  0.1.4<br>
  OpenBodyCams  3.0.5<br>
  OpenLib  0.3.2<br>
- SpiderPositionFix  1.2.1<br>
+ SpiderPositionFix  1.4.0<br>
  BarberMaterialTweaks  1.1.1<br>
  High_Quota_Fixes  1.56.7<br>
  CorrectDeathPenalty  1.0.1<br>
