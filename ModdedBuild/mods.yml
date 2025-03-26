@@ -107,7 +107,7 @@
     minor: 0
     patch: 48
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.48\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -300,7 +300,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1734118839975
+  installedAtTime: 1743007221561
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -308,11 +308,11 @@
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 0
-    minor: 16
-    patch: 2
+    major: 1
+    minor: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Evaisa-LethalLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Evaisa-LethalLib\1.0.1\icon.png
 - manifestVersion: 1
   name: Electric131-OuijaBoard
   authorName: Electric131
