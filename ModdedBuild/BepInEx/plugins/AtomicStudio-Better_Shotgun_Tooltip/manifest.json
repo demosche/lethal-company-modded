@@ -1,7 +1,7 @@
 {
     "name": "Better_Shotgun_Tooltip",
-    "version_number": "1.5.2",
-    "website_url": "https://discord.gg/38hGSYrPyj",
+    "version_number": "1.6.0",
+    "website_url": "https://atomic.is-a.dev",
     "description": "Inhances the tooltips of the shotgun such as safety and ammo loaded.",
     "dependencies": [
         

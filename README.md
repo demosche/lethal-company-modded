@@ -131,7 +131,7 @@ List of mods:<br>
  Start_with_Fatality_Board  1.0.0<br>
  SmartItemSaving  1.2.4<br>
  VentSpawnFix  1.2.3<br>
- Better_Shotgun_Tooltip  1.5.2<br>
+ Better_Shotgun_Tooltip  1.6.0<br>
  Maneater_Damage_Patch  1.0.1<br>
  FairBirds  1.0.1<br>
  BetterEXP  2.6.2<br>

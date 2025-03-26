@@ -1,4 +1,14 @@
 <details>
+<summary> v1.6.0 - Compatibility </summary>
+
+- [Buyable Shotgun Plus](https://thunderstore.io/c/lethal-company/p/Entity378/BuyableShotgunPlus/) now has compatibility!
+- This should work fine. As this is very experimental, report bugs to me. @atomictyler OR https://atomic.is-a.dev/socials/
+- Fixed typo in the LC Modding badge
+
+</details>
+
+
+<details>
 <summary> v1.5.2 - Major Bug Fix 2 </summary>
 
 - The shotgun still tweaks out when switching when on custom tooltips
