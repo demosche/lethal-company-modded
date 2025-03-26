@@ -1,3 +1,12 @@
+#1.4.6
+Added new config option to make turrets able to shoot each other. No this is not targeting of other turrets. Let the chaos begin.
+
+# 1.4.5
+Fixed issue where traps were set off when set not to in config without players nearby
+
+# 1.4.4
+Added Turret Config. Mess with the damage all you want. You can even make it heal you.
+
 # 1.4.3
 Added Config for Surfaced Traps. This version for sure fixes all the errors. probably...
 
