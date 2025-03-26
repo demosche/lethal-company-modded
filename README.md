@@ -105,7 +105,7 @@ List of mods:<br>
  Longer_Day  1.0.0<br>
  Forest_Giant_Motionsense  1.0.3<br>
  ToilHead  1.7.2<br>
- CruiserImproved  1.4.1<br>
+ CruiserImproved  1.5.0<br>
  BetterVehicleControls  1.1.3<br>
  CruiserMap  1.0.5<br>
  SuperLandmine  1.1.3<br>

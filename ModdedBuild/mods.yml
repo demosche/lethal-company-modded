@@ -2332,7 +2332,7 @@
     minor: 2
     patch: 24
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.24\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
@@ -2412,7 +2412,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1725694585096
+  installedAtTime: 1743007337539
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2420,10 +2420,10 @@
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 4
-    patch: 1
+    minor: 5
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\DiggC-CruiserImproved\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\DiggC-CruiserImproved\1.5.0\icon.png
 - manifestVersion: 1
   name: Dev1A3-BetterVehicleControls
   authorName: Dev1A3
