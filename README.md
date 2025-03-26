@@ -110,7 +110,7 @@ List of mods:<br>
  CruiserMap  1.0.5<br>
  SuperLandmine  1.1.3<br>
  Surfaced  1.5.3<br>
- GeneralImprovements  1.4.8<br>
+ GeneralImprovements  1.4.11<br>
  WeedKillerFixes  1.1.1<br>
  BarberFixes  1.3.0<br>
  LifetimeCruiserWarranty  1.4.0<br>

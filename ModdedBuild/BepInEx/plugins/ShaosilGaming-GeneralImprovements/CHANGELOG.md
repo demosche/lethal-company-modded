@@ -1,9 +1,40 @@
 # Changelog
 
+### v1.4.11 - Error hotfix and MonitorsAPI additions
+* Fixed an error caused by the Unity refactor in the previous update when `FixPersonalScanner` was set to true.
+* Fixed a bug where monitors would not show their updated text right away if it was changed while the power was out.
+* API Changes:
+	* Fixed MonitorsAPI not allowing custom text calls if a monitor was assigned "None".
+	* Added "Assignment" as another exposed property of the MonitorsAPI.MonitorInfo object. (Stores what GI monitor type is assigned)
+	* Added "PoweredOn" to MonitorsAPI to determine whether all monitors are on or off due to power (from power button, lightning strike, etc)
+
+### v1.4.10 - Unity analyzer refactor, compatibility, and API improvements
+* Analyzed my code for potential invalid syntax and null checks and refactored 100+ areas that could have caused problems.
+* Fixed another compatability with [FurnitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/) where assigning a position/rotation would not work with GI placeables.
+* Added another monitor option: `CurrentMoon`, which displays the currently orbited/landed moon.
+* Split `DisableShipCamPostProcessing` into two options, one for internal and one for external.
+* Updated the `MonitorsApi.MonitorInfo.QueueRender()` function to take an optional string value and return a boolean if the monitor was refreshed. The new customText argument allows modders to display their own text.
+	* Keep in mind that if the monitor has an active GI assignment, updates to it will overwrite calls to `QueueRender` that used custom text. Setting the monitor to `None` would be the safest bet.
+
+### v1.4.9 - Yo dawg I heard you like fixes. So I made fixes for my fixes so you could see me fix what I fixed.
+* Lightly overhauled the medkit and charge station in the assets bundle.
+	* This fixes another compatibility with [FurnitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/) where the medkit and item charger could not be locked at all.
+	* This also fixes a compatibility with [ShipColors](https://thunderstore.io/c/lethal-company/p/darmuh/ShipColors/) where the medkit and item charger would not show up in the config.
+* Fixed compatibility with [Matty Fixes](https://thunderstore.io/c/lethal-company/p/mattymatty/Matty_Fixes/) where having `FixItemsLoadingSameRotation` enabled would cause issues with item rotation.
+* Merged a PR from [AndreyMrovol](https://github.com/AndreyMrovol) (Thanks!) that fixes issue a bug with weather not showing when [LethalWeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/) is installed.
+* Added a small animation to the medkit when used.
+* Fixed errors that would occur when checking if players were masked when using Alive monitors.
+* Fixed the medkit's interaction position always being in the charger's position when loading a save.
+* Fixed the placeable charger's interaction position height being incorrect when loading a save.
+* Fixed a few things about `SaveShipFurniturePlaces`, including it not showing the host the persisted furniture positions when starting a new game in a slot that previously had saved positions.
+* Potentially fixed errors being logged in rare cases when a flashlight was discarded.
+* Updated the alive monitor text to be uppercase.
+
+**NOTE: If you install or update this mod manually, you will need to get the latest version of the assets file with this release.**
+
 ### v1.4.8 - Fixes and compatibility improvements
 * Fixed a bug that would spam errors when placing the medkit if the item charger placement was disabled.
 * Fixed a compatibility issue with [FurnitureLock](https://thunderstore.io/c/lethal-company/p/mattymatty/FurnitureLock/) where the medkit and item charger could not be placed properly.
-* Fixed a bug with the PlayersAlive monitor where it would display too many alive players when using certain masked enemy mods.
 * Fixed a bug where using Held or NonScrap for the keep items during teleport would cause two handed scrap to float or disappear when the player was teleported.
 * Potentially fixed a bug where masked players would be incorrectly counted when using other masked mods with MaskedPlayersAppearAliveOnMonitors set to true.
 * Potentially improved compatibility with [LethalMoonUnlocks](https://thunderstore.io/c/lethal-company/p/explodingMods/LethalMoonUnlocks/) and other mods that hook into the SetNewProfitQuota function from vanilla code.
