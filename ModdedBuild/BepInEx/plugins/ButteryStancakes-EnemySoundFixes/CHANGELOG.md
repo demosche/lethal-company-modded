@@ -1,3 +1,5 @@
+# 1.6.6
+- [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
 # 1.6.5
 - Fixed vents continuing to make noise after a monster spawns out of them
 - Fixed nutcrackers using normal vent sounds (or vice versa - normal enemies using nutcracker vent sounds)
