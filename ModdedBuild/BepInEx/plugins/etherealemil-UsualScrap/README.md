@@ -52,12 +52,14 @@ For Update 1.7.3 users and above - The medkit can now be used to directly heal o
 <details>
 <summary>Emergency Injector(60C)</summary>
 
-Costs 60 credits, Weighs 1
+Costs 45 credits, Weighs 1
 
-When used, the Emergency Injector gives you a speed boost (3x), refills your sprint meter, boosts your sprint meter capacity, and gives you a jump boost.
+When used below 90 health, the Emergency Injector gives you a speed boost (2x), refills your sprint meter, and gives you a jump boost. 
 
-- The effect lasts for 30 seconds. After 1 minute you will receive 25 damage overtime.
-- If another injector is used while you already have the speed buff you will take 50 damage overtime and won't reapply the speed buff.
+When used above 90 health, The Emergency Injector will queue its buffs mentioned above until you take any source of damage.
+
+- The effect lasts for 15 seconds.
+- If another injector is used while you already have the speed buff active you will take 15 damage over 3 seconds and won't reapply the speed buff.
 
 </details>
 
@@ -84,11 +86,11 @@ Shift controller connectivity mechanic:
 
 Costs 115 credits, Weighs 5
 
-The Tool Box can be used to dismantle landmines and turrets and will produce scrap when done successfully.
+The Tool Box can be used to dismantle traps and will produce scrap when done successfully.
 
-- To dismantle a trap, look at it, press and hold the Left Click button, and listen for the sound effect playing, the sound means it's working. It is a bit wonky when crouching, when around weird geometry, or when the vanilla traps are changed (like bigger landmines).
-- Landmines produce 1 piece of scrap and take 6 seconds to dismantle.
-- Turrets produce 2-3 pieces of scrap and take 12 seconds to dismantle.
+To dismantle a trap, walk near it and hold left click without moving. After a short period of time (that depends on the trap) the trap will be dismantled and drop a piece or pieces of scrap.
+	- Turrets take 10 seconds to dismantle.
+	- Landmines take 5 seconds to dismantle.
 
 </details>
 
@@ -102,8 +104,6 @@ The defibrillator uses power to revive deceased employees.
 - The defibrillator has a charge meter (Not related to power) on the side of it. The charge meter indicate how long you've held down the use button and it must be fully charged to successfully revive a player.
 - When the charge meter is full you can continue to hold the use button and be ready to revive at a moments notice but keep in mind that the items power is constantly drained when charging.
 - A power cost is deducted when you release the use button at full charge regardless of if a player was revived or not.
-
-- Currently I've made players cut in half (butler, sizable scissors) or beheaded (Ghost Girl, Coil Head) impossible to revive. there will be a config to disable this eventually.
 
 </details>
 
@@ -148,6 +148,8 @@ Capsules will do different things depending on other in-game factors like the ti
 Gloomy Capsule - Activates during the evening and night, when fully charged it will randomly teleport it's holder either indoors or outdoors depending on their current location.
 
 Frigid Capsule - Activates during the day and afternoon, when fully charged it creates a localized snowstorm that will apply stacks of slowness to players that remain in the storm.
+
+???
 
 </details>
 

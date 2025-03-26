@@ -760,6 +760,33 @@ If there are ANY issues, the link to my github is at the top of the page! The mo
 
 </details>
 
+<details>
+<summary>Version 1.7.8</summary>
+
+Hello fellow employees, it's been a while. While I am still not back to modding often like before, I am here as a "part time employee" for a while. No new content this update but there may be some new stuff in the near future.
+
+- Added permadeath config to the defibrillator.
+- Candy speed effect x 2 but speed effect duration / 2 and candy value halved.
+- Emergency injector function changed for the final time and price lowered.
+- Toolbox redone, removed the sound but it definitely works for all players and doesn't have the previous trap detection issues. Trying to add an animation for it and new sounds to finish it off.
+- Went through and updated item descriptions on the mod page.
+- Haven't touched the code in over a month so I forgot some early changes.
+
+Planned - 
+Toolbox animation and sound.
+Toolbox functioning on modded traps.
+Toolbox functioning on spike traps, spike traps need altered code for whatever reason.
+Injector visual info and final couple additions.
+Capsule changes.
+
+Optimized code and streamlined functions.
+Some other stuff.
+
+Sorry if you expected more of this update but I've been busy and haven't touched the mod or the gamee since last update.
+
+If there are ANY issues, the link to my github is at the top of the page! The mod is also on the "Lethal Company Modding" discord under the name "Usual Scrap" WITH a space. Balance feedback is also very welcome as I haven't actually played lethal company in ages, Thanks.
+
+</details>
 
 
 

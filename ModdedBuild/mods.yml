@@ -2537,7 +2537,7 @@
     minor: 4
     patch: 11
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ShaosilGaming-GeneralImprovements\1.4.11\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ShaosilGaming-GeneralImprovements\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-WeedKillerFixes
   authorName: ButteryStancakes
@@ -2890,10 +2890,10 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1735808589899
+  installedAtTime: 1743007383055
   loaders: []
   dependencies:
-    - Evaisa-LethalLib-0.16.1
+    - Evaisa-LethalLib-0.16.2
     - BepInEx-BepInExPack-5.4.2100
     - Sigurd-CSync-5.0.1
   incompatibilities: []
@@ -2901,9 +2901,9 @@
   versionNumber:
     major: 1
     minor: 7
-    patch: 7
+    patch: 8
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\etherealemil-UsualScrap\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\etherealemil-UsualScrap\1.7.8\icon.png
 - manifestVersion: 1
   name: JackEhttack-DiminishingReturns
   authorName: JackEhttack

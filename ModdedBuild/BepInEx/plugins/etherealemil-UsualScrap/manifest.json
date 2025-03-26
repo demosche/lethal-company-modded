@@ -1,11 +1,11 @@
 {
     "name": "UsualScrap",
-    "version_number": "1.7.7",
-    "target_version": "Always the Latest Version",
+    "version_number": "1.7.8",
+    "target_version": "Always the Latest GAME Version",
     "website_url": "https://github.com/EtherealEmil/UsualScrap.git",
     "description": "Adds 15+ unique equipment and scrap items that try to keep the vanilla tone",
     "dependencies": [
-      "Evaisa-LethalLib-0.16.1",
+      "Evaisa-LethalLib-0.16.2",
 	"BepInEx-BepInExPack-5.4.2100",
 	"Sigurd-CSync-5.0.1"
     ]
