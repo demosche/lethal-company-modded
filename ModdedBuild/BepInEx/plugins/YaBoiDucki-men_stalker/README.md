@@ -185,3 +185,22 @@ I also would like to thank the writers of the lethal company modding's wiki, and
         Bug fixing, if there is.
 
         Slight increase in "Rushing" speed (9.5 -> 10.5)
+
+- v2.6.0
+        Huge code cleanup/revamp : Less prone to bug and a lot more readable
+
+        Roaming duration -> 120s : Properly evading the MS now ensures the scavengers gets proper reward by getting rid of it for 2 minutes. Also improves the gameplay feedback : that's because you can't see it for 2 minutes after evading it, which means it should be more obvious for the player when you actually evade it. But since the entirety of the design behind this Dungeon entity revolves around "the unknown", you sometime still can't be too sure, although this can be discarded as simply being part of it's design.
+
+        Stalking sequence -> lowered by 10s : direct consequence of the above.
+
+        Stalking sequence -> triggering the stalk phase while an initial eyecontact hasn't been made beforehand extends the stalking sequence's duration : Prior to this it was the opposite, which made sense "lore" wise, but gameplay wise it just penalizes player who couldn't see it beforehand while giving an unnecessary reward to player who did see it beforehand
+
+        Chase sequence -> chase duration increased by a flat +5s (Duration span between 25s-35s): Felt too short prior, ended too abruptly. Small ajustement to make it longer. Also a direct consequence of the above Roaming sequence's change.
+        
+        Several bug fixing 
+
+        Fixed an issue where the MS's mesh was not set to be in Enemy layer
+
+        Stalking sequence, each seconds where the MS has lost it's target, increases the stalking sequence's duration by; from 3.0s -> to 1.5s : Direct consequence of ---, before this said change was implemented, this mechanic acted as the "reward" for losing it, but the reward had poor gameplay feedback on the player due to it being too subtle, so now in theory this mechanic is obsolete. That being said, we will still keep it, although the effect are greatly mitigated.
+
+        The general trend of this patch being : When MS is setting up for an attack, it's more likely to attack and it's more impactful, but evading it will lead to an abruptly long pause, long enough to be noticeable, which should make it worthy to attempt at losing it (instead of just sitting down and giving up), on top of being more obvious in how to deal with the MS.
