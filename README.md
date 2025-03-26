@@ -144,7 +144,7 @@ List of mods:<br>
  AutoScroll  0.0.1<br>
  MoreCompany  1.11.0<br>
  Biodiversity  0.1.4<br>
- OpenBodyCams  3.0.3<br>
+ OpenBodyCams  3.0.5<br>
  OpenLib  0.3.2<br>
  SpiderPositionFix  1.2.1<br>
  BarberMaterialTweaks  1.1.1<br>

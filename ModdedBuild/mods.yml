@@ -3109,7 +3109,7 @@
     minor: 5
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.5.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
@@ -3305,7 +3305,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1731330191679
+  installedAtTime: 1743007445369
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3314,9 +3314,9 @@
   versionNumber:
     major: 3
     minor: 0
-    patch: 3
+    patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Zaggy1024-OpenBodyCams\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Zaggy1024-OpenBodyCams\3.0.5\icon.png
 - manifestVersion: 1
   name: darmuh-OpenLib
   authorName: darmuh
