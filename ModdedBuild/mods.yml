@@ -3178,7 +3178,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IntegrityChaos-LCCutscene\2.0.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IntegrityChaos-LCCutscene\icon.png
 - manifestVersion: 1
   name: IntegrityChaos-GraphicsAPI
   authorName: IntegrityChaos
@@ -3275,12 +3275,12 @@
   authorName: super_fucking_cool_and_badass_team
   websiteUrl: https://thunderstore.io/c/lethal-company/p/super_fucking_cool_and_badass_team/Biodiversity/
   displayName: Biodiversity
-  description: Expanding the flora and fauna of Lethal Company!
+  description: Expanding the flore and fauna of Lethal Company!
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1732192436948
+  installedAtTime: 1745464324073
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -3289,10 +3289,10 @@
   optionalDependencies: []
   versionNumber:
     major: 0
-    minor: 1
-    patch: 4
+    minor: 2
+    patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\super_fucking_cool_and_badass_team-Biodiversity\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\super_fucking_cool_and_badass_team-Biodiversity\0.2.0\icon.png
 - manifestVersion: 1
   name: Zaggy1024-OpenBodyCams
   authorName: Zaggy1024
