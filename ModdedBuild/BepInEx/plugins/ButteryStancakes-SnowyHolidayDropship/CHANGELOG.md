@@ -1,3 +1,5 @@
+# v1.1.4
+- [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
 # v1.1.3
 - Re-upload because I forgot the asset bundle in v1.1.2
 # v1.1.2
