@@ -2171,7 +2171,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\windblownleaves-ScaledFallDamage\1.0.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\windblownleaves-ScaledFallDamage\icon.png
 - manifestVersion: 1
   name: TestAccount666-TestAccountCore
   authorName: TestAccount666
@@ -2321,7 +2321,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1743007318539
+  installedAtTime: 1745464208328
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2330,9 +2330,9 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 24
+    patch: 26
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-MrovLib\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-MrovLib\0.2.26\icon.png
 - manifestVersion: 1
   name: Onyx_Inoculum-Longer_Day
   authorName: Onyx_Inoculum
