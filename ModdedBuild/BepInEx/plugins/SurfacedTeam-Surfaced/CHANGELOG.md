@@ -1,3 +1,38 @@
+## 1.5.5
+
+- Reverted amazing april fools changes
+
+## Surfaced 2 (1.5.4 April fools update)
+
+- Made fish more realistic
+
+- Made everything better
+
+- Harder to see seamines
+
+- Fixed Berthas rusty detonation timer
+
+- Added new Scary sounds
+
+- Redid Horseshoot Model and sounds
+
+- "Big is good" 
+-Fumo M. Borsh
+
+- Improved bell crab and sent it to the gym
+
+- Fluffed up urchin spikes
+
+- Made Rodrigo plush less deadly
+
+- Unpopped clownhorn fish
+
+- Reverted Bruce to his pre-nerf state
+
+- Reduced our enemies spawning way too often
+
+- Made Mantis Shrimp more visible
+
 ## 1.5.3
 
 - Added a config to configure the Bertha explosion timer (Should've done this a long time ago)
