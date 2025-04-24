@@ -96,7 +96,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1743007195223
+  installedAtTime: 1745463991213
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -105,9 +105,9 @@
   versionNumber:
     major: 2
     minor: 0
-    patch: 48
+    patch: 49
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\FlipMods-ReservedItemSlotCore\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\FlipMods-ReservedItemSlotCore\2.0.49\icon.png
 - manifestVersion: 1
   name: FlipMods-ReservedFlashlightSlot
   authorName: FlipMods
@@ -3565,4 +3565,4 @@
     minor: 3
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\LethalCompanyModding-RuntimeIcons\0.3.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\LethalCompanyModding-RuntimeIcons\icon.png

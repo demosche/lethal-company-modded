@@ -1,3 +1,6 @@
+# 2.0.49
++ Fixed small compat issue with TooManyEmotes when the emote menu is open, and when your reserved slots are focused, that scrolling would scroll twice.
+
 # 2.0.48
 + I'm definitely not going to talk about the "typo" that I failed to fix in 2.0.46, and again in 2.0.47 because it wasn't included for some mysterious reason.<br>
 But if I were to talk about it, I'd say the fix was definitely included this time. I swear, I triple checked this time.
