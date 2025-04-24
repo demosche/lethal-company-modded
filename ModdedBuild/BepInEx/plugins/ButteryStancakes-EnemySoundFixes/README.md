@@ -6,6 +6,8 @@ Fixes numerous issues with missing sound effects, or SFX playing when they shoul
 <details>
 <summary>Brackens</summary>
 
+- Restored original stun sound
+  - It was (most likely accidentally) replaced with the stun sound for dogs in v60
 - Fixed hit sound being interrupted by death animation
 
 </details>

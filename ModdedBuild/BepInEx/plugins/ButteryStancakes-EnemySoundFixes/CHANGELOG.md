@@ -1,19 +1,23 @@
-# 1.6.6
+# v1.7.0
+- Fixed brackens using stun sound effects from eyeless dogs
+# v1.6.7
+- Cruiser push audio is now muted in orbit
+# v1.6.6
 - [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
-# 1.6.5
+# v1.6.5
 - Fixed vents continuing to make noise after a monster spawns out of them
 - Fixed nutcrackers using normal vent sounds (or vice versa - normal enemies using nutcracker vent sounds)
-# 1.6.4
+# v1.6.4
 - Fixed mineshaft doors muffling their own audio as if they were behind a wall
-# 1.6.3
+# v1.6.3
 - Fixed giants not stomping when ignited
   - It was me. I caused this bug 😢
-# 1.6.2
+# v1.6.2
 - Actually fixed tulip snake wing flapping (the changes from v1.4.0 were a red herring all along)
 - Fixed a potential issue with entrance doors in custom content
-# 1.6.1
+# v1.6.1
 - Fixed maneater clicking its mandibles when freshly spawning
-# 1.6.0
+# v1.6.0
 - Rolled back a few tulip snake changes from v1.4.0 since it didn't play nice with mods
 - Several fixes to doors
   - The same random clip now plays on both sides of the entrance door
@@ -21,9 +25,9 @@
   - Mimics now play entrance door sounds on both sides when entering/exiting the building (like players)
   - Fixed factory doors, locker doors, and breaker box having backwards open/closed sounds.
   - Fixed cabin doors on Rend and Adamance still using the steel door sounds.
-# 1.5.10
+# v1.5.10
 - Fixed mimics not playing hit sounds when the death animation occurs
-# 1.5.9
+# v1.5.9
 - Fixed maneater not playing hit sounds when the death animation occurs
 - Fixed snare fleas screeching after death if they are killed right as they drop from the ceiling
 - Fixed "Hey" voice when the ship is struck by lightning
