@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.5
+- Removed PhysicsAPI dependency.
+
+## 1.0.4
+- Added PhysicsAPI dependency.
+
 ## 1.0.3
 - Re-compiled for v69.
 - Fixed typo in the readme.
