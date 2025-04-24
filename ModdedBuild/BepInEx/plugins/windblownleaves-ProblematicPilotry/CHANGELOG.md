@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.7
+- Removed PhysicsAPI dependency.
+
+## 1.3.6
+- Added PhysicsAPI dependency.
+
 ## 1.3.5
 - Fixed an error on clients and resulting desyncs.
 
