@@ -64,3 +64,9 @@
 ### Version 2.1.19
 - Fixed a bug where any player holding the gnome item would cause host to drop all items.
 - Still gnomes.
+### Version 2.1.20
+- Hopefully fixed the gnome item game breaking bug.
+- Still gnomes.
+### Version 2.1.21
+- Disabled the flashbang gnome until fixed.
+- Still gnomes.

@@ -1561,7 +1561,7 @@
     minor: 7
     patch: 0
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-EnemySoundFixes\1.7.0\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-EnemySoundFixes\icon.png
 - manifestVersion: 1
   name: fumiko-CullFactory
   authorName: fumiko
@@ -1692,19 +1692,19 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1721125202428
+  installedAtTime: 1745464054329
   loaders: []
   dependencies:
-    - Evaisa-LethalLib-0.14.2
     - BepInEx-BepInExPack-5.4.2100
+    - Evaisa-LethalLib-0.14.2
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 2
     minor: 1
-    patch: 19
+    patch: 21
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.21\icon.png
 - manifestVersion: 1
   name: KawaiiBone-Remnants
   authorName: KawaiiBone

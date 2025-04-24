@@ -2,8 +2,6 @@ Have you ever REALLY wanted to have gnomes in Lethal Company? No? That's okay, h
 # Gnomes!
 This mod features TWO completely custom AI, with their own rules and methods of being dealt with! While not technically "hostile" I don't know if I'd wanna get too close to one...
 
-![Gnome Enemy](https://i.imgur.com/lORIdK9.png) ![Gnome Item](https://i.imgur.com/GW49nef.png) (imagine a blue gnome here)
-
 Gnomes don't want you to know they're alive (BUT THEY TOTALLY ARE!) so they'll only move when you're not looking! I'm not crazy, you're crazy. But seriously, don't get touched by one...WHO KNOWS where you OR THE GNOME will end up??
 
 # Current Features:
@@ -94,4 +92,10 @@ One (1) Gnome Item! (still an enemy)
 - Still gnomes.
 ### Version 2.1.19
 - Fixed a bug where any player holding the gnome item would cause host to drop all items.
+- Still gnomes.
+### Version 2.1.20
+- Hopefully fixed the gnome item game breaking bug.
+- Still gnomes.
+### Version 2.1.21
+- Disabled the flashbang gnome until fixed.
 - Still gnomes.
