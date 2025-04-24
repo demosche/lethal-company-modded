@@ -3109,7 +3109,7 @@
     minor: 5
     patch: 7
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mrov-WeatherRegistry\0.5.7\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\mrov-WeatherRegistry\icon.png
 - manifestVersion: 1
   name: BananaPuncher714-LethalQuantities
   authorName: BananaPuncher714
@@ -3161,23 +3161,24 @@
   authorName: IntegrityChaos
   websiteUrl: https://thunderstore.io/c/lethal-company/p/IntegrityChaos/LCCutscene/
   displayName: LCCutscene
-  description: Made this tool for Diversity.
+  description: LCCutscene is a tool to create cutscenes and immersive animations
+    to Lethal Company.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1729341300528
+  installedAtTime: 1745464299576
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 1
+    major: 2
     minor: 0
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\IntegrityChaos-LCCutscene\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\IntegrityChaos-LCCutscene\2.0.1\icon.png
 - manifestVersion: 1
   name: IntegrityChaos-GraphicsAPI
   authorName: IntegrityChaos

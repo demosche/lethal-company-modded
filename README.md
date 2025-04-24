@@ -138,7 +138,7 @@ List of mods:<br>
  WeatherRegistry  0.5.7<br>
  LethalQuantities  1.2.9<br>
  LCTarotCard  1.1.1<br>
- LCCutscene  1.0.0<br>
+ LCCutscene  2.0.1<br>
  GraphicsAPI  1.0.0<br>
  Diversity  3.0.2<br>
  AutoScroll  0.0.1<br>
