@@ -1986,7 +1986,7 @@
     minor: 1
     patch: 4
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-SnowyHolidayDropship\1.1.4\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-SnowyHolidayDropship\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-JetpackFixes
   authorName: ButteryStancakes
@@ -1999,7 +1999,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1738326399823
+  installedAtTime: 1745464115880
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2008,9 +2008,9 @@
   versionNumber:
     major: 1
     minor: 5
-    patch: 2
+    patch: 3
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-JetpackFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-JetpackFixes\1.5.3\icon.png
 - manifestVersion: 1
   name: DaJadeNinja-ChocoQuota
   authorName: DaJadeNinja

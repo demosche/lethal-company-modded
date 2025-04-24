@@ -1,3 +1,5 @@
+# v1.5.3
+- [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
 # v1.5.2
 - Fixed critical audio from [Jetpack Warning](https://thunderstore.io/c/lethal-company/p/Hamunii/JetpackWarning/) not playing
 # v1.5.1
