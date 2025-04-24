@@ -111,7 +111,7 @@ List of mods:<br>
  SuperLandmine  1.1.3<br>
  Surfaced  1.5.5<br>
  GeneralImprovements  1.4.11<br>
- WeedKillerFixes  1.1.1<br>
+ WeedKillerFixes  1.1.2<br>
  BarberFixes  1.3.0<br>
  LifetimeCruiserWarranty  1.4.0<br>
  UnityMDK  1.3.0<br>

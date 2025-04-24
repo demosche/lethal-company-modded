@@ -2514,7 +2514,7 @@
     minor: 5
     patch: 5
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\SurfacedTeam-Surfaced\1.5.5\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\SurfacedTeam-Surfaced\icon.png
 - manifestVersion: 1
   name: ShaosilGaming-GeneralImprovements
   authorName: ShaosilGaming
@@ -2548,7 +2548,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1739689772266
+  installedAtTime: 1745464252617
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -2557,9 +2557,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 1
+    patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-WeedKillerFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-WeedKillerFixes\1.1.2\icon.png
 - manifestVersion: 1
   name: ButteryStancakes-BarberFixes
   authorName: ButteryStancakes

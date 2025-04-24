@@ -1,6 +1,6 @@
 {
     "name": "WeedKillerFixes",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
 	"website_url": "https://github.com/ButteryStancakes/WeedKillerFixes",
     "description": "Fixes several gamebreaking issues with weed killer.",
     "dependencies": [
