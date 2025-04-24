@@ -1704,7 +1704,7 @@
     minor: 1
     patch: 21
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Sconeys-Gnomes\2.1.21\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Sconeys-Gnomes\icon.png
 - manifestVersion: 1
   name: KawaiiBone-Remnants
   authorName: KawaiiBone
@@ -1834,7 +1834,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1739014648906
+  installedAtTime: 1745464076633
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -1843,9 +1843,9 @@
   versionNumber:
     major: 1
     minor: 4
-    patch: 0
+    patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\ButteryStancakes-MeleeFixes\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\ButteryStancakes-MeleeFixes\1.4.1\icon.png
 - manifestVersion: 1
   name: Ozone-Runtime_Netcode_Patcher
   authorName: Ozone

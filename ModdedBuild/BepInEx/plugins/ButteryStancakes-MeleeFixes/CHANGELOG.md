@@ -1,3 +1,5 @@
+# v1.4.1
+- [Lobby Compatibility](https://thunderstore.io/c/lethal-company/p/BMX/LobbyCompatibility/) integration
 # v1.4.0
 - Ported over some shotgun fixes from [Buttery Fixes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/ButteryFixes/)
 # v1.3.1

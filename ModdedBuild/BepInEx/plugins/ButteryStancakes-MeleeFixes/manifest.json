@@ -1,6 +1,6 @@
 {
     "name": "MeleeFixes",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
 	"website_url": "https://github.com/ButteryStancakes/MeleeFixes",
     "description": "Fixes several gamebreaking bugs with shovels and knives.",
     "dependencies": [
