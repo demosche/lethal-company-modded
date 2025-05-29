@@ -2,7 +2,7 @@
   "namespace": "mrov",
   "name": "MrovLib",
   "description": "Common methods for my mods.",
-  "version_number": "0.2.26",
+  "version_number": "0.2.27",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ],
