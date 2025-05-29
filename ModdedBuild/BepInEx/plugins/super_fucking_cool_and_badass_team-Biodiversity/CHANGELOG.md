@@ -1,3 +1,35 @@
+## Version 0.2.1. - THE NOT WAX SOLDIER UPDATE
+
+#### Boom bird:
+
+- Made them able to be killed by Earth Leviathans.
+- Made it so they can get hurt by all damage sources.
+- Added flight animation for when the ship takes off.
+- Added a fallback for when Boom birds become stuck upon spawning (they will now despawn after 2 seconds with an animation).
+- Added sounds to the ship light malfunctions.
+- Optimized a shit ton of code. 
+
+##### Coil-crab:
+
+- Changed scan node to "Coil-Crab"
+- Made it so they're targettable by Old birds.
+- Made it so they're killable by Earth Leviathans.
+
+#### Ogopogo:
+
+- Added an extra check for if the player is inside.
+
+#### Aloe:
+
+- Fixed whack ass footstep bug with the Aloe.
+- Made it so player ragdolls don't trigger landmines when being carried by the Aloe.
+- Made some slight performance improvements to its code.
+
+#### Misc:
+
+- Fixed Nethersome duck weight bug.
+- Made all items compatible with Runtime Icons.
+
 ## Version 0.2.0. - THE NOT WAX SOLDIER UPDATE
 
 # WE ARE OFFICIAL OUT OF THE PUBLIC BETA TEST PHASE! FEEL FREE TO RESET YOUR CONFIGS AS THERE HAVE BEEN A TON OF BALANCE CHANGES SINCE 0.1.3.! WE APPRECIATE YOUR PATIENCE, AND WE HOPE YOU ENJOY THIS UPDATE.

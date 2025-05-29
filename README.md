@@ -143,7 +143,7 @@ List of mods:<br>
  Diversity  3.0.2<br>
  AutoScroll  0.0.1<br>
  MoreCompany  1.11.0<br>
- Biodiversity  0.2.0<br>
+ Biodiversity  0.2.1<br>
  OpenBodyCams  3.0.5<br>
  OpenLib  0.3.2<br>
  SpiderPositionFix  1.5.1<br>

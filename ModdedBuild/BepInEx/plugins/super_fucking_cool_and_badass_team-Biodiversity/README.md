@@ -109,8 +109,7 @@ We have big plans for the future, here's a rough outline of what's to come!
 - More environmental interactions.
 - Unique spawn mechanics. 
 <br>
-<br>
-# Credits 
+# Credits
 ### Here's all of the wonderful people who helped make this possible!
 
 ## bio-monty:
@@ -145,7 +144,7 @@ Twitter: https://x.com/lordham6
 
 ## Zipka:
 Modeller and animation extraordinare. <br> <br> Support him down below! <br>
-Twitter: https://x.com/_Zipka_?s=09 <br>
+Twitter: https://x.com/Zipka_3D <br>
 Boosty: https://boosty.to/zipka3d
 
 ## Mist:
@@ -202,9 +201,15 @@ Twitter: https://x.com/KryingKraken
 ### D4N9 & Zipka
 
 #### Russian Translation (OUT NOW!) <br>
-His Git-hub: https://github.com/D4N9-Twitch <br>
+D4N9's Git-hub: https://github.com/D4N9-Twitch <br>
 
 ## Mooners - People who have made their moons compatible with our Ogopogo entity!
+
+### Vodka:
+Support for Ogopogo on altMoon's Phaedra. <br><br>
+Check out their moon pack and their other stuff! <br>
+Youtube: https://www.youtube.com/@vodkacorn <br>
+altMoons: https://thunderstore.io/c/lethal-company/p/vodkacorn/altMoons/
 
 ### GenericGMD:
 Support for Ogopogo on Generic Moons v5 onward. <br><br>
@@ -220,11 +225,10 @@ Twitch: https://www.twitch.tv/nikkidarkmatter <br>
 LC Thunderstore: https://thunderstore.io/c/lethal-company/p/Nikki/ <br>
 REPO Thunderstore: https://thunderstore.io/c/repo/p/Nikki/ <br>
 
-### Vodka:
-Support for Ogopogo on altMoon's Phaedra. <br><br>
-Check out their moon pack and their other stuff! <br>
-Youtube: https://www.youtube.com/@vodkacorn <br>
-altMoons: https://thunderstore.io/c/lethal-company/p/vodkacorn/altMoons/
+### Sniper1.1:
+Support for Ogopogo on a bunch of his moons from his pack. <br><br>
+Make sure to try his moons and other mods! <br>
+Sniper's Moons: https://thunderstore.io/c/lethal-company/p/Sniper1_1/Snipers_Moons/ <br>
 
 ### Wesley:
 Support for Ogopogo on a fuck load of his moons. <br><br>
@@ -232,7 +236,7 @@ Check out his amazing work on both Lethal Company and REPO! <br>
 LC Thunderstore: https://thunderstore.io/c/lethal-company/p/Magic_Wesley/ <br>
 REPO Thunderstore: https://thunderstore.io/c/repo/p/Magic_Wesley/ <br>
 
-### TheWildSkeelah
+### TheWildSkeelah:
 Support for Ogopogo on Kanie. <br><br>
 Be sure to take a look at his moons! <br>
 Skelaah's Wild Moons: https://thunderstore.io/c/lethal-company/p/TheWildSkelaah/SkelaahsWildMoons/ <br>
@@ -260,5 +264,5 @@ Siphonife - For helping me and a ton of our team members figure out our tools, t
 # Known Issues - Whoops :3 <br>
 
 There are some problems with our entities that we'll look into fixing in the future, like:
-- Ogopogo is NOT supported on moons other than the ones in the default spawn rarity config. If you make him spawn there he'll be in places he's not supposed to be.
-- Upon snatching a player (Aloe's mechanic), a duplicate of their head (which is actually the visor HUD element) appears in front of the player's camera. I think... maybe, idk ;P
+- Ogopogo is NOT supported on moons other than the ones in the default spawn rarity config. If you make him spawn anywhere it's not supposed to it'll be in places it's not supposed to be.
+- Upon snatching a player (Aloe's mechanic), a duplicate of their head (which is actually the visor HUD element)and an extra ragdoll appear in front of the player's camera.
