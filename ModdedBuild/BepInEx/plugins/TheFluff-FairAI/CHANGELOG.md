@@ -1,3 +1,12 @@
+#1.4.9
+Seemingly fixed the grabbing of assets being updated too often and causing lag.
+
+#1.4.8
+Hopefully fixed laggy bug from config option
+
+#1.4.7
+Added new config option to make it so you can choose whether immortal enemies will set off traps and turrets.
+
 #1.4.6
 Added new config option to make turrets able to shoot each other. No this is not targeting of other turrets. Let the chaos begin.
 
