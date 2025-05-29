@@ -1442,7 +1442,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\YaBoiDucki-men_stalker\3.0.2\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\YaBoiDucki-men_stalker\icon.png
 - manifestVersion: 1
   name: Evaisa-FixPluginTypesSerialization
   authorName: Evaisa
@@ -1595,17 +1595,17 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1748518832864
   loaders: []
   dependencies: []
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
-    major: 2022
-    minor: 11
-    patch: 9
+    major: 2024
+    minor: 2
+    patch: 2700
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\Lordfirespeed-OdinSerializer\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Lordfirespeed-OdinSerializer\2024.2.2700\icon.png
 - manifestVersion: 1
   name: Alice-ScarletDevilMansion
   authorName: Alice

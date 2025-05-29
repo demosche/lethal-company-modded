@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/OdinSerializerLogo.png" alt="Odin Serializer">
+    <img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/OdinSerializerLogo.png" alt="Odin Serializer">
 </p>
 <h3 align="center" style="text-align:center;">
 	Fast, robust, powerful and extendible .NET serializer built for Unity
@@ -12,19 +12,19 @@
 <hr>
 <p align="center">	
 	<a href="https://twitter.com/TeamSirenix">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/BtnTwitter.png" alt="Sirenix Twitter">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/BtnTwitter.png" alt="Sirenix Twitter">
 	</a>
 	<a href="https://discord.gg/AgDmStu">
 		<img src="https://discordapp.com/api/guilds/355444042009673728/embed.png" alt="Discord server">
 	</a>
 	<a href="https://odininspector.com/">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/BtnOdinInspector.png" alt="Inspect all data with Odin Serializer">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/BtnOdinInspector.png" alt="Inspect all data with Odin Serializer">
 	</a>
 	<a href="https://odininspector.com/download">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/BtnDownload.png" alt="Download">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/BtnDownload.png" alt="Download">
 	</a>
 	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YFY8ZF347Z2PN">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/BtnDonate.png" alt="Donate">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/BtnDonate.png" alt="Donate">
 	</a>	
 </p>
 <hr>
@@ -34,13 +34,13 @@
 
 <p align="center">	
 	<a href="http://www.devdog.io" target="_blank">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/DevdogLogo.png" alt="DevDog">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/DevdogLogo.png" alt="DevDog">
 	</a>
 	<a href="https://assetstore.unity.com/publishers/735" target="_blank">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/ParadoxNotionLogo.png" alt="ParadoxNotion">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/ParadoxNotionLogo.png" alt="ParadoxNotion">
 	</a>
 	<a href="https://assetstore.unity.com/publishers/11548" target="_blank">
-		<img src="https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/LudiqLogo.png" alt="Ludiq">
+		<img src="https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/LudiqLogo.png" alt="Ludiq">
 	</a>
 </p>
 <hr>
@@ -76,14 +76,14 @@ The performance graphs in this section are profiled with OdinSerializer's binary
 |Supports .NET callback attributes      |:heavy_check_mark:|:x:               |:x:               |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
 
 #### Serialization of a simple object with no polymorphism
-![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/SimpleObjectSerializationBenchmark.png)
+![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/SimpleObjectSerializationBenchmark.png)
 #### Serialization of a complex object with lots of polymorphism
 ##### *Unity JsonUtility has been excluded from this benchmark because it supports neither polymorphism or dictionaries
-![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/ComplexObjectSerializationBenchmark.png)
+![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/ComplexObjectSerializationBenchmark.png)
 #### Serialization of various large arrays and lists
-![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/HugeArraysSerializationBenchmark.png)
+![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/HugeArraysSerializationBenchmark.png)
 #### Garbage allocation of the 3 tests above
-![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/8d9fc0bca118d9c6f927ee2fb23330138a99cbf2/Images/GarbageCollectionSerializationBenchmark.png)
+![Benchmark](https://github.com/TeamSirenix/odin-serializer/raw/3d90af7a3b945e8f6a0e853632d5ede460f39f1e/Images/GarbageCollectionSerializationBenchmark.png)
 
 ## How to get started
 

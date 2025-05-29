@@ -70,7 +70,7 @@ List of mods:<br>
  PoolRooms  0.1.23<br>
  EnemySoundFixes  1.7.0<br>
  CullFactory  1.7.0<br>
- OdinSerializer  2022.11.9<br>
+ OdinSerializer  2024.2.2700<br>
  ScarletDevilMansion  2.3.1<br>
  ShockwaveDroneEnemy  0.6.3<br>
  AutomaticInventoryFixPlugin  2.0.0<br>
