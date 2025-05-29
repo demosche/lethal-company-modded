@@ -106,7 +106,7 @@ List of mods:<br>
  Forest_Giant_Motionsense  1.0.3<br>
  ToilHead  1.7.2<br>
  CruiserImproved  1.5.0<br>
- BetterVehicleControls  1.1.3<br>
+ BetterVehicleControls  1.1.4<br>
  CruiserMap  1.0.5<br>
  SuperLandmine  1.1.3<br>
  Surfaced  1.5.5<br>
