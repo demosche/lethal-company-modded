@@ -204,3 +204,16 @@ I also would like to thank the writers of the lethal company modding's wiki, and
         Stalking sequence, each seconds where the MS has lost it's target, increases the stalking sequence's duration by; from 3.0s -> to 1.5s : Direct consequence of ---, before this said change was implemented, this mechanic acted as the "reward" for losing it, but the reward had poor gameplay feedback on the player due to it being too subtle, so now in theory this mechanic is obsolete. That being said, we will still keep it, although the effect are greatly mitigated.
 
         The general trend of this patch being : When MS is setting up for an attack, it's more likely to attack and it's more impactful, but evading it will lead to an abruptly long pause, long enough to be noticeable, which should make it worthy to attempt at losing it (instead of just sitting down and giving up), on top of being more obvious in how to deal with the MS.
+
+- v3.0.0
+         
+        New Model : Higher poly count (12k vs 7k), but is much cleaner and allows for much smoother animation
+        
+        New animation : Improved animation, much smoother and a more organic movement
+
+        Bug fixes : Now plays a walking-backward animation when the MS is retreating during its stalk phase.
+
+
+- v3.0.1
+         
+        Modified the texture : much darker shade + details overalls. Used to have a glaring issue with bright model color.
