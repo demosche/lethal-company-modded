@@ -4,7 +4,7 @@ This mod makes the Coil Head slowly turn its head to stare at you after standing
 
 *You are looking right at it. It shouldn't be able to move, right? Slowly, its head begins to turn towards you, menacingly. Mocking you. It knows you can't escape.*
 
-This is a client-mod, anyone who has it installed will see the Coil Head stare at the closest player.
+This is a client-side mod, anyone who has it installed will see the Coil Head stare at the closest player.
 
 Values like the speed at which the head turns are tweakable in the config file.
 
@@ -23,7 +23,7 @@ But even if the head doesn't turn, hitting it with a shovel for the recoil anima
 
 &nbsp;
 
-To modders: If you want to make your reskin work with CoilHeadStare:
+To modders: If you want to guarantee your reskin to work with CoilHeadStare, set it up like the default coilhead:
 - Make sure to have the head and body mesh seperate, and have the head as a child transform of "springBone.002".
 - The transform hierarchy does not have to be the exact same as the default Coil Head, but this mod does a recursive search for a transform with the name "springBone.002", and its last child is expected to be the head.
 - If there are multiple "springBone.002", perhaps because the original hierarchy is not deleted, the last one the recursive search finds is used.

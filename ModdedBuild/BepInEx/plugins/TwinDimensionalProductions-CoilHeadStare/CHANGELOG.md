@@ -1,4 +1,9 @@
+## 1.1.0
+coilhead no longer tries to stare at player after dying when its model has not been destroyed
+
 ## 1.0.9
+fixed error caused when any enemy other than coil head was hit by player
+
 improved head bonk error catching and logging
 
 ## 1.0.8
