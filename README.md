@@ -14,7 +14,7 @@ List of mods:<br>
  TerminalApi  1.5.5<br>
  Coroner  2.2.0<br>
  HookGenPatcher  0.0.5<br>
- LethalLib  1.0.1<br>
+ LethalLib  1.0.3<br>
  OuijaBoard  1.5.3<br>
  HealthStation  1.0.1<br>
  BetterTeleporter  1.2.2<br>
