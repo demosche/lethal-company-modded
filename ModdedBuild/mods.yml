@@ -2377,8 +2377,8 @@
     major: 1
     minor: 0
     patch: 3
-  enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\TanmanG-Forest_Giant_Motionsense\icon.png
+  enabled: false
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\TanmanG-Forest_Giant_Motionsense\1.0.3\icon.png
 - manifestVersion: 1
   name: Zehs-ToilHead
   authorName: Zehs
@@ -3292,7 +3292,7 @@
     minor: 2
     patch: 1
   enabled: true
-  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\super_fucking_cool_and_badass_team-Biodiversity\0.2.1\icon.png
+  icon: C:\Users\misan\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\ModdedBuild\BepInEx\plugins\super_fucking_cool_and_badass_team-Biodiversity\icon.png
 - manifestVersion: 1
   name: Zaggy1024-OpenBodyCams
   authorName: Zaggy1024
